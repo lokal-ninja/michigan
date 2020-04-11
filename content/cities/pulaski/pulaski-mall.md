@@ -1,4 +1,4 @@
 ---
 title: "Pulaski Mall"
-url: //pulaski-mall/
+url: /pulaski/pulaski-mall/
 ---
