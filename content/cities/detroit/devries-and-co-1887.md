@@ -1,0 +1,4 @@
+---
+title: "DeVries & Co 1887"
+url: /detroit/devries-and-co-1887/
+---
