@@ -1,12 +1,12 @@
-id: 320843525
-type: way
-shop: supermarket
-latitude: 43.3975674
-longitude: -84.66298570000001
+id: 8017892818
+type: node
+shop: convenience
+latitude: 43.399014
+longitude: -84.6658886
 postcode: "48801"
 city: Alma
-street: "West Cheesman Road"
-housenumber: 2805
-phone: "+1-989-576-6100"
-opening_hours: "00:00-24:00; Dec 24,25,26 off"
-website: "https://www.meijer.com/atstores/main.jsp?storeNumber"
+street: "North Alger Road"
+housenumber: 7420
+phone: ""
+opening_hours: ""
+website: ""

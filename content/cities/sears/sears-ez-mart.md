@@ -1,0 +1,4 @@
+---
+title: "Sears EZ Mart"
+url: /sears/sears-ez-mart/
+---

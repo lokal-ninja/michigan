@@ -1,6 +1,6 @@
 ---
 title: Grawn
 url: /grawn/
-latitude: 44.662501500000005
-longitude: -85.6936867
+latitude: 44.6605785
+longitude: -85.69287130000001
 ---

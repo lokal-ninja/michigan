@@ -1,4 +1,4 @@
 ---
-title: "Brother's Jewelry"
+title: "Brothers Jewelry"
 url: /southgate/brothers-jewelry/
 ---
