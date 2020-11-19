@@ -1,12 +1,12 @@
-id: 683978470
-type: way
-shop: supermarket
-latitude: 42.9943928
-longitude: -83.6312795
+id: 8132984977
+type: node
+shop: convenience
+latitude: 42.992324800000006
+longitude: -83.6330353
 postcode: "48519"
 city: Burton
 street: "South Center Road"
 housenumber: 2333
-phone: "+1-810-744-4000"
+phone: ""
 opening_hours: ""
 website: ""
