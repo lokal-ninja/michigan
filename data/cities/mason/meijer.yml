@@ -1,12 +1,12 @@
-id: 303796144
-type: way
-shop: supermarket
-latitude: 42.566372
-longitude: -84.4454529
+id: 8258163225
+type: node
+shop: convenience
+latitude: 42.567051
+longitude: -84.4438818
 postcode: "48854"
 city: Mason
 street: "Hull Road"
 housenumber: 500
-phone: "+1 517-244-1900"
+phone: ""
 opening_hours: ""
 website: ""

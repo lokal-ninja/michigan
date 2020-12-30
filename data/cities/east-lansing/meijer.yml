@@ -1,12 +1,12 @@
-id: 42564361
-type: way
-shop: supermarket
-latitude: 42.7636173
-longitude: -84.5013653
+id: 8258854465
+type: node
+shop: convenience
+latitude: 42.771564600000005
+longitude: -84.4186342
 postcode: "48823"
 city: East Lansing
-street: "West Lake Lansing Road"
-housenumber: 1350
-phone: "+1-517-332-2444"
-opening_hours: "00:00-24:00; Dec 24-26 off"
-website: "https://www.meijer.com/atstores/main.jsp?storeNumber"
+street: "East Saginaw Street"
+housenumber: 7149
+phone: ""
+opening_hours: ""
+website: ""

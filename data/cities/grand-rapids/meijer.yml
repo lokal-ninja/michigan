@@ -1,12 +1,12 @@
-id: 225054544
-type: way
-shop: supermarket
-latitude: 42.911328600000004
-longitude: -85.6298958
-postcode: "49508"
+id: 8196720590
+type: node
+shop: convenience
+latitude: 43.0182677
+longitude: -85.7237475
+postcode: "49544"
 city: Grand Rapids
-street: "28th Street Southeast"
-housenumber: 1540
-phone: "+1-616-452-9651"
+street: "Walker Avenue Northwest"
+housenumber: 2988
+phone: ""
 opening_hours: ""
 website: ""

@@ -1,12 +1,12 @@
-id: 348390284
-type: way
-shop: supermarket
-latitude: 42.997416900000005
-longitude: -85.5951239
-postcode: "49525"
+id: 8218263037
+type: node
+shop: convenience
+latitude: 43.0314824
+longitude: -85.62911910000001
+postcode: "49505"
 city: Grand Rapids
-street: "East Beltline Avenue Northeast"
-housenumber: 1997
-phone: "+1-616-447-1500"
+street: "Plainfield Avenue Northeast"
+housenumber: 3757
+phone: ""
 opening_hours: ""
 website: ""

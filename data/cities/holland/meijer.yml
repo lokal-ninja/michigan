@@ -1,12 +1,12 @@
-id: 242254593
-type: way
-shop: supermarket
-latitude: 42.7817091
-longitude: -86.0743561
+id: 8238966542
+type: node
+shop: convenience
+latitude: 42.782716
+longitude: -86.07689780000001
 postcode: "49423"
 city: Holland
 street: "East 16th Street"
 housenumber: 746
-phone: "+1-616-396-7221"
+phone: ""
 opening_hours: ""
 website: ""

@@ -1,12 +1,12 @@
-id: 269620411
-type: way
-shop: supermarket
-latitude: 42.916654
-longitude: -85.5331836
-postcode: "49512"
+id: 8218259592
+type: node
+shop: convenience
+latitude: 42.997029700000006
+longitude: -85.5914616
+postcode: "49525"
 city: Grand Rapids
-street: "28th Street Southeast"
-housenumber: 5531
-phone: "+1-616-949-7200"
+street: "East Beltline Avenue Northeast"
+housenumber: 1999
+phone: ""
 opening_hours: ""
-website: "https://www.meijer.com/"
+website: ""

@@ -1,12 +1,12 @@
-id: 42416011
-type: way
-shop: supermarket
-latitude: 42.739632500000006
-longitude: -84.6248264
+id: 8256333605
+type: node
+shop: convenience
+latitude: 42.7404074
+longitude: -84.6247163
 postcode: "48917"
 city: Lansing
 street: "West Saginaw Highway"
-housenumber: 5125
-phone: "+1-517-321-1302"
-opening_hours: "24/7"
-website: "https://www.meijer.com/shop/en/store/23"
+housenumber: 5307
+phone: ""
+opening_hours: ""
+website: ""

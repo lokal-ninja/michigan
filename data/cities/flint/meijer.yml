@@ -1,12 +1,12 @@
-id: 684819210
-type: way
-shop: supermarket
-latitude: 42.9472041
-longitude: -83.73013540000001
+id: 8173862608
+type: node
+shop: convenience
+latitude: 42.944504
+longitude: -83.7275422
 postcode: "48507"
 city: Flint
-street: "Hill Road"
+street: "West Hill Road"
 housenumber: 2474
-phone: "+1-810-235-2700"
+phone: ""
 opening_hours: ""
 website: ""

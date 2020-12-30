@@ -1,12 +1,12 @@
-id: 628377358
-type: way
-shop: supermarket
-latitude: 42.9454976
-longitude: -85.0787916
+id: 8181634034
+type: node
+shop: convenience
+latitude: 42.948109200000005
+longitude: -85.07571970000001
 postcode: "48846"
 city: Ionia
 street: "South State Road"
-housenumber: 2770
-phone: "+1-616-527-9200"
+housenumber: 2750
+phone: ""
 opening_hours: "24/7"
 website: ""

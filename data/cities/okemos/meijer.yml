@@ -1,12 +1,12 @@
-id: 514933345
-type: way
-shop: supermarket
-latitude: 42.7184449
-longitude: -84.4256428
+id: 8258320745
+type: node
+shop: convenience
+latitude: 42.720455900000005
+longitude: -84.4216262
 postcode: "48864"
 city: Okemos
-street: "East Grand River Avenue"
+street: "West Grand River Avenue"
 housenumber: 2055
-phone: "+1-517-349-6800"
-opening_hours: "00:00-24:00; Dec 24-26 off"
-website: "https://www.meijer.com/atstores/main.jsp?storeNumber"
+phone: ""
+opening_hours: ""
+website: ""
