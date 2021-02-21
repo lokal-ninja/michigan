@@ -1,12 +1,11 @@
-id: 621772744
-type: way
-shop: supermarket
-latitude: 42.248203700000005
-longitude: -83.5757469
-postcode: ""
+id: 2040308610
+type: node
+latitude: 42.242782000000005
+longitude: -83.6819713
+postcode: "48197"
 city: Ypsilanti
-street: "East Michigan Avenue"
-housenumber: 1771
-phone: "+1 734-482-5615"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.kroger.com/stores/details/018/00520"
+street: "Carpenter Road"
+housenumber: 3200
+phone: ""
+opening_hours: ""
+website: ""

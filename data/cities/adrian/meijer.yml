@@ -1,12 +1,11 @@
-id: 427306139
-type: way
-shop: supermarket
-latitude: 41.877308500000005
-longitude: -84.0367561
+id: 4640330068
+type: node
+latitude: 41.875598200000006
+longitude: -84.03405810000001
 postcode: "49221"
 city: Adrian
-street: "US 223"
+street: "East US 223"
 housenumber: 217
-phone: "+1-517-265-7820"
-opening_hours: "24/7"
-website: "https://www.meijer.com/atstores/main.jsp?storeNumber=45"
+phone: ""
+opening_hours: ""
+website: ""

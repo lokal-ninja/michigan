@@ -1,12 +1,11 @@
-id: 259490280
-type: way
-shop: supermarket
-latitude: 42.2435725
-longitude: -85.58772570000001
-postcode: "49002"
+id: 8359146940
+type: node
+latitude: 42.186529300000004
+longitude: -85.6042805
+postcode: "49024"
 city: Portage
-street: "South Westnedge Avenue"
-housenumber: 5121
-phone: "+1-269-381-3465"
-opening_hours: "open; Dec 25 off"
-website: "https://www.meijer.com/"
+street: "Shaver Road"
+housenumber: 8994
+phone: ""
+opening_hours: ""
+website: ""

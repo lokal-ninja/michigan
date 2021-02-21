@@ -1,4 +1,5 @@
 ---
 title: "Canadian Lakes Gas"
 url: /stanwood/canadian-lakes-gas/
+shop: convenience
 ---

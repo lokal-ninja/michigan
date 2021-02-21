@@ -1,6 +1,5 @@
 id: 8195369642
 type: node
-shop: convenience
 latitude: 43.298841100000004
 longitude: -85.6209706
 postcode: "49343"
@@ -8,5 +7,5 @@ city: Sand Lake
 street: "Cypress Avenue"
 housenumber: 14150
 phone: "+1 616 636 5539"
-opening_hours: "Mo-Th 05:00–21:00 ;Fr 05:00–22:00; Sa 07:00–22:00; Su 07:00–21:00"
+opening_hours: "Mo-Th 05:00-21:00; Fr 05:00-22:00; Sa 07:00-22:00; Su 07:00-21:00"
 website: "https://hometownsstore.com/hometown-express"

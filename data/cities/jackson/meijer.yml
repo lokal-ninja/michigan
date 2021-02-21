@@ -1,12 +1,11 @@
-id: 90970663
-type: way
-shop: supermarket
-latitude: 42.254088
-longitude: -84.3602431
+id: 8326262324
+type: node
+latitude: 42.271705100000005
+longitude: -84.45201700000001
 postcode: "49202"
 city: Jackson
-street: "East Michigan Avenue"
-housenumber: 3333
-phone: "+1-517-787-8722"
+street: "Airport Road"
+housenumber: 2777
+phone: ""
 opening_hours: ""
 website: ""

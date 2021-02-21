@@ -1,12 +1,11 @@
-id: 628597430
-type: way
-shop: supermarket
-latitude: 41.7858372
-longitude: -85.4238346
+id: 8400658933
+type: node
+latitude: 41.787012000000004
+longitude: -85.42742770000001
 postcode: "49091"
 city: Sturgis
-street: "West South Street"
-housenumber: 408
-phone: "+1-269-319-4000"
-opening_hours: "open; Dec 25 closed"
-website: "https://www.meijer.com/atstores/main.jsp?storeNumber=291"
+street: "South Centerville Road"
+housenumber: 1174
+phone: ""
+opening_hours: ""
+website: ""

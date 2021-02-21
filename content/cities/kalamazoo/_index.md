@@ -1,6 +1,6 @@
 ---
 title: Kalamazoo
 url: /kalamazoo/
-latitude: 42.2494968
-longitude: -85.5372797
+latitude: 42.291707
+longitude: -85.5872286
 ---

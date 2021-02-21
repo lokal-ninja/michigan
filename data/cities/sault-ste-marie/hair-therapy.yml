@@ -1,6 +1,5 @@
 id: 8034435423
 type: node
-shop: hairdresser
 latitude: 46.4914423
 longitude: -84.33825130000001
 postcode: ""
@@ -8,5 +7,5 @@ city: Sault Ste. Marie
 street: "East Easterday Avenue"
 housenumber: 1130
 phone: ""
-opening_hours: "Mo-Fri 10:00-19:00, Sa 09:00-15:00"
+opening_hours: "Mo-Fr 10:00-19:00, Sa 09:00-15:00"
 website: ""

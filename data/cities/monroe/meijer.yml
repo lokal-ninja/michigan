@@ -1,12 +1,11 @@
-id: 220388686
-type: way
-shop: supermarket
-latitude: 41.9457734
-longitude: -83.3997035
-postcode: "48162"
+id: 8423790445
+type: node
+latitude: 41.9435717
+longitude: -83.40266030000001
+postcode: "48161"
 city: Monroe
 street: "Telegraph Road"
 housenumber: 1700
-phone: "+1-734-457-1900"
+phone: ""
 opening_hours: ""
 website: ""
