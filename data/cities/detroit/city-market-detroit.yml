@@ -7,5 +7,5 @@ city: Detroit
 street: "Brush Street"
 housenumber: 575
 phone: "+13132220000"
-opening_hours: "Mo-Sa 07:00-02:00; Su 07:00-00:00"
+opening_hours: "Mo-Sa 07:00-02:00; Su 07:00-24:00"
 website: "https://citymarketdetroit.com/"
