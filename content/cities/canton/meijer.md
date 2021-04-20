@@ -1,5 +1,5 @@
 ---
 title: "Meijer"
 url: /canton/meijer/
-shop: supermarket
+shop: convenience
 ---

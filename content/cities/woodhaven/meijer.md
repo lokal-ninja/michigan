@@ -1,5 +1,5 @@
 ---
 title: "Meijer"
 url: /woodhaven/meijer/
-shop: supermarket
+shop: convenience
 ---

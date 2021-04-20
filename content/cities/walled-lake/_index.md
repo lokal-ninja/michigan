@@ -1,6 +1,6 @@
 ---
-title: Walled lake
+title: Walled Lake
 url: /walled-lake/
-latitude: 
-longitude: 
+latitude: 42.537811000000005
+longitude: -83.48104810000001
 ---

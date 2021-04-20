@@ -1,5 +1,5 @@
 ---
 title: "Family Fare"
 url: /byron-center/family-fare/
-shop: convenience
+shop: supermarket
 ---
