@@ -1,5 +1,5 @@
 ---
 title: "Meijer"
 url: /brighton/meijer/
-shop: convenience
+shop: supermarket
 ---
