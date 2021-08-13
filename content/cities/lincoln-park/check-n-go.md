@@ -1,5 +1,5 @@
 ---
-title: "Check N' Go"
+title: "Check 'n Go"
 url: /lincoln-park/check-n-go/
 shop: pawnbroker
 ---
