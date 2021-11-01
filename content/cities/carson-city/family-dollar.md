@@ -1,5 +1,5 @@
 ---
 title: "Family Dollar"
 url: /carson-city/family-dollar/
-shop: general
+shop: variety store
 ---

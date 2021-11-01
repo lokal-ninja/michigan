@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
 url: /carson-city/dollar-general/
-shop: general
+shop: variety store
 ---

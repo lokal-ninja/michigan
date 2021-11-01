@@ -1,11 +1,11 @@
-id: 8793349421
-type: node
-latitude: 42.3932079
-longitude: -83.1224949
-postcode: "48238"
+id: 110681116
+type: way
+latitude: 42.3291181
+longitude: -83.0520467
+postcode: "48226"
 city: Detroit
-street: "West Davison Street"
-housenumber: 2600
-phone: "+1 313 865 2427"
-opening_hours: "24/7"
+street: "Fort Street West"
+housenumber: 460
+phone: "+1 734 231 6019"
+opening_hours: "Mo-Fr 06:00-18:00; Sa 06:00-14:00"
 website: ""
