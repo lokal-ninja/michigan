@@ -1,6 +1,6 @@
 ---
-title: thompsonville
+title: Thompsonville
 url: /thompsonville/
-latitude: 
-longitude: 
+latitude: 44.520279
+longitude: -85.943972
 ---

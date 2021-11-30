@@ -1,5 +1,5 @@
 ---
-title: "Fjallraven"
+title: "Fjällräven"
 url: /ann-arbor/fjallraven/
-shop: sports
+shop: outdoor
 ---
