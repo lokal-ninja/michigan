@@ -1,5 +1,5 @@
 ---
-title: "Aldi"
+title: "ALDI"
 url: /fort-gratiot/aldi/
 shop: supermarket
 ---
