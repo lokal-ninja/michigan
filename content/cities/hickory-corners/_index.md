@@ -1,6 +1,6 @@
 ---
 title: Hickory Corners
 url: /hickory-corners/
-latitude: 42.441426500000006
-longitude: -85.3755605
+latitude: 42.442
+longitude: -85.376
 ---

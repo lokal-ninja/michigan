@@ -1,6 +1,6 @@
 ---
 title: Otisville
 url: /otisville/
-latitude: 43.166137000000006
-longitude: -83.524398
+latitude: 43.182
+longitude: -83.521
 ---

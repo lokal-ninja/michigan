@@ -1,6 +1,6 @@
 ---
 title: Pinckney
 url: /pinckney/
-latitude: 42.456701300000006
-longitude: -83.94633590000001
+latitude: 42.462
+longitude: -83.831
 ---

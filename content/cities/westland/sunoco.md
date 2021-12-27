@@ -1,5 +1,5 @@
 ---
 title: "Sunoco"
 url: /westland/sunoco/
-shop: convenience
+shop: Lebensmittel
 ---

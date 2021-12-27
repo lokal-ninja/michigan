@@ -1,5 +1,5 @@
 ---
 title: "Valero"
 url: /roscommon/valero/
-shop: convenience
+shop: Lebensmittel
 ---

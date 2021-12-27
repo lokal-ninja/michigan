@@ -1,6 +1,6 @@
 ---
 title: Lake Odessa
 url: /lake-odessa/
-latitude: 42.7847564
-longitude: -85.13833670000001
+latitude: 42.783
+longitude: -85.138
 ---

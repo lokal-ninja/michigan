@@ -1,5 +1,5 @@
 ---
 title: "BoRics"
 url: /ferndale/borics/
-shop: hairdresser
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mobil Mart"
 url: /highland/mobil-mart-2/
-shop: convenience
+shop: Lebensmittel
 ---

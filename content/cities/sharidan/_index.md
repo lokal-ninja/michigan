@@ -1,6 +1,6 @@
 ---
 title: Sharidan
 url: /sharidan/
-latitude: 
-longitude: 
+latitude: 43.179
+longitude: -85.074
 ---

@@ -1,6 +1,6 @@
 ---
 title: Goetzville
 url: /goetzville/
-latitude: 46.0580748
-longitude: -84.0922377
+latitude: 46.139
+longitude: -84.092
 ---

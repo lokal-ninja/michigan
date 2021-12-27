@@ -1,5 +1,5 @@
 ---
 title: "Shear Concepts"
 url: /wayland/shear-concepts/
-shop: beauty
+shop: Kosmetik
 ---

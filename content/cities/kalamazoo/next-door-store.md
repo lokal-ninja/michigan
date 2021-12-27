@@ -1,5 +1,5 @@
 ---
 title: "Next Door Store"
 url: /kalamazoo/next-door-store/
-shop: convenience
+shop: Lebensmittel
 ---

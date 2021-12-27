@@ -1,6 +1,6 @@
 ---
 title: Millersburg
 url: /millersburg/
-latitude: 45.334456
-longitude: -84.06084
+latitude: 45.334
+longitude: -84.062
 ---

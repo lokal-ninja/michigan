@@ -1,6 +1,6 @@
 ---
 title: Woodland
 url: /woodland/
-latitude: 42.7267014
-longitude: -85.1336129
+latitude: 42.727
+longitude: -85.126
 ---

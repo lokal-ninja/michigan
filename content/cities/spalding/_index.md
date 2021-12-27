@@ -1,6 +1,6 @@
 ---
 title: Spalding
 url: /spalding/
-latitude: 45.695833
-longitude: -87.51043800000001
+latitude: 45.696
+longitude: -87.504
 ---

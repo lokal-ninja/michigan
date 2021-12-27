@@ -1,5 +1,5 @@
 ---
 title: "Sunoco"
 url: /clinton-township/sunoco/
-shop: convenience
+shop: Lebensmittel
 ---

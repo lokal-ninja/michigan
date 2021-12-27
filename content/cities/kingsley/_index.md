@@ -1,6 +1,6 @@
 ---
 title: Kingsley
 url: /kingsley/
-latitude: 44.584658000000005
-longitude: -85.53611500000001
+latitude: 44.584
+longitude: -85.656
 ---

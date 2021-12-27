@@ -1,6 +1,6 @@
 ---
 title: Bay Port
 url: /bay-port/
-latitude: 43.8494599
-longitude: -83.3732942
+latitude: 43.849
+longitude: -83.373
 ---

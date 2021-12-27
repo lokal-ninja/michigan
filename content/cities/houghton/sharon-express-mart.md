@@ -1,5 +1,5 @@
 ---
 title: "Sharon Express Mart"
 url: /houghton/sharon-express-mart/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,6 +1,6 @@
 ---
 title: Comins
 url: /comins/
-latitude: 44.805848700000006
-longitude: -84.05139170000001
+latitude: 44.804
+longitude: -84.051
 ---

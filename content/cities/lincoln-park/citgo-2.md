@@ -1,5 +1,5 @@
 ---
 title: "Citgo"
 url: /lincoln-park/citgo-2/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Pointe Liquor"
 url: /hazel-park/pointe-liquor/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Marathon"
 url: /flint/marathon-4/
-shop: convenience
+shop: Lebensmittel
 ---

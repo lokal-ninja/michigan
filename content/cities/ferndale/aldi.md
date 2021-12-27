@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
 url: /ferndale/aldi/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Orleans Petroleum"
 url: /orleans/orleans-petroleum/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /grand-blanc/shell/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,6 +1,6 @@
 ---
 title: Royal Oak
 url: /royal-oak/
-latitude: 42.4894801
-longitude: -83.1446485
+latitude: 42.487
+longitude: -83.144
 ---

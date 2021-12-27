@@ -1,6 +1,6 @@
 ---
 title: Bitely
 url: /bitely/
-latitude: 43.746959100000005
-longitude: -85.8617261
+latitude: 43.747
+longitude: -85.861
 ---

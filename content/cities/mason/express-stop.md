@@ -1,5 +1,5 @@
 ---
 title: "Express Stop"
 url: /mason/express-stop/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /farmington-hills/walgreens-2/
-shop: chemist
+shop: Drogerie
 ---

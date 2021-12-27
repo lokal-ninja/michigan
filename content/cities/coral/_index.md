@@ -1,6 +1,6 @@
 ---
 title: Coral
 url: /coral/
-latitude: 43.362806400000004
-longitude: -85.4028112
+latitude: 43.362
+longitude: -85.403
 ---

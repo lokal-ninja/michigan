@@ -1,5 +1,5 @@
 ---
 title: "Marathon"
 url: /muskegon/marathon/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,6 +1,6 @@
 ---
 title: Curran
 url: /curran/
-latitude: 44.714734
-longitude: -83.80776510000001
+latitude: 44.728
+longitude: -83.808
 ---

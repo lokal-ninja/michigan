@@ -1,5 +1,5 @@
 ---
 title: "Reems Mini Mart"
 url: /howell/reems-mini-mart/
-shop: convenience
+shop: Lebensmittel
 ---

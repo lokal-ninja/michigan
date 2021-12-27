@@ -1,6 +1,6 @@
 ---
 title: Powers
 url: /powers/
-latitude: 41.6780844
-longitude: -84.2491363
+latitude: 45.688
+longitude: -87.527
 ---

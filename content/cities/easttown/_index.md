@@ -1,6 +1,6 @@
 ---
 title: Easttown
 url: /easttown/
-latitude: 
-longitude: 
+latitude: 42.956
+longitude: -85.631
 ---

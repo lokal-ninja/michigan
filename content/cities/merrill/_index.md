@@ -1,6 +1,6 @@
 ---
 title: Merrill
 url: /merrill/
-latitude: 43.410101000000004
-longitude: -84.33105900000001
+latitude: 43.41
+longitude: -84.331
 ---

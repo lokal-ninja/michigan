@@ -1,5 +1,5 @@
 ---
 title: "Cornerstone"
 url: /perry/cornerstone/
-shop: convenience
+shop: Lebensmittel
 ---

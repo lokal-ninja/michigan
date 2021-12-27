@@ -1,5 +1,5 @@
 ---
 title: "Paxson Oil Company"
 url: /bay-city/paxson-oil-company/
-shop: convenience
+shop: Lebensmittel
 ---

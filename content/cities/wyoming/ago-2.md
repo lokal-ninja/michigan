@@ -1,5 +1,5 @@
 ---
 title: "AGO"
 url: /wyoming/ago-2/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sunoco"
 url: /burton/sunoco/
-shop: convenience
+shop: Lebensmittel
 ---

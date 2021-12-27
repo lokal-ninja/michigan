@@ -1,6 +1,6 @@
 ---
 title: Spruce
 url: /spruce/
-latitude: 44.8441787
-longitude: -83.4658074
+latitude: 44.845
+longitude: -83.407
 ---

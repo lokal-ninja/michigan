@@ -1,6 +1,6 @@
 ---
 title: Ottawa Lake
 url: /ottawa-lake/
-latitude: 
-longitude: 
+latitude: 41.747
+longitude: -83.696
 ---

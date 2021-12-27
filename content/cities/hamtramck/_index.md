@@ -1,6 +1,6 @@
 ---
 title: Hamtramck
 url: /hamtramck/
-latitude: 42.3928151
-longitude: -83.0496438
+latitude: 42.396
+longitude: -83.061
 ---

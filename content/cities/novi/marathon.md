@@ -1,5 +1,5 @@
 ---
 title: "Marathon"
 url: /novi/marathon/
-shop: convenience
+shop: Lebensmittel
 ---

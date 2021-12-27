@@ -1,6 +1,6 @@
 ---
 title: Petoskey
 url: /petoskey/
-latitude: 45.373343000000006
-longitude: -84.95533
+latitude: 45.374
+longitude: -84.957
 ---

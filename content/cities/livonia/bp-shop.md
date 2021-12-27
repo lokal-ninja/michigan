@@ -1,5 +1,5 @@
 ---
 title: "BP Shop"
 url: /livonia/bp-shop/
-shop: convenience
+shop: Lebensmittel
 ---

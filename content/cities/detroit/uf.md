@@ -1,5 +1,5 @@
 ---
 title: "UF"
 url: /detroit/uf/
-shop: convenience
+shop: Lebensmittel
 ---

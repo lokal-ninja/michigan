@@ -1,6 +1,6 @@
 ---
 title: Highland Park
 url: /highland-park/
-latitude: 43.051275000000004
-longitude: -86.24297700000001
+latitude: 42.41
+longitude: -83.101
 ---

@@ -1,5 +1,5 @@
 ---
 title: "CheckSmart"
 url: /southgate/checksmart/
-shop: pawnbroker
+shop: Leiher
 ---

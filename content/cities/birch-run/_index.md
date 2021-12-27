@@ -1,6 +1,6 @@
 ---
 title: Birch Run
 url: /birch-run/
-latitude: 43.250859000000005
-longitude: -83.79413100000001
+latitude: 43.249
+longitude: -83.781
 ---

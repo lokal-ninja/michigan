@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
 url: /flint/aldi/
-shop: supermarket
+shop: Supermarkt
 ---

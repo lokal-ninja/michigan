@@ -1,6 +1,6 @@
 ---
 title: Trufant
 url: /trufant/
-latitude: 43.313918400000006
-longitude: -85.3544742
+latitude: 43.312
+longitude: -85.353
 ---

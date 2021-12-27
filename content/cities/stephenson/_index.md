@@ -1,6 +1,6 @@
 ---
 title: Stephenson
 url: /stephenson/
-latitude: 45.415251000000005
-longitude: -87.60761600000001
+latitude: 45.406
+longitude: -87.61
 ---

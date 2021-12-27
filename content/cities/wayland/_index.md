@@ -1,6 +1,6 @@
 ---
 title: Wayland
 url: /wayland/
-latitude: 42.6745321
-longitude: -85.6457663
+latitude: 42.672
+longitude: -85.659
 ---

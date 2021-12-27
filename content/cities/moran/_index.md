@@ -1,6 +1,6 @@
 ---
 title: Moran
 url: /moran/
-latitude: 45.9941794
-longitude: -84.8308892
+latitude: 45.992
+longitude: -84.829
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Citgo"
 url: /romulus/citgo/
-shop: convenience
+shop: Lebensmittel
 ---

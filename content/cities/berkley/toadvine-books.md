@@ -1,5 +1,5 @@
 ---
 title: "Toadvine Books"
 url: /berkley/toadvine-books/
-shop: books
+shop: Bücher
 ---

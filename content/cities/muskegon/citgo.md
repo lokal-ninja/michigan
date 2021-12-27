@@ -1,5 +1,5 @@
 ---
 title: "Citgo"
 url: /muskegon/citgo/
-shop: convenience
+shop: Lebensmittel
 ---

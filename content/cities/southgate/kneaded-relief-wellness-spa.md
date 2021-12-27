@@ -1,5 +1,5 @@
 ---
 title: "Kneaded Relief Wellness Spa"
 url: /southgate/kneaded-relief-wellness-spa/
-shop: beauty
+shop: Kosmetik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Marathon"
 url: /ionia/marathon/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Marathon"
 url: /dewitt/marathon/
-shop: convenience
+shop: Lebensmittel
 ---

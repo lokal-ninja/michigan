@@ -1,5 +1,5 @@
 ---
 title: "The Strip Wax Bar"
 url: /wyandotte/the-strip-wax-bar/
-shop: beauty
+shop: Kosmetik
 ---

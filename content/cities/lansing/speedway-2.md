@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /lansing/speedway-2/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,6 +1,6 @@
 ---
 title: Coldwater
 url: /coldwater/
-latitude: 41.9403263
-longitude: -85.0005215
+latitude: 41.936
+longitude: -84.977
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Marathon"
 url: /inkster/marathon/
-shop: convenience
+shop: Lebensmittel
 ---

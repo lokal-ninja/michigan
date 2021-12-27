@@ -1,5 +1,5 @@
 ---
 title: "Wesco"
 url: /fruitport/wesco/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,6 +1,6 @@
 ---
 title: St. Clair Shores
 url: /st-clair-shores/
-latitude: 
-longitude: 
+latitude: 42.54
+longitude: -82.868
 ---

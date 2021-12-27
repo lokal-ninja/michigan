@@ -1,5 +1,5 @@
 ---
 title: "Meijer Gas Station"
 url: /lansing/meijer-gas-station/
-shop: convenience
+shop: Lebensmittel
 ---

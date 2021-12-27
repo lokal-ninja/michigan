@@ -1,5 +1,5 @@
 ---
 title: "Admiral"
 url: /monroe/admiral/
-shop: convenience
+shop: Lebensmittel
 ---

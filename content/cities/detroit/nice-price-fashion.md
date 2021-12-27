@@ -1,5 +1,5 @@
 ---
 title: "Nice Price Fashion"
 url: /detroit/nice-price-fashion/
-shop: clothes
+shop: Kleidung
 ---

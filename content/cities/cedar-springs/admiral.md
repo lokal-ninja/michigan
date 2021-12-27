@@ -1,5 +1,5 @@
 ---
 title: "Admiral"
 url: /cedar-springs/admiral/
-shop: convenience
+shop: Lebensmittel
 ---

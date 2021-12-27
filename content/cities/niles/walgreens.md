@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /niles/walgreens/
-shop: chemist
+shop: Drogerie
 ---

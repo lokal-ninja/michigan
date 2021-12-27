@@ -1,6 +1,6 @@
 ---
 title: Lovells
 url: /lovells/
-latitude: 44.8030695
-longitude: -84.48196510000001
+latitude: 44.806
+longitude: -84.48
 ---

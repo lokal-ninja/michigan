@@ -1,5 +1,5 @@
 ---
 title: "Petco"
 url: /livonia/petco/
-shop: pet
+shop: Tiere
 ---

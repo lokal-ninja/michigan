@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
 url: /dearborn/petsmart/
-shop: pet
+shop: Tiere
 ---

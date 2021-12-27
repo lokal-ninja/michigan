@@ -1,6 +1,6 @@
 ---
 title: McMillan
 url: /mcmillan/
-latitude: 46.338879500000004
-longitude: -85.687346
+latitude: 46.311
+longitude: -85.654
 ---

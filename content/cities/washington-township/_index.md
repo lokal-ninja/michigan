@@ -1,6 +1,6 @@
 ---
 title: Washington Township
 url: /washington-township/
-latitude: 42.7244759
-longitude: -83.0360419
+latitude: 42.802
+longitude: -83.004
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Natural Health Food Center"
 url: /kalamazoo-township/natural-health-food-center/
-shop: supermarket
+shop: Supermarkt
 ---

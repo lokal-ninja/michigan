@@ -1,5 +1,5 @@
 ---
 title: "Admiral"
 url: /allendale/admiral/
-shop: convenience
+shop: Lebensmittel
 ---

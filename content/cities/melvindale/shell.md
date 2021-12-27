@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /melvindale/shell/
-shop: convenience
+shop: Lebensmittel
 ---

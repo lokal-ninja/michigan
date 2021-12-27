@@ -1,5 +1,5 @@
 ---
 title: "Marathon"
 url: /river-rouge/marathon/
-shop: convenience
+shop: Lebensmittel
 ---

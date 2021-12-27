@@ -1,6 +1,6 @@
 ---
 title: Fruitport
 url: /fruitport/
-latitude: 43.13067
-longitude: -86.15468200000001
+latitude: 43.129
+longitude: -86.155
 ---

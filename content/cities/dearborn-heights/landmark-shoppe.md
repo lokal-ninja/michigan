@@ -1,5 +1,5 @@
 ---
 title: "Landmark Shoppe"
 url: /dearborn-heights/landmark-shoppe/
-shop: convenience
+shop: Lebensmittel
 ---

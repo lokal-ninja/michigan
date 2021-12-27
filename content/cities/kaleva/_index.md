@@ -1,6 +1,6 @@
 ---
 title: Kaleva
 url: /kaleva/
-latitude: 44.373337
-longitude: -86.01036
+latitude: 44.37
+longitude: -86.016
 ---

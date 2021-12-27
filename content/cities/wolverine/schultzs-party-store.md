@@ -1,5 +1,5 @@
 ---
 title: "Schultz's Party Store"
 url: /wolverine/schultzs-party-store/
-shop: convenience
+shop: Lebensmittel
 ---

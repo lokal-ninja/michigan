@@ -1,5 +1,5 @@
 ---
 title: "Wow!"
 url: /orion-township/wow/
-shop: convenience
+shop: Lebensmittel
 ---

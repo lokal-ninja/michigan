@@ -1,6 +1,6 @@
 ---
 title: Davison Township
 url: /davison-township/
-latitude: 
-longitude: 
+latitude: 43.051
+longitude: -83.518
 ---

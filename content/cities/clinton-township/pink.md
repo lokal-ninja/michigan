@@ -1,5 +1,5 @@
 ---
 title: "Pink"
 url: /clinton-township/pink/
-shop: clothes
+shop: Kleidung
 ---

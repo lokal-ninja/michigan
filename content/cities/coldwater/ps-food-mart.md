@@ -1,5 +1,5 @@
 ---
 title: "PS Food Mart"
 url: /coldwater/ps-food-mart/
-shop: convenience
+shop: Lebensmittel
 ---

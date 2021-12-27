@@ -1,5 +1,5 @@
 ---
 title: "Admiral"
 url: /coldwater/admiral/
-shop: convenience
+shop: Lebensmittel
 ---

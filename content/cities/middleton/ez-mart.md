@@ -1,5 +1,5 @@
 ---
 title: "EZ Mart"
 url: /middleton/ez-mart/
-shop: convenience
+shop: Lebensmittel
 ---

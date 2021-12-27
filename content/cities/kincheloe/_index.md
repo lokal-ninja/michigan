@@ -1,6 +1,6 @@
 ---
 title: Kincheloe
 url: /kincheloe/
-latitude: 46.259185
-longitude: -84.4673109
+latitude: 46.26
+longitude: -84.456
 ---

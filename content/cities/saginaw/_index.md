@@ -1,6 +1,6 @@
 ---
 title: Saginaw
 url: /saginaw/
-latitude: 43.4200387
-longitude: -83.9490365
+latitude: 43.437
+longitude: -84.004
 ---

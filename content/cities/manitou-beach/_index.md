@@ -1,6 +1,6 @@
 ---
 title: Manitou Beach
 url: /manitou-beach/
-latitude: 45.490846600000005
-longitude: -83.9327806
+latitude: 42.003
+longitude: -84.277
 ---

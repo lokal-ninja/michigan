@@ -1,5 +1,5 @@
 ---
 title: "Thompson Art Glass"
 url: /brighton/thompson-art-glass/
-shop: art
+shop: Kunst
 ---

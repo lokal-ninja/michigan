@@ -1,6 +1,6 @@
 ---
 title: Scottville
 url: /scottville/
-latitude: 43.954728
-longitude: -86.280079
+latitude: 43.954
+longitude: -86.269
 ---

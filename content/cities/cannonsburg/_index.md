@@ -1,6 +1,6 @@
 ---
 title: Cannonsburg
 url: /cannonsburg/
-latitude: 43.0539677
-longitude: -85.470028
+latitude: 43.054
+longitude: -85.471
 ---

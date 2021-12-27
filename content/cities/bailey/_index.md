@@ -1,6 +1,6 @@
 ---
 title: Bailey
 url: /bailey/
-latitude: 43.2777997
-longitude: -85.8103248
+latitude: 43.281
+longitude: -85.81
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Stempihar"
 url: /bessemer/stempihar/
-shop: convenience
+shop: Lebensmittel
 ---

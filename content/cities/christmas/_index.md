@@ -1,6 +1,6 @@
 ---
 title: Christmas
 url: /christmas/
-latitude: 46.4369236
-longitude: -86.7019125
+latitude: 46.438
+longitude: -86.709
 ---

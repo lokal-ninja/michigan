@@ -1,6 +1,6 @@
 ---
 title: Carleton
 url: /carleton/
-latitude: 42.0592101
-longitude: -83.39076580000001
+latitude: 42.009
+longitude: -83.352
 ---

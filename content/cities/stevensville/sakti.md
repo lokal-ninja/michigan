@@ -1,5 +1,5 @@
 ---
 title: "Sakti"
 url: /stevensville/sakti/
-shop: convenience
+shop: Lebensmittel
 ---

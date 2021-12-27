@@ -1,6 +1,6 @@
 ---
 title: Fowler
 url: /fowler/
-latitude: 43.001711300000004
-longitude: -84.7398622
+latitude: 43.002
+longitude: -84.738
 ---

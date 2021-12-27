@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
 url: /eastpointe/aldi/
-shop: supermarket
+shop: Supermarkt
 ---

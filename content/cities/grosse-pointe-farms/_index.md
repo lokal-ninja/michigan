@@ -1,6 +1,6 @@
 ---
 title: Grosse Pointe Farms
 url: /grosse-pointe-farms/
-latitude: 42.4092038
-longitude: -82.8918587
+latitude: 42.417
+longitude: -82.91
 ---

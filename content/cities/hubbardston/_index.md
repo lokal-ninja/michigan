@@ -1,6 +1,6 @@
 ---
 title: Hubbardston
 url: /hubbardston/
-latitude: 43.092255200000004
-longitude: -84.84222390000001
+latitude: 43.093
+longitude: -84.842
 ---

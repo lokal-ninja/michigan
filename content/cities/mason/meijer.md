@@ -1,5 +1,5 @@
 ---
 title: "Meijer"
 url: /mason/meijer/
-shop: convenience
+shop: Lebensmittel
 ---

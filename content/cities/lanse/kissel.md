@@ -1,5 +1,5 @@
 ---
 title: "Kissel"
 url: /lanse/kissel/
-shop: car
+shop: Autohaus
 ---

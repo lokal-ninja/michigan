@@ -1,6 +1,6 @@
 ---
 title: Romeo
 url: /romeo/
-latitude: 42.802808000000006
-longitude: -83.0129874
+latitude: 42.771
+longitude: -83.016
 ---

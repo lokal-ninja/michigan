@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
 url: /essexveille/kroger/
-shop: supermarket
+shop: Supermarkt
 ---

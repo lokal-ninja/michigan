@@ -1,5 +1,5 @@
 ---
 title: "Sunset Liquor"
 url: /shelby-township/sunset-liquor/
-shop: convenience
+shop: Lebensmittel
 ---

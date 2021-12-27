@@ -1,6 +1,6 @@
 ---
 title: Brimley
 url: /brimley/
-latitude: 46.4052986
-longitude: -84.5722724
+latitude: 46.411
+longitude: -84.573
 ---

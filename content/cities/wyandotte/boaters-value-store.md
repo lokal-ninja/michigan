@@ -1,5 +1,5 @@
 ---
 title: "Boaters Value Store"
 url: /wyandotte/boaters-value-store/
-shop: boat
+shop: Boot
 ---

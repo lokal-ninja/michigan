@@ -1,6 +1,6 @@
 ---
 title: East Tawas
 url: /east-tawas/
-latitude: 44.279461000000005
-longitude: -83.490252
+latitude: 44.264
+longitude: -83.439
 ---

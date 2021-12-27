@@ -1,6 +1,6 @@
 ---
 title: North Adams
 url: /north-adams/
-latitude: 41.9708795
-longitude: -84.525783
+latitude: 41.968
+longitude: -84.525
 ---

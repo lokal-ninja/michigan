@@ -1,5 +1,5 @@
 ---
 title: "Sunoco"
 url: /taylor/sunoco/
-shop: convenience
+shop: Lebensmittel
 ---

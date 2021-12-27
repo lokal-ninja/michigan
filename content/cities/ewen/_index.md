@@ -1,6 +1,6 @@
 ---
 title: Ewen
 url: /ewen/
-latitude: 46.535222000000005
-longitude: -89.28125560000001
+latitude: 46.535
+longitude: -89.283
 ---

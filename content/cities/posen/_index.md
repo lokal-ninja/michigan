@@ -1,6 +1,6 @@
 ---
 title: Posen
 url: /posen/
-latitude: 45.261957
-longitude: -83.69887800000001
+latitude: 45.266
+longitude: -83.699
 ---

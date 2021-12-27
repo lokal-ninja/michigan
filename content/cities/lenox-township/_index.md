@@ -1,6 +1,6 @@
 ---
 title: Lenox Township
 url: /lenox-township/
-latitude: 
-longitude: 
+latitude: 42.721
+longitude: -82.749
 ---

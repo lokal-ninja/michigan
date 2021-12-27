@@ -1,5 +1,5 @@
 ---
 title: "Penzeys Spices"
 url: /beverly-hills/penzeys-spices/
-shop: spices
+shop: Gewürze
 ---

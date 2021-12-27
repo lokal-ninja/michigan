@@ -1,5 +1,5 @@
 ---
 title: "Meijer"
 url: /fraser/meijer/
-shop: convenience
+shop: Lebensmittel
 ---

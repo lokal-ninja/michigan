@@ -1,5 +1,5 @@
 ---
 title: "Spirit Dreams"
 url: /grand-rapids/spirit-dreams/
-shop: gift
+shop: Andenken
 ---

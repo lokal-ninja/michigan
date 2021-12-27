@@ -1,6 +1,6 @@
 ---
 title: Shelby Charter Twp
 url: /shelby-charter-twp/
-latitude: 
-longitude: 
+latitude: 42.696
+longitude: -83.093
 ---

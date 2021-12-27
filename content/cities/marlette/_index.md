@@ -1,6 +1,6 @@
 ---
 title: Marlette
 url: /marlette/
-latitude: 43.326969000000005
-longitude: -83.08022000000001
+latitude: 43.306
+longitude: -83.081
 ---

@@ -1,6 +1,6 @@
 ---
 title: Gwinn
 url: /gwinn/
-latitude: 46.2810556
-longitude: -87.4409718
+latitude: 46.335
+longitude: -87.359
 ---

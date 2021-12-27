@@ -1,6 +1,6 @@
 ---
 title: L'Anse
 url: /lanse/
-latitude: 46.756599
-longitude: -88.452909
+latitude: 46.758
+longitude: -88.453
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Market Square"
 url: /west-bloomfield-township/market-square/
-shop: convenience
+shop: Lebensmittel
 ---

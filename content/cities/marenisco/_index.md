@@ -1,6 +1,6 @@
 ---
 title: Marenisco
 url: /marenisco/
-latitude: 46.376337
-longitude: -89.696268
+latitude: 46.38
+longitude: -89.696
 ---

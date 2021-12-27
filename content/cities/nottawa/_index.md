@@ -1,6 +1,6 @@
 ---
 title: Nottawa
 url: /nottawa/
-latitude: 41.9189385
-longitude: -85.4488749
+latitude: 41.919
+longitude: -85.457
 ---

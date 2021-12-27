@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /alma/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

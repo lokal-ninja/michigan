@@ -1,6 +1,6 @@
 ---
 title: White Pigeon
 url: /white-pigeon/
-latitude: 41.7981056
-longitude: -85.6433229
+latitude: 41.799
+longitude: -85.74
 ---

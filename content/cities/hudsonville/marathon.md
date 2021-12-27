@@ -1,5 +1,5 @@
 ---
 title: "Marathon"
 url: /hudsonville/marathon/
-shop: convenience
+shop: Lebensmittel
 ---

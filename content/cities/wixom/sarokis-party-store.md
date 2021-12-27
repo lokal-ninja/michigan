@@ -1,5 +1,5 @@
 ---
 title: "Sarokis Party Store"
 url: /wixom/sarokis-party-store/
-shop: convenience
+shop: Lebensmittel
 ---

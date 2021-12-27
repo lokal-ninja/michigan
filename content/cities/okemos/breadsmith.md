@@ -1,5 +1,5 @@
 ---
 title: "Breadsmith"
 url: /okemos/breadsmith/
-shop: bakery
+shop: Bäckerei
 ---

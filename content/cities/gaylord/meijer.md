@@ -1,5 +1,5 @@
 ---
 title: "Meijer"
 url: /gaylord/meijer/
-shop: convenience
+shop: Lebensmittel
 ---

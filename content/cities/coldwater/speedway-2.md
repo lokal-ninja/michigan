@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /coldwater/speedway-2/
-shop: convenience
+shop: Lebensmittel
 ---

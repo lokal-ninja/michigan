@@ -1,6 +1,6 @@
 ---
 title: Muir
 url: /muir/
-latitude: 42.9958661
-longitude: -84.9425013
+latitude: 43.001
+longitude: -84.943
 ---

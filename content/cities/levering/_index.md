@@ -1,6 +1,6 @@
 ---
 title: Levering
 url: /levering/
-latitude: 45.635844500000005
-longitude: -84.786994
+latitude: 45.594
+longitude: -84.782
 ---

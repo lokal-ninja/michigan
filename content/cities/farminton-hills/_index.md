@@ -1,6 +1,6 @@
 ---
 title: Farminton Hills
 url: /farminton-hills/
-latitude: 
-longitude: 
+latitude: 42.523
+longitude: -83.359
 ---

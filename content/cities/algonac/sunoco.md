@@ -1,5 +1,5 @@
 ---
 title: "Sunoco"
 url: /algonac/sunoco/
-shop: convenience
+shop: Lebensmittel
 ---

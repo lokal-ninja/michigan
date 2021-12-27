@@ -1,6 +1,6 @@
 ---
 title: Lathrup Village
 url: /lathrup-village/
-latitude: 42.4964242
-longitude: -83.2227067
+latitude: 42.502
+longitude: -83.223
 ---

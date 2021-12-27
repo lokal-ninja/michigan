@@ -1,6 +1,6 @@
 ---
 title: Bronson
 url: /bronson/
-latitude: 41.872271600000005
-longitude: -85.1946963
+latitude: 41.87
+longitude: -85.204
 ---

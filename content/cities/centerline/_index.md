@@ -1,6 +1,6 @@
 ---
 title: Centerline
 url: /centerline/
-latitude: 
-longitude: 
+latitude: 42.477
+longitude: -83.037
 ---

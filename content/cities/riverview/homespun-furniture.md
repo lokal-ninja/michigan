@@ -1,5 +1,5 @@
 ---
 title: "Homespun Furniture"
 url: /riverview/homespun-furniture/
-shop: furniture
+shop: Möbel
 ---

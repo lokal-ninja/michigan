@@ -1,5 +1,5 @@
 ---
 title: "Meijer"
 url: /northville/meijer/
-shop: convenience
+shop: Lebensmittel
 ---

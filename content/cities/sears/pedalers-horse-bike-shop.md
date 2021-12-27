@@ -1,5 +1,5 @@
 ---
 title: "Pedaler's Horse Bike Shop"
 url: /sears/pedalers-horse-bike-shop/
-shop: bicycle
+shop: Fahrrad
 ---

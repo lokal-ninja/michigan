@@ -1,6 +1,6 @@
 ---
 title: Colon
 url: /colon/
-latitude: 41.958382300000004
-longitude: -85.32498170000001
+latitude: 41.956
+longitude: -85.313
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Marathon"
 url: /dearborn-heights/marathon/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,6 +1,6 @@
 ---
 title: Bruce Crossing
 url: /bruce-crossing/
-latitude: 46.534943500000004
-longitude: -89.17875360000001
+latitude: 46.535
+longitude: -89.178
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Meijer"
 url: /southgate/meijer/
-shop: supermarket
+shop: Supermarkt
 ---

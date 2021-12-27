@@ -1,6 +1,6 @@
 ---
 title: Chesterfield Township
 url: /chesterfield-township/
-latitude: 42.662810500000006
-longitude: -82.8424208
+latitude: 42.671
+longitude: -82.831
 ---

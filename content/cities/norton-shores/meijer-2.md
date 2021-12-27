@@ -1,5 +1,5 @@
 ---
 title: "Meijer"
 url: /norton-shores/meijer-2/
-shop: convenience
+shop: Lebensmittel
 ---

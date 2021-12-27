@@ -1,6 +1,6 @@
 ---
 title: Auburn Hills
 url: /auburn-hills/
-latitude: 42.6875323
-longitude: -83.2341028
+latitude: 42.679
+longitude: -83.251
 ---

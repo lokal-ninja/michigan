@@ -1,5 +1,5 @@
 ---
 title: "Marathon"
 url: /detroit/marathon-47/
-shop: convenience
+shop: Lebensmittel
 ---

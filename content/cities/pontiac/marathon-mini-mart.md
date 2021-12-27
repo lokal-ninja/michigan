@@ -1,5 +1,5 @@
 ---
 title: "Marathon Mini Mart"
 url: /pontiac/marathon-mini-mart/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Indian Village Market"
 url: /detroit/indian-village-market/
-shop: supermarket
+shop: Supermarkt
 ---

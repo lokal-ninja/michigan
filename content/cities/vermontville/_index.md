@@ -1,6 +1,6 @@
 ---
 title: Vermontville
 url: /vermontville/
-latitude: 42.628924700000006
-longitude: -85.02416210000001
+latitude: 42.629
+longitude: -85.014
 ---

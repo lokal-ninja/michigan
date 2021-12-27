@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
 url: /novi/kroger/
-shop: supermarket
+shop: Supermarkt
 ---

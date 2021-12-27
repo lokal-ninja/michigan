@@ -1,6 +1,6 @@
 ---
 title: Cascade Township
 url: /cascade-township/
-latitude: 
-longitude: 
+latitude: 42.913
+longitude: -85.544
 ---

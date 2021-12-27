@@ -1,6 +1,6 @@
 ---
 title: McBain
 url: /mcbain/
-latitude: 44.193623
-longitude: -85.21337600000001
+latitude: 44.194
+longitude: -85.213
 ---

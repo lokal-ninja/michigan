@@ -1,5 +1,5 @@
 ---
 title: "Total Hockey"
 url: /troy/total-hockey/
-shop: sports
+shop: Sport
 ---

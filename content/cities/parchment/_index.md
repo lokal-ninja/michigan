@@ -1,6 +1,6 @@
 ---
 title: Parchment
 url: /parchment/
-latitude: 42.3280952
-longitude: -85.5697296
+latitude: 42.327
+longitude: -85.57
 ---

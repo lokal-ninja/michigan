@@ -1,6 +1,6 @@
 ---
 title: Ironwood
 url: /ironwood/
-latitude: 46.455567300000006
-longitude: -90.1684371
+latitude: 46.463
+longitude: -90.146
 ---

@@ -1,6 +1,6 @@
 ---
 title: Croswell
 url: /croswell/
-latitude: 43.275581
-longitude: -82.621038
+latitude: 43.276
+longitude: -82.622
 ---

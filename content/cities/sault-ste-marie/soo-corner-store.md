@@ -1,5 +1,5 @@
 ---
 title: "Soo Corner Store"
 url: /sault-ste-marie/soo-corner-store/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,6 +1,6 @@
 ---
 title: Clark Lake
 url: /clark-lake/
-latitude: 
-longitude: 
+latitude: 42.12
+longitude: -84.324
 ---

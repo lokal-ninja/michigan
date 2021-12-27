@@ -1,5 +1,5 @@
 ---
 title: "Citgo"
 url: /wyandotte/citgo/
-shop: convenience
+shop: Lebensmittel
 ---

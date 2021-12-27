@@ -1,6 +1,6 @@
 ---
 title: Edenville
 url: /edenville/
-latitude: 43.79947
-longitude: -84.381669
+latitude: 43.804
+longitude: -84.386
 ---

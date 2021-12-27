@@ -1,6 +1,6 @@
 ---
 title: Coloma
 url: /coloma/
-latitude: 42.186149400000005
-longitude: -86.308356
+latitude: 42.186
+longitude: -86.306
 ---

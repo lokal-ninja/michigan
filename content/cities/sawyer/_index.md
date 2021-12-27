@@ -1,6 +1,6 @@
 ---
 title: Sawyer
 url: /sawyer/
-latitude: 41.8853207
-longitude: -86.58946660000001
+latitude: 41.885
+longitude: -86.598
 ---

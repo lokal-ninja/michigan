@@ -1,6 +1,6 @@
 ---
 title: Wyandotte
 url: /wyandotte/
-latitude: 42.200409
-longitude: -83.15064360000001
+latitude: 42.2
+longitude: -83.155
 ---

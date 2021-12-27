@@ -1,5 +1,5 @@
 ---
 title: "K. G. Market"
 url: /bridgman/k-g-market/
-shop: convenience
+shop: Lebensmittel
 ---

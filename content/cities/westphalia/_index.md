@@ -1,6 +1,6 @@
 ---
 title: Westphalia
 url: /westphalia/
-latitude: 42.929478200000005
-longitude: -84.79860500000001
+latitude: 42.927
+longitude: -84.799
 ---

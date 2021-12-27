@@ -1,6 +1,6 @@
 ---
 title: Bark River
 url: /bark-river/
-latitude: 45.7099939
-longitude: -87.3052091
+latitude: 45.681
+longitude: -87.323
 ---

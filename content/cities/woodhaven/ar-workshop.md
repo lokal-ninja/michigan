@@ -1,5 +1,5 @@
 ---
 title: "AR Workshop"
 url: /woodhaven/ar-workshop/
-shop: craft
+shop: Basteln
 ---

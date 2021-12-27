@@ -1,5 +1,5 @@
 ---
 title: "Rxoptical"
 url: /woodhaven/rxoptical/
-shop: optician
+shop: Optiker
 ---

@@ -1,5 +1,5 @@
 ---
 title: "The Grocery Outlet Store"
 url: /allegan/the-grocery-outlet-store/
-shop: supermarket
+shop: Supermarkt
 ---

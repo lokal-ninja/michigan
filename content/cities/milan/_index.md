@@ -1,6 +1,6 @@
 ---
 title: Milan
 url: /milan/
-latitude: 42.0848616
-longitude: -83.6830279
+latitude: 42.089
+longitude: -83.698
 ---

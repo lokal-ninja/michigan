@@ -1,5 +1,5 @@
 ---
 title: "Krist"
 url: /munising/krist/
-shop: convenience
+shop: Lebensmittel
 ---

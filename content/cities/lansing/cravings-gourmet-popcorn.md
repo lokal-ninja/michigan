@@ -1,5 +1,5 @@
 ---
 title: "Cravings Gourmet Popcorn"
 url: /lansing/cravings-gourmet-popcorn/
-shop: shop
+shop: Allgemein
 ---

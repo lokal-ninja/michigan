@@ -1,5 +1,5 @@
 ---
 title: "Citgo"
 url: /inkster/citgo/
-shop: convenience
+shop: Lebensmittel
 ---

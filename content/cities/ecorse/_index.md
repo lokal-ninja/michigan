@@ -1,6 +1,6 @@
 ---
 title: Ecorse
 url: /ecorse/
-latitude: 42.244483300000006
-longitude: -83.145757
+latitude: 42.244
+longitude: -83.156
 ---

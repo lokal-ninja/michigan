@@ -1,5 +1,5 @@
 ---
 title: "Coastal"
 url: /wayne/coastal/
-shop: convenience
+shop: Lebensmittel
 ---

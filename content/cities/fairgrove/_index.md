@@ -1,6 +1,6 @@
 ---
 title: Fairgrove
 url: /fairgrove/
-latitude: 43.523632
-longitude: -83.543293
+latitude: 43.583
+longitude: -83.678
 ---

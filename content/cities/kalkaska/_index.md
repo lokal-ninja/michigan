@@ -1,6 +1,6 @@
 ---
 title: Kalkaska
 url: /kalkaska/
-latitude: 44.678051200000006
-longitude: -85.1002509
+latitude: 44.804
+longitude: -85.146
 ---

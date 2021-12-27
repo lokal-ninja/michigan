@@ -1,6 +1,6 @@
 ---
 title: Ubly
 url: /ubly/
-latitude: 43.710016
-longitude: -82.931607
+latitude: 43.71
+longitude: -82.938
 ---

@@ -1,6 +1,6 @@
 ---
 title: Plainwell
 url: /plainwell/
-latitude: 42.4400357
-longitude: -85.6489035
+latitude: 42.552
+longitude: -85.52
 ---

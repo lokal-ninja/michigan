@@ -1,5 +1,5 @@
 ---
 title: "Charlie Liquor Store"
 url: /westland/charlie-liquor-store/
-shop: alcohol
+shop: Spirituosen
 ---

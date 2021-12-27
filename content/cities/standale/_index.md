@@ -1,6 +1,6 @@
 ---
 title: Standale
 url: /standale/
-latitude: 42.9725249
-longitude: -85.77642420000001
+latitude: 42.969
+longitude: -85.778
 ---

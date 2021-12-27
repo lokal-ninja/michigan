@@ -1,6 +1,6 @@
 ---
 title: Tekonsha
 url: /tekonsha/
-latitude: 42.0933791
-longitude: -84.98580510000001
+latitude: 42.105
+longitude: -84.992
 ---

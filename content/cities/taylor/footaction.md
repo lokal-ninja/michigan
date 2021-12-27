@@ -1,5 +1,5 @@
 ---
 title: "Footaction"
 url: /taylor/footaction/
-shop: shoes
+shop: Schuhe
 ---

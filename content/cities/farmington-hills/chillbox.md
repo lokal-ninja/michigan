@@ -1,5 +1,5 @@
 ---
 title: "Chillbox"
 url: /farmington-hills/chillbox/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,6 +1,6 @@
 ---
 title: Attica Township
 url: /attica-township/
-latitude: 
-longitude: 
+latitude: 43.061
+longitude: -83.219
 ---

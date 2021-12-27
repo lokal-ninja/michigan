@@ -1,6 +1,6 @@
 ---
 title: Clinton Township
 url: /clinton-township/
-latitude: 42.5869787
-longitude: -82.9199212
+latitude: 42.626
+longitude: -82.952
 ---

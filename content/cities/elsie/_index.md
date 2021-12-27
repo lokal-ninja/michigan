@@ -1,6 +1,6 @@
 ---
 title: Elsie
 url: /elsie/
-latitude: 43.088639
-longitude: -84.386926
+latitude: 43.09
+longitude: -84.388
 ---

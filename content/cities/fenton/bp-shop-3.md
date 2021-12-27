@@ -1,5 +1,5 @@
 ---
 title: "BP Shop"
 url: /fenton/bp-shop-3/
-shop: convenience
+shop: Lebensmittel
 ---

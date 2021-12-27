@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /southfield/shell-2/
-shop: convenience
+shop: Lebensmittel
 ---

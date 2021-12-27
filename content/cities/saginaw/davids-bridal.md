@@ -1,5 +1,5 @@
 ---
 title: "David's Bridal"
 url: /saginaw/davids-bridal/
-shop: clothes
+shop: Kleidung
 ---

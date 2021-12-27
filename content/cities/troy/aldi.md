@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
 url: /troy/aldi/
-shop: supermarket
+shop: Supermarkt
 ---

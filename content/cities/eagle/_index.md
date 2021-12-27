@@ -1,6 +1,6 @@
 ---
 title: Eagle
 url: /eagle/
-latitude: 42.807812500000004
-longitude: -84.788601
+latitude: 42.799
+longitude: -84.74
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /clare/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,6 +1,6 @@
 ---
 title: Ypsilanti
 url: /ypsilanti/
-latitude: 42.2410562
-longitude: -83.613055
+latitude: 42.243
+longitude: -83.682
 ---

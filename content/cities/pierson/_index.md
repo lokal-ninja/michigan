@@ -1,6 +1,6 @@
 ---
 title: Pierson
 url: /pierson/
-latitude: 43.319750000000006
-longitude: -85.497814
+latitude: 43.338
+longitude: -85.518
 ---

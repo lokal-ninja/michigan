@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /riverview/shell/
-shop: convenience
+shop: Lebensmittel
 ---

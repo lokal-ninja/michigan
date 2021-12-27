@@ -1,6 +1,6 @@
 ---
 title: Trenary
 url: /trenary/
-latitude: 46.195023600000006
-longitude: -86.9700876
+latitude: 46.195
+longitude: -86.982
 ---

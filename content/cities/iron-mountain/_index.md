@@ -1,6 +1,6 @@
 ---
 title: Iron Mountain
 url: /iron-mountain/
-latitude: 45.820233
-longitude: -88.06596
+latitude: 45.822
+longitude: -88.065
 ---

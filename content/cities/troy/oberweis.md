@@ -1,5 +1,5 @@
 ---
 title: "Oberweis"
 url: /troy/oberweis/
-shop: dairy
+shop: Milch
 ---

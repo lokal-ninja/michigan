@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /lapeer/aldi/
-shop: supermarket
+shop: Supermarkt
 ---

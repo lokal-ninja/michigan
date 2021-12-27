@@ -1,6 +1,6 @@
 ---
 title: Holton
 url: /holton/
-latitude: 43.413348600000006
-longitude: -86.07950430000001
+latitude: 43.411
+longitude: -86.08
 ---

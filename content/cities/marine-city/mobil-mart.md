@@ -1,5 +1,5 @@
 ---
 title: "Mobil Mart"
 url: /marine-city/mobil-mart/
-shop: convenience
+shop: Lebensmittel
 ---

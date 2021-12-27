@@ -1,5 +1,5 @@
 ---
 title: "Wesco"
 url: /fremont/wesco/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Flagship"
 url: /mackinac-island/flagship/
-shop: gift
+shop: Andenken
 ---

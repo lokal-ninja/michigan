@@ -1,5 +1,5 @@
 ---
 title: "Marathon"
 url: /oscoda/marathon/
-shop: convenience
+shop: Lebensmittel
 ---

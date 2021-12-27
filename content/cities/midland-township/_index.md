@@ -1,6 +1,6 @@
 ---
 title: Midland Township
 url: /midland-township/
-latitude: 
-longitude: 
+latitude: 43.688
+longitude: -84.246
 ---

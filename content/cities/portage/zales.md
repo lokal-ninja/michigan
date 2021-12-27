@@ -1,5 +1,5 @@
 ---
 title: "Zales"
 url: /portage/zales/
-shop: jewelry
+shop: Schmuck
 ---

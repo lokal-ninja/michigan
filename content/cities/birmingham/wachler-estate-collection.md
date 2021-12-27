@@ -1,5 +1,5 @@
 ---
 title: "Wachler Estate Collection"
 url: /birmingham/wachler-estate-collection/
-shop: jewelry
+shop: Schmuck
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sunoco"
 url: /mayville/sunoco/
-shop: convenience
+shop: Lebensmittel
 ---

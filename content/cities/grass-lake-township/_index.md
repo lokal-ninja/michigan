@@ -1,6 +1,6 @@
 ---
 title: Grass Lake Township
 url: /grass-lake-township/
-latitude: 
-longitude: 
+latitude: 42.324
+longitude: -84.224
 ---

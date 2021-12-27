@@ -1,5 +1,5 @@
 ---
 title: "President Tuxedo"
 url: /taylor/president-tuxedo/
-shop: clothes
+shop: Kleidung
 ---

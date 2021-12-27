@@ -1,5 +1,5 @@
 ---
 title: "Waterford Fuel Mart"
 url: /waterford/waterford-fuel-mart/
-shop: convenience
+shop: Lebensmittel
 ---

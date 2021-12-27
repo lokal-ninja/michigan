@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /fenton/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "MidJim"
 url: /sault-sainte-marie/midjim/
-shop: convenience
+shop: Lebensmittel
 ---

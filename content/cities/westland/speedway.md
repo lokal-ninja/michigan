@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /westland/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

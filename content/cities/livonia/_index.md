@@ -1,6 +1,6 @@
 ---
 title: Livonia
 url: /livonia/
-latitude: 42.368370000000006
-longitude: -83.3527097
+latitude: 42.439
+longitude: -83.382
 ---

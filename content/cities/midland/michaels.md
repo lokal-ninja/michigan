@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /midland/michaels/
-shop: craft
+shop: Basteln
 ---

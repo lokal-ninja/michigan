@@ -1,5 +1,5 @@
 ---
 title: "Brightmoor Electrical Supplier"
 url: /detroit/brightmoor-electrical-supplier/
-shop: electrical
+shop: Elektrisch
 ---

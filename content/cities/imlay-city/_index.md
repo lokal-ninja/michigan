@@ -1,6 +1,6 @@
 ---
 title: Imlay City
 url: /imlay-city/
-latitude: 43.0247496
-longitude: -83.07771530000001
+latitude: 43.03
+longitude: -83.074
 ---

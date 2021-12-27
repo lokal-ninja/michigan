@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
 url: /lansing/homegoods/
-shop: houseware
+shop: Haushaltsartikel
 ---

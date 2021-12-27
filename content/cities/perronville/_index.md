@@ -1,6 +1,6 @@
 ---
 title: Perronville
 url: /perronville/
-latitude: 45.798542600000005
-longitude: -87.3533953
+latitude: 45.879
+longitude: -87.473
 ---

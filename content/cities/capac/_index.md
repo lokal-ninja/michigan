@@ -1,6 +1,6 @@
 ---
 title: Capac
 url: /capac/
-latitude: 43.0125274
-longitude: -82.92798810000001
+latitude: 43.012
+longitude: -82.928
 ---

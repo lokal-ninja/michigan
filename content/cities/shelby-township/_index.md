@@ -1,6 +1,6 @@
 ---
 title: Shelby Township
 url: /shelby-township/
-latitude: 
-longitude: 
+latitude: 42.7
+longitude: -83.033
 ---

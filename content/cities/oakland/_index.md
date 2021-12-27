@@ -1,6 +1,6 @@
 ---
 title: Oakland
 url: /oakland/
-latitude: 42.6618842
-longitude: -83.3804439
+latitude: 42.799
+longitude: -83.134
 ---

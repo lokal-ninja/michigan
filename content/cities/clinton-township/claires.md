@@ -1,5 +1,5 @@
 ---
 title: "Claire's"
 url: /clinton-township/claires/
-shop: shop
+shop: Allgemein
 ---

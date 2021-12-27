@@ -1,6 +1,6 @@
 ---
 title: Breckenridge
 url: /breckenridge/
-latitude: 43.408085
-longitude: -84.474998
+latitude: 43.408
+longitude: -84.473
 ---

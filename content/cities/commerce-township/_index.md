@@ -1,6 +1,6 @@
 ---
 title: Commerce Township
 url: /commerce-township/
-latitude: 
-longitude: 
+latitude: 42.529
+longitude: -83.439
 ---

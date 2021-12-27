@@ -1,5 +1,5 @@
 ---
 title: "BP Shop"
 url: /ann-arbor/bp-shop/
-shop: convenience
+shop: Lebensmittel
 ---

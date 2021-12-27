@@ -1,5 +1,5 @@
 ---
 title: "Sunoco"
 url: /lincoln-park/sunoco/
-shop: convenience
+shop: Lebensmittel
 ---

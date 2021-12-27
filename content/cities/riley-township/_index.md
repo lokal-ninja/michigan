@@ -1,6 +1,6 @@
 ---
 title: Riley Township
 url: /riley-township/
-latitude: 
-longitude: 
+latitude: 42.985
+longitude: -82.766
 ---

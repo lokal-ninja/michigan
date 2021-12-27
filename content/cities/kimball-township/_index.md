@@ -1,6 +1,6 @@
 ---
 title: Kimball Township
 url: /kimball-township/
-latitude: 
-longitude: 
+latitude: 42.956
+longitude: -82.503
 ---

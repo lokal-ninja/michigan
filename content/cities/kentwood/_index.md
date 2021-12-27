@@ -1,6 +1,6 @@
 ---
 title: Kentwood
 url: /kentwood/
-latitude: 42.8694731
-longitude: -85.6447492
+latitude: 42.881
+longitude: -85.607
 ---

@@ -1,6 +1,6 @@
 ---
 title: Onondaga
 url: /onondaga/
-latitude: 42.4442037
-longitude: -84.56219630000001
+latitude: 42.444
+longitude: -84.561
 ---

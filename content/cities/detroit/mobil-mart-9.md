@@ -1,5 +1,5 @@
 ---
 title: "Mobil Mart"
 url: /detroit/mobil-mart-9/
-shop: convenience
+shop: Lebensmittel
 ---

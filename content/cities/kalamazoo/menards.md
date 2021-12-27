@@ -1,5 +1,5 @@
 ---
 title: "Menards"
 url: /kalamazoo/menards/
-shop: doityourself
+shop: Baumarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Krist"
 url: /menominee/krist/
-shop: convenience
+shop: Lebensmittel
 ---

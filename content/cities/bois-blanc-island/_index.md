@@ -1,6 +1,6 @@
 ---
 title: Bois Blanc Island
 url: /bois-blanc-island/
-latitude: 
-longitude: 
+latitude: 45.729
+longitude: -84.458
 ---

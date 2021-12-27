@@ -1,5 +1,5 @@
 ---
 title: "Express"
 url: /clinton-township/express/
-shop: clothes
+shop: Kleidung
 ---

@@ -1,6 +1,6 @@
 ---
 title: Belding
 url: /belding/
-latitude: 43.09781
-longitude: -85.22890600000001
+latitude: 43.088
+longitude: -85.244
 ---

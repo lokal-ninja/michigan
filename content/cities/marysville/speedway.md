@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /marysville/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

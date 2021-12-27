@@ -1,5 +1,5 @@
 ---
 title: "Citgo"
 url: /clarkston/citgo-2/
-shop: convenience
+shop: Lebensmittel
 ---

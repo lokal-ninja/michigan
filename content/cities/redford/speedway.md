@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /redford/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

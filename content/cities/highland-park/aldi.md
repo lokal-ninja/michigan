@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
 url: /highland-park/aldi/
-shop: supermarket
+shop: Supermarkt
 ---

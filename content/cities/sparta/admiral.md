@@ -1,5 +1,5 @@
 ---
 title: "Admiral"
 url: /sparta/admiral/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,6 +1,6 @@
 ---
 title: Mancelona
 url: /mancelona/
-latitude: 44.902229000000005
-longitude: -85.060885
+latitude: 44.851
+longitude: -84.941
 ---

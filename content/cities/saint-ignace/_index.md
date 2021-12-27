@@ -1,6 +1,6 @@
 ---
 title: Saint Ignace
 url: /saint-ignace/
-latitude: 45.8686238
-longitude: -84.72782810000001
+latitude: 45.857
+longitude: -84.719
 ---

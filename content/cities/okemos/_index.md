@@ -1,6 +1,6 @@
 ---
 title: Okemos
 url: /okemos/
-latitude: 42.7220755
-longitude: -84.42752320000001
+latitude: 42.727
+longitude: -84.413
 ---

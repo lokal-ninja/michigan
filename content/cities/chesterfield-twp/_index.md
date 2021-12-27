@@ -1,6 +1,6 @@
 ---
 title: Chesterfield Twp.
 url: /chesterfield-twp/
-latitude: 
-longitude: 
+latitude: 42.688
+longitude: -82.822
 ---

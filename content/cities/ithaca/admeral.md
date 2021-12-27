@@ -1,5 +1,5 @@
 ---
 title: "Admeral"
 url: /ithaca/admeral/
-shop: convenience
+shop: Lebensmittel
 ---

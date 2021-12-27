@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /troy/shell/
-shop: convenience
+shop: Lebensmittel
 ---

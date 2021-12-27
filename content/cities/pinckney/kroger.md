@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
 url: /pinckney/kroger/
-shop: supermarket
+shop: Supermarkt
 ---

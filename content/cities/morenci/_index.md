@@ -1,6 +1,6 @@
 ---
 title: Morenci
 url: /morenci/
-latitude: 41.7195109
-longitude: -84.2173964
+latitude: 41.72
+longitude: -84.219
 ---

@@ -1,6 +1,6 @@
 ---
 title: Grosse Ile
 url: /grosse-ile/
-latitude: 42.131157200000004
-longitude: -83.1579203
+latitude: 42.131
+longitude: -83.159
 ---

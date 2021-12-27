@@ -1,6 +1,6 @@
 ---
 title: Middleville
 url: /middleville/
-latitude: 42.7130889
-longitude: -85.46195990000001
+latitude: 42.724
+longitude: -85.507
 ---

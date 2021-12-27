@@ -1,5 +1,5 @@
 ---
 title: "Glik's Boutique"
 url: /holland/gliks-boutique/
-shop: clothes
+shop: Kleidung
 ---

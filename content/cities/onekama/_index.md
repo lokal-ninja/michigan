@@ -1,6 +1,6 @@
 ---
 title: Onekama
 url: /onekama/
-latitude: 44.363613
-longitude: -86.205087
+latitude: 44.361
+longitude: -86.195
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /okemos/midas/
-shop: car repair
+shop: Autowerkstatt
 ---

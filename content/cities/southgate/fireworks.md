@@ -1,5 +1,5 @@
 ---
 title: "Fireworks"
 url: /southgate/fireworks/
-shop: pyrotechnics
+shop: Pyrotechnik
 ---

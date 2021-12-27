@@ -1,6 +1,6 @@
 ---
 title: Shelby
 url: /shelby/
-latitude: 43.608619000000004
-longitude: -86.36396300000001
+latitude: 43.604
+longitude: -86.368
 ---

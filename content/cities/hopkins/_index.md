@@ -1,6 +1,6 @@
 ---
 title: Hopkins
 url: /hopkins/
-latitude: 42.6236425
-longitude: -85.7603024
+latitude: 42.68
+longitude: -85.813
 ---

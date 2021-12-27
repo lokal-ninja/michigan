@@ -1,6 +1,6 @@
 ---
 title: Royal Oak Charter Township
 url: /royal-oak-charter-township/
-latitude: 
-longitude: 
+latitude: 42.447
+longitude: -83.16
 ---

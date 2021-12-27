@@ -1,6 +1,6 @@
 ---
 title: Onaway
 url: /onaway/
-latitude: 45.357512
-longitude: -84.223903
+latitude: 45.432
+longitude: -84.229
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
 url: /escanaba/aldi/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,6 +1,6 @@
 ---
 title: Columbus Township
 url: /columbus-township/
-latitude: 
-longitude: 
+latitude: 42.813
+longitude: -82.724
 ---

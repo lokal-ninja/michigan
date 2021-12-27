@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /plymouth/shell/
-shop: convenience
+shop: Lebensmittel
 ---

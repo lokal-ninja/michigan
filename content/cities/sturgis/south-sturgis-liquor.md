@@ -1,5 +1,5 @@
 ---
 title: "South Sturgis Liquor"
 url: /sturgis/south-sturgis-liquor/
-shop: convenience
+shop: Lebensmittel
 ---

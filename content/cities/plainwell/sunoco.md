@@ -1,5 +1,5 @@
 ---
 title: "Sunoco"
 url: /plainwell/sunoco/
-shop: convenience
+shop: Lebensmittel
 ---

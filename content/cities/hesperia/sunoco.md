@@ -1,5 +1,5 @@
 ---
 title: "Sunoco"
 url: /hesperia/sunoco/
-shop: convenience
+shop: Lebensmittel
 ---

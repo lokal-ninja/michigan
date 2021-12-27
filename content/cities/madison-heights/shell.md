@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /madison-heights/shell/
-shop: convenience
+shop: Lebensmittel
 ---

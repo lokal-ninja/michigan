@@ -1,6 +1,6 @@
 ---
 title: Burtchville
 url: /burtchville/
-latitude: 
-longitude: 
+latitude: 43.134
+longitude: -82.501
 ---

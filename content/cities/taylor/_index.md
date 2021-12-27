@@ -1,6 +1,6 @@
 ---
 title: Taylor
 url: /taylor/
-latitude: 42.240872
-longitude: -83.2696509
+latitude: 42.197
+longitude: -83.25
 ---

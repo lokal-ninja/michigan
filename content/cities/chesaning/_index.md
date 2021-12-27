@@ -1,6 +1,6 @@
 ---
 title: Chesaning
 url: /chesaning/
-latitude: 43.1847597
-longitude: -84.1149965
+latitude: 43.189
+longitude: -84.168
 ---

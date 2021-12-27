@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /howell/shell/
-shop: convenience
+shop: Lebensmittel
 ---

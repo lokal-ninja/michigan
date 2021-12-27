@@ -1,6 +1,6 @@
 ---
 title: Ishpiming
 url: /ishpiming/
-latitude: 
-longitude: 
+latitude: 46.491
+longitude: -87.666
 ---

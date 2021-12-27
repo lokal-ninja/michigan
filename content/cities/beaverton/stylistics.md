@@ -1,5 +1,5 @@
 ---
 title: "Stylistics"
 url: /beaverton/stylistics/
-shop: hairdresser
+shop: Friseur
 ---

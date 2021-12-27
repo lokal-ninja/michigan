@@ -1,6 +1,6 @@
 ---
 title: Kalamazoo Township
 url: /kalamazoo-township/
-latitude: 
-longitude: 
+latitude: 42.297
+longitude: -85.647
 ---

@@ -1,6 +1,6 @@
 ---
 title: Allegan
 url: /allegan/
-latitude: 42.5867203
-longitude: -85.8861492
+latitude: 42.531
+longitude: -85.85
 ---

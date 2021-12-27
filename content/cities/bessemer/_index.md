@@ -1,6 +1,6 @@
 ---
 title: Bessemer
 url: /bessemer/
-latitude: 46.4813363
-longitude: -90.0529504
+latitude: 46.481
+longitude: -90.044
 ---

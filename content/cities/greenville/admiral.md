@@ -1,5 +1,5 @@
 ---
 title: "Admiral"
 url: /greenville/admiral/
-shop: convenience
+shop: Lebensmittel
 ---

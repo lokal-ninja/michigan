@@ -1,6 +1,6 @@
 ---
 title: Winn
 url: /winn/
-latitude: 43.523363800000006
-longitude: -84.9016854
+latitude: 43.526
+longitude: -84.905
 ---

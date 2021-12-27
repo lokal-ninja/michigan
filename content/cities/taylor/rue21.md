@@ -1,5 +1,5 @@
 ---
 title: "rue21"
 url: /taylor/rue21/
-shop: clothes
+shop: Kleidung
 ---

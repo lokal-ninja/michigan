@@ -1,5 +1,5 @@
 ---
 title: "Marathon"
 url: /brighton/marathon/
-shop: convenience
+shop: Lebensmittel
 ---

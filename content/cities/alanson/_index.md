@@ -1,6 +1,6 @@
 ---
 title: Alanson
 url: /alanson/
-latitude: 45.444178
-longitude: -84.78671200000001
+latitude: 45.443
+longitude: -84.772
 ---

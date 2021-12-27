@@ -1,5 +1,5 @@
 ---
 title: "Johnny's"
 url: /galesburg/johnnys/
-shop: convenience
+shop: Lebensmittel
 ---

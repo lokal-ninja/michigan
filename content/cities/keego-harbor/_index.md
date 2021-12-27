@@ -1,6 +1,6 @@
 ---
 title: Keego Harbor
 url: /keego-harbor/
-latitude: 42.6080884
-longitude: -83.34382480000001
+latitude: 42.599
+longitude: -83.349
 ---

@@ -1,5 +1,5 @@
 ---
 title: "WOW!"
 url: /wyandotte/wow/
-shop: convenience
+shop: Lebensmittel
 ---

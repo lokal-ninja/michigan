@@ -1,5 +1,5 @@
 ---
 title: "Forward Convenience"
 url: /gaylord/forward-convenience-2/
-shop: convenience
+shop: Lebensmittel
 ---

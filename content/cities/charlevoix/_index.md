@@ -1,6 +1,6 @@
 ---
 title: Charlevoix
 url: /charlevoix/
-latitude: 45.202075
-longitude: -84.96763870000001
+latitude: 45.36
+longitude: -85.107
 ---

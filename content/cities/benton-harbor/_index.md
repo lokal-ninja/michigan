@@ -1,6 +1,6 @@
 ---
 title: Benton Harbor
 url: /benton-harbor/
-latitude: 42.1167065
-longitude: -86.4541894
+latitude: 42.086
+longitude: -86.437
 ---

@@ -1,6 +1,6 @@
 ---
 title: Brownstown Township
 url: /brownstown-township/
-latitude: 
-longitude: 
+latitude: 42.171
+longitude: -83.247
 ---

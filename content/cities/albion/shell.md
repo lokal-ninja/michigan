@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /albion/shell/
-shop: convenience
+shop: Lebensmittel
 ---

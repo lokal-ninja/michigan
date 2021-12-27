@@ -1,6 +1,6 @@
 ---
 title: Pontiac
 url: /pontiac/
-latitude: 42.6389216
-longitude: -83.2910468
+latitude: 42.619
+longitude: -83.32
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /sterling-heights/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

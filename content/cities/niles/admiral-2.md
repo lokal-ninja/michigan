@@ -1,5 +1,5 @@
 ---
 title: "Admiral"
 url: /niles/admiral-2/
-shop: convenience
+shop: Lebensmittel
 ---

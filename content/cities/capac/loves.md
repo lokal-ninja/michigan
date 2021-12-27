@@ -1,5 +1,5 @@
 ---
 title: "Love's"
 url: /capac/loves/
-shop: convenience
+shop: Lebensmittel
 ---

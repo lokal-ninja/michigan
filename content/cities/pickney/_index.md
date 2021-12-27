@@ -1,6 +1,6 @@
 ---
 title: Pickney
 url: /pickney/
-latitude: 
-longitude: 
+latitude: 42.464
+longitude: -83.834
 ---

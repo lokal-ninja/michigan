@@ -1,5 +1,5 @@
 ---
 title: "BP Shop"
 url: /southfield/bp-shop-4/
-shop: convenience
+shop: Lebensmittel
 ---

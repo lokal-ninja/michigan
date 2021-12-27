@@ -1,5 +1,5 @@
 ---
 title: "Moddersville Store"
 url: /falmouth/moddersville-store/
-shop: convenience
+shop: Lebensmittel
 ---

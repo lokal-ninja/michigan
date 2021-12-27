@@ -1,6 +1,6 @@
 ---
 title: Vassar
 url: /vassar/
-latitude: 43.371968
-longitude: -83.583292
+latitude: 43.373
+longitude: -83.594
 ---

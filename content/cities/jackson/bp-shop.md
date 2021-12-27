@@ -1,5 +1,5 @@
 ---
 title: "BP Shop"
 url: /jackson/bp-shop/
-shop: convenience
+shop: Lebensmittel
 ---

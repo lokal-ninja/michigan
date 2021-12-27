@@ -1,5 +1,5 @@
 ---
 title: "Valero"
 url: /dearborn/valero/
-shop: convenience
+shop: Lebensmittel
 ---

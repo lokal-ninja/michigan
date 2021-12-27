@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /coloma/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Romulus Auto Supply II"
 url: /romulus/romulus-auto-supply-ii/
-shop: car parts
+shop: Autoteile
 ---

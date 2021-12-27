@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /tecumseh/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

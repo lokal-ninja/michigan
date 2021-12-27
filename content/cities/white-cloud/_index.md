@@ -1,6 +1,6 @@
 ---
 title: White Cloud
 url: /white-cloud/
-latitude: 43.550297
-longitude: -85.771997
+latitude: 43.666
+longitude: -85.681
 ---

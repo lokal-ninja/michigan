@@ -1,5 +1,5 @@
 ---
 title: "Citgo"
 url: /mount-pleasant/citgo/
-shop: convenience
+shop: Lebensmittel
 ---

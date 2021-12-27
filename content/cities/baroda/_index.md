@@ -1,6 +1,6 @@
 ---
 title: Baroda
 url: /baroda/
-latitude: 41.9570248
-longitude: -86.48434830000001
+latitude: 41.978
+longitude: -86.495
 ---

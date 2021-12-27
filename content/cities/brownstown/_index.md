@@ -1,6 +1,6 @@
 ---
 title: Brownstown
 url: /brownstown/
-latitude: 
-longitude: 
+latitude: 42.111
+longitude: -83.216
 ---

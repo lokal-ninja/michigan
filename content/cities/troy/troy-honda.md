@@ -1,5 +1,5 @@
 ---
 title: "Troy Honda"
 url: /troy/troy-honda/
-shop: car
+shop: Autohaus
 ---

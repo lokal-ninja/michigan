@@ -1,5 +1,5 @@
 ---
 title: "Citgo"
 url: /detroit/citgo-21/
-shop: convenience
+shop: Lebensmittel
 ---

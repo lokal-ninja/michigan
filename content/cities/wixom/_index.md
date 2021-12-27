@@ -1,6 +1,6 @@
 ---
 title: Wixom
 url: /wixom/
-latitude: 42.5247729
-longitude: -83.5363339
+latitude: 42.502
+longitude: -83.535
 ---

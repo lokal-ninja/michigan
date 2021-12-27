@@ -1,6 +1,6 @@
 ---
 title: Michigamme
 url: /michigamme/
-latitude: 46.534658
-longitude: -88.110135
+latitude: 46.538
+longitude: -88.118
 ---

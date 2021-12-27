@@ -1,5 +1,5 @@
 ---
 title: "BP Shop"
 url: /warren/bp-shop-2/
-shop: convenience
+shop: Lebensmittel
 ---

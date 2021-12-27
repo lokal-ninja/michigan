@@ -1,5 +1,5 @@
 ---
 title: "Meijer"
 url: /lowell/meijer/
-shop: convenience
+shop: Lebensmittel
 ---

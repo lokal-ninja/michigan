@@ -1,5 +1,5 @@
 ---
 title: "Citgo"
 url: /highland/citgo/
-shop: convenience
+shop: Lebensmittel
 ---

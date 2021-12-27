@@ -1,6 +1,6 @@
 ---
 title: Orleans
 url: /orleans/
-latitude: 43.0686431
-longitude: -85.13501210000001
+latitude: 43.076
+longitude: -85.075
 ---

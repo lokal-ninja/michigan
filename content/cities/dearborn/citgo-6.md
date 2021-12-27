@@ -1,5 +1,5 @@
 ---
 title: "Citgo"
 url: /dearborn/citgo-6/
-shop: convenience
+shop: Lebensmittel
 ---

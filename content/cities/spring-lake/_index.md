@@ -1,6 +1,6 @@
 ---
 title: Spring Lake
 url: /spring-lake/
-latitude: 43.076963
-longitude: -86.19699700000001
+latitude: 43.078
+longitude: -86.172
 ---

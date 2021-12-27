@@ -1,5 +1,5 @@
 ---
 title: "BP-Detroit Donut"
 url: /warren/bp-detroit-donut/
-shop: convenience
+shop: Lebensmittel
 ---

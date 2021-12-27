@@ -1,5 +1,5 @@
 ---
 title: "Marathon"
 url: /canton/marathon/
-shop: convenience
+shop: Lebensmittel
 ---

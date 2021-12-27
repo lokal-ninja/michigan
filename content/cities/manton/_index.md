@@ -1,6 +1,6 @@
 ---
 title: Manton
 url: /manton/
-latitude: 44.41084
-longitude: -85.398944
+latitude: 44.411
+longitude: -85.399
 ---

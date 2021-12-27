@@ -1,5 +1,5 @@
 ---
 title: "BP Shop"
 url: /westland/bp-shop-3/
-shop: convenience
+shop: Lebensmittel
 ---

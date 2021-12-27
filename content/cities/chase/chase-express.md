@@ -1,5 +1,5 @@
 ---
 title: "Chase Express"
 url: /chase/chase-express/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "AGO"
 url: /saint-joseph/ago-2/
-shop: convenience
+shop: Lebensmittel
 ---

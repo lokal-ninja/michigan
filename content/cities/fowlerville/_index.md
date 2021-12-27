@@ -1,6 +1,6 @@
 ---
 title: Fowlerville
 url: /fowlerville/
-latitude: 42.6605894
-longitude: -84.0730142
+latitude: 42.6
+longitude: -84.071
 ---

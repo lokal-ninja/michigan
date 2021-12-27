@@ -1,6 +1,6 @@
 ---
 title: Brevort
 url: /brevort/
-latitude: 46.0188989
-longitude: -85.0417334
+latitude: 46.019
+longitude: -85.037
 ---

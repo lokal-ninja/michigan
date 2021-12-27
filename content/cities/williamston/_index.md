@@ -1,6 +1,6 @@
 ---
 title: Williamston
 url: /williamston/
-latitude: 42.689151
-longitude: -84.2832798
+latitude: 42.688
+longitude: -84.287
 ---

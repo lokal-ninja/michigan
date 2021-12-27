@@ -1,5 +1,5 @@
 ---
 title: "Meijer"
 url: /livonia/meijer/
-shop: supermarket
+shop: Supermarkt
 ---

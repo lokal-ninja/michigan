@@ -1,6 +1,6 @@
 ---
 title: Pentwater
 url: /pentwater/
-latitude: 43.7817227
-longitude: -86.4331385
+latitude: 43.762
+longitude: -86.388
 ---

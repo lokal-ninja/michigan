@@ -1,5 +1,5 @@
 ---
 title: "Revive Spa"
 url: /new-buffalo/revive-spa/
-shop: beauty
+shop: Kosmetik
 ---

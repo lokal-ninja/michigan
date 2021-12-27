@@ -1,5 +1,5 @@
 ---
 title: "Express Stop"
 url: /saginaw/express-stop-2/
-shop: convenience
+shop: Lebensmittel
 ---

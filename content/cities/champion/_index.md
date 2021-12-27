@@ -1,6 +1,6 @@
 ---
 title: Champion
 url: /champion/
-latitude: 46.5138246
-longitude: -87.96346790000001
+latitude: 46.497
+longitude: -87.918
 ---

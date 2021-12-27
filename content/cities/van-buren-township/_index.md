@@ -1,6 +1,6 @@
 ---
 title: Van Buren Township
 url: /van-buren-township/
-latitude: 
-longitude: 
+latitude: 42.223
+longitude: -83.486
 ---

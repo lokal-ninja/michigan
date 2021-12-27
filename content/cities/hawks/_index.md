@@ -1,6 +1,6 @@
 ---
 title: Hawks
 url: /hawks/
-latitude: 45.301956600000004
-longitude: -83.88749820000001
+latitude: 45.301
+longitude: -83.887
 ---

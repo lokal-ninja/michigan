@@ -1,5 +1,5 @@
 ---
 title: "Exxon"
 url: /grand-rapids/exxon/
-shop: convenience
+shop: Lebensmittel
 ---

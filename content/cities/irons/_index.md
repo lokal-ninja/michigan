@@ -1,6 +1,6 @@
 ---
 title: Irons
 url: /irons/
-latitude: 44.1400073
-longitude: -85.9159037
+latitude: 44.141
+longitude: -85.913
 ---

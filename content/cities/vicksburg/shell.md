@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /vicksburg/shell/
-shop: convenience
+shop: Lebensmittel
 ---

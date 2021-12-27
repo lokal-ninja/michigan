@@ -1,6 +1,6 @@
 ---
 title: Jeddo
 url: /jeddo/
-latitude: 43.151858100000005
-longitude: -82.58357910000001
+latitude: 43.152
+longitude: -82.583
 ---

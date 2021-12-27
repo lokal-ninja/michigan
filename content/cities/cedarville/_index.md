@@ -1,6 +1,6 @@
 ---
 title: Cedarville
 url: /cedarville/
-latitude: 45.998383600000004
-longitude: -84.3630297
+latitude: 46
+longitude: -84.362
 ---

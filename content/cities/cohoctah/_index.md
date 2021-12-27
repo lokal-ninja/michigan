@@ -1,6 +1,6 @@
 ---
 title: Cohoctah
 url: /cohoctah/
-latitude: 42.7597936
-longitude: -83.94904530000001
+latitude: 42.76
+longitude: -83.951
 ---

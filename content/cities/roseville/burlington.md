@@ -1,5 +1,5 @@
 ---
 title: "Burlington"
 url: /roseville/burlington/
-shop: clothes
+shop: Kleidung
 ---

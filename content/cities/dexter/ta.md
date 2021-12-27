@@ -1,5 +1,5 @@
 ---
 title: "TA"
 url: /dexter/ta/
-shop: convenience
+shop: Lebensmittel
 ---

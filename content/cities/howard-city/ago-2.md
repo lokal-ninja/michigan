@@ -1,5 +1,5 @@
 ---
 title: "AGO"
 url: /howard-city/ago-2/
-shop: convenience
+shop: Lebensmittel
 ---

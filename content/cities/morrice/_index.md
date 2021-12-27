@@ -1,6 +1,6 @@
 ---
 title: Morrice
 url: /morrice/
-latitude: 42.838642500000006
-longitude: -84.1783003
+latitude: 42.838
+longitude: -84.178
 ---

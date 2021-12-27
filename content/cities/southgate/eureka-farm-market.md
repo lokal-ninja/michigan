@@ -1,5 +1,5 @@
 ---
 title: "Eureka Farm Market"
 url: /southgate/eureka-farm-market/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

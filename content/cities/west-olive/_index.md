@@ -1,6 +1,6 @@
 ---
 title: West Olive
 url: /west-olive/
-latitude: 42.921341000000005
-longitude: -86.1471466
+latitude: 42.892
+longitude: -86.198
 ---

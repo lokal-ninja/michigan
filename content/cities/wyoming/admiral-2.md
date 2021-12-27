@@ -1,5 +1,5 @@
 ---
 title: "Admiral"
 url: /wyoming/admiral-2/
-shop: convenience
+shop: Lebensmittel
 ---

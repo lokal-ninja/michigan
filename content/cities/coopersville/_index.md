@@ -1,6 +1,6 @@
 ---
 title: Coopersville
 url: /coopersville/
-latitude: 43.0639112
-longitude: -85.93476670000001
+latitude: 43.06
+longitude: -85.927
 ---

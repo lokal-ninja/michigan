@@ -1,6 +1,6 @@
 ---
 title: Bear Lake
 url: /bear-lake/
-latitude: 44.420835000000004
-longitude: -86.148143
+latitude: 44.424
+longitude: -86.146
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bellyzup"
 url: /plymouth/bellyzup/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,6 +1,6 @@
 ---
 title: Hersey
 url: /hersey/
-latitude: 43.84863
-longitude: -85.444491
+latitude: 43.857
+longitude: -85.444
 ---

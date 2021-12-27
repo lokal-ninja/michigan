@@ -1,6 +1,6 @@
 ---
 title: Chesterfield Towship
 url: /chesterfield-towship/
-latitude: 
-longitude: 
+latitude: 42.668
+longitude: -82.829
 ---

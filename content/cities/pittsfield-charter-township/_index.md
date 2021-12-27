@@ -1,6 +1,6 @@
 ---
 title: Pittsfield Charter Township
 url: /pittsfield-charter-township/
-latitude: 
-longitude: 
+latitude: 42.231
+longitude: -83.744
 ---

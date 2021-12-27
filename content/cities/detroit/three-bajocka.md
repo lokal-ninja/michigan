@@ -1,5 +1,5 @@
 ---
 title: "Three Bajocka"
 url: /detroit/three-bajocka/
-shop: convenience
+shop: Lebensmittel
 ---

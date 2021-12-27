@@ -1,5 +1,5 @@
 ---
 title: "JenTees"
 url: /traverse-city/jentees/
-shop: shop
+shop: Allgemein
 ---

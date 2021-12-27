@@ -1,6 +1,6 @@
 ---
 title: Waldron
 url: /waldron/
-latitude: 41.7278281
-longitude: -84.41883700000001
+latitude: 41.731
+longitude: -84.419
 ---

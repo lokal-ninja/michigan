@@ -1,6 +1,6 @@
 ---
 title: Genesee
 url: /genesee/
-latitude: 43.0220032
-longitude: -83.72743050000001
+latitude: 43.112
+longitude: -83.617
 ---

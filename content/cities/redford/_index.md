@@ -1,6 +1,6 @@
 ---
 title: Redford
 url: /redford/
-latitude: 42.383369800000004
-longitude: -83.2965971
+latitude: 42.359
+longitude: -83.276
 ---

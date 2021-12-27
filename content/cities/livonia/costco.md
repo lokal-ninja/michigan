@@ -1,5 +1,5 @@
 ---
 title: "Costco"
 url: /livonia/costco/
-shop: wholesale
+shop: Großhandel
 ---

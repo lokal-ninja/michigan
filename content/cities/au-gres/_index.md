@@ -1,6 +1,6 @@
 ---
 title: Au Gres
 url: /au-gres/
-latitude: 44.04863
-longitude: -83.69581600000001
+latitude: 44.053
+longitude: -83.659
 ---

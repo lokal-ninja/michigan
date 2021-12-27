@@ -1,5 +1,5 @@
 ---
 title: "Pure Salon"
 url: /dewitt/pure-salon/
-shop: beauty
+shop: Kosmetik
 ---

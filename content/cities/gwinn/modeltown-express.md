@@ -1,5 +1,5 @@
 ---
 title: "Modeltown Express"
 url: /gwinn/modeltown-express/
-shop: convenience
+shop: Lebensmittel
 ---

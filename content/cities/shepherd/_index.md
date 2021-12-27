@@ -1,6 +1,6 @@
 ---
 title: Shepherd
 url: /shepherd/
-latitude: 43.524475
-longitude: -84.694733
+latitude: 43.524
+longitude: -84.697
 ---

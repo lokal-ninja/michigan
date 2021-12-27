@@ -1,6 +1,6 @@
 ---
 title: Genoa Township
 url: /genoa-township/
-latitude: 42.5567513
-longitude: -83.8528919
+latitude: 42.591
+longitude: -83.878
 ---

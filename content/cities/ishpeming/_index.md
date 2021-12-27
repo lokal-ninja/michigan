@@ -1,6 +1,6 @@
 ---
 title: Ishpeming
 url: /ishpeming/
-latitude: 46.488547000000004
-longitude: -87.667636
+latitude: 46.488
+longitude: -87.715
 ---

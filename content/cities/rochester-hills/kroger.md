@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
 url: /rochester-hills/kroger/
-shop: supermarket
+shop: Supermarkt
 ---

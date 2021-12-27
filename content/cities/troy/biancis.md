@@ -1,5 +1,5 @@
 ---
 title: "Bianci's"
 url: /troy/biancis/
-shop: hairdresser
+shop: Friseur
 ---

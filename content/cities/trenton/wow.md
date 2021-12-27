@@ -1,5 +1,5 @@
 ---
 title: "WOW!"
 url: /trenton/wow/
-shop: convenience
+shop: Lebensmittel
 ---

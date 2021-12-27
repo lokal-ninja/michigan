@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /coopersville/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

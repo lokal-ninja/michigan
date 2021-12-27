@@ -1,6 +1,6 @@
 ---
 title: Cross Village
 url: /cross-village/
-latitude: 45.642231
-longitude: -85.03756100000001
+latitude: 45.641
+longitude: -85.036
 ---

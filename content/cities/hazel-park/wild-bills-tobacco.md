@@ -1,5 +1,5 @@
 ---
 title: "WIld Bill's Tobacco"
 url: /hazel-park/wild-bills-tobacco/
-shop: tobacco
+shop: Tabak
 ---

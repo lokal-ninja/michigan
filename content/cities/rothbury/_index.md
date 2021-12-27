@@ -1,6 +1,6 @@
 ---
 title: Rothbury
 url: /rothbury/
-latitude: 43.507232
-longitude: -86.347572
+latitude: 43.491
+longitude: -86.267
 ---

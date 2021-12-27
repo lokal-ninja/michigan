@@ -1,5 +1,5 @@
 ---
 title: "Rxoptical"
 url: /southgate/rxoptical/
-shop: optician
+shop: Optiker
 ---

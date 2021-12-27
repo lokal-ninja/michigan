@@ -1,5 +1,5 @@
 ---
 title: "Mobil Mart"
 url: /auburn-hills/mobil-mart-2/
-shop: convenience
+shop: Lebensmittel
 ---

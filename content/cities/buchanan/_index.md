@@ -1,6 +1,6 @@
 ---
 title: Buchanan
 url: /buchanan/
-latitude: 41.8272684
-longitude: -86.36112490000001
+latitude: 41.832
+longitude: -86.358
 ---

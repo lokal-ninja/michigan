@@ -1,6 +1,6 @@
 ---
 title: Smiths Creek
 url: /smiths-creek/
-latitude: 42.9139187
-longitude: -82.6038085
+latitude: 42.909
+longitude: -82.5
 ---

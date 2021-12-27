@@ -1,6 +1,6 @@
 ---
 title: West Bloomfield
 url: /west-bloomfield/
-latitude: 
-longitude: 
+latitude: 42.529
+longitude: -83.363
 ---

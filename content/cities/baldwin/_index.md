@@ -1,6 +1,6 @@
 ---
 title: Baldwin
 url: /baldwin/
-latitude: 43.901123000000005
-longitude: -85.851729
+latitude: 43.927
+longitude: -85.852
 ---

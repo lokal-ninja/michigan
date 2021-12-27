@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /flushing/speedway/
-shop: convenience
+shop: Lebensmittel
 ---
