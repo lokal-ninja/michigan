@@ -1,5 +1,5 @@
 ---
 title: "Meijer"
 url: /flat-rock/meijer/
-shop: Lebensmittel
+shop: Supermarkt
 ---
