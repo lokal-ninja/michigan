@@ -1,5 +1,5 @@
 ---
 title: "Great Crescent Oil"
 url: /ferndale/great-crescent-oil/
-shop: Lebensmittel
+shop: convenience
 ---

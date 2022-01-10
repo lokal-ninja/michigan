@@ -1,5 +1,5 @@
 ---
 title: "EZ Mart"
 url: /winn/ez-mart/
-shop: Lebensmittel
+shop: convenience
 ---

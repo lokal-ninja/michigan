@@ -1,5 +1,5 @@
 ---
 title: "Express Care Valvoline"
 url: /ecorse/express-care-valvoline/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Vincent's Service"
 url: /edenville/vincents-service/
-shop: Lebensmittel
+shop: convenience
 ---

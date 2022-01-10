@@ -1,5 +1,5 @@
 ---
 title: "Deeps Corner Store"
 url: /northport/deeps-corner-store/
-shop: Lebensmittel
+shop: convenience
 ---

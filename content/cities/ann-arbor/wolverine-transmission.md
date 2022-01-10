@@ -1,5 +1,5 @@
 ---
 title: "Wolverine Transmission"
 url: /ann-arbor/wolverine-transmission/
-shop: Autowerkstatt
+shop: car repair
 ---

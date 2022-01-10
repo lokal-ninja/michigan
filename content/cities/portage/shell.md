@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /portage/shell/
-shop: Lebensmittel
+shop: convenience
 ---

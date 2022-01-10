@@ -1,5 +1,5 @@
 ---
 title: "Memorial Alternatives"
 url: /grand-rapids/memorial-alternatives/
-shop: Bestattungen
+shop: funeral directors
 ---

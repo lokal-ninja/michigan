@@ -1,5 +1,5 @@
 ---
 title: "Visions Auto Glass"
 url: /byron-center/visions-auto-glass/
-shop: Autowerkstatt
+shop: car repair
 ---

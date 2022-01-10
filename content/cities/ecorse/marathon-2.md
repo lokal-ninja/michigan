@@ -1,5 +1,5 @@
 ---
 title: "Marathon"
 url: /ecorse/marathon-2/
-shop: Lebensmittel
+shop: convenience
 ---

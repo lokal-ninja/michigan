@@ -1,5 +1,5 @@
 ---
 title: "Angeli's Supermarket"
 url: /iron-river/angelis-supermarket/
-shop: Supermarkt
+shop: supermarket
 ---

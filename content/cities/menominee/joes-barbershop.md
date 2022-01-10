@@ -1,5 +1,5 @@
 ---
 title: "Joe's Barbershop"
 url: /menominee/joes-barbershop/
-shop: Friseur
+shop: hairdresser
 ---

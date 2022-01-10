@@ -1,5 +1,5 @@
 ---
 title: "Wesco"
 url: /grant/wesco/
-shop: Lebensmittel
+shop: convenience
 ---

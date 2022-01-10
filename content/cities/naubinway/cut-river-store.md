@@ -1,5 +1,5 @@
 ---
 title: "Cut River Store"
 url: /naubinway/cut-river-store/
-shop: Lebensmittel
+shop: convenience
 ---

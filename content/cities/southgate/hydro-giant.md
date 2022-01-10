@@ -1,5 +1,5 @@
 ---
 title: "Hydro Giant"
 url: /southgate/hydro-giant/
-shop: Garten-Center
+shop: garden centre
 ---

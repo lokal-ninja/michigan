@@ -1,5 +1,5 @@
 ---
 title: "Belle Tire"
 url: /midland/belle-tire/
-shop: Reifen
+shop: tyres
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Whittico's Collision"
 url: /lincoln-park/whitticos-collision/
-shop: Autowerkstatt
+shop: car repair
 ---

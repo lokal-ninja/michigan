@@ -1,5 +1,5 @@
 ---
 title: "Kassa's Liquor"
 url: /harrison-township/kassas-liquor/
-shop: Lebensmittel
+shop: convenience
 ---

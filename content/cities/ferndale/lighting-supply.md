@@ -1,5 +1,5 @@
 ---
 title: "Lighting Supply"
 url: /ferndale/lighting-supply/
-shop: Elektrisch
+shop: electrical
 ---

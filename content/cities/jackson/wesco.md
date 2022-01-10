@@ -1,5 +1,5 @@
 ---
 title: "Wesco"
 url: /jackson/wesco/
-shop: Lebensmittel
+shop: convenience
 ---

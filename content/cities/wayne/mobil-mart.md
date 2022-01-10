@@ -1,5 +1,5 @@
 ---
 title: "Mobil Mart"
 url: /wayne/mobil-mart/
-shop: Lebensmittel
+shop: convenience
 ---

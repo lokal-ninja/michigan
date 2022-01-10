@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
 url: /kalamazoo/dollar-general-2/
-shop: Kramladen
+shop: variety store
 ---

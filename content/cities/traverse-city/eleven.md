@@ -1,5 +1,5 @@
 ---
 title: "Eleven"
 url: /traverse-city/eleven/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Campus Collission"
 url: /detroit/campus-collission/
-shop: Autowerkstatt
+shop: car repair
 ---

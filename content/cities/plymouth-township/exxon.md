@@ -1,5 +1,5 @@
 ---
 title: "Exxon"
 url: /plymouth-township/exxon/
-shop: Lebensmittel
+shop: convenience
 ---

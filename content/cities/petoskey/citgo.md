@@ -1,5 +1,5 @@
 ---
 title: "Citgo"
 url: /petoskey/citgo/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Citgo"
 url: /sterling-heights/citgo/
-shop: Lebensmittel
+shop: convenience
 ---

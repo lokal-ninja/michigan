@@ -1,5 +1,5 @@
 ---
 title: "Meekof Tire"
 url: /gaylord/meekof-tire/
-shop: Autowerkstatt
+shop: car repair
 ---

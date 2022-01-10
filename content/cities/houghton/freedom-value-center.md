@@ -1,5 +1,5 @@
 ---
 title: "Freedom Value Center"
 url: /houghton/freedom-value-center/
-shop: Lebensmittel
+shop: convenience
 ---

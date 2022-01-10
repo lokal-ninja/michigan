@@ -1,5 +1,5 @@
 ---
 title: "Above All Stylez"
 url: /detroit/above-all-stylez/
-shop: Friseur
+shop: hairdresser
 ---

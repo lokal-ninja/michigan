@@ -1,5 +1,5 @@
 ---
 title: "Shopko"
 url: /kingsford/shopko/
-shop: Warenhaus
+shop: department store
 ---

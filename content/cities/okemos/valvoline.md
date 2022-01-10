@@ -1,5 +1,5 @@
 ---
 title: "Valvoline"
 url: /okemos/valvoline/
-shop: Autowerkstatt
+shop: car repair
 ---

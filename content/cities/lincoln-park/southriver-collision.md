@@ -1,5 +1,5 @@
 ---
 title: "Southriver Collision"
 url: /lincoln-park/southriver-collision/
-shop: Autowerkstatt
+shop: car repair
 ---

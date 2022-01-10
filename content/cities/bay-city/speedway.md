@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /bay-city/speedway/
-shop: Lebensmittel
+shop: convenience
 ---

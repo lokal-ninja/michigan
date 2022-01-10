@@ -1,5 +1,5 @@
 ---
 title: "Rich Oil"
 url: /taylor/rich-oil/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dollar Tree"
 url: /wixom/dollar-tree/
-shop: Kramladen
+shop: variety store
 ---

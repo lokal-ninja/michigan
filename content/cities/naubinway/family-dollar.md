@@ -1,5 +1,5 @@
 ---
 title: "Family Dollar"
 url: /naubinway/family-dollar/
-shop: Kramladen
+shop: variety store
 ---

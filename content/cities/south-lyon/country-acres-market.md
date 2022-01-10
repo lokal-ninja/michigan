@@ -1,5 +1,5 @@
 ---
 title: "Country Acres Market"
 url: /south-lyon/country-acres-market/
-shop: Lebensmittel
+shop: convenience
 ---

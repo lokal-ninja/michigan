@@ -1,5 +1,5 @@
 ---
 title: "Reynolds-Johnkhoff"
 url: /traverse-city/reynolds-johnkhoff/
-shop: Bestattungen
+shop: funeral directors
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lawsons"
 url: /paw-paw/lawsons/
-shop: Lebensmittel
+shop: convenience
 ---

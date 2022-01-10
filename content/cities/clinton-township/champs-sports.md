@@ -1,5 +1,5 @@
 ---
 title: "Champs Sports"
 url: /clinton-township/champs-sports/
-shop: Sport
+shop: sports
 ---

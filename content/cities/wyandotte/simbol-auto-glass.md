@@ -1,5 +1,5 @@
 ---
 title: "simbol Auto Glass"
 url: /wyandotte/simbol-auto-glass/
-shop: Autowerkstatt
+shop: car repair
 ---

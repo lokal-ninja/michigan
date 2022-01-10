@@ -1,5 +1,5 @@
 ---
 title: "Marathon"
 url: /okemos/marathon/
-shop: Lebensmittel
+shop: convenience
 ---

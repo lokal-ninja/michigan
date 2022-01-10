@@ -1,5 +1,5 @@
 ---
 title: "Tuffy"
 url: /ypsilanti/tuffy/
-shop: Autowerkstatt
+shop: car repair
 ---

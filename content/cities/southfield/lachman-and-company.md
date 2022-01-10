@@ -1,5 +1,5 @@
 ---
 title: "Lachman and Company"
 url: /southfield/lachman-and-company/
-shop: Pokal
+shop: trophy
 ---

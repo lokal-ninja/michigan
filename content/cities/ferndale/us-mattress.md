@@ -1,5 +1,5 @@
 ---
 title: "US Mattress"
 url: /ferndale/us-mattress/
-shop: Betten
+shop: bed
 ---

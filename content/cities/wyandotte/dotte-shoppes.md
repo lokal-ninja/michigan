@@ -1,5 +1,5 @@
 ---
 title: "Dotte Shoppes"
 url: /wyandotte/dotte-shoppes/
-shop: Allgemein
+shop: shop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Moosejaw"
 url: /detroit/moosejaw/
-shop: Outdoor
+shop: outdoor
 ---

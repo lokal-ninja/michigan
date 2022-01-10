@@ -1,5 +1,5 @@
 ---
 title: "FASTSIGNS"
 url: /kalamazoo/fastsigns/
-shop: Allgemein
+shop: shop
 ---

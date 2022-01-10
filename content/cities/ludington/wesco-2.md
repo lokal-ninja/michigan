@@ -1,5 +1,5 @@
 ---
 title: "Wesco"
 url: /ludington/wesco-2/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Citgo"
 url: /adrian/citgo/
-shop: Lebensmittel
+shop: convenience
 ---

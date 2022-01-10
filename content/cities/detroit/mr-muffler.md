@@ -1,5 +1,5 @@
 ---
 title: "Mr. Muffler"
 url: /detroit/mr-muffler/
-shop: Autowerkstatt
+shop: car repair
 ---

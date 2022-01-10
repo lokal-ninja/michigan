@@ -1,5 +1,5 @@
 ---
 title: "Barbara Boz Boutique"
 url: /birmingham/barbara-boz-boutique/
-shop: Modehaus
+shop: boutique
 ---

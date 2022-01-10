@@ -1,5 +1,5 @@
 ---
 title: "EZ Mart"
 url: /charlevoix/ez-mart/
-shop: Lebensmittel
+shop: convenience
 ---

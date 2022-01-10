@@ -1,5 +1,5 @@
 ---
 title: "Southland Center"
 url: /taylor/southland-center/
-shop: Einkaufszentrum
+shop: mall
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dollar Tree"
 url: /battle-creek/dollar-tree/
-shop: Kramladen
+shop: variety store
 ---

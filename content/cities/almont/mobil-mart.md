@@ -1,5 +1,5 @@
 ---
 title: "Mobil Mart"
 url: /almont/mobil-mart/
-shop: Lebensmittel
+shop: convenience
 ---

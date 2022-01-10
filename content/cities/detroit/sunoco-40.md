@@ -1,5 +1,5 @@
 ---
 title: "Sunoco"
 url: /detroit/sunoco-40/
-shop: Lebensmittel
+shop: convenience
 ---

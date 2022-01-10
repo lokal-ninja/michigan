@@ -1,5 +1,5 @@
 ---
 title: "Standale Lumber"
 url: /walker/standale-lumber/
-shop: Eisenwaren
+shop: hardware
 ---

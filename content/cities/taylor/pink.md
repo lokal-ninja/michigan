@@ -1,5 +1,5 @@
 ---
 title: "Pink"
 url: /taylor/pink/
-shop: Kleidung
+shop: clothes
 ---

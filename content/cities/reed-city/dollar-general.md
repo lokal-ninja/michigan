@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
 url: /reed-city/dollar-general/
-shop: Kramladen
+shop: variety store
 ---

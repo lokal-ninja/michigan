@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /saginaw/speedway-2/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "House of Dank"
 url: /detroit/house-of-dank/
-shop: Hanf
+shop: cannabis
 ---

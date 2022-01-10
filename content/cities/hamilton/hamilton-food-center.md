@@ -1,5 +1,5 @@
 ---
 title: "Hamilton Food Center"
 url: /hamilton/hamilton-food-center/
-shop: Supermarkt
+shop: supermarket
 ---

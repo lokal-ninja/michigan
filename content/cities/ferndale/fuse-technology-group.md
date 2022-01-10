@@ -1,5 +1,5 @@
 ---
 title: "Fuse Technology Group"
 url: /ferndale/fuse-technology-group/
-shop: Computer
+shop: computer
 ---

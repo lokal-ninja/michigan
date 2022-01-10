@@ -1,5 +1,5 @@
 ---
 title: "Sunoco"
 url: /eastpointe/sunoco/
-shop: Lebensmittel
+shop: convenience
 ---

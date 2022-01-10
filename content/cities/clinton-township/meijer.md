@@ -1,5 +1,5 @@
 ---
 title: "Meijer"
 url: /clinton-township/meijer/
-shop: Lebensmittel
+shop: convenience
 ---

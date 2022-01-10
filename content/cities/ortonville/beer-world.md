@@ -1,5 +1,5 @@
 ---
 title: "Beer World"
 url: /ortonville/beer-world/
-shop: Spirituosen
+shop: alcohol
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Adam's Service Station"
 url: /croswell/adams-service-station/
-shop: Autowerkstatt
+shop: car repair
 ---

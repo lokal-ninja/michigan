@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
 url: /okemos/verizon/
-shop: Handy
+shop: mobile phone
 ---

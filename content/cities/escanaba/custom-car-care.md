@@ -1,5 +1,5 @@
 ---
 title: "Custom Car Care"
 url: /escanaba/custom-car-care/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sunoco"
 url: /farmington/sunoco/
-shop: Lebensmittel
+shop: convenience
 ---

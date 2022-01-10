@@ -1,5 +1,5 @@
 ---
 title: "Marathon"
 url: /belding/marathon/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "River Valley Auto Group"
 url: /rockford/river-valley-auto-group/
-shop: Autowerkstatt
+shop: car repair
 ---

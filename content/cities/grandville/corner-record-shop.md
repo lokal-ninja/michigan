@@ -1,5 +1,5 @@
 ---
 title: "Corner Record Shop"
 url: /grandville/corner-record-shop/
-shop: Instrumente
+shop: musical instrument
 ---

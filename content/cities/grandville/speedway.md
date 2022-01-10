@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /grandville/speedway/
-shop: Lebensmittel
+shop: convenience
 ---

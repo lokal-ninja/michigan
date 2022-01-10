@@ -1,5 +1,5 @@
 ---
 title: "Bellybusters"
 url: /livonia/bellybusters/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Absolute Gallery"
 url: /lansing/absolute-gallery/
-shop: Kunst
+shop: art
 ---

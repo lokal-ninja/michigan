@@ -1,5 +1,5 @@
 ---
 title: "Marathon"
 url: /lapeer/marathon/
-shop: Lebensmittel
+shop: convenience
 ---

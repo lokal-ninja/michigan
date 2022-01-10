@@ -1,5 +1,5 @@
 ---
 title: "CVS Pharmacy"
 url: /royal-oak/cvs-pharmacy/
-shop: Drogerie
+shop: chemist
 ---

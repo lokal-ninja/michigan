@@ -1,5 +1,5 @@
 ---
 title: "Summit Sports"
 url: /bloomfield-hills/summit-sports/
-shop: Sport
+shop: sports
 ---

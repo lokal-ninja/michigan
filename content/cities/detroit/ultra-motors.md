@@ -1,5 +1,5 @@
 ---
 title: "Ultra Motors"
 url: /detroit/ultra-motors/
-shop: Autowerkstatt
+shop: car repair
 ---

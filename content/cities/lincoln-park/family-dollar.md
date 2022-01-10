@@ -1,5 +1,5 @@
 ---
 title: "Family Dollar"
 url: /lincoln-park/family-dollar/
-shop: Kramladen
+shop: variety store
 ---

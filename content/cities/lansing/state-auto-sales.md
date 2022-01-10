@@ -1,5 +1,5 @@
 ---
 title: "State Auto Sales"
 url: /lansing/state-auto-sales/
-shop: Autohaus
+shop: car
 ---

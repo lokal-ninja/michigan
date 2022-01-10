@@ -1,5 +1,5 @@
 ---
 title: "Dollar Tree"
 url: /clinton-township/dollar-tree-4/
-shop: Kramladen
+shop: variety store
 ---

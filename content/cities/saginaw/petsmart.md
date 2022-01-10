@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
 url: /saginaw/petsmart/
-shop: Tiere
+shop: pet
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Verizon Wireless"
 url: /flat-rock/verizon-wireless/
-shop: Handy
+shop: mobile phone
 ---

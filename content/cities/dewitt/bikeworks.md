@@ -1,5 +1,5 @@
 ---
 title: "Bikeworks"
 url: /dewitt/bikeworks/
-shop: Fahrrad
+shop: bicycle
 ---

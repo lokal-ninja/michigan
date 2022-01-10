@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /clarkston/shell/
-shop: Lebensmittel
+shop: convenience
 ---

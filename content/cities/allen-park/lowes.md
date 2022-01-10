@@ -1,5 +1,5 @@
 ---
 title: "Lowe's"
 url: /allen-park/lowes/
-shop: Baumarkt
+shop: doityourself
 ---

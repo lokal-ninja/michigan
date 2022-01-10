@@ -1,5 +1,5 @@
 ---
 title: "One Hour Martinizing"
 url: /southgate/one-hour-martinizing/
-shop: Wäscherei
+shop: laundry
 ---

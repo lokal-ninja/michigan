@@ -1,5 +1,5 @@
 ---
 title: "Sunoco"
 url: /lapeer/sunoco/
-shop: Lebensmittel
+shop: convenience
 ---

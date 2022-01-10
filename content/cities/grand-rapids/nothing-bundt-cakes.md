@@ -1,5 +1,5 @@
 ---
 title: "Nothing Bundt Cakes"
 url: /grand-rapids/nothing-bundt-cakes/
-shop: Bäckerei
+shop: bakery
 ---

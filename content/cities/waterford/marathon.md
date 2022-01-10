@@ -1,5 +1,5 @@
 ---
 title: "Marathon"
 url: /waterford/marathon/
-shop: Lebensmittel
+shop: convenience
 ---

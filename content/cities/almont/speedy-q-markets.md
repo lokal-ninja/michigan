@@ -1,5 +1,5 @@
 ---
 title: "Speedy Q Markets"
 url: /almont/speedy-q-markets/
-shop: Lebensmittel
+shop: convenience
 ---

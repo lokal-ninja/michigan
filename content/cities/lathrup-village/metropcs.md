@@ -1,5 +1,5 @@
 ---
 title: "MetroPCS"
 url: /lathrup-village/metropcs/
-shop: Handy
+shop: mobile phone
 ---

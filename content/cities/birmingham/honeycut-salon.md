@@ -1,5 +1,5 @@
 ---
 title: "Honeycut Salon"
 url: /birmingham/honeycut-salon/
-shop: Friseur
+shop: hairdresser
 ---

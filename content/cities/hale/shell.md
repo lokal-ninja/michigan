@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /hale/shell/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Meijer"
 url: /sturgis/meijer/
-shop: Lebensmittel
+shop: convenience
 ---

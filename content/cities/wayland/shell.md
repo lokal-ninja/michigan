@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /wayland/shell/
-shop: Lebensmittel
+shop: convenience
 ---

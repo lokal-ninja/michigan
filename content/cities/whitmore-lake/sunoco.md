@@ -1,5 +1,5 @@
 ---
 title: "Sunoco"
 url: /whitmore-lake/sunoco/
-shop: Lebensmittel
+shop: convenience
 ---

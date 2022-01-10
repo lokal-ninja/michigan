@@ -1,5 +1,5 @@
 ---
 title: "Family Video"
 url: /traverse-city/family-video/
-shop: Videothek
+shop: video
 ---

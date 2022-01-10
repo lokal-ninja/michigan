@@ -1,5 +1,5 @@
 ---
 title: "MI Stop"
 url: /alpena/mi-stop/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "BP Shop"
 url: /waterford/bp-shop-3/
-shop: Lebensmittel
+shop: convenience
 ---

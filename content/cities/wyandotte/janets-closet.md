@@ -1,5 +1,5 @@
 ---
 title: "Janet's Closet"
 url: /wyandotte/janets-closet/
-shop: Kleidung
+shop: clothes
 ---

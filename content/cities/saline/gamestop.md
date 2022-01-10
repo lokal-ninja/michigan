@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
 url: /saline/gamestop/
-shop: Videospiele
+shop: video games
 ---

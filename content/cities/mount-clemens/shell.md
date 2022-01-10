@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /mount-clemens/shell/
-shop: Lebensmittel
+shop: convenience
 ---

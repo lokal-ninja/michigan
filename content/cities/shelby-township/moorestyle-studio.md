@@ -1,5 +1,5 @@
 ---
 title: "MooreStyle Studio"
 url: /shelby-township/moorestyle-studio/
-shop: Friseur
+shop: hairdresser
 ---

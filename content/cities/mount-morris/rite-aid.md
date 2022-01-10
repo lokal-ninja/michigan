@@ -1,5 +1,5 @@
 ---
 title: "Rite Aid"
 url: /mount-morris/rite-aid/
-shop: Drogerie
+shop: chemist
 ---

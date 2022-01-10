@@ -1,5 +1,5 @@
 ---
 title: "Kmart"
 url: /marshall/kmart/
-shop: Warenhaus
+shop: department store
 ---

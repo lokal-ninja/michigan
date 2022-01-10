@@ -1,5 +1,5 @@
 ---
 title: "Marathon"
 url: /southfield/marathon-2/
-shop: Lebensmittel
+shop: convenience
 ---

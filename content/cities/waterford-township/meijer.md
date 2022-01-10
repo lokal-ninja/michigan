@@ -1,5 +1,5 @@
 ---
 title: "Meijer"
 url: /waterford-township/meijer/
-shop: Supermarkt
+shop: supermarket
 ---

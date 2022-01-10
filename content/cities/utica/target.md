@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /utica/target/
-shop: Warenhaus
+shop: department store
 ---

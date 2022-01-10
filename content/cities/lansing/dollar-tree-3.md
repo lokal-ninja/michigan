@@ -1,5 +1,5 @@
 ---
 title: "Dollar Tree"
 url: /lansing/dollar-tree-3/
-shop: Kramladen
+shop: variety store
 ---

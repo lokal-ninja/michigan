@@ -1,5 +1,5 @@
 ---
 title: "Holiday"
 url: /munising/holiday/
-shop: Lebensmittel
+shop: convenience
 ---

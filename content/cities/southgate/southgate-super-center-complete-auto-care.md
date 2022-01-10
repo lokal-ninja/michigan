@@ -1,5 +1,5 @@
 ---
 title: "Southgate Super Center Complete Auto Care"
 url: /southgate/southgate-super-center-complete-auto-care/
-shop: Autowerkstatt
+shop: car repair
 ---

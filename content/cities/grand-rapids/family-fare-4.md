@@ -1,5 +1,5 @@
 ---
 title: "Family Fare"
 url: /grand-rapids/family-fare-4/
-shop: Supermarkt
+shop: supermarket
 ---

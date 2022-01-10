@@ -1,5 +1,5 @@
 ---
 title: "Dollar Tree"
 url: /south-lyon/dollar-tree/
-shop: Kramladen
+shop: variety store
 ---

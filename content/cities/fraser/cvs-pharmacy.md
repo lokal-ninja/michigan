@@ -1,5 +1,5 @@
 ---
 title: "CVS Pharmacy"
 url: /fraser/cvs-pharmacy/
-shop: Drogerie
+shop: chemist
 ---

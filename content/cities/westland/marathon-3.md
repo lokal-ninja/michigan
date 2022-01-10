@@ -1,5 +1,5 @@
 ---
 title: "Marathon"
 url: /westland/marathon-3/
-shop: Lebensmittel
+shop: convenience
 ---

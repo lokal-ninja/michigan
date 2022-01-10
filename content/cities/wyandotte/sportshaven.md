@@ -1,5 +1,5 @@
 ---
 title: "SportsHaven"
 url: /wyandotte/sportshaven/
-shop: Kleidung
+shop: clothes
 ---

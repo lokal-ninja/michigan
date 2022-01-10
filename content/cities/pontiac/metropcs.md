@@ -1,5 +1,5 @@
 ---
 title: "MetroPCS"
 url: /pontiac/metropcs/
-shop: Handy
+shop: mobile phone
 ---

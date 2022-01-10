@@ -1,5 +1,5 @@
 ---
 title: "Sunoco"
 url: /saranac/sunoco/
-shop: Lebensmittel
+shop: convenience
 ---

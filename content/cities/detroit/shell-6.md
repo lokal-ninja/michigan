@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /detroit/shell-6/
-shop: Lebensmittel
+shop: convenience
 ---

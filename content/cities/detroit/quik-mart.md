@@ -1,5 +1,5 @@
 ---
 title: "Quik Mart"
 url: /detroit/quik-mart/
-shop: Lebensmittel
+shop: convenience
 ---

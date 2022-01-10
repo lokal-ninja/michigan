@@ -1,5 +1,5 @@
 ---
 title: "MetroPCS"
 url: /farmington-hills/metropcs/
-shop: Handy
+shop: mobile phone
 ---

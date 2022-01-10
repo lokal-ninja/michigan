@@ -1,5 +1,5 @@
 ---
 title: "Orrin B. Hayes"
 url: /kalamazoo/orrin-b-hayes/
-shop: Autohaus
+shop: car
 ---

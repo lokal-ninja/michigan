@@ -1,5 +1,5 @@
 ---
 title: "Salloum Inc"
 url: /clawson/salloum-inc/
-shop: Lebensmittel
+shop: convenience
 ---

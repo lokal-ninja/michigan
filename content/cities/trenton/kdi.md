@@ -1,5 +1,5 @@
 ---
 title: "KDI"
 url: /trenton/kdi/
-shop: Möbel
+shop: furniture
 ---

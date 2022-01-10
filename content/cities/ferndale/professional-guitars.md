@@ -1,5 +1,5 @@
 ---
 title: "Professional Guitars"
 url: /ferndale/professional-guitars/
-shop: Instrumente
+shop: musical instrument
 ---

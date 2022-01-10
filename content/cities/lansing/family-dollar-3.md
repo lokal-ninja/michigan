@@ -1,5 +1,5 @@
 ---
 title: "Family Dollar"
 url: /lansing/family-dollar-3/
-shop: Kramladen
+shop: variety store
 ---

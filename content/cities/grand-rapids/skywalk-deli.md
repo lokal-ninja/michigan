@@ -1,5 +1,5 @@
 ---
 title: "Skywalk Deli"
 url: /grand-rapids/skywalk-deli/
-shop: Feinkost
+shop: deli
 ---

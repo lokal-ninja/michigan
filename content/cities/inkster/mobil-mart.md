@@ -1,5 +1,5 @@
 ---
 title: "Mobil Mart"
 url: /inkster/mobil-mart/
-shop: Lebensmittel
+shop: convenience
 ---

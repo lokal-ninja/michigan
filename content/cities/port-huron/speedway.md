@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /port-huron/speedway/
-shop: Lebensmittel
+shop: convenience
 ---

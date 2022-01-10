@@ -1,5 +1,5 @@
 ---
 title: "Fleet Auto Body Inc"
 url: /riverview/fleet-auto-body-inc/
-shop: Autowerkstatt
+shop: car repair
 ---

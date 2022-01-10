@@ -1,5 +1,5 @@
 ---
 title: "Genthe Honda"
 url: /southgate/genthe-honda/
-shop: Autohaus
+shop: car
 ---

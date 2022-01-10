@@ -1,5 +1,5 @@
 ---
 title: "Sunoco"
 url: /ypsilanti/sunoco/
-shop: Lebensmittel
+shop: convenience
 ---

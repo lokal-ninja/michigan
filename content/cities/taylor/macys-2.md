@@ -1,5 +1,5 @@
 ---
 title: "Macy's"
 url: /taylor/macys-2/
-shop: Warenhaus
+shop: department store
 ---

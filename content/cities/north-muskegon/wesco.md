@@ -1,5 +1,5 @@
 ---
 title: "Wesco"
 url: /north-muskegon/wesco/
-shop: Lebensmittel
+shop: convenience
 ---

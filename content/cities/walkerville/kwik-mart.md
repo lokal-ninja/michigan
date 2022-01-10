@@ -1,5 +1,5 @@
 ---
 title: "Kwik Mart"
 url: /walkerville/kwik-mart/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Marathon"
 url: /williamsburg/marathon/
-shop: Lebensmittel
+shop: convenience
 ---

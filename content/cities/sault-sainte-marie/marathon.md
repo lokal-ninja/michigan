@@ -1,5 +1,5 @@
 ---
 title: "Marathon"
 url: /sault-sainte-marie/marathon/
-shop: Lebensmittel
+shop: convenience
 ---

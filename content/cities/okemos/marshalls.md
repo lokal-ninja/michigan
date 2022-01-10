@@ -1,5 +1,5 @@
 ---
 title: "Marshalls"
 url: /okemos/marshalls/
-shop: Warenhaus
+shop: department store
 ---

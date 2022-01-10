@@ -1,5 +1,5 @@
 ---
 title: "Meijer"
 url: /dewitt/meijer/
-shop: Lebensmittel
+shop: convenience
 ---

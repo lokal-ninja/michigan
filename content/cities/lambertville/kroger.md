@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
 url: /lambertville/kroger/
-shop: Lebensmittel
+shop: convenience
 ---

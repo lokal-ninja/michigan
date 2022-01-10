@@ -1,5 +1,5 @@
 ---
 title: "Marathon"
 url: /saugatuck/marathon/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Pri Mart"
 url: /buchanan/pri-mart/
-shop: Lebensmittel
+shop: convenience
 ---

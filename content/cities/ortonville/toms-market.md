@@ -1,5 +1,5 @@
 ---
 title: "Tom's Market"
 url: /ortonville/toms-market/
-shop: Lebensmittel
+shop: convenience
 ---

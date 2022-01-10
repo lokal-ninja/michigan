@@ -1,5 +1,5 @@
 ---
 title: "Southgate Ford"
 url: /southgate/southgate-ford/
-shop: Autohaus
+shop: car
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Auto-Lab"
 url: /woodhaven/auto-lab/
-shop: Autowerkstatt
+shop: car repair
 ---

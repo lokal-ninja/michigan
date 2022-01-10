@@ -1,5 +1,5 @@
 ---
 title: "Admiral Petroleum"
 url: /east-lansing/admiral-petroleum/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Speedy Q"
 url: /sandusky/speedy-q/
-shop: Lebensmittel
+shop: convenience
 ---

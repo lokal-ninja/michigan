@@ -1,5 +1,5 @@
 ---
 title: "WOW!"
 url: /brownstown/wow/
-shop: Lebensmittel
+shop: convenience
 ---

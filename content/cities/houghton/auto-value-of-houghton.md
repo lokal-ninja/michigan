@@ -1,5 +1,5 @@
 ---
 title: "Auto Value of Houghton"
 url: /houghton/auto-value-of-houghton/
-shop: Autoteile
+shop: car parts
 ---

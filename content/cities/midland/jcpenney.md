@@ -1,5 +1,5 @@
 ---
 title: "JCPenney"
 url: /midland/jcpenney/
-shop: Warenhaus
+shop: department store
 ---

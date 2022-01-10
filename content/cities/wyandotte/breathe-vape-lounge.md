@@ -1,5 +1,5 @@
 ---
 title: "Breathe Vape Lounge"
 url: /wyandotte/breathe-vape-lounge/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

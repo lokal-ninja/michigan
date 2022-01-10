@@ -1,5 +1,5 @@
 ---
 title: "Marathon Custer"
 url: /monroe/marathon-custer/
-shop: Lebensmittel
+shop: convenience
 ---

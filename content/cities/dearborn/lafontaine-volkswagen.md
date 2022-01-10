@@ -1,5 +1,5 @@
 ---
 title: "LaFontaine Volkswagen"
 url: /dearborn/lafontaine-volkswagen/
-shop: Autohaus
+shop: car
 ---

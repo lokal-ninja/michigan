@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
 url: /flint/kroger/
-shop: Supermarkt
+shop: supermarket
 ---

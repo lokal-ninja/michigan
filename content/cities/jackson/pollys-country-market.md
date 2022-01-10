@@ -1,5 +1,5 @@
 ---
 title: "Polly's Country Market"
 url: /jackson/pollys-country-market/
-shop: Supermarkt
+shop: supermarket
 ---

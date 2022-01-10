@@ -1,5 +1,5 @@
 ---
 title: "McQuiston Motors"
 url: /wyandotte/mcquiston-motors/
-shop: Autohaus
+shop: car
 ---

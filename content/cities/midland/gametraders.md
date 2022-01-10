@@ -1,5 +1,5 @@
 ---
 title: "Gametraders"
 url: /midland/gametraders/
-shop: Spiele
+shop: games
 ---

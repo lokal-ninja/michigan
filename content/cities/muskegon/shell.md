@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /muskegon/shell/
-shop: Lebensmittel
+shop: convenience
 ---

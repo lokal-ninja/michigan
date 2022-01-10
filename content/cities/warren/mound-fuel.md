@@ -1,5 +1,5 @@
 ---
 title: "Mound Fuel"
 url: /warren/mound-fuel/
-shop: Lebensmittel
+shop: convenience
 ---

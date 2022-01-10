@@ -1,5 +1,5 @@
 ---
 title: "Food Mart"
 url: /grayling/food-mart/
-shop: Lebensmittel
+shop: convenience
 ---

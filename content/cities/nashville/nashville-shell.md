@@ -1,5 +1,5 @@
 ---
 title: "Nashville Shell"
 url: /nashville/nashville-shell/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kohl's"
 url: /woodhaven/kohls/
-shop: Warenhaus
+shop: department store
 ---

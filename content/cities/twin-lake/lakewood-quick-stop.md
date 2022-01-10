@@ -1,5 +1,5 @@
 ---
 title: "Lakewood Quick Stop"
 url: /twin-lake/lakewood-quick-stop/
-shop: Lebensmittel
+shop: convenience
 ---

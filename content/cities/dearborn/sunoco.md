@@ -1,5 +1,5 @@
 ---
 title: "Sunoco"
 url: /dearborn/sunoco/
-shop: Lebensmittel
+shop: convenience
 ---

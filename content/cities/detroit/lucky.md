@@ -1,5 +1,5 @@
 ---
 title: "Lucky"
 url: /detroit/lucky/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Belleville Shell"
 url: /belleville/belleville-shell/
-shop: Lebensmittel
+shop: convenience
 ---

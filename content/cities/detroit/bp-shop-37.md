@@ -1,5 +1,5 @@
 ---
 title: "BP Shop"
 url: /detroit/bp-shop-37/
-shop: Lebensmittel
+shop: convenience
 ---

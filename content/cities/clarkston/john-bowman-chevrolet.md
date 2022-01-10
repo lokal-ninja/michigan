@@ -1,5 +1,5 @@
 ---
 title: "John Bowman Chevrolet"
 url: /clarkston/john-bowman-chevrolet/
-shop: Autohaus
+shop: car
 ---

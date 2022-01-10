@@ -1,5 +1,5 @@
 ---
 title: "Joslyn Shell"
 url: /pontiac/joslyn-shell/
-shop: Lebensmittel
+shop: convenience
 ---

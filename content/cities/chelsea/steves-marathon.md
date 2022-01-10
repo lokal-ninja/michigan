@@ -1,5 +1,5 @@
 ---
 title: "Steve's Marathon"
 url: /chelsea/steves-marathon/
-shop: Lebensmittel
+shop: convenience
 ---

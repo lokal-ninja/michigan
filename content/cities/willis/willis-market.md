@@ -1,5 +1,5 @@
 ---
 title: "Willis Market"
 url: /willis/willis-market/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Jacobsons Funeral Home"
 url: /lanse/jacobsons-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

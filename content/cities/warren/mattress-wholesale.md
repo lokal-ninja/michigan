@@ -1,5 +1,5 @@
 ---
 title: "Mattress Wholesale"
 url: /warren/mattress-wholesale/
-shop: Betten
+shop: bed
 ---

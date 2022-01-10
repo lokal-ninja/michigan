@@ -1,5 +1,5 @@
 ---
 title: "Crams General Store"
 url: /marquette/crams-general-store/
-shop: Lebensmittel
+shop: convenience
 ---

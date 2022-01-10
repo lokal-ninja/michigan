@@ -1,5 +1,5 @@
 ---
 title: "Highland BP"
 url: /milford/highland-bp/
-shop: Lebensmittel
+shop: convenience
 ---

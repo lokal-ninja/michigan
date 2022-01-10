@@ -1,5 +1,5 @@
 ---
 title: "Menards"
 url: /pontiac/menards/
-shop: Baumarkt
+shop: doityourself
 ---

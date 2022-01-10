@@ -1,5 +1,5 @@
 ---
 title: "Rahillys IGA"
 url: /newberry/rahillys-iga/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Flowerland"
 url: /comstock-park/flowerland/
-shop: Garten-Center
+shop: garden centre
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Oryana West"
 url: /traverse-city/oryana-west/
-shop: Supermarkt
+shop: supermarket
 ---

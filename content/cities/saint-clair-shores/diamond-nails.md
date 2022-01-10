@@ -1,5 +1,5 @@
 ---
 title: "Diamond Nails"
 url: /saint-clair-shores/diamond-nails/
-shop: Kosmetik
+shop: beauty
 ---

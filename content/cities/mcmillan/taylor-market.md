@@ -1,5 +1,5 @@
 ---
 title: "Taylor Market"
 url: /mcmillan/taylor-market/
-shop: Lebensmittel
+shop: convenience
 ---

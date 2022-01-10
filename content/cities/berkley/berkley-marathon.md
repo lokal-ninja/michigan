@@ -1,5 +1,5 @@
 ---
 title: "Berkley Marathon"
 url: /berkley/berkley-marathon/
-shop: Lebensmittel
+shop: convenience
 ---

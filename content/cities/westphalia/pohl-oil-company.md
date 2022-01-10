@@ -1,5 +1,5 @@
 ---
 title: "Pohl Oil Company"
 url: /westphalia/pohl-oil-company/
-shop: Lebensmittel
+shop: convenience
 ---

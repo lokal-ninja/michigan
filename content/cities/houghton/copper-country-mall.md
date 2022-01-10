@@ -1,5 +1,5 @@
 ---
 title: "Copper Country Mall"
 url: /houghton/copper-country-mall/
-shop: Einkaufszentrum
+shop: mall
 ---

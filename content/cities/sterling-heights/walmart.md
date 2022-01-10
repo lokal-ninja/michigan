@@ -1,5 +1,5 @@
 ---
 title: "Walmart"
 url: /sterling-heights/walmart/
-shop: Warenhaus
+shop: department store
 ---

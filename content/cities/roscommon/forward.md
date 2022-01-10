@@ -1,5 +1,5 @@
 ---
 title: "Forward"
 url: /roscommon/forward/
-shop: Lebensmittel
+shop: convenience
 ---

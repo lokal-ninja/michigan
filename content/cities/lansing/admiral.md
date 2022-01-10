@@ -1,5 +1,5 @@
 ---
 title: "Admiral"
 url: /lansing/admiral/
-shop: Lebensmittel
+shop: convenience
 ---

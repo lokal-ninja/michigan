@@ -1,5 +1,5 @@
 ---
 title: "Busch's"
 url: /plymouth/buschs/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Leonards Best Hardware"
 url: /laingsburg/leonards-best-hardware/
-shop: Eisenwaren
+shop: hardware
 ---

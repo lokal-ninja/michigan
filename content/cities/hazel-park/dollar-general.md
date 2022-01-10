@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
 url: /hazel-park/dollar-general/
-shop: Kramladen
+shop: variety store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Norcal Foods"
 url: /fountain/norcal-foods/
-shop: Lebensmittel
+shop: convenience
 ---

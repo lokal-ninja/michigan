@@ -1,5 +1,5 @@
 ---
 title: "Wesco"
 url: /greenville/wesco/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sunoco"
 url: /livonia/sunoco-6/
-shop: Lebensmittel
+shop: convenience
 ---

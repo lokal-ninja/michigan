@@ -1,5 +1,5 @@
 ---
 title: "Black Ball Tattoo"
 url: /midland/black-ball-tattoo/
-shop: Tattoo
+shop: tattoo
 ---

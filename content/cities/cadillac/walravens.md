@@ -1,5 +1,5 @@
 ---
 title: "Walraven's"
 url: /cadillac/walravens/
-shop: Gemüse & Obst
+shop: greengrocer
 ---

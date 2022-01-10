@@ -1,5 +1,5 @@
 ---
 title: "Heeney-Sundquist Funeral Home"
 url: /farmington/heeney-sundquist-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

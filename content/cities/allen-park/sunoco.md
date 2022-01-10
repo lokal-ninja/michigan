@@ -1,5 +1,5 @@
 ---
 title: "Sunoco"
 url: /allen-park/sunoco/
-shop: Lebensmittel
+shop: convenience
 ---

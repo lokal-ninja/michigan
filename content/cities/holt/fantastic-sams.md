@@ -1,5 +1,5 @@
 ---
 title: "Fantastic Sams"
 url: /holt/fantastic-sams/
-shop: Friseur
+shop: hairdresser
 ---

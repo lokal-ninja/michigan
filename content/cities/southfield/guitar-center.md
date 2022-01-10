@@ -1,5 +1,5 @@
 ---
 title: "Guitar Center"
 url: /southfield/guitar-center/
-shop: Instrumente
+shop: musical instrument
 ---

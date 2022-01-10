@@ -1,5 +1,5 @@
 ---
 title: "Sawall Health food"
 url: /kalamazoo/sawall-health-food/
-shop: Bioladen
+shop: health food
 ---

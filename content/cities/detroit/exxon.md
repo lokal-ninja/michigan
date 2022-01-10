@@ -1,5 +1,5 @@
 ---
 title: "Exxon"
 url: /detroit/exxon/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Marathon"
 url: /flushing/marathon-2/
-shop: Lebensmittel
+shop: convenience
 ---

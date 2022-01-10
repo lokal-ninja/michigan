@@ -1,5 +1,5 @@
 ---
 title: "Davi Nails"
 url: /jackson/davi-nails/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Payless Market"
 url: /detroit/payless-market/
-shop: Spirituosen
+shop: alcohol
 ---

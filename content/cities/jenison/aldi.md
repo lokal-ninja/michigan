@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /jenison/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

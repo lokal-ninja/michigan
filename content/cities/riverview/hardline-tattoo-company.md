@@ -1,5 +1,5 @@
 ---
 title: "Hardline Tattoo Company"
 url: /riverview/hardline-tattoo-company/
-shop: Tattoo
+shop: tattoo
 ---

@@ -1,5 +1,5 @@
 ---
 title: "CubeSmart"
 url: /southgate/cubesmart/
-shop: Mieten
+shop: storage rental
 ---

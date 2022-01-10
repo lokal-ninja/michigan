@@ -1,5 +1,5 @@
 ---
 title: "Family Fare"
 url: /hastings/family-fare/
-shop: Supermarkt
+shop: supermarket
 ---

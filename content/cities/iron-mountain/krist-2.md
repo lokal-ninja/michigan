@@ -1,5 +1,5 @@
 ---
 title: "Krist"
 url: /iron-mountain/krist-2/
-shop: Lebensmittel
+shop: convenience
 ---

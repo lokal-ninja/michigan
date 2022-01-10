@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /wayland/autozone/
-shop: Autoteile
+shop: car parts
 ---

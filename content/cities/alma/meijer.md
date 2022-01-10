@@ -1,5 +1,5 @@
 ---
 title: "Meijer"
 url: /alma/meijer/
-shop: Lebensmittel
+shop: convenience
 ---

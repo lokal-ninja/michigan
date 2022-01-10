@@ -1,5 +1,5 @@
 ---
 title: "Bob Service Center"
 url: /warren/bob-service-center/
-shop: Autowerkstatt
+shop: car repair
 ---

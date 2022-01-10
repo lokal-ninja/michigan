@@ -1,5 +1,5 @@
 ---
 title: "Meijer"
 url: /grand-haven/meijer/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "The Wine Tasters"
 url: /farmington-hills/the-wine-tasters/
-shop: Spirituosen
+shop: alcohol
 ---

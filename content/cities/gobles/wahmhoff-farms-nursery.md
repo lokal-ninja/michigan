@@ -1,5 +1,5 @@
 ---
 title: "Wahmhoff Farms Nursery"
 url: /gobles/wahmhoff-farms-nursery/
-shop: Hofladen
+shop: farm
 ---

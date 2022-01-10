@@ -1,5 +1,5 @@
 ---
 title: "Maple Hill Auto Group"
 url: /kalamazoo/maple-hill-auto-group/
-shop: Autohaus
+shop: car
 ---

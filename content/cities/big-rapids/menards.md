@@ -1,5 +1,5 @@
 ---
 title: "Menards"
 url: /big-rapids/menards/
-shop: Baumarkt
+shop: doityourself
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /dearborn/shell/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "MetroPCS"
 url: /ann-arbor/metropcs/
-shop: Handy
+shop: mobile phone
 ---

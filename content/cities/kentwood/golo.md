@@ -1,5 +1,5 @@
 ---
 title: "GoLo"
 url: /kentwood/golo/
-shop: Lebensmittel
+shop: convenience
 ---

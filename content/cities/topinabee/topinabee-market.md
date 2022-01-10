@@ -1,5 +1,5 @@
 ---
 title: "Topinabee Market"
 url: /topinabee/topinabee-market/
-shop: Lebensmittel
+shop: convenience
 ---

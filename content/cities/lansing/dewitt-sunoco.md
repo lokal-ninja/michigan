@@ -1,5 +1,5 @@
 ---
 title: "Dewitt Sunoco"
 url: /lansing/dewitt-sunoco/
-shop: Lebensmittel
+shop: convenience
 ---

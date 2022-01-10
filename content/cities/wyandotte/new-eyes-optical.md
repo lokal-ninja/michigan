@@ -1,5 +1,5 @@
 ---
 title: "New Eyes Optical"
 url: /wyandotte/new-eyes-optical/
-shop: Optiker
+shop: optician
 ---

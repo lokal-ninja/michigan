@@ -1,5 +1,5 @@
 ---
 title: "Velvet Nail Lounge"
 url: /troy/velvet-nail-lounge/
-shop: Allgemein
+shop: shop
 ---

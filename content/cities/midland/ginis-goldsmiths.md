@@ -1,5 +1,5 @@
 ---
 title: "Ginis Goldsmiths"
 url: /midland/ginis-goldsmiths/
-shop: Schmuck
+shop: jewelry
 ---

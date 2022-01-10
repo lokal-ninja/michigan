@@ -1,5 +1,5 @@
 ---
 title: "Metro Tire Center"
 url: /clinton-township/metro-tire-center/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Buckle"
 url: /taylor/buckle/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Pro Golf Discount"
 url: /southgate/pro-golf-discount/
-shop: Sport
+shop: sports
 ---

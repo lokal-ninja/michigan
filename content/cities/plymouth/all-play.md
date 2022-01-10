@@ -1,5 +1,5 @@
 ---
 title: "All Play"
 url: /plymouth/all-play/
-shop: Spiele
+shop: games
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dumont Lake Outpost"
 url: /allegan/dumont-lake-outpost/
-shop: Lebensmittel
+shop: convenience
 ---

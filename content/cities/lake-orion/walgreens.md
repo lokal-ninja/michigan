@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /lake-orion/walgreens/
-shop: Drogerie
+shop: chemist
 ---

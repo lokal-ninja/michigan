@@ -1,5 +1,5 @@
 ---
 title: "Reno's Car Care"
 url: /sault-ste-marie/renos-car-care/
-shop: Autowerkstatt
+shop: car repair
 ---

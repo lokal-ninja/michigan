@@ -1,5 +1,5 @@
 ---
 title: "Wesco"
 url: /watervliet/wesco/
-shop: Lebensmittel
+shop: convenience
 ---

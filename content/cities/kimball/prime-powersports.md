@@ -1,5 +1,5 @@
 ---
 title: "Prime Powersports"
 url: /kimball/prime-powersports/
-shop: Motorrad
+shop: motorcycle
 ---

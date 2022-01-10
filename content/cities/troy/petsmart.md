@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
 url: /troy/petsmart/
-shop: Tiere
+shop: pet
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kmart"
 url: /roseville/kmart/
-shop: Warenhaus
+shop: department store
 ---

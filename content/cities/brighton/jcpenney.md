@@ -1,5 +1,5 @@
 ---
 title: "JCPenney"
 url: /brighton/jcpenney/
-shop: Warenhaus
+shop: department store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tiger Mart"
 url: /taylor/tiger-mart-2/
-shop: Lebensmittel
+shop: convenience
 ---

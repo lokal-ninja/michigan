@@ -1,5 +1,5 @@
 ---
 title: "Johnny's"
 url: /homer/johnnys/
-shop: Lebensmittel
+shop: convenience
 ---

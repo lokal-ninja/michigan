@@ -1,5 +1,5 @@
 ---
 title: "Krist"
 url: /negaunee/krist/
-shop: Lebensmittel
+shop: convenience
 ---

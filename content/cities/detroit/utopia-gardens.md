@@ -1,5 +1,5 @@
 ---
 title: "Utopia Gardens"
 url: /detroit/utopia-gardens/
-shop: Hanf
+shop: cannabis
 ---

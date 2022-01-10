@@ -1,5 +1,5 @@
 ---
 title: "Carl's Furniture"
 url: /wyandotte/carls-furniture/
-shop: Möbel
+shop: furniture
 ---

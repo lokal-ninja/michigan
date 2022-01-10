@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /southgate/michaels/
-shop: Basteln
+shop: craft
 ---

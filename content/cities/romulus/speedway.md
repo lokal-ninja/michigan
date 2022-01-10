@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /romulus/speedway/
-shop: Lebensmittel
+shop: convenience
 ---

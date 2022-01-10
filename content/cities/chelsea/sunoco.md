@@ -1,5 +1,5 @@
 ---
 title: "Sunoco"
 url: /chelsea/sunoco/
-shop: Lebensmittel
+shop: convenience
 ---

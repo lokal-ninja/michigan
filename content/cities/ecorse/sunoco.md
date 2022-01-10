@@ -1,5 +1,5 @@
 ---
 title: "Sunoco"
 url: /ecorse/sunoco/
-shop: Lebensmittel
+shop: convenience
 ---

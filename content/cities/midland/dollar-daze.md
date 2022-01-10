@@ -1,5 +1,5 @@
 ---
 title: "Dollar Daze"
 url: /midland/dollar-daze/
-shop: Kramladen
+shop: variety store
 ---

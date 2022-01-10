@@ -1,5 +1,5 @@
 ---
 title: "Leppinks"
 url: /spring-lake/leppinks/
-shop: Supermarkt
+shop: supermarket
 ---

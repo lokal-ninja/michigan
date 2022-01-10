@@ -1,5 +1,5 @@
 ---
 title: "Meijer"
 url: /okemos/meijer/
-shop: Lebensmittel
+shop: convenience
 ---

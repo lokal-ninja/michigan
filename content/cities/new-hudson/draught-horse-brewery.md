@@ -1,5 +1,5 @@
 ---
 title: "Draught Horse Brewery"
 url: /new-hudson/draught-horse-brewery/
-shop: Getränke
+shop: beverages
 ---

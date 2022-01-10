@@ -1,5 +1,5 @@
 ---
 title: "Sew What!"
 url: /wyandotte/sew-what/
-shop: Textil
+shop: fabric
 ---

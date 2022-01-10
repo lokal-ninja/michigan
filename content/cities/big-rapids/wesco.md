@@ -1,5 +1,5 @@
 ---
 title: "Wesco"
 url: /big-rapids/wesco/
-shop: Lebensmittel
+shop: convenience
 ---

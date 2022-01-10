@@ -1,5 +1,5 @@
 ---
 title: "Metropolis"
 url: /detroit/metropolis/
-shop: Fahrrad
+shop: bicycle
 ---

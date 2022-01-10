@@ -1,5 +1,5 @@
 ---
 title: "IOG Supply"
 url: /southgate/iog-supply/
-shop: Garten-Center
+shop: garden centre
 ---

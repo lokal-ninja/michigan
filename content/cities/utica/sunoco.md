@@ -1,5 +1,5 @@
 ---
 title: "Sunoco"
 url: /utica/sunoco/
-shop: Lebensmittel
+shop: convenience
 ---

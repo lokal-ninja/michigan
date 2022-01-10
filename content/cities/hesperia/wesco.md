@@ -1,5 +1,5 @@
 ---
 title: "Wesco"
 url: /hesperia/wesco/
-shop: Lebensmittel
+shop: convenience
 ---

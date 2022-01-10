@@ -1,5 +1,5 @@
 ---
 title: "Cedarville Foods"
 url: /cedarville/cedarville-foods/
-shop: Supermarkt
+shop: supermarket
 ---

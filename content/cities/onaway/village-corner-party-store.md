@@ -1,5 +1,5 @@
 ---
 title: "Village Corner Party Store"
 url: /onaway/village-corner-party-store/
-shop: Lebensmittel
+shop: convenience
 ---

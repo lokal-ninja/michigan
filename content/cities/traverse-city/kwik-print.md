@@ -1,5 +1,5 @@
 ---
 title: "Kwik Print"
 url: /traverse-city/kwik-print/
-shop: Kopieren
+shop: copyshop
 ---

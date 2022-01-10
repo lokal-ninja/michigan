@@ -1,5 +1,5 @@
 ---
 title: "Waters Edge Market"
 url: /kewadin/waters-edge-market/
-shop: Lebensmittel
+shop: convenience
 ---

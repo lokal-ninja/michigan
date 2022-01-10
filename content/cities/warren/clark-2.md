@@ -1,5 +1,5 @@
 ---
 title: "Clark"
 url: /warren/clark-2/
-shop: Lebensmittel
+shop: convenience
 ---

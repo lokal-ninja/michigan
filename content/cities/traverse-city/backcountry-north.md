@@ -1,5 +1,5 @@
 ---
 title: "Backcountry North"
 url: /traverse-city/backcountry-north/
-shop: Outdoor
+shop: outdoor
 ---

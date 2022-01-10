@@ -1,5 +1,5 @@
 ---
 title: "BP"
 url: /port-huron/bp/
-shop: Lebensmittel
+shop: convenience
 ---

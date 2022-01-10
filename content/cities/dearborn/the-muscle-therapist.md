@@ -1,5 +1,5 @@
 ---
 title: "The Muscle Therapist"
 url: /dearborn/the-muscle-therapist/
-shop: Massage
+shop: massage
 ---

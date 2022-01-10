@@ -1,5 +1,5 @@
 ---
 title: "Vinckier Food"
 url: /almont/vinckier-food/
-shop: Supermarkt
+shop: supermarket
 ---

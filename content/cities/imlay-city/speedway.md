@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /imlay-city/speedway/
-shop: Lebensmittel
+shop: convenience
 ---

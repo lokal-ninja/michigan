@@ -1,5 +1,5 @@
 ---
 title: "Marathon"
 url: /haslett/marathon/
-shop: Lebensmittel
+shop: convenience
 ---

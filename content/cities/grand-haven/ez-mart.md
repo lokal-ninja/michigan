@@ -1,5 +1,5 @@
 ---
 title: "EZ Mart"
 url: /grand-haven/ez-mart/
-shop: Lebensmittel
+shop: convenience
 ---

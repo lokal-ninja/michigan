@@ -1,5 +1,5 @@
 ---
 title: "Citgo"
 url: /ortonville/citgo/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sunoco"
 url: /fowlerville/sunoco/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Fountain Funeral Home"
 url: /muskegon/fountain-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

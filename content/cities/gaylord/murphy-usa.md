@@ -1,5 +1,5 @@
 ---
 title: "Murphy USA"
 url: /gaylord/murphy-usa/
-shop: Lebensmittel
+shop: convenience
 ---

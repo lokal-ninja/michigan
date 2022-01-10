@@ -1,5 +1,5 @@
 ---
 title: "Country Pantry"
 url: /new-boston/country-pantry/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Team Threads"
 url: /madison-heights/team-threads/
-shop: Sport
+shop: sports
 ---

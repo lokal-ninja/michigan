@@ -1,5 +1,5 @@
 ---
 title: "Meijer"
 url: /muskegon/meijer-2/
-shop: Supermarkt
+shop: supermarket
 ---

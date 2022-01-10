@@ -1,5 +1,5 @@
 ---
 title: "Taylor Mini Mart"
 url: /taylor/taylor-mini-mart/
-shop: Lebensmittel
+shop: convenience
 ---

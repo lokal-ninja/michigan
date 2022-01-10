@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
 url: /sterling-heights/kroger/
-shop: Supermarkt
+shop: supermarket
 ---

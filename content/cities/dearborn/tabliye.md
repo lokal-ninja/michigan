@@ -1,5 +1,5 @@
 ---
 title: "Tabliye"
 url: /dearborn/tabliye/
-shop: Lebensmittel
+shop: convenience
 ---

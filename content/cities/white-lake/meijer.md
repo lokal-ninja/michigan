@@ -1,5 +1,5 @@
 ---
 title: "Meijer"
 url: /white-lake/meijer/
-shop: Lebensmittel
+shop: convenience
 ---

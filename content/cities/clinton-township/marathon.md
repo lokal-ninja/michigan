@@ -1,5 +1,5 @@
 ---
 title: "Marathon"
 url: /clinton-township/marathon/
-shop: Lebensmittel
+shop: convenience
 ---

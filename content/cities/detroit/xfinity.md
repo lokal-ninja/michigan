@@ -1,5 +1,5 @@
 ---
 title: "Xfinity"
 url: /detroit/xfinity/
-shop: Handy
+shop: mobile phone
 ---

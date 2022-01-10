@@ -1,5 +1,5 @@
 ---
 title: "Northland Speed Mart"
 url: /kalkaska/northland-speed-mart/
-shop: Lebensmittel
+shop: convenience
 ---

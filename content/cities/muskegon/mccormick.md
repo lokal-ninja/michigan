@@ -1,5 +1,5 @@
 ---
 title: "McCormick"
 url: /muskegon/mccormick/
-shop: Lebensmittel
+shop: convenience
 ---

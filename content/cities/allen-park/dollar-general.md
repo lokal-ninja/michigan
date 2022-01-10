@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
 url: /allen-park/dollar-general/
-shop: Kramladen
+shop: variety store
 ---

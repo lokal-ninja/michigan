@@ -1,5 +1,5 @@
 ---
 title: "CVS Pharmacy"
 url: /flat-rock/cvs-pharmacy/
-shop: Drogerie
+shop: chemist
 ---

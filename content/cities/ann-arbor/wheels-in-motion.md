@@ -1,5 +1,5 @@
 ---
 title: "Wheels in Motion"
 url: /ann-arbor/wheels-in-motion/
-shop: Fahrrad
+shop: bicycle
 ---

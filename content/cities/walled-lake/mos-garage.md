@@ -1,5 +1,5 @@
 ---
 title: "Mo's Garage"
 url: /walled-lake/mos-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

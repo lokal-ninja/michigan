@@ -1,5 +1,5 @@
 ---
 title: "Admiral"
 url: /jackson/admiral/
-shop: Lebensmittel
+shop: convenience
 ---

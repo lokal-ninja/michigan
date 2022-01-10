@@ -1,5 +1,5 @@
 ---
 title: "PacSun"
 url: /byron-center/pacsun/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Parker St Gallery"
 url: /detroit/parker-st-gallery/
-shop: Andenken
+shop: gift
 ---

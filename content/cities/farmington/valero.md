@@ -1,5 +1,5 @@
 ---
 title: "Valero"
 url: /farmington/valero/
-shop: Lebensmittel
+shop: convenience
 ---

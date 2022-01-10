@@ -1,5 +1,5 @@
 ---
 title: "Hansen's Quik Stop"
 url: /saint-johns/hansens-quik-stop/
-shop: Lebensmittel
+shop: convenience
 ---

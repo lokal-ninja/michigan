@@ -1,5 +1,5 @@
 ---
 title: "Hot Spot Smokers"
 url: /southgate/hot-spot-smokers/
-shop: Tabak
+shop: tobacco
 ---

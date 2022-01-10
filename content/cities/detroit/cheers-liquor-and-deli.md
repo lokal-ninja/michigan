@@ -1,5 +1,5 @@
 ---
 title: "Cheers Liquor And Deli"
 url: /detroit/cheers-liquor-and-deli/
-shop: Spirituosen
+shop: alcohol
 ---

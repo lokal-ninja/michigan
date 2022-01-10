@@ -1,5 +1,5 @@
 ---
 title: "Marathon"
 url: /lincoln/marathon/
-shop: Lebensmittel
+shop: convenience
 ---

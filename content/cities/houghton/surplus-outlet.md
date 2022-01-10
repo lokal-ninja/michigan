@@ -1,5 +1,5 @@
 ---
 title: "Surplus Outlet"
 url: /houghton/surplus-outlet/
-shop: Kleidung
+shop: clothes
 ---

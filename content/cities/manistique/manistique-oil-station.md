@@ -1,5 +1,5 @@
 ---
 title: "Manistique Oil Station"
 url: /manistique/manistique-oil-station/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Family Video"
 url: /midland/family-video/
-shop: Videothek
+shop: video
 ---

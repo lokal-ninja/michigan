@@ -1,5 +1,5 @@
 ---
 title: "Montrose Express"
 url: /montrose/montrose-express/
-shop: Lebensmittel
+shop: convenience
 ---

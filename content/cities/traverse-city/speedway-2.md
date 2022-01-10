@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /traverse-city/speedway-2/
-shop: Lebensmittel
+shop: convenience
 ---

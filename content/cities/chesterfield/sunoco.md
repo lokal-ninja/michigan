@@ -1,5 +1,5 @@
 ---
 title: "Sunoco"
 url: /chesterfield/sunoco/
-shop: Lebensmittel
+shop: convenience
 ---

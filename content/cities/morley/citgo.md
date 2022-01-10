@@ -1,5 +1,5 @@
 ---
 title: "Citgo"
 url: /morley/citgo/
-shop: Lebensmittel
+shop: convenience
 ---

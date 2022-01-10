@@ -1,5 +1,5 @@
 ---
 title: "Citgo"
 url: /allen-park/citgo/
-shop: Lebensmittel
+shop: convenience
 ---

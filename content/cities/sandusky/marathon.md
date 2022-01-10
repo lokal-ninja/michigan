@@ -1,5 +1,5 @@
 ---
 title: "Marathon"
 url: /sandusky/marathon/
-shop: Lebensmittel
+shop: convenience
 ---

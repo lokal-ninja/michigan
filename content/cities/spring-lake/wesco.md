@@ -1,5 +1,5 @@
 ---
 title: "Wesco"
 url: /spring-lake/wesco/
-shop: Lebensmittel
+shop: convenience
 ---

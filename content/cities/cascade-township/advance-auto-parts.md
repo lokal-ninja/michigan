@@ -1,5 +1,5 @@
 ---
 title: "Advance Auto Parts"
 url: /cascade-township/advance-auto-parts/
-shop: Autoteile
+shop: car parts
 ---

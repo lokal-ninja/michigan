@@ -1,5 +1,5 @@
 ---
 title: "PS Food Mart"
 url: /dundee/ps-food-mart/
-shop: Lebensmittel
+shop: convenience
 ---

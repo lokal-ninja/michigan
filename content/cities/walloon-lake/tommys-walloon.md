@@ -1,5 +1,5 @@
 ---
 title: "Tommy's Walloon"
 url: /walloon-lake/tommys-walloon/
-shop: Boot
+shop: boat
 ---

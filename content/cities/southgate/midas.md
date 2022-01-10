@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /southgate/midas/
-shop: Autowerkstatt
+shop: car repair
 ---

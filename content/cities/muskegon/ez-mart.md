@@ -1,5 +1,5 @@
 ---
 title: "EZ Mart"
 url: /muskegon/ez-mart/
-shop: Lebensmittel
+shop: convenience
 ---

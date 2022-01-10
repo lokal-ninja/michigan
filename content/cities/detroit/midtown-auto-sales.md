@@ -1,5 +1,5 @@
 ---
 title: "Midtown Auto Sales"
 url: /detroit/midtown-auto-sales/
-shop: Autohaus
+shop: car
 ---

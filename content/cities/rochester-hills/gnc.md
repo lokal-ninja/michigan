@@ -1,5 +1,5 @@
 ---
 title: "GNC"
 url: /rochester-hills/gnc/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Citgo"
 url: /southgate/citgo-2/
-shop: Lebensmittel
+shop: convenience
 ---

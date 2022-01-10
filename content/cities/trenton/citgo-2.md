@@ -1,5 +1,5 @@
 ---
 title: "Citgo"
 url: /trenton/citgo-2/
-shop: Lebensmittel
+shop: convenience
 ---

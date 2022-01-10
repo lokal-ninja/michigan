@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /three-rivers/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

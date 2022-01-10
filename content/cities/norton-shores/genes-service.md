@@ -1,5 +1,5 @@
 ---
 title: "Gene's Service"
 url: /norton-shores/genes-service/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /ann-arbor/target/
-shop: Warenhaus
+shop: department store
 ---

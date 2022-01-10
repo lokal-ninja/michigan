@@ -1,5 +1,5 @@
 ---
 title: "BP Shop"
 url: /taylor/bp-shop-3/
-shop: Lebensmittel
+shop: convenience
 ---

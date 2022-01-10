@@ -1,5 +1,5 @@
 ---
 title: "Sleep Number"
 url: /allen-park/sleep-number/
-shop: Betten
+shop: bed
 ---

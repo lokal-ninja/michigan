@@ -1,5 +1,5 @@
 ---
 title: "Utica Express"
 url: /utica/utica-express/
-shop: Lebensmittel
+shop: convenience
 ---

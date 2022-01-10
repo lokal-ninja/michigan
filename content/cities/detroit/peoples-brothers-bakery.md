@@ -1,5 +1,5 @@
 ---
 title: "Peoples Brothers Bakery"
 url: /detroit/peoples-brothers-bakery/
-shop: Bäckerei
+shop: bakery
 ---

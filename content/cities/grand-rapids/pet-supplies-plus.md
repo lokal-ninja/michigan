@@ -1,5 +1,5 @@
 ---
 title: "Pet Supplies Plus"
 url: /grand-rapids/pet-supplies-plus/
-shop: Tiere
+shop: pet
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Boost Mobile"
 url: /hazel-park/boost-mobile/
-shop: Handy
+shop: mobile phone
 ---

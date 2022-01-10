@@ -1,5 +1,5 @@
 ---
 title: "Joesph's Hair Styling"
 url: /lincoln-park/joesphs-hair-styling/
-shop: Friseur
+shop: hairdresser
 ---

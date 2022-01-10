@@ -1,5 +1,5 @@
 ---
 title: "Admiral"
 url: /oscoda/admiral/
-shop: Tabak
+shop: tobacco
 ---

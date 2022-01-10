@@ -1,5 +1,5 @@
 ---
 title: "Mobil Mart"
 url: /traverse-city/mobil-mart/
-shop: Lebensmittel
+shop: convenience
 ---

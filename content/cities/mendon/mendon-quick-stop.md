@@ -1,5 +1,5 @@
 ---
 title: "Mendon Quick Stop"
 url: /mendon/mendon-quick-stop/
-shop: Lebensmittel
+shop: convenience
 ---

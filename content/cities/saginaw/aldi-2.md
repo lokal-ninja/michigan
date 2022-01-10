@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /saginaw/aldi-2/
-shop: Supermarkt
+shop: supermarket
 ---

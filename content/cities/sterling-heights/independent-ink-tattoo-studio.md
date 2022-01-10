@@ -1,5 +1,5 @@
 ---
 title: "Independent Ink Tattoo Studio"
 url: /sterling-heights/independent-ink-tattoo-studio/
-shop: Tattoo
+shop: tattoo
 ---

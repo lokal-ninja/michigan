@@ -1,5 +1,5 @@
 ---
 title: "Meridian Mall"
 url: /okemos/meridian-mall/
-shop: Einkaufszentrum
+shop: mall
 ---

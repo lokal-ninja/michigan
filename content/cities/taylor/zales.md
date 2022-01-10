@@ -1,5 +1,5 @@
 ---
 title: "Zales"
 url: /taylor/zales/
-shop: Schmuck
+shop: jewelry
 ---

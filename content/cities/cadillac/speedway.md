@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /cadillac/speedway/
-shop: Lebensmittel
+shop: convenience
 ---

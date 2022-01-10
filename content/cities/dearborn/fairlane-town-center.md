@@ -1,5 +1,5 @@
 ---
 title: "Fairlane Town Center"
 url: /dearborn/fairlane-town-center/
-shop: Einkaufszentrum
+shop: mall
 ---

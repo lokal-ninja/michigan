@@ -1,5 +1,5 @@
 ---
 title: "Tall Pines Grocery"
 url: /amasa/tall-pines-grocery/
-shop: Lebensmittel
+shop: convenience
 ---

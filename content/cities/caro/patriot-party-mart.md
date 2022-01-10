@@ -1,5 +1,5 @@
 ---
 title: "Patriot Party Mart"
 url: /caro/patriot-party-mart/
-shop: Lebensmittel
+shop: convenience
 ---

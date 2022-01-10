@@ -1,5 +1,5 @@
 ---
 title: "Detroit Bikes"
 url: /detroit/detroit-bikes/
-shop: Fahrrad
+shop: bicycle
 ---

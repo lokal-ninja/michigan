@@ -1,5 +1,5 @@
 ---
 title: "Marathon"
 url: /portage/marathon/
-shop: Lebensmittel
+shop: convenience
 ---

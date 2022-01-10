@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /lake-orion/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

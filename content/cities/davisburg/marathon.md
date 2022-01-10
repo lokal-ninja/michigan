@@ -1,5 +1,5 @@
 ---
 title: "Marathon"
 url: /davisburg/marathon/
-shop: Lebensmittel
+shop: convenience
 ---

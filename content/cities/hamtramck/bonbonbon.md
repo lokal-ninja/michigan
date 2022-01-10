@@ -1,5 +1,5 @@
 ---
 title: "BonBonBon"
 url: /hamtramck/bonbonbon/
-shop: Schokolade
+shop: chocolate
 ---

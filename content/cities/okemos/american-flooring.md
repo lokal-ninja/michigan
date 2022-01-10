@@ -1,5 +1,5 @@
 ---
 title: "American Flooring"
 url: /okemos/american-flooring/
-shop: Fußböden
+shop: flooring
 ---

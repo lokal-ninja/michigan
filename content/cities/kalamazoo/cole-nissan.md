@@ -1,5 +1,5 @@
 ---
 title: "Cole Nissan"
 url: /kalamazoo/cole-nissan/
-shop: Autohaus
+shop: car
 ---

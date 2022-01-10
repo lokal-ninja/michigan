@@ -1,5 +1,5 @@
 ---
 title: "Panopoulos"
 url: /lansing/panopoulos/
-shop: Friseur
+shop: hairdresser
 ---

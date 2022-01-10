@@ -1,5 +1,5 @@
 ---
 title: "Ricks Quik Stop"
 url: /owosso/ricks-quik-stop/
-shop: Lebensmittel
+shop: convenience
 ---

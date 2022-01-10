@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
 url: /clawson/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

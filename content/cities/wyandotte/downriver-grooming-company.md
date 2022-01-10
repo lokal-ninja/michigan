@@ -1,5 +1,5 @@
 ---
 title: "Downriver Grooming Company"
 url: /wyandotte/downriver-grooming-company/
-shop: Tiersalon
+shop: pet grooming
 ---

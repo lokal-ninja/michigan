@@ -1,5 +1,5 @@
 ---
 title: "Riteway"
 url: /detroit/riteway/
-shop: Lebensmittel
+shop: convenience
 ---

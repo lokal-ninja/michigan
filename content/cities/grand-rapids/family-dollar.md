@@ -1,5 +1,5 @@
 ---
 title: "Family Dollar"
 url: /grand-rapids/family-dollar/
-shop: Kramladen
+shop: variety store
 ---

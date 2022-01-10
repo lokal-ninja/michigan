@@ -1,5 +1,5 @@
 ---
 title: "Marathon"
 url: /ludington/marathon/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Theis Party Store"
 url: /fowler/theis-party-store/
-shop: Lebensmittel
+shop: convenience
 ---

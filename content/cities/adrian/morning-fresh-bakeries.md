@@ -1,5 +1,5 @@
 ---
 title: "Morning Fresh Bakeries"
 url: /adrian/morning-fresh-bakeries/
-shop: Bäckerei
+shop: bakery
 ---

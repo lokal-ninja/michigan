@@ -1,5 +1,5 @@
 ---
 title: "BP Shop"
 url: /eastpointe/bp-shop-2/
-shop: Lebensmittel
+shop: convenience
 ---

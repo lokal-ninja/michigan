@@ -1,5 +1,5 @@
 ---
 title: "Jr Party Store"
 url: /detroit/jr-party-store/
-shop: Lebensmittel
+shop: convenience
 ---

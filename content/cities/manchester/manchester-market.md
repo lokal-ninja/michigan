@@ -1,5 +1,5 @@
 ---
 title: "Manchester Market"
 url: /manchester/manchester-market/
-shop: Supermarkt
+shop: supermarket
 ---

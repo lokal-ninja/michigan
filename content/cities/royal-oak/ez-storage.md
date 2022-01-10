@@ -1,5 +1,5 @@
 ---
 title: "EZ Storage"
 url: /royal-oak/ez-storage/
-shop: Mieten
+shop: storage rental
 ---

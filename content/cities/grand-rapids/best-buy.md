@@ -1,5 +1,5 @@
 ---
 title: "Best Buy"
 url: /grand-rapids/best-buy/
-shop: Elektronik
+shop: electronics
 ---

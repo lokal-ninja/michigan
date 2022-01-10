@@ -1,5 +1,5 @@
 ---
 title: "Holiday"
 url: /negaunee/holiday/
-shop: Lebensmittel
+shop: convenience
 ---

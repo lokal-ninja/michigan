@@ -1,5 +1,5 @@
 ---
 title: "Rayaan Fuel"
 url: /adrian/rayaan-fuel/
-shop: Lebensmittel
+shop: convenience
 ---

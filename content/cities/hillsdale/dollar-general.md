@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
 url: /hillsdale/dollar-general/
-shop: Kramladen
+shop: variety store
 ---

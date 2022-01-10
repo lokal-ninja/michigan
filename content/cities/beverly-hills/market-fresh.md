@@ -1,5 +1,5 @@
 ---
 title: "Market Fresh"
 url: /beverly-hills/market-fresh/
-shop: Supermarkt
+shop: supermarket
 ---

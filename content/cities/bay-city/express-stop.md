@@ -1,5 +1,5 @@
 ---
 title: "Express Stop"
 url: /bay-city/express-stop/
-shop: Lebensmittel
+shop: convenience
 ---

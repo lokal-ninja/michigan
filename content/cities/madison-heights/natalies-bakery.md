@@ -1,5 +1,5 @@
 ---
 title: "Natalie's Bakery"
 url: /madison-heights/natalies-bakery/
-shop: Bäckerei
+shop: bakery
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Pump N Pour"
 url: /sanford/pump-n-pour/
-shop: Lebensmittel
+shop: convenience
 ---

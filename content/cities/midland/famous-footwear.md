@@ -1,5 +1,5 @@
 ---
 title: "Famous Footwear"
 url: /midland/famous-footwear/
-shop: Schuhe
+shop: shoes
 ---

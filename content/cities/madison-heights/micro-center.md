@@ -1,5 +1,5 @@
 ---
 title: "Micro Center"
 url: /madison-heights/micro-center/
-shop: Computer
+shop: computer
 ---

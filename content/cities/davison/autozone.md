@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /davison/autozone/
-shop: Autoteile
+shop: car parts
 ---

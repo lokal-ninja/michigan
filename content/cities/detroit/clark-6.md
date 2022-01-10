@@ -1,5 +1,5 @@
 ---
 title: "Clark"
 url: /detroit/clark-6/
-shop: Lebensmittel
+shop: convenience
 ---

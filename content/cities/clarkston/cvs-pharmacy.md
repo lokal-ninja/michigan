@@ -1,5 +1,5 @@
 ---
 title: "CVS Pharmacy"
 url: /clarkston/cvs-pharmacy/
-shop: Drogerie
+shop: chemist
 ---

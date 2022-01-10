@@ -1,5 +1,5 @@
 ---
 title: "Paxson Oil Co"
 url: /essexveille/paxson-oil-co/
-shop: Lebensmittel
+shop: convenience
 ---

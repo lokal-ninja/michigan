@@ -1,5 +1,5 @@
 ---
 title: "Marathon"
 url: /lincoln-park/marathon/
-shop: Lebensmittel
+shop: convenience
 ---

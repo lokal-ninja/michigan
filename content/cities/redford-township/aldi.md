@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
 url: /redford-township/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

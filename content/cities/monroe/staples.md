@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /monroe/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

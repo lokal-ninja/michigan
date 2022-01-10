@@ -1,5 +1,5 @@
 ---
 title: "Swift Hardware"
 url: /houghton/swift-hardware/
-shop: Eisenwaren
+shop: hardware
 ---

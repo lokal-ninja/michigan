@@ -1,5 +1,5 @@
 ---
 title: "Dokl's Meat Market"
 url: /comstock-park/dokls-meat-market/
-shop: Metzgerei
+shop: butcher
 ---

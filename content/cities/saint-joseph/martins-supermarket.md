@@ -1,5 +1,5 @@
 ---
 title: "Martin's Supermarket"
 url: /saint-joseph/martins-supermarket/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Quality Dairy"
 url: /haslett/quality-dairy/
-shop: Lebensmittel
+shop: convenience
 ---

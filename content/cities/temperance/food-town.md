@@ -1,5 +1,5 @@
 ---
 title: "Food Town"
 url: /temperance/food-town/
-shop: Supermarkt
+shop: supermarket
 ---

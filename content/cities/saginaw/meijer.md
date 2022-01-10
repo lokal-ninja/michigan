@@ -1,5 +1,5 @@
 ---
 title: "Meijer"
 url: /saginaw/meijer/
-shop: Lebensmittel
+shop: convenience
 ---

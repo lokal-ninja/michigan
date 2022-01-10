@@ -1,5 +1,5 @@
 ---
 title: "Bay Transmission"
 url: /escanaba/bay-transmission/
-shop: Autowerkstatt
+shop: car repair
 ---

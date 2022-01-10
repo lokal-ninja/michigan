@@ -1,5 +1,5 @@
 ---
 title: "CVS Pharmacy"
 url: /wixom/cvs-pharmacy/
-shop: Drogerie
+shop: chemist
 ---

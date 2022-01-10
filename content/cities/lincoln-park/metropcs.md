@@ -1,5 +1,5 @@
 ---
 title: "MetroPCS"
 url: /lincoln-park/metropcs/
-shop: Handy
+shop: mobile phone
 ---

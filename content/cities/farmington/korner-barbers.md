@@ -1,5 +1,5 @@
 ---
 title: "Korner Barbers"
 url: /farmington/korner-barbers/
-shop: Friseur
+shop: hairdresser
 ---

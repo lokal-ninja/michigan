@@ -1,5 +1,5 @@
 ---
 title: "Motown Mini Mart"
 url: /lansing/motown-mini-mart/
-shop: Lebensmittel
+shop: convenience
 ---

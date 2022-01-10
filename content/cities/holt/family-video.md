@@ -1,5 +1,5 @@
 ---
 title: "Family Video"
 url: /holt/family-video/
-shop: Videothek
+shop: video
 ---

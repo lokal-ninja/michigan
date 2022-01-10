@@ -1,5 +1,5 @@
 ---
 title: "Hansen Funeral Home"
 url: /davison/hansen-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

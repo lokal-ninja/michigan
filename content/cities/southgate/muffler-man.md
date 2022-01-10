@@ -1,5 +1,5 @@
 ---
 title: "Muffler Man"
 url: /southgate/muffler-man/
-shop: Autowerkstatt
+shop: car repair
 ---

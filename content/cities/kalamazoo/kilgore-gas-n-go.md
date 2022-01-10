@@ -1,5 +1,5 @@
 ---
 title: "Kilgore Gas-N-Go"
 url: /kalamazoo/kilgore-gas-n-go/
-shop: Lebensmittel
+shop: convenience
 ---

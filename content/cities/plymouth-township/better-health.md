@@ -1,5 +1,5 @@
 ---
 title: "Better Health"
 url: /plymouth-township/better-health/
-shop: Bioladen
+shop: health food
 ---

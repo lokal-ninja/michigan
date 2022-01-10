@@ -1,5 +1,5 @@
 ---
 title: "Sunoco"
 url: /warren/sunoco-6/
-shop: Lebensmittel
+shop: convenience
 ---

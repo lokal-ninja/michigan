@@ -1,5 +1,5 @@
 ---
 title: "Carl's Super Market"
 url: /dimondale/carls-super-market/
-shop: Supermarkt
+shop: supermarket
 ---

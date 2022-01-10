@@ -1,5 +1,5 @@
 ---
 title: "Office Depot"
 url: /northville-township/office-depot/
-shop: Schreibwaren
+shop: office supplies
 ---

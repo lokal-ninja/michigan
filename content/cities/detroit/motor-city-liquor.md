@@ -1,5 +1,5 @@
 ---
 title: "Motor City Liquor"
 url: /detroit/motor-city-liquor/
-shop: Spirituosen
+shop: alcohol
 ---

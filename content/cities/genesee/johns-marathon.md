@@ -1,5 +1,5 @@
 ---
 title: "John's Marathon"
 url: /genesee/johns-marathon/
-shop: Lebensmittel
+shop: convenience
 ---

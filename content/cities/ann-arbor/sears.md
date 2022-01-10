@@ -1,5 +1,5 @@
 ---
 title: "Sears"
 url: /ann-arbor/sears/
-shop: Warenhaus
+shop: department store
 ---

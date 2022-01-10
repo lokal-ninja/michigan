@@ -1,5 +1,5 @@
 ---
 title: "Marathon"
 url: /davison/marathon/
-shop: Lebensmittel
+shop: convenience
 ---

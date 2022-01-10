@@ -1,5 +1,5 @@
 ---
 title: "Breeze Hill Greenhouse"
 url: /traverse-city/breeze-hill-greenhouse/
-shop: Garten-Center
+shop: garden centre
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Marathon"
 url: /lansing/marathon-4/
-shop: Lebensmittel
+shop: convenience
 ---

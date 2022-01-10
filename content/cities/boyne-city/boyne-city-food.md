@@ -1,5 +1,5 @@
 ---
 title: "Boyne City Food"
 url: /boyne-city/boyne-city-food/
-shop: Lebensmittel
+shop: convenience
 ---

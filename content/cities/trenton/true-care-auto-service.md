@@ -1,5 +1,5 @@
 ---
 title: "True Care Auto Service"
 url: /trenton/true-care-auto-service/
-shop: Autowerkstatt
+shop: car repair
 ---

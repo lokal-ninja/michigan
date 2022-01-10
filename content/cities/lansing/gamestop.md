@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
 url: /lansing/gamestop/
-shop: Videospiele
+shop: video games
 ---

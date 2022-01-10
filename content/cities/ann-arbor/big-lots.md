@@ -1,5 +1,5 @@
 ---
 title: "Big Lots"
 url: /ann-arbor/big-lots/
-shop: Warenhaus
+shop: department store
 ---

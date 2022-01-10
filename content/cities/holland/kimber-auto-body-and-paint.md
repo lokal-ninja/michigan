@@ -1,5 +1,5 @@
 ---
 title: "Kimber Auto Body and Paint"
 url: /holland/kimber-auto-body-and-paint/
-shop: Autowerkstatt
+shop: car repair
 ---

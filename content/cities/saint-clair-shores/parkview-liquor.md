@@ -1,5 +1,5 @@
 ---
 title: "Parkview Liquor"
 url: /saint-clair-shores/parkview-liquor/
-shop: Lebensmittel
+shop: convenience
 ---

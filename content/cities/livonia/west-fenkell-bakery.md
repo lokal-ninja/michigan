@@ -1,5 +1,5 @@
 ---
 title: "West Fenkell Bakery"
 url: /livonia/west-fenkell-bakery/
-shop: Bäckerei
+shop: bakery
 ---
