@@ -1,5 +1,5 @@
 ---
 title: "Plato's Closet"
-url: /brighton/platos-closet/
+url: /saint-clair-shores/platos-closet/
 shop: clothes
 ---
