@@ -1,5 +1,5 @@
 ---
 title: "CVS Pharmacy"
-url: /lincoln-park/cvs-pharmacy-2/
+url: /detroit/cvs-pharmacy-12/
 shop: chemist
 ---
