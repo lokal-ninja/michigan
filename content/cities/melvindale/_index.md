@@ -1,6 +1,6 @@
 ---
 title: Melvindale
 url: /melvindale/
-latitude: 42.288
-longitude: -83.166
+latitude: 42.284
+longitude: -83.186
 ---
