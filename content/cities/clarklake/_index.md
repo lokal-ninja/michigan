@@ -1,6 +1,6 @@
 ---
 title: Clarklake
 url: /clarklake/
-latitude: 42.117
-longitude: -84.345
+latitude: 42.125
+longitude: -84.365
 ---
