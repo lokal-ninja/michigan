@@ -1,5 +1,5 @@
 ---
-title: "CUTCO Store"
+title: "Cutco Store"
 url: /okemos/cutco-store/
 shop: houseware
 ---
