@@ -1,5 +1,5 @@
 ---
 title: "Insomnia Cookies"
 url: /east-lansing/insomnia-cookies/
-shop: bakery
+shop: pastry
 ---
