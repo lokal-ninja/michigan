@@ -1,6 +1,6 @@
 ---
 title: Escanaba
 url: /escanaba/
-latitude: 45.735
-longitude: -87.079
+latitude: 45.689
+longitude: -87.101
 ---
