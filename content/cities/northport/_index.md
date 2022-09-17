@@ -1,6 +1,6 @@
 ---
 title: Northport
 url: /northport/
-latitude: 45.13
+latitude: 45.129
 longitude: -85.617
 ---

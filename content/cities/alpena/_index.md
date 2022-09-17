@@ -1,6 +1,6 @@
 ---
 title: Alpena
 url: /alpena/
-latitude: 45.063
-longitude: -83.433
+latitude: 45.065
+longitude: -83.429
 ---
