@@ -1,6 +1,6 @@
 ---
 title: Port Huron
 url: /port-huron/
-latitude: 43.025
-longitude: -82.454
+latitude: 42.95
+longitude: -82.446
 ---

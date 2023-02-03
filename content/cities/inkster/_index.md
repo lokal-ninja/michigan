@@ -1,6 +1,6 @@
 ---
 title: Inkster
 url: /inkster/
-latitude: 42.292
-longitude: -83.321
+latitude: 42.28
+longitude: -83.329
 ---
