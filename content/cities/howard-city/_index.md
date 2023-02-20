@@ -1,6 +1,6 @@
 ---
 title: Howard City
 url: /howard-city/
-latitude: 43.395
-longitude: -85.476
+latitude: 43.381
+longitude: -85.474
 ---
