@@ -1,6 +1,6 @@
 ---
 title: Redford Charter Township
 url: /redford-charter-township/
-latitude: 42.44
-longitude: -83.314
+latitude: 42.399
+longitude: -83.276
 ---
