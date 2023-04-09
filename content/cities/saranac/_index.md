@@ -1,6 +1,6 @@
 ---
 title: Saranac
 url: /saranac/
-latitude: 42.93
-longitude: -85.213
+latitude: 42.938
+longitude: -85.215
 ---
