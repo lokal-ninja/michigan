@@ -1,5 +1,5 @@
 ---
-title: "Joe's Liquor and wine shoppe"
+title: "Joe's Liquor and Wine Shoppe"
 url: /detroit/joes-liquor-and-wine-shoppe/
 shop: alcohol
 ---

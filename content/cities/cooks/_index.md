@@ -1,6 +1,6 @@
 ---
 title: Cooks
 url: /cooks/
-latitude: 45.955
-longitude: -86.406
+latitude: 45.891
+longitude: -86.538
 ---
