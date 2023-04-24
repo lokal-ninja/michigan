@@ -1,6 +1,6 @@
 ---
 title: Watersmeet
 url: /watersmeet/
-latitude: 46.264
+latitude: 46.289
 longitude: -89.178
 ---
