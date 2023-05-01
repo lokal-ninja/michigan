@@ -1,6 +1,6 @@
 ---
 title: Ferndale
 url: /ferndale/
-latitude: 42.461
-longitude: -83.142
+latitude: 42.474
+longitude: -83.124
 ---

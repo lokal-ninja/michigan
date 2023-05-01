@@ -1,6 +1,6 @@
 ---
 title: Dowagiac
 url: /dowagiac/
-latitude: 41.992
-longitude: -86.108
+latitude: 41.985
+longitude: -86.122
 ---
