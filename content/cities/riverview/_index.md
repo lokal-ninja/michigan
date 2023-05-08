@@ -2,5 +2,5 @@
 title: Riverview
 url: /riverview/
 latitude: 42.169
-longitude: -83.191
+longitude: -83.19
 ---

@@ -1,6 +1,6 @@
 ---
 title: Lincoln Park
 url: /lincoln-park/
-latitude: 42.233
-longitude: -83.181
+latitude: 42.238
+longitude: -83.179
 ---
