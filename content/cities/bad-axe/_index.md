@@ -1,6 +1,6 @@
 ---
 title: Bad Axe
 url: /bad-axe/
-latitude: 43.803
-longitude: -82.942
+latitude: 43.824
+longitude: -83.002
 ---
