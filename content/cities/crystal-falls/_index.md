@@ -1,6 +1,6 @@
 ---
 title: Crystal Falls
 url: /crystal-falls/
-latitude: 46.098
-longitude: -88.345
+latitude: 46.097
+longitude: -88.355
 ---
