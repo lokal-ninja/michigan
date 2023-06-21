@@ -1,6 +1,6 @@
 ---
 title: Three Rivers
 url: /three-rivers/
-latitude: 41.904
-longitude: -85.767
+latitude: 41.933
+longitude: -85.624
 ---
