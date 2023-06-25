@@ -1,6 +1,6 @@
 ---
 title: Sandusky
 url: /sandusky/
-latitude: 43.421
-longitude: -82.826
+latitude: 43.42
+longitude: -82.847
 ---
