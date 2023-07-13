@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
 url: /macomb/kroger/
-shop: convenience
+shop: supermarket
 ---

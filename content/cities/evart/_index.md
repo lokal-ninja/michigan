@@ -1,6 +1,6 @@
 ---
 title: Evart
 url: /evart/
-latitude: 43.902
-longitude: -85.273
+latitude: 43.9
+longitude: -85.26
 ---
