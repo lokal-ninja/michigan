@@ -1,6 +1,6 @@
 ---
 title: Leonard
 url: /leonard/
-latitude: 42.8
-longitude: -83.133
+latitude: 42.813
+longitude: -83.136
 ---
