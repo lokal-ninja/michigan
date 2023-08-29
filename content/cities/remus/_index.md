@@ -2,5 +2,5 @@
 title: Remus
 url: /remus/
 latitude: 43.596
-longitude: -85.145
+longitude: -85.156
 ---
