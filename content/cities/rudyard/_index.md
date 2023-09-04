@@ -1,6 +1,6 @@
 ---
 title: Rudyard
 url: /rudyard/
-latitude: 46.232
-longitude: -84.593
+latitude: 46.233
+longitude: -84.599
 ---

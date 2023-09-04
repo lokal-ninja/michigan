@@ -1,6 +1,6 @@
 ---
 title: Yipsilanti
 url: /yipsilanti/
-latitude: 42.251
-longitude: -83.628
+latitude: 42.252
+longitude: -83.627
 ---

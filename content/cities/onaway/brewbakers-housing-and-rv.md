@@ -1,5 +1,5 @@
 ---
-title: "Brewbaker's Housing and RV"
+title: "Brewbaker's Housing & RV"
 url: /onaway/brewbakers-housing-and-rv/
 shop: caravan
 ---
