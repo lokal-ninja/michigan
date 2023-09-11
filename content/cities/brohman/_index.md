@@ -1,6 +1,6 @@
 ---
 title: Brohman
 url: /brohman/
-latitude: 43.691
-longitude: -85.815
+latitude: 43.692
+longitude: -85.816
 ---

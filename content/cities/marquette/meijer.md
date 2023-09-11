@@ -1,5 +1,5 @@
 ---
 title: "Meijer"
 url: /marquette/meijer/
-shop: supermarket
+shop: convenience
 ---

@@ -1,6 +1,6 @@
 ---
 title: Wellston
 url: /wellston/
-latitude: 44.226
-longitude: -85.962
+latitude: 44.225
+longitude: -85.964
 ---
