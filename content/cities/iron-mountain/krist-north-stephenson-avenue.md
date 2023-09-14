@@ -1,5 +1,5 @@
 ---
 title: "Krist"
-url: /iron-mountain/krist/
+url: /iron-mountain/krist-north-stephenson-avenue/
 shop: convenience
 ---

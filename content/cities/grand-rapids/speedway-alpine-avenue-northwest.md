@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /grand-rapids/speedway/
+url: /grand-rapids/speedway-alpine-avenue-northwest/
 shop: convenience
 ---

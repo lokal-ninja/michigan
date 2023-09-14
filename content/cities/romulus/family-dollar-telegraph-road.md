@@ -1,5 +1,5 @@
 ---
 title: "Family Dollar"
-url: /romulus/family-dollar/
+url: /romulus/family-dollar-telegraph-road/
 shop: variety store
 ---

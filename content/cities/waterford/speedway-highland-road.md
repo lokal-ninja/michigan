@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /waterford/speedway/
+url: /waterford/speedway-highland-road/
 shop: convenience
 ---

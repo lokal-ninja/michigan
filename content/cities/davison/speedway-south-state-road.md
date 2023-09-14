@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /davison/speedway/
+url: /davison/speedway-south-state-road/
 shop: convenience
 ---

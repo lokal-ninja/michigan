@@ -1,5 +1,5 @@
 ---
 title: "Sunoco"
-url: /farmington-hills/sunoco/
+url: /farmington-hills/sunoco-west-12-mile-road/
 shop: convenience
 ---

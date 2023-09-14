@@ -1,5 +1,5 @@
 ---
 title: "Marathon"
-url: /warren/marathon/
+url: /warren/marathon-hoover-road/
 shop: convenience
 ---

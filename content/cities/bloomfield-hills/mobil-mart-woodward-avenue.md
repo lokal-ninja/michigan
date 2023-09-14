@@ -1,5 +1,5 @@
 ---
 title: "Mobil Mart"
-url: /bloomfield-hills/mobil-mart/
+url: /bloomfield-hills/mobil-mart-woodward-avenue/
 shop: convenience
 ---

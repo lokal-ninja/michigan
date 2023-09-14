@@ -1,5 +1,5 @@
 ---
 title: "Meijer"
-url: /mason/meijer/
+url: /mason/meijer-hull-road/
 shop: supermarket
 ---

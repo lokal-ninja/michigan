@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /burton/speedway/
+url: /burton/speedway-east-bristol-road/
 shop: convenience
 ---

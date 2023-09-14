@@ -1,5 +1,5 @@
 ---
 title: "Valero"
-url: /detroit/valero/
+url: /detroit/valero-livernois-avenue-2/
 shop: convenience
 ---

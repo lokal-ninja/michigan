@@ -1,5 +1,5 @@
 ---
 title: "Marathon"
-url: /lansing/marathon/
+url: /lansing/marathon-east-mount-hope-avenue/
 shop: convenience
 ---

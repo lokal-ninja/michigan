@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
-url: /battle-creek/dollar-general/
+url: /battle-creek/dollar-general-east-columbia-avenue/
 shop: variety store
 ---

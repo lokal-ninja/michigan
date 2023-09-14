@@ -1,5 +1,5 @@
 ---
 title: "Shell"
-url: /southfield/shell/
+url: /southfield/shell-lahser-road/
 shop: convenience
 ---

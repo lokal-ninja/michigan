@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /warren/speedway/
+url: /warren/speedway-mound-road/
 shop: convenience
 ---

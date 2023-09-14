@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /livonia/speedway/
+url: /livonia/speedway-plymouth-road/
 shop: convenience
 ---

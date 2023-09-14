@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /plymouth/speedway/
+url: /plymouth/speedway-north-mill-street/
 shop: convenience
 ---

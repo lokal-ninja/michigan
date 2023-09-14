@@ -1,5 +1,5 @@
 ---
 title: "Tiger Mart"
-url: /taylor/tiger-mart/
+url: /taylor/tiger-mart-allen-road/
 shop: convenience
 ---

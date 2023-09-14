@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /howell/speedway/
+url: /howell/speedway-east-grand-river-avenue/
 shop: convenience
 ---

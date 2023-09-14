@@ -1,6 +1,6 @@
 ---
 title: Harsens Island
 url: /harsens-island/
-latitude: 42.575
-longitude: -82.656
+latitude: 42.559
+longitude: -82.626
 ---

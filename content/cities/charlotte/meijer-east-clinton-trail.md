@@ -1,5 +1,5 @@
 ---
 title: "Meijer"
-url: /charlotte/meijer/
+url: /charlotte/meijer-east-clinton-trail/
 shop: supermarket
 ---

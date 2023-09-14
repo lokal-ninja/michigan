@@ -1,5 +1,5 @@
 ---
 title: "PS Food Mart"
-url: /coldwater/ps-food-mart/
+url: /coldwater/ps-food-mart-east-chicago-street/
 shop: convenience
 ---

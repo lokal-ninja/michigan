@@ -1,5 +1,5 @@
 ---
 title: "Sunoco"
-url: /westland/sunoco/
+url: /westland/sunoco-north-inkster-road/
 shop: convenience
 ---

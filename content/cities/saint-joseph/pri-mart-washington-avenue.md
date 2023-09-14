@@ -1,5 +1,5 @@
 ---
 title: "Pri Mart"
-url: /saint-joseph/pri-mart/
+url: /saint-joseph/pri-mart-washington-avenue/
 shop: convenience
 ---

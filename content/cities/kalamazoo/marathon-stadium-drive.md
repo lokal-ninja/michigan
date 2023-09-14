@@ -1,5 +1,5 @@
 ---
 title: "Marathon"
-url: /kalamazoo/marathon/
+url: /kalamazoo/marathon-stadium-drive/
 shop: convenience
 ---

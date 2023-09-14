@@ -1,5 +1,5 @@
 ---
 title: "Admiral"
-url: /wyoming/admiral/
+url: /wyoming/admiral-clyde-park-avenue-southwest/
 shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Marathon"
-url: /muskegon/marathon/
+url: /muskegon/marathon-south-getty-street/
 shop: convenience
 ---

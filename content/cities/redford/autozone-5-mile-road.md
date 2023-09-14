@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
-url: /redford/autozone/
+url: /redford/autozone-5-mile-road/
 shop: car parts
 ---

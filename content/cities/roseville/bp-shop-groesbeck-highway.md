@@ -1,5 +1,5 @@
 ---
 title: "BP Shop"
-url: /roseville/bp-shop/
+url: /roseville/bp-shop-groesbeck-highway/
 shop: convenience
 ---

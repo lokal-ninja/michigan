@@ -1,5 +1,5 @@
 ---
 title: "AT&T"
-url: /detroit/atandt/
+url: /detroit/atandt-8-mile-road-west/
 shop: mobile phone
 ---

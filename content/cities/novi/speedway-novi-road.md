@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /novi/speedway/
+url: /novi/speedway-novi-road/
 shop: convenience
 ---

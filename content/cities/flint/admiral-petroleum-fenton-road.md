@@ -1,5 +1,5 @@
 ---
 title: "Admiral Petroleum"
-url: /flint/admiral-petroleum/
+url: /flint/admiral-petroleum-fenton-road/
 shop: convenience
 ---

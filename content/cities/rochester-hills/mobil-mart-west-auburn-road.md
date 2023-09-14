@@ -1,5 +1,5 @@
 ---
 title: "Mobil Mart"
-url: /rochester-hills/mobil-mart/
+url: /rochester-hills/mobil-mart-west-auburn-road/
 shop: convenience
 ---

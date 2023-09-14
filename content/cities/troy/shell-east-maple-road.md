@@ -1,5 +1,5 @@
 ---
 title: "Shell"
-url: /troy/shell/
+url: /troy/shell-east-maple-road/
 shop: convenience
 ---

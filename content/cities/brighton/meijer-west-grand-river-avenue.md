@@ -1,5 +1,5 @@
 ---
 title: "Meijer"
-url: /brighton/meijer/
+url: /brighton/meijer-west-grand-river-avenue/
 shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
-url: /clinton-township/aldi/
+url: /clinton-township/aldi-south-gratiot-avenue/
 shop: supermarket
 ---

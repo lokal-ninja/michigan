@@ -1,5 +1,5 @@
 ---
 title: "BP Shop"
-url: /westland/bp-shop/
+url: /westland/bp-shop-north-newburgh-road/
 shop: convenience
 ---

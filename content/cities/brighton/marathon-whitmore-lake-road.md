@@ -1,5 +1,5 @@
 ---
 title: "Marathon"
-url: /brighton/marathon/
+url: /brighton/marathon-whitmore-lake-road/
 shop: convenience
 ---

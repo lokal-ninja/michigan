@@ -1,5 +1,5 @@
 ---
 title: "Krist"
-url: /charlevoix/krist/
+url: /charlevoix/krist-us-31-north/
 shop: convenience
 ---

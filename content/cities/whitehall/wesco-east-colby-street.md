@@ -1,5 +1,5 @@
 ---
 title: "Wesco"
-url: /whitehall/wesco/
+url: /whitehall/wesco-east-colby-street/
 shop: convenience
 ---

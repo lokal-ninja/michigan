@@ -1,5 +1,5 @@
 ---
 title: "Sunoco"
-url: /waterford/sunoco/
+url: /waterford/sunoco-elizabeth-lake-road/
 shop: convenience
 ---

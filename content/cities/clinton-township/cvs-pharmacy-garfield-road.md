@@ -1,5 +1,5 @@
 ---
 title: "CVS Pharmacy"
-url: /clinton-township/cvs-pharmacy/
+url: /clinton-township/cvs-pharmacy-garfield-road/
 shop: chemist
 ---

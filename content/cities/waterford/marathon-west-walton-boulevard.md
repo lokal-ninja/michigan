@@ -1,5 +1,5 @@
 ---
 title: "Marathon"
-url: /waterford/marathon/
+url: /waterford/marathon-west-walton-boulevard/
 shop: convenience
 ---

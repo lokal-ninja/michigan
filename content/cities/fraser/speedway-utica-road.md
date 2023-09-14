@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /fraser/speedway/
+url: /fraser/speedway-utica-road/
 shop: convenience
 ---

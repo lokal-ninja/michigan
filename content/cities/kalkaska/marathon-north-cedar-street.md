@@ -1,5 +1,5 @@
 ---
 title: "Marathon"
-url: /kalkaska/marathon/
+url: /kalkaska/marathon-north-cedar-street/
 shop: convenience
 ---

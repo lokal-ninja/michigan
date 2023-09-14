@@ -1,5 +1,5 @@
 ---
 title: "Sunoco"
-url: /lansing/sunoco/
+url: /lansing/sunoco-east-kalamazoo-street/
 shop: convenience
 ---

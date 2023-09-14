@@ -1,5 +1,5 @@
 ---
 title: "Exxon"
-url: /livonia/exxon/
+url: /livonia/exxon-plymouth-road/
 shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Shell"
-url: /cadillac/shell/
+url: /cadillac/shell-south-mitchell-street/
 shop: convenience
 ---

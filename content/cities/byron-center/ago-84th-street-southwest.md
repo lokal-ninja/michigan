@@ -1,5 +1,5 @@
 ---
 title: "AGO"
-url: /byron-center/ago/
+url: /byron-center/ago-84th-street-southwest/
 shop: convenience
 ---

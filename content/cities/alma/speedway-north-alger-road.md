@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /alma/speedway/
+url: /alma/speedway-north-alger-road/
 shop: convenience
 ---

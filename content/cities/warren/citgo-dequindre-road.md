@@ -1,5 +1,5 @@
 ---
 title: "Citgo"
-url: /warren/citgo/
+url: /warren/citgo-dequindre-road/
 shop: convenience
 ---

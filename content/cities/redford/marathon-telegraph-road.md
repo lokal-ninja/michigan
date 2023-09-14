@@ -1,5 +1,5 @@
 ---
 title: "Marathon"
-url: /redford/marathon/
+url: /redford/marathon-telegraph-road/
 shop: convenience
 ---

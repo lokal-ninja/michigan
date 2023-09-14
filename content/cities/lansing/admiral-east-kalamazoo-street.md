@@ -1,5 +1,5 @@
 ---
 title: "Admiral"
-url: /lansing/admiral/
+url: /lansing/admiral-east-kalamazoo-street/
 shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /monroe/speedway/
+url: /monroe/speedway-south-dixie-highway/
 shop: convenience
 ---

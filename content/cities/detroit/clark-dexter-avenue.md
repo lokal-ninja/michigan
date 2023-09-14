@@ -1,5 +1,5 @@
 ---
 title: "Clark"
-url: /detroit/clark/
+url: /detroit/clark-dexter-avenue/
 shop: convenience
 ---

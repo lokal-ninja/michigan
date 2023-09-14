@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /jenison/speedway/
+url: /jenison/speedway-baldwin-street/
 shop: convenience
 ---

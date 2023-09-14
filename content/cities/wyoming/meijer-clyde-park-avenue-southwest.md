@@ -1,5 +1,5 @@
 ---
 title: "Meijer"
-url: /wyoming/meijer/
+url: /wyoming/meijer-clyde-park-avenue-southwest/
 shop: supermarket
 ---

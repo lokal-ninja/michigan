@@ -1,5 +1,5 @@
 ---
 title: "Meijer"
-url: /cadillac/meijer/
+url: /cadillac/meijer-east-boon-road/
 shop: supermarket
 ---

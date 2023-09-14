@@ -1,5 +1,5 @@
 ---
 title: "Mobil Mart"
-url: /dearborn/mobil-mart/
+url: /dearborn/mobil-mart-west-warren-avenue/
 shop: convenience
 ---

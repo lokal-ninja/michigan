@@ -1,5 +1,5 @@
 ---
 title: "CVS Pharmacy"
-url: /livonia/cvs-pharmacy/
+url: /livonia/cvs-pharmacy-middlebelt-road/
 shop: chemist
 ---

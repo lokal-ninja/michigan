@@ -1,5 +1,5 @@
 ---
 title: "Holiday"
-url: /marquette/holiday/
+url: /marquette/holiday-us-41/
 shop: convenience
 ---

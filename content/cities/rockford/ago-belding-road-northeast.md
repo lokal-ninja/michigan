@@ -1,5 +1,5 @@
 ---
 title: "AGO"
-url: /rockford/ago/
+url: /rockford/ago-belding-road-northeast/
 shop: convenience
 ---

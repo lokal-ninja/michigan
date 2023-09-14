@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
-url: /sterling-heights/dollar-general/
+url: /sterling-heights/dollar-general-van-dyke-avenue/
 shop: variety store
 ---

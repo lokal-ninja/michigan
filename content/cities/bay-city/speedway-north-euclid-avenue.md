@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /bay-city/speedway/
+url: /bay-city/speedway-north-euclid-avenue/
 shop: convenience
 ---

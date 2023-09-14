@@ -1,5 +1,5 @@
 ---
 title: "Shell"
-url: /inkster/shell/
+url: /inkster/shell-middlebelt-road/
 shop: convenience
 ---

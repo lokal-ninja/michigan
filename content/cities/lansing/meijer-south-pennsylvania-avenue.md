@@ -1,5 +1,5 @@
 ---
 title: "Meijer"
-url: /lansing/meijer/
+url: /lansing/meijer-south-pennsylvania-avenue/
 shop: convenience
 ---

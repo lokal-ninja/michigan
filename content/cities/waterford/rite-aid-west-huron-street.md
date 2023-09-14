@@ -1,5 +1,5 @@
 ---
 title: "Rite Aid"
-url: /waterford/rite-aid/
+url: /waterford/rite-aid-west-huron-street/
 shop: chemist
 ---

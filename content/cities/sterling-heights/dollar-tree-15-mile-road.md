@@ -1,5 +1,5 @@
 ---
 title: "Dollar Tree"
-url: /sterling-heights/dollar-tree/
+url: /sterling-heights/dollar-tree-15-mile-road/
 shop: variety store
 ---

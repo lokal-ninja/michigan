@@ -1,5 +1,5 @@
 ---
 title: "Sunrise Store"
-url: /west-branch/sunrise-store/
+url: /west-branch/sunrise-store-west-tawas-road/
 shop: convenience
 ---

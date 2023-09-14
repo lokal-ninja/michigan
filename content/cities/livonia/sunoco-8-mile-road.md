@@ -1,5 +1,5 @@
 ---
 title: "Sunoco"
-url: /livonia/sunoco/
+url: /livonia/sunoco-8-mile-road/
 shop: convenience
 ---

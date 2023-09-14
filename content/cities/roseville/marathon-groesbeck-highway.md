@@ -1,5 +1,5 @@
 ---
 title: "Marathon"
-url: /roseville/marathon/
+url: /roseville/marathon-groesbeck-highway/
 shop: convenience
 ---

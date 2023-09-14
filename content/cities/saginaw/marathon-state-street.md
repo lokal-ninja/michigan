@@ -1,5 +1,5 @@
 ---
 title: "Marathon"
-url: /saginaw/marathon/
+url: /saginaw/marathon-state-street/
 shop: convenience
 ---

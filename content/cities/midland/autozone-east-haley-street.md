@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
-url: /midland/autozone/
+url: /midland/autozone-east-haley-street/
 shop: car parts
 ---

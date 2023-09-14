@@ -1,5 +1,5 @@
 ---
 title: "Marathon"
-url: /flint/marathon/
+url: /flint/marathon-richfield-road/
 shop: convenience
 ---

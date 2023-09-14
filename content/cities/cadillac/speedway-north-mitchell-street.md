@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /cadillac/speedway/
+url: /cadillac/speedway-north-mitchell-street/
 shop: convenience
 ---

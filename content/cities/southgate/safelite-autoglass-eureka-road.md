@@ -1,5 +1,5 @@
 ---
 title: "Safelite AutoGlass"
-url: /southgate/safelite-autoglass/
+url: /southgate/safelite-autoglass-eureka-road/
 shop: car repair
 ---

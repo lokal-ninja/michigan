@@ -1,5 +1,5 @@
 ---
 title: "Mugg&Bopps"
-url: /dexter/muggandbopps/
+url: /dexter/muggandbopps-baker-road/
 shop: convenience
 ---

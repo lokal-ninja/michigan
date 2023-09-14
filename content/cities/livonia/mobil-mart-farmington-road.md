@@ -1,5 +1,5 @@
 ---
 title: "Mobil Mart"
-url: /livonia/mobil-mart/
+url: /livonia/mobil-mart-farmington-road/
 shop: convenience
 ---

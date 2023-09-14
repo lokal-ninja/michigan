@@ -1,5 +1,5 @@
 ---
 title: "Meijer"
-url: /alpena/meijer/
+url: /alpena/meijer-m-32/
 shop: supermarket
 ---

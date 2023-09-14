@@ -1,5 +1,5 @@
 ---
 title: "Mobil Mart"
-url: /detroit/mobil-mart/
+url: /detroit/mobil-mart-conner-street/
 shop: convenience
 ---

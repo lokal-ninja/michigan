@@ -1,5 +1,5 @@
 ---
 title: "Citgo"
-url: /flint/citgo/
+url: /flint/citgo-north-ballenger-highway/
 shop: convenience
 ---

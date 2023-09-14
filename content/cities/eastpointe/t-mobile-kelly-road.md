@@ -1,5 +1,5 @@
 ---
 title: "T-Mobile"
-url: /eastpointe/t-mobile/
+url: /eastpointe/t-mobile-kelly-road/
 shop: mobile phone
 ---

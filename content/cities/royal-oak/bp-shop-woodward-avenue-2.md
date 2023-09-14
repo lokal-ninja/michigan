@@ -1,5 +1,5 @@
 ---
 title: "BP Shop"
-url: /royal-oak/bp-shop/
+url: /royal-oak/bp-shop-woodward-avenue-2/
 shop: convenience
 ---

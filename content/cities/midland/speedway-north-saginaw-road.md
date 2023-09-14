@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /midland/speedway/
+url: /midland/speedway-north-saginaw-road/
 shop: convenience
 ---

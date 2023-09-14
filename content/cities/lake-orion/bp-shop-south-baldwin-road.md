@@ -1,5 +1,5 @@
 ---
 title: "BP Shop"
-url: /lake-orion/bp-shop/
+url: /lake-orion/bp-shop-south-baldwin-road/
 shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Journeys"
-url: /taylor/journeys/
+url: /taylor/journeys-eureka-road/
 shop: shoes
 ---

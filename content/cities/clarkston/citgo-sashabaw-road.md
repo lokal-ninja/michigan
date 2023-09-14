@@ -1,5 +1,5 @@
 ---
 title: "Citgo"
-url: /clarkston/citgo/
+url: /clarkston/citgo-sashabaw-road/
 shop: convenience
 ---

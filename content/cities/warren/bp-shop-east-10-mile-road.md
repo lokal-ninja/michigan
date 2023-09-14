@@ -1,5 +1,5 @@
 ---
 title: "BP Shop"
-url: /warren/bp-shop/
+url: /warren/bp-shop-east-10-mile-road/
 shop: convenience
 ---

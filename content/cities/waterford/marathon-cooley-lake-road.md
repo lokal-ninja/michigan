@@ -1,5 +1,5 @@
 ---
 title: "Marathon"
-url: /waterford/marathon/
+url: /waterford/marathon-cooley-lake-road/
 shop: convenience
 ---

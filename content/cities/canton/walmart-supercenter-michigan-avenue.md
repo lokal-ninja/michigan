@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
-url: /canton/walmart-supercenter/
+url: /canton/walmart-supercenter-michigan-avenue/
 shop: supermarket
 ---

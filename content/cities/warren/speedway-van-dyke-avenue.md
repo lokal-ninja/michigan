@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /warren/speedway/
+url: /warren/speedway-van-dyke-avenue/
 shop: convenience
 ---

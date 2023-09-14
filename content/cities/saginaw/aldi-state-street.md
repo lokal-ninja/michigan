@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
-url: /saginaw/aldi/
+url: /saginaw/aldi-state-street/
 shop: supermarket
 ---

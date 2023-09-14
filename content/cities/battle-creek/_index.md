@@ -1,6 +1,6 @@
 ---
 title: Battle Creek
 url: /battle-creek/
-latitude: 42.331
-longitude: -85.155
+latitude: 42.324
+longitude: -85.166
 ---

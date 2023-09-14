@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /allegan/speedway/
+url: /allegan/speedway-western-avenue/
 shop: convenience
 ---

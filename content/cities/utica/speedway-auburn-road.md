@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /utica/speedway/
+url: /utica/speedway-auburn-road/
 shop: convenience
 ---

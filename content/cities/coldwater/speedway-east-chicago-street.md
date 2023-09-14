@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /coldwater/speedway/
+url: /coldwater/speedway-east-chicago-street/
 shop: convenience
 ---

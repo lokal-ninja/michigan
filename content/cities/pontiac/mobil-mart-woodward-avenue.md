@@ -1,5 +1,5 @@
 ---
 title: "Mobil Mart"
-url: /pontiac/mobil-mart/
+url: /pontiac/mobil-mart-woodward-avenue/
 shop: convenience
 ---

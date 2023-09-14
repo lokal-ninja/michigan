@@ -1,5 +1,5 @@
 ---
 title: "Admiral"
-url: /jackson/admiral/
+url: /jackson/admiral-west-prospect-street/
 shop: convenience
 ---

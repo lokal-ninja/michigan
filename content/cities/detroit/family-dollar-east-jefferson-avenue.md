@@ -1,5 +1,5 @@
 ---
 title: "Family Dollar"
-url: /detroit/family-dollar/
+url: /detroit/family-dollar-east-jefferson-avenue/
 shop: variety store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Meijer"
-url: /southgate/meijer/
+url: /southgate/meijer-fort-street/
 shop: convenience
 ---

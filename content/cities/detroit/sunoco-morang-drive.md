@@ -1,5 +1,5 @@
 ---
 title: "Sunoco"
-url: /detroit/sunoco/
+url: /detroit/sunoco-morang-drive/
 shop: convenience
 ---

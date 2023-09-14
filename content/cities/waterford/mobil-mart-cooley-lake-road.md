@@ -1,5 +1,5 @@
 ---
 title: "Mobil Mart"
-url: /waterford/mobil-mart/
+url: /waterford/mobil-mart-cooley-lake-road/
 shop: convenience
 ---

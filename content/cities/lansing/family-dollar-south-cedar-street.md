@@ -1,5 +1,5 @@
 ---
 title: "Family Dollar"
-url: /lansing/family-dollar/
+url: /lansing/family-dollar-south-cedar-street/
 shop: variety store
 ---

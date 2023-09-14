@@ -1,5 +1,5 @@
 ---
 title: "Victoria Day Spa"
-url: /monroe/victoria-day-spa/
+url: /monroe/victoria-day-spa-west-front-street/
 shop: beauty
 ---

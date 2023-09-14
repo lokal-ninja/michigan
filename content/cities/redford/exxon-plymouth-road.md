@@ -1,5 +1,5 @@
 ---
 title: "Exxon"
-url: /redford/exxon/
+url: /redford/exxon-plymouth-road/
 shop: convenience
 ---

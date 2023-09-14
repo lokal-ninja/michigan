@@ -1,5 +1,5 @@
 ---
 title: "Marathon"
-url: /detroit/marathon/
+url: /detroit/marathon-fenkell-street-2/
 shop: convenience
 ---

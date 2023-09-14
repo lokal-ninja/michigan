@@ -1,5 +1,5 @@
 ---
 title: "Meijer"
-url: /saginaw/meijer/
+url: /saginaw/meijer-tittabawassee-road/
 shop: supermarket
 ---

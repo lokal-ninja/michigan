@@ -1,5 +1,5 @@
 ---
 title: "Citgo"
-url: /highland-park/citgo/
+url: /highland-park/citgo-woodward-avenue/
 shop: convenience
 ---

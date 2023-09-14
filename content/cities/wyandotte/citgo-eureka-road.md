@@ -1,5 +1,5 @@
 ---
 title: "Citgo"
-url: /wyandotte/citgo/
+url: /wyandotte/citgo-eureka-road/
 shop: convenience
 ---

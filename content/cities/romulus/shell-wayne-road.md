@@ -1,5 +1,5 @@
 ---
 title: "Shell"
-url: /romulus/shell/
+url: /romulus/shell-wayne-road/
 shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Shell"
-url: /dearborn-heights/shell/
+url: /dearborn-heights/shell-north-telegraph-road/
 shop: convenience
 ---

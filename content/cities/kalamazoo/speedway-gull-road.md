@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /kalamazoo/speedway/
+url: /kalamazoo/speedway-gull-road/
 shop: convenience
 ---

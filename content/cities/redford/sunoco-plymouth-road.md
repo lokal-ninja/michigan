@@ -1,5 +1,5 @@
 ---
 title: "Sunoco"
-url: /redford/sunoco/
+url: /redford/sunoco-plymouth-road/
 shop: convenience
 ---

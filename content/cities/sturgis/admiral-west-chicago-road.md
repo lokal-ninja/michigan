@@ -1,5 +1,5 @@
 ---
 title: "Admiral"
-url: /sturgis/admiral/
+url: /sturgis/admiral-west-chicago-road/
 shop: convenience
 ---

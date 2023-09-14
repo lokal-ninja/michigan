@@ -1,5 +1,5 @@
 ---
 title: "Citgo"
-url: /greenville/citgo/
+url: /greenville/citgo-north-lafayette-street/
 shop: convenience
 ---

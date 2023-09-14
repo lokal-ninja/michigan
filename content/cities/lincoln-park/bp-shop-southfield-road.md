@@ -1,5 +1,5 @@
 ---
 title: "BP Shop"
-url: /lincoln-park/bp-shop/
+url: /lincoln-park/bp-shop-southfield-road/
 shop: convenience
 ---

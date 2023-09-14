@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
-url: /saint-clair-shores/walgreens/
+url: /saint-clair-shores/walgreens-little-mack-avenue/
 shop: chemist
 ---

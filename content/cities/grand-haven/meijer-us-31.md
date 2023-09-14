@@ -1,5 +1,5 @@
 ---
 title: "Meijer"
-url: /grand-haven/meijer/
+url: /grand-haven/meijer-us-31/
 shop: convenience
 ---

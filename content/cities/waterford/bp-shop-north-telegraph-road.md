@@ -1,5 +1,5 @@
 ---
 title: "BP Shop"
-url: /waterford/bp-shop/
+url: /waterford/bp-shop-north-telegraph-road/
 shop: convenience
 ---

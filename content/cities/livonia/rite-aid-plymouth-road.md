@@ -1,5 +1,5 @@
 ---
 title: "Rite Aid"
-url: /livonia/rite-aid/
+url: /livonia/rite-aid-plymouth-road/
 shop: chemist
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mobil Mart"
-url: /fowlerville/mobil-mart/
+url: /fowlerville/mobil-mart-fowlerville-road/
 shop: convenience
 ---

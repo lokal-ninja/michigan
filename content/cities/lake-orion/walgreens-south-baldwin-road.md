@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
-url: /lake-orion/walgreens/
+url: /lake-orion/walgreens-south-baldwin-road/
 shop: chemist
 ---

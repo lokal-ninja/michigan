@@ -1,5 +1,5 @@
 ---
 title: "Meijer"
-url: /dewitt/meijer/
+url: /dewitt/meijer-crossover-drive/
 shop: supermarket
 ---

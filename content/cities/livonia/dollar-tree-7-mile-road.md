@@ -1,5 +1,5 @@
 ---
 title: "Dollar Tree"
-url: /livonia/dollar-tree/
+url: /livonia/dollar-tree-7-mile-road/
 shop: variety store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Marathon"
-url: /davison/marathon/
+url: /davison/marathon-north-state-road/
 shop: convenience
 ---

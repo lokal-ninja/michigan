@@ -1,5 +1,5 @@
 ---
 title: "Meijer"
-url: /portage/meijer/
+url: /portage/meijer-south-westnedge-avenue/
 shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Citgo"
-url: /dearborn-heights/citgo/
+url: /dearborn-heights/citgo-ford-road/
 shop: convenience
 ---

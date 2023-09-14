@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /taylor/speedway/
+url: /taylor/speedway-eureka-road/
 shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /flint/speedway/
+url: /flint/speedway-south-dort-highway/
 shop: convenience
 ---

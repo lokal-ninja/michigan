@@ -1,5 +1,5 @@
 ---
 title: "Marathon"
-url: /eastpointe/marathon/
+url: /eastpointe/marathon-kelly-road/
 shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /wyoming/speedway/
+url: /wyoming/speedway-byron-center-avenue-southwest/
 shop: convenience
 ---

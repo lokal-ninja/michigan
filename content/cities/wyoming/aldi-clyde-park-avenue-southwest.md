@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
-url: /wyoming/aldi/
+url: /wyoming/aldi-clyde-park-avenue-southwest/
 shop: supermarket
 ---

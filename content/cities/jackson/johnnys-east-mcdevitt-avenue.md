@@ -1,5 +1,5 @@
 ---
 title: "Johnny's"
-url: /jackson/johnnys/
+url: /jackson/johnnys-east-mcdevitt-avenue/
 shop: convenience
 ---

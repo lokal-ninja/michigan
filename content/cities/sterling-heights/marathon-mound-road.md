@@ -1,5 +1,5 @@
 ---
 title: "Marathon"
-url: /sterling-heights/marathon/
+url: /sterling-heights/marathon-mound-road/
 shop: convenience
 ---

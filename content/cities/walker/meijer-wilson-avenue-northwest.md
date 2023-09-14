@@ -1,5 +1,5 @@
 ---
 title: "Meijer"
-url: /walker/meijer/
+url: /walker/meijer-wilson-avenue-northwest/
 shop: convenience
 ---

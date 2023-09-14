@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /lansing/speedway/
+url: /lansing/speedway-west-saginaw-highway/
 shop: convenience
 ---

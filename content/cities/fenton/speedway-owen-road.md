@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /fenton/speedway/
+url: /fenton/speedway-owen-road/
 shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sunoco"
-url: /lapeer/sunoco/
+url: /lapeer/sunoco-south-main-street/
 shop: convenience
 ---

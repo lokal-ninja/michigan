@@ -1,5 +1,5 @@
 ---
 title: "BP Shop"
-url: /southgate/bp-shop/
+url: /southgate/bp-shop-allen-road/
 shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Krist"
-url: /iron-river/krist/
+url: /iron-river/krist-selden-road/
 shop: gas
 ---

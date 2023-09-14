@@ -1,5 +1,5 @@
 ---
 title: "Meijer"
-url: /flint/meijer/
+url: /flint/meijer-hill-road/
 shop: supermarket
 ---

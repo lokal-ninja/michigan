@@ -1,5 +1,5 @@
 ---
 title: "Express Stop"
-url: /flint/express-stop/
+url: /flint/express-stop-corunna-road/
 shop: convenience
 ---

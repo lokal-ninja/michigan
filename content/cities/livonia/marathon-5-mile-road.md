@@ -1,5 +1,5 @@
 ---
 title: "Marathon"
-url: /livonia/marathon/
+url: /livonia/marathon-5-mile-road/
 shop: convenience
 ---

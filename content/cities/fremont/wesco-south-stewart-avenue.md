@@ -1,5 +1,5 @@
 ---
 title: "Wesco"
-url: /fremont/wesco/
+url: /fremont/wesco-south-stewart-avenue/
 shop: convenience
 ---

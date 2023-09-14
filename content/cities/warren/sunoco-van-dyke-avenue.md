@@ -1,5 +1,5 @@
 ---
 title: "Sunoco"
-url: /warren/sunoco/
+url: /warren/sunoco-van-dyke-avenue/
 shop: convenience
 ---

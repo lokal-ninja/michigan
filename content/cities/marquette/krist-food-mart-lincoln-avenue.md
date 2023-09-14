@@ -1,5 +1,5 @@
 ---
 title: "Krist Food Mart"
-url: /marquette/krist-food-mart/
+url: /marquette/krist-food-mart-lincoln-avenue/
 shop: convenience
 ---

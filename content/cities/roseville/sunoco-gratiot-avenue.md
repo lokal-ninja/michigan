@@ -1,5 +1,5 @@
 ---
 title: "Sunoco"
-url: /roseville/sunoco/
+url: /roseville/sunoco-gratiot-avenue/
 shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Meijer"
-url: /detroit/meijer/
+url: /detroit/meijer-east-jefferson-avenue/
 shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Meijer"
-url: /kalamazoo/meijer/
+url: /kalamazoo/meijer-west-main-street/
 shop: supermarket
 ---

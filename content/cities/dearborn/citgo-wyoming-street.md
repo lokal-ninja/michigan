@@ -1,5 +1,5 @@
 ---
 title: "Citgo"
-url: /dearborn/citgo/
+url: /dearborn/citgo-wyoming-street/
 shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Marathon"
-url: /port-huron/marathon/
+url: /port-huron/marathon-military-street/
 shop: convenience
 ---

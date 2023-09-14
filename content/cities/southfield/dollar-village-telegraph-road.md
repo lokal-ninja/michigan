@@ -1,5 +1,5 @@
 ---
 title: "Dollar Village"
-url: /southfield/dollar-village/
+url: /southfield/dollar-village-telegraph-road/
 shop: variety store
 ---

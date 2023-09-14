@@ -1,5 +1,5 @@
 ---
 title: "Meijer"
-url: /canton/meijer/
+url: /canton/meijer-ford-road/
 shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mobil Mart"
-url: /redford/mobil-mart/
+url: /redford/mobil-mart-plymouth-road/
 shop: convenience
 ---

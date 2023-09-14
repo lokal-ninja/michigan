@@ -1,5 +1,5 @@
 ---
 title: "AGO"
-url: /portage/ago/
+url: /portage/ago-oakland-drive/
 shop: convenience
 ---

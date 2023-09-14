@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /ypsilanti/speedway/
+url: /ypsilanti/speedway-east-michigan-avenue/
 shop: convenience
 ---

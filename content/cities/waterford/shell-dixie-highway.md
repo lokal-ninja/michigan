@@ -1,5 +1,5 @@
 ---
 title: "Shell"
-url: /waterford/shell/
+url: /waterford/shell-dixie-highway/
 shop: convenience
 ---

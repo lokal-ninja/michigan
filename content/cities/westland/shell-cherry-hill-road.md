@@ -1,5 +1,5 @@
 ---
 title: "Shell"
-url: /westland/shell/
+url: /westland/shell-cherry-hill-road/
 shop: convenience
 ---

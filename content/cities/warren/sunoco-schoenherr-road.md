@@ -1,5 +1,5 @@
 ---
 title: "Sunoco"
-url: /warren/sunoco/
+url: /warren/sunoco-schoenherr-road/
 shop: convenience
 ---

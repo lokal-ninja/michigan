@@ -1,5 +1,5 @@
 ---
 title: "Meijer"
-url: /marquette/meijer/
+url: /marquette/meijer-us-41-m-28/
 shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sunoco"
-url: /southgate/sunoco/
+url: /southgate/sunoco-goddard-road/
 shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /auburn-hills/speedway/
+url: /auburn-hills/speedway-university-drive/
 shop: convenience
 ---

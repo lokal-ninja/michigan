@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /portage/speedway/
+url: /portage/speedway-portage-road/
 shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Citgo"
-url: /detroit/citgo/
+url: /detroit/citgo-east-7-mile-road-3/
 shop: convenience
 ---

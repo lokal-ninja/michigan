@@ -1,5 +1,5 @@
 ---
 title: "Meijer"
-url: /escanaba/meijer/
+url: /escanaba/meijer-3rd-avenue-north/
 shop: convenience
 ---

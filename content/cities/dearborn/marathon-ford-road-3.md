@@ -1,5 +1,5 @@
 ---
 title: "Marathon"
-url: /dearborn/marathon/
+url: /dearborn/marathon-ford-road-3/
 shop: convenience
 ---

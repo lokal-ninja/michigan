@@ -1,5 +1,5 @@
 ---
 title: "Sunoco"
-url: /westland/sunoco/
+url: /westland/sunoco-north-middlebelt-road/
 shop: convenience
 ---

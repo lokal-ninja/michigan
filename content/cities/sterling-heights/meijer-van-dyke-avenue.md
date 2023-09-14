@@ -1,5 +1,5 @@
 ---
 title: "Meijer"
-url: /sterling-heights/meijer/
+url: /sterling-heights/meijer-van-dyke-avenue/
 shop: supermarket
 ---

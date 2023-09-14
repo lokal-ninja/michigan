@@ -1,5 +1,5 @@
 ---
 title: "Shell"
-url: /grand-rapids/shell/
+url: /grand-rapids/shell-division-avenue-south/
 shop: convenience
 ---

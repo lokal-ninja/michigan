@@ -1,5 +1,5 @@
 ---
 title: "Sunoco"
-url: /saginaw/sunoco/
+url: /saginaw/sunoco-east-genesee-avenue/
 shop: convenience
 ---

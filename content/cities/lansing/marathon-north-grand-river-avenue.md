@@ -1,5 +1,5 @@
 ---
 title: "Marathon"
-url: /lansing/marathon/
+url: /lansing/marathon-north-grand-river-avenue/
 shop: convenience
 ---

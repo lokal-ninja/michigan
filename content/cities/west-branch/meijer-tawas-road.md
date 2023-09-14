@@ -1,5 +1,5 @@
 ---
 title: "Meijer"
-url: /west-branch/meijer/
+url: /west-branch/meijer-tawas-road/
 shop: convenience
 ---

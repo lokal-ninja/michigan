@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
-url: /troy/kroger/
+url: /troy/kroger-rochester-road/
 shop: convenience
 ---

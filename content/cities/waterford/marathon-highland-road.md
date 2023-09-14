@@ -1,5 +1,5 @@
 ---
 title: "Marathon"
-url: /waterford/marathon/
+url: /waterford/marathon-highland-road/
 shop: convenience
 ---

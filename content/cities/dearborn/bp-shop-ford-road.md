@@ -1,5 +1,5 @@
 ---
 title: "BP Shop"
-url: /dearborn/bp-shop/
+url: /dearborn/bp-shop-ford-road/
 shop: convenience
 ---

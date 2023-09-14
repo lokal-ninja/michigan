@@ -1,5 +1,5 @@
 ---
 title: "Mobil Mart"
-url: /dearborn-heights/mobil-mart/
+url: /dearborn-heights/mobil-mart-greenfield-road/
 shop: convenience
 ---

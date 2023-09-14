@@ -1,5 +1,5 @@
 ---
 title: "Dollar Tree"
-url: /taylor/dollar-tree/
+url: /taylor/dollar-tree-telegraph-road/
 shop: variety store
 ---

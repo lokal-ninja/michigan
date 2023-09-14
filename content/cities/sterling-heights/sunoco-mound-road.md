@@ -1,5 +1,5 @@
 ---
 title: "Sunoco"
-url: /sterling-heights/sunoco/
+url: /sterling-heights/sunoco-mound-road/
 shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /jackson/speedway/
+url: /jackson/speedway-north-wisner-street/
 shop: convenience
 ---

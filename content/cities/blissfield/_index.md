@@ -1,6 +1,6 @@
 ---
 title: Blissfield
 url: /blissfield/
-latitude: 41.829
-longitude: -83.851
+latitude: 41.837
+longitude: -83.878
 ---

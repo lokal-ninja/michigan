@@ -1,5 +1,5 @@
 ---
 title: "ToGo"
-url: /detroit/togo/
+url: /detroit/togo-fenkell-street/
 shop: convenience
 ---

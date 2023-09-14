@@ -1,5 +1,5 @@
 ---
 title: "Marathon"
-url: /troy/marathon/
+url: /troy/marathon-john-r-road/
 shop: convenience
 ---

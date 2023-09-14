@@ -1,5 +1,5 @@
 ---
 title: "BP Shop"
-url: /auburn-hills/bp-shop/
+url: /auburn-hills/bp-shop-joslyn-road/
 shop: convenience
 ---

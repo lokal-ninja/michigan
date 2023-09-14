@@ -1,5 +1,5 @@
 ---
 title: "AGO"
-url: /wyoming/ago/
+url: /wyoming/ago-burton-street-southwest/
 shop: convenience
 ---

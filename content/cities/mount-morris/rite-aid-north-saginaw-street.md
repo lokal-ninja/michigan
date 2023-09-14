@@ -1,5 +1,5 @@
 ---
 title: "Rite Aid"
-url: /mount-morris/rite-aid/
+url: /mount-morris/rite-aid-north-saginaw-street/
 shop: chemist
 ---

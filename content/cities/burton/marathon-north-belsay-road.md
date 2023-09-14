@@ -1,5 +1,5 @@
 ---
 title: "Marathon"
-url: /burton/marathon/
+url: /burton/marathon-north-belsay-road/
 shop: convenience
 ---

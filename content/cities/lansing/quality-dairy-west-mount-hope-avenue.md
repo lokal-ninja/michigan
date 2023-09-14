@@ -1,5 +1,5 @@
 ---
 title: "Quality Dairy"
-url: /lansing/quality-dairy/
+url: /lansing/quality-dairy-west-mount-hope-avenue/
 shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /muskegon/speedway/
+url: /muskegon/speedway-grand-haven-road/
 shop: convenience
 ---

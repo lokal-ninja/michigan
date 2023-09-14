@@ -1,5 +1,5 @@
 ---
 title: "Meijer"
-url: /wixom/meijer/
+url: /wixom/meijer-grand-river-avenue/
 shop: convenience
 ---

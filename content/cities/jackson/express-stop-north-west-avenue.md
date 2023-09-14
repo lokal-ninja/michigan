@@ -1,5 +1,5 @@
 ---
 title: "Express Stop"
-url: /jackson/express-stop/
+url: /jackson/express-stop-north-west-avenue/
 shop: convenience
 ---

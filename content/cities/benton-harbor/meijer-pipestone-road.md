@@ -1,5 +1,5 @@
 ---
 title: "Meijer"
-url: /benton-harbor/meijer/
+url: /benton-harbor/meijer-pipestone-road/
 shop: supermarket
 ---

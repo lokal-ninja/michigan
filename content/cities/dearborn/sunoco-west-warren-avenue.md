@@ -1,5 +1,5 @@
 ---
 title: "Sunoco"
-url: /dearborn/sunoco/
+url: /dearborn/sunoco-west-warren-avenue/
 shop: convenience
 ---
