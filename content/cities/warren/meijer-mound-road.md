@@ -1,5 +1,5 @@
 ---
 title: "Meijer"
 url: /warren/meijer-mound-road/
-shop: convenience
+shop: supermarket
 ---

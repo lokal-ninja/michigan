@@ -1,6 +1,6 @@
 ---
 title: Ludington
 url: /ludington/
-latitude: 43.955
-longitude: -86.399
+latitude: 43.956
+longitude: -86.448
 ---
