@@ -1,6 +1,6 @@
 ---
 title: Gulliver
 url: /gulliver/
-latitude: 46.1
-longitude: -85.93
+latitude: 45.994
+longitude: -86.013
 ---
