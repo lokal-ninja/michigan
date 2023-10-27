@@ -1,6 +1,6 @@
 ---
 title: Grosse Pointe
 url: /grosse-pointe/
-latitude: 42.403
-longitude: -82.917
+latitude: 42.376
+longitude: -82.935
 ---
