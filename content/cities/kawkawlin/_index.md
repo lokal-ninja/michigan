@@ -1,6 +1,6 @@
 ---
 title: Kawkawlin
 url: /kawkawlin/
-latitude: 43.668
-longitude: -84.015
+latitude: 43.651
+longitude: -83.943
 ---
