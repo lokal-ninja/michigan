@@ -1,6 +1,6 @@
 ---
 title: West Branch
 url: /west-branch/
-latitude: 44.267
-longitude: -84.218
+latitude: 44.247
+longitude: -84.063
 ---
