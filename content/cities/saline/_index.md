@@ -1,6 +1,6 @@
 ---
 title: Saline
 url: /saline/
-latitude: 42.187
-longitude: -83.737
+latitude: 42.188
+longitude: -83.738
 ---
