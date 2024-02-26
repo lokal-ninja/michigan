@@ -1,5 +1,5 @@
 ---
 title: "Perky Pantry"
 url: /tecumseh/perky-pantry/
-shop: convenience
+shop: supermarket
 ---
