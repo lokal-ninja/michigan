@@ -1,6 +1,6 @@
 ---
 title: Detroit
 url: /detroit/
-latitude: 42.334
-longitude: -83.049
+latitude: 42.352
+longitude: -83.066
 ---
