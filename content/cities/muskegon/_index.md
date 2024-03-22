@@ -1,6 +1,6 @@
 ---
 title: Muskegon
 url: /muskegon/
-latitude: 43.176
-longitude: -86.22
+latitude: 43.235
+longitude: -86.133
 ---

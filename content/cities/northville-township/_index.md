@@ -1,6 +1,6 @@
 ---
 title: Northville Township
 url: /northville-township/
-latitude: 42.438
-longitude: -83.493
+latitude: 42.443
+longitude: -83.433
 ---
