@@ -1,6 +1,6 @@
 ---
 title: Utica
 url: /utica/
-latitude: 42.64
-longitude: -83.073
+latitude: 42.631
+longitude: -82.995
 ---
