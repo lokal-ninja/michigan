@@ -1,6 +1,6 @@
 ---
 title: Fraser
 url: /fraser/
-latitude: 42.539
-longitude: -82.951
+latitude: 42.536
+longitude: -82.938
 ---
