@@ -1,6 +1,6 @@
 ---
 title: Adrian
 url: /adrian/
-latitude: 41.875
-longitude: -84.041
+latitude: 41.894
+longitude: -84.034
 ---
