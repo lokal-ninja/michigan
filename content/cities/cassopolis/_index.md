@@ -1,6 +1,6 @@
 ---
 title: Cassopolis
 url: /cassopolis/
-latitude: 41.912
-longitude: -85.992
+latitude: 41.909
+longitude: -86.012
 ---
