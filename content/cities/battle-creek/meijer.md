@@ -1,5 +1,5 @@
 ---
 title: "Meijer"
 url: /battle-creek/meijer/
-shop: convenience
+shop: supermarket
 ---
