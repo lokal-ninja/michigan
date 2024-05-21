@@ -1,6 +1,6 @@
 ---
 title: Seney
 url: /seney/
-latitude: 46.346
-longitude: -85.955
+latitude: 46.345
+longitude: -85.946
 ---
