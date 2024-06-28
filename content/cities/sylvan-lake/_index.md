@@ -1,6 +1,6 @@
 ---
 title: Sylvan Lake
 url: /sylvan-lake/
-latitude: 42.61
-longitude: -83.331
+latitude: 42.608
+longitude: -83.335
 ---

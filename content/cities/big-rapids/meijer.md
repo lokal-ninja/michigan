@@ -1,5 +1,5 @@
 ---
 title: "Meijer"
 url: /big-rapids/meijer/
-shop: supermarket
+shop: convenience
 ---

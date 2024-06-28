@@ -1,6 +1,6 @@
 ---
 title: Bloomfield Township
 url: /bloomfield-township/
-latitude: 42.612
-longitude: -83.271
+latitude: 42.605
+longitude: -83.296
 ---
