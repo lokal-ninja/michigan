@@ -1,6 +1,6 @@
 ---
 title: Grandville
 url: /grandville/
-latitude: 42.881
-longitude: -85.776
+latitude: 42.88
+longitude: -85.774
 ---

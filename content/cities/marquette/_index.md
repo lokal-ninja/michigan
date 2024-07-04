@@ -1,6 +1,6 @@
 ---
 title: Marquette
 url: /marquette/
-latitude: 46.546
-longitude: -87.416
+latitude: 46.551
+longitude: -87.473
 ---
