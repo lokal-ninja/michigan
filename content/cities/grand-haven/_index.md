@@ -1,6 +1,6 @@
 ---
 title: Grand Haven
 url: /grand-haven/
-latitude: 43.064
-longitude: -86.232
+latitude: 43.066
+longitude: -86.219
 ---

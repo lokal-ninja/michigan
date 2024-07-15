@@ -1,5 +1,5 @@
 ---
 title: "Walmart"
 url: /lansing/walmart/
-shop: department store
+shop: supermarket
 ---

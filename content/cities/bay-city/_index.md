@@ -1,6 +1,6 @@
 ---
 title: Bay City
 url: /bay-city/
-latitude: 43.594
-longitude: -83.915
+latitude: 43.566
+longitude: -83.894
 ---
