@@ -1,6 +1,6 @@
 ---
 title: Sault Ste Marie
 url: /sault-ste-marie/
-latitude: 46.476
-longitude: -84.356
+latitude: 46.499
+longitude: -84.343
 ---
