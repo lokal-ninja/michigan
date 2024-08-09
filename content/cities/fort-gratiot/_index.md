@@ -1,6 +1,6 @@
 ---
 title: Fort Gratiot
 url: /fort-gratiot/
-latitude: 43.034
-longitude: -82.458
+latitude: 43.039
+longitude: -82.459
 ---
