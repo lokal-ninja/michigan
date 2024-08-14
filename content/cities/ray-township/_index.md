@@ -1,6 +1,6 @@
 ---
 title: Ray Township
 url: /ray-township/
-latitude: 42.805
-longitude: -82.963
+latitude: 42.806
+longitude: -82.883
 ---
