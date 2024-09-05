@@ -1,5 +1,5 @@
 ---
 title: "Citgo"
 url: /rogers-city/citgo/
-shop: convenience
+shop: Lebensmittel
 ---

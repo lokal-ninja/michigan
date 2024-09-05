@@ -1,5 +1,5 @@
 ---
 title: "Studio Nails"
 url: /walker/studio-nails/
-shop: beauty
+shop: Kosmetik
 ---

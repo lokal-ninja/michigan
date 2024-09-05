@@ -1,5 +1,5 @@
 ---
 title: "Michael's Liquor"
 url: /detroit/michaels-liquor/
-shop: alcohol
+shop: Spirituosen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "AGO"
 url: /coopersville/ago/
-shop: convenience
+shop: Lebensmittel
 ---

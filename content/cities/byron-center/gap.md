@@ -1,5 +1,5 @@
 ---
 title: "Gap"
 url: /byron-center/gap/
-shop: clothes
+shop: Kleidung
 ---

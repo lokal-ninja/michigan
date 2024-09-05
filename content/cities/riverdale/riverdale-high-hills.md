@@ -1,5 +1,5 @@
 ---
 title: "Riverdale High Hills"
 url: /riverdale/riverdale-high-hills/
-shop: convenience
+shop: Lebensmittel
 ---

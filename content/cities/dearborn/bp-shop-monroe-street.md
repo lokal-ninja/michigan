@@ -1,5 +1,5 @@
 ---
 title: "BP Shop"
 url: /dearborn/bp-shop-monroe-street/
-shop: convenience
+shop: Lebensmittel
 ---

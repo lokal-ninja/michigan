@@ -1,5 +1,5 @@
 ---
 title: "Geniehobbies"
 url: /gaylord/geniehobbies/
-shop: sports
+shop: Sport
 ---

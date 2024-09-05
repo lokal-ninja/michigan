@@ -1,5 +1,5 @@
 ---
 title: "Forward Convenience Store"
 url: /sterling/forward-convenience-store/
-shop: convenience
+shop: Lebensmittel
 ---

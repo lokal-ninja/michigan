@@ -1,5 +1,5 @@
 ---
 title: "BP Shop"
 url: /clinton-township/bp-shop/
-shop: convenience
+shop: Lebensmittel
 ---

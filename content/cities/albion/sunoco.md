@@ -1,5 +1,5 @@
 ---
 title: "Sunoco"
 url: /albion/sunoco/
-shop: convenience
+shop: Lebensmittel
 ---

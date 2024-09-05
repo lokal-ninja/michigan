@@ -1,5 +1,5 @@
 ---
 title: "Indoor Garden Supply"
 url: /alpena/indoor-garden-supply/
-shop: shop
+shop: Allgemein
 ---

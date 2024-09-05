@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /allegan/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

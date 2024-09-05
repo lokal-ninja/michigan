@@ -1,5 +1,5 @@
 ---
 title: "Dukes Outpost"
 url: /pleasant-lake/dukes-outpost/
-shop: convenience
+shop: Lebensmittel
 ---

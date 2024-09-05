@@ -1,5 +1,5 @@
 ---
 title: "Krist"
 url: /escanaba/krist-us-2/
-shop: convenience
+shop: Lebensmittel
 ---

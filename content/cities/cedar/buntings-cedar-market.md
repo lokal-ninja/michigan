@@ -1,5 +1,5 @@
 ---
 title: "Buntings Cedar Market"
 url: /cedar/buntings-cedar-market/
-shop: convenience
+shop: Lebensmittel
 ---

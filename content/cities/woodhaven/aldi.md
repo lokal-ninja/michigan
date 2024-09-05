@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /woodhaven/aldi/
-shop: supermarket
+shop: Supermarkt
 ---

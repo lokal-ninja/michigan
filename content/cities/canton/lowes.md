@@ -1,5 +1,5 @@
 ---
 title: "Lowe's"
 url: /canton/lowes/
-shop: doityourself
+shop: Baumarkt
 ---

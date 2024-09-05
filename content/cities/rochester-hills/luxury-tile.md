@@ -1,5 +1,5 @@
 ---
 title: "Luxury Tile"
 url: /rochester-hills/luxury-tile/
-shop: tiles
+shop: Fliesen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ferrellgas"
 url: /haslett/ferrellgas/
-shop: gas
+shop: Gasflaschen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lowe's"
 url: /lansing/lowes/
-shop: doityourself
+shop: Baumarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Citgo"
 url: /detroit/citgo-west-davison-avenue/
-shop: convenience
+shop: Lebensmittel
 ---

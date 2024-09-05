@@ -1,5 +1,5 @@
 ---
 title: "Admiral Petroleum"
 url: /freeland/admiral-petroleum/
-shop: convenience
+shop: Lebensmittel
 ---

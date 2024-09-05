@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /bay-city/goodwill/
-shop: charity
+shop: Gebrauchtwaren
 ---

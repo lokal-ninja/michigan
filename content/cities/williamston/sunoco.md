@@ -1,5 +1,5 @@
 ---
 title: "Sunoco"
 url: /williamston/sunoco/
-shop: convenience
+shop: Lebensmittel
 ---

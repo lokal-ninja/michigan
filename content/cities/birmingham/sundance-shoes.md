@@ -1,5 +1,5 @@
 ---
 title: "Sundance Shoes"
 url: /birmingham/sundance-shoes/
-shop: shoes
+shop: Schuhe
 ---

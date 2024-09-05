@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
 url: /woodhaven/homegoods/
-shop: houseware
+shop: Haushaltsartikel
 ---

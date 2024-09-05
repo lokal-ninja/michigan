@@ -1,5 +1,5 @@
 ---
 title: "Alfady"
 url: /warren/alfady/
-shop: convenience
+shop: Lebensmittel
 ---

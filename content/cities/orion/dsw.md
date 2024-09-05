@@ -1,5 +1,5 @@
 ---
 title: "DSW"
 url: /orion/dsw/
-shop: shoes
+shop: Schuhe
 ---

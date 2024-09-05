@@ -1,5 +1,5 @@
 ---
 title: "Notorious Tintz"
 url: /livonia/notorious-tintz/
-shop: car repair
+shop: Autowerkstatt
 ---

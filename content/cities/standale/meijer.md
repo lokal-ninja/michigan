@@ -1,5 +1,5 @@
 ---
 title: "Meijer"
 url: /standale/meijer/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Fabricare"
 url: /clawson/fabricare/
-shop: laundry
+shop: Wäscherei
 ---

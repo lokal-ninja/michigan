@@ -1,5 +1,5 @@
 ---
 title: "Plum Market"
 url: /bloomfield-hills/plum-market/
-shop: supermarket
+shop: Supermarkt
 ---

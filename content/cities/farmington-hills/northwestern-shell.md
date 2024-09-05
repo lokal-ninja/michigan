@@ -1,5 +1,5 @@
 ---
 title: "Northwestern Shell"
 url: /farmington-hills/northwestern-shell/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /lenox/shell/
-shop: convenience
+shop: Lebensmittel
 ---

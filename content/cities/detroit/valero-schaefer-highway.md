@@ -1,5 +1,5 @@
 ---
 title: "Valero"
 url: /detroit/valero-schaefer-highway/
-shop: convenience
+shop: Lebensmittel
 ---

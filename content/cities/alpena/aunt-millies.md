@@ -1,5 +1,5 @@
 ---
 title: "Aunt Millie's"
 url: /alpena/aunt-millies/
-shop: wholesale
+shop: Großhandel
 ---

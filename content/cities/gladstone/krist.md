@@ -1,5 +1,5 @@
 ---
 title: "Krist"
 url: /gladstone/krist/
-shop: convenience
+shop: Lebensmittel
 ---

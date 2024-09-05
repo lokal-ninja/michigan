@@ -1,5 +1,5 @@
 ---
 title: "Ship's Store"
 url: /spring-lake/ships-store/
-shop: convenience
+shop: Lebensmittel
 ---

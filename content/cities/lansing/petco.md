@@ -1,5 +1,5 @@
 ---
 title: "Petco"
 url: /lansing/petco/
-shop: pet
+shop: Tiere
 ---

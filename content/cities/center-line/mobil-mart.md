@@ -1,5 +1,5 @@
 ---
 title: "Mobil Mart"
 url: /center-line/mobil-mart/
-shop: convenience
+shop: Lebensmittel
 ---

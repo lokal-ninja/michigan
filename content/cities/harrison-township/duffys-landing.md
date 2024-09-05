@@ -1,5 +1,5 @@
 ---
 title: "Duffy's Landing"
 url: /harrison-township/duffys-landing/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Candy Beach"
 url: /whitehall/candy-beach/
-shop: confectionery
+shop: Süßwaren
 ---

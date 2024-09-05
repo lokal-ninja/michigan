@@ -1,5 +1,5 @@
 ---
 title: "Baby Drip"
 url: /madison-heights/baby-drip/
-shop: clothes
+shop: Kleidung
 ---

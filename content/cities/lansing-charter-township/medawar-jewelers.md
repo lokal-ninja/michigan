@@ -1,5 +1,5 @@
 ---
 title: "Medawar Jewelers"
 url: /lansing-charter-township/medawar-jewelers/
-shop: jewelry
+shop: Schmuck
 ---

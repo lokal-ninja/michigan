@@ -1,5 +1,5 @@
 ---
 title: "Hollywood Super Market"
 url: /troy/hollywood-super-market/
-shop: supermarket
+shop: Supermarkt
 ---

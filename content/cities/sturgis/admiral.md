@@ -1,5 +1,5 @@
 ---
 title: "Admiral"
 url: /sturgis/admiral/
-shop: convenience
+shop: Lebensmittel
 ---

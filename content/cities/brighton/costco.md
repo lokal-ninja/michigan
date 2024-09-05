@@ -1,5 +1,5 @@
 ---
 title: "Costco"
 url: /brighton/costco/
-shop: wholesale
+shop: Großhandel
 ---

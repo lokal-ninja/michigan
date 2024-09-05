@@ -1,5 +1,5 @@
 ---
 title: "Serra Volkswagen"
 url: /traverse-city/serra-volkswagen/
-shop: car
+shop: Autohaus
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Legend Motors"
 url: /detroit/legend-motors/
-shop: car
+shop: Autohaus
 ---

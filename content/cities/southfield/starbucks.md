@@ -1,5 +1,5 @@
 ---
 title: "Starbucks"
 url: /southfield/starbucks/
-shop: coffee
+shop: Kaffee
 ---

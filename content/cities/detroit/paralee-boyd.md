@@ -1,5 +1,5 @@
 ---
 title: "Paralee Boyd"
 url: /detroit/paralee-boyd/
-shop: hairdresser
+shop: Friseur
 ---

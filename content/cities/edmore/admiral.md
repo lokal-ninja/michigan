@@ -1,5 +1,5 @@
 ---
 title: "Admiral"
 url: /edmore/admiral/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kwik Trip"
 url: /gwinn/kwik-trip/
-shop: convenience
+shop: Lebensmittel
 ---

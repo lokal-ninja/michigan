@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /whitehall/goodwill/
-shop: charity
+shop: Gebrauchtwaren
 ---

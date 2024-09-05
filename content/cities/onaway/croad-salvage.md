@@ -1,5 +1,5 @@
 ---
 title: "Croad Salvage"
 url: /onaway/croad-salvage/
-shop: shop
+shop: Allgemein
 ---

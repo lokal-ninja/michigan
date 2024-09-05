@@ -1,5 +1,5 @@
 ---
 title: "Marathon"
 url: /grayling/marathon/
-shop: convenience
+shop: Lebensmittel
 ---

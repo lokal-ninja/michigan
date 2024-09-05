@@ -1,5 +1,5 @@
 ---
 title: "Dollar Tree"
 url: /clinton-township/dollar-tree-south-gratiot-avenue/
-shop: variety store
+shop: Kramladen
 ---

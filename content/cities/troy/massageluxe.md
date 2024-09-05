@@ -1,5 +1,5 @@
 ---
 title: "MassageluXe"
 url: /troy/massageluxe/
-shop: massage
+shop: Massage
 ---

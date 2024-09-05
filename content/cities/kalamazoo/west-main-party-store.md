@@ -1,5 +1,5 @@
 ---
 title: "West Main Party Store"
 url: /kalamazoo/west-main-party-store/
-shop: convenience
+shop: Lebensmittel
 ---

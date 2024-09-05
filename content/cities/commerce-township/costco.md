@@ -1,5 +1,5 @@
 ---
 title: "Costco"
 url: /commerce-township/costco/
-shop: wholesale
+shop: Großhandel
 ---

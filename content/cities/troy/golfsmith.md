@@ -1,5 +1,5 @@
 ---
 title: "Golfsmith"
 url: /troy/golfsmith/
-shop: sports
+shop: Sport
 ---

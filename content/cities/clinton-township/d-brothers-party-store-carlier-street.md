@@ -1,5 +1,5 @@
 ---
 title: "D-Brothers Party Store"
 url: /clinton-township/d-brothers-party-store-carlier-street/
-shop: convenience
+shop: Lebensmittel
 ---

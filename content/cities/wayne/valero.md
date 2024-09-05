@@ -1,5 +1,5 @@
 ---
 title: "Valero"
 url: /wayne/valero/
-shop: convenience
+shop: Lebensmittel
 ---

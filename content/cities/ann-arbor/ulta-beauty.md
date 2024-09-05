@@ -1,5 +1,5 @@
 ---
 title: "Ulta Beauty"
 url: /ann-arbor/ulta-beauty/
-shop: beauty
+shop: Kosmetik
 ---

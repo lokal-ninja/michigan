@@ -1,5 +1,5 @@
 ---
 title: "State Petro"
 url: /ann-arbor/state-petro/
-shop: convenience
+shop: Lebensmittel
 ---

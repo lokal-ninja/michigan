@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /honor/shell/
-shop: convenience
+shop: Lebensmittel
 ---

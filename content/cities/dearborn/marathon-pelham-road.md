@@ -1,5 +1,5 @@
 ---
 title: "Marathon"
 url: /dearborn/marathon-pelham-road/
-shop: convenience
+shop: Lebensmittel
 ---

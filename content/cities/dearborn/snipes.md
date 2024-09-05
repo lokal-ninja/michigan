@@ -1,5 +1,5 @@
 ---
 title: "Snipes"
 url: /dearborn/snipes/
-shop: shoes
+shop: Schuhe
 ---

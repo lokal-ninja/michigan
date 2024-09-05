@@ -1,5 +1,5 @@
 ---
 title: "Mackinaw Clothing"
 url: /mackinaw-city/mackinaw-clothing/
-shop: clothes
+shop: Kleidung
 ---

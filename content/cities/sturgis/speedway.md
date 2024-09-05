@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /sturgis/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

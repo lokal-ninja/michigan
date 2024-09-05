@@ -1,5 +1,5 @@
 ---
 title: "Dollar Tree"
 url: /carleton/dollar-tree/
-shop: variety store
+shop: Kramladen
 ---

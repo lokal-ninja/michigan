@@ -1,5 +1,5 @@
 ---
 title: "Zeidman's Loan"
 url: /detroit/zeidmans-loan/
-shop: pawnbroker
+shop: Leiher
 ---

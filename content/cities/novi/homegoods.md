@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
 url: /novi/homegoods/
-shop: houseware
+shop: Haushaltsartikel
 ---

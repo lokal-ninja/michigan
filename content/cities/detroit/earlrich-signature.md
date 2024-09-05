@@ -1,5 +1,5 @@
 ---
 title: "EarlRich Signature"
 url: /detroit/earlrich-signature/
-shop: clothes
+shop: Kleidung
 ---

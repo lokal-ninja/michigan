@@ -1,5 +1,5 @@
 ---
 title: "Hallmark"
 url: /lansing/hallmark/
-shop: gift
+shop: Andenken
 ---

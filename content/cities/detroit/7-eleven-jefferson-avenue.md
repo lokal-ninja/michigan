@@ -1,5 +1,5 @@
 ---
 title: "7-Eleven"
 url: /detroit/7-eleven-jefferson-avenue/
-shop: convenience
+shop: Lebensmittel
 ---

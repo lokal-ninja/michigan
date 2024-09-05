@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /lansing/target/
-shop: department store
+shop: Warenhaus
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /saint-clair-shores/walgreens-harper-avenue/
-shop: chemist
+shop: Drogerie
 ---

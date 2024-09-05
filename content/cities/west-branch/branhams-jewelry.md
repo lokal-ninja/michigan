@@ -1,5 +1,5 @@
 ---
 title: "Branham's Jewelry"
 url: /west-branch/branhams-jewelry/
-shop: jewelry
+shop: Schmuck
 ---

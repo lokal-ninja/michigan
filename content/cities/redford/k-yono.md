@@ -1,5 +1,5 @@
 ---
 title: "K Yono"
 url: /redford/k-yono/
-shop: alcohol
+shop: Spirituosen
 ---

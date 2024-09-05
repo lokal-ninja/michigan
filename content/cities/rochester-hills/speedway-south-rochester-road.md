@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /rochester-hills/speedway-south-rochester-road/
-shop: convenience
+shop: Lebensmittel
 ---

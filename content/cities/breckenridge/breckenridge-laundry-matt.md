@@ -1,5 +1,5 @@
 ---
 title: "Breckenridge Laundry Matt"
 url: /breckenridge/breckenridge-laundry-matt/
-shop: laundry
+shop: Wäscherei
 ---

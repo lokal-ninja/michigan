@@ -1,5 +1,5 @@
 ---
 title: "Marathon"
 url: /hamtramck/marathon/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ulta Beauty"
 url: /okemos/ulta-beauty/
-shop: beauty
+shop: Kosmetik
 ---

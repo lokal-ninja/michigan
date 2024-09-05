@@ -1,5 +1,5 @@
 ---
 title: "All-Phase Electric"
 url: /cheboygan/all-phase-electric/
-shop: electrical
+shop: Elektrisch
 ---

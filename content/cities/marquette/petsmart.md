@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
 url: /marquette/petsmart/
-shop: pet
+shop: Tiere
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Authentic"
 url: /troy/authentic/
-shop: clothes
+shop: Kleidung
 ---

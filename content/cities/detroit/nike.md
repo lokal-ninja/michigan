@@ -1,5 +1,5 @@
 ---
 title: "Nike"
 url: /detroit/nike/
-shop: clothes
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sullivan Exteriors"
 url: /west-branch/sullivan-exteriors/
-shop: doors
+shop: Türen
 ---

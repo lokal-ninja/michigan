@@ -1,5 +1,5 @@
 ---
 title: "New Desi Market"
 url: /warren/new-desi-market/
-shop: convenience
+shop: Lebensmittel
 ---

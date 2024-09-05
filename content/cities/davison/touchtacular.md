@@ -1,5 +1,5 @@
 ---
 title: "Touchtacular"
 url: /davison/touchtacular/
-shop: beauty
+shop: Kosmetik
 ---

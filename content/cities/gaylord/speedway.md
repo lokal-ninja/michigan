@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /gaylord/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

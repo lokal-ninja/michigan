@@ -1,5 +1,5 @@
 ---
 title: "General RV Center"
 url: /clarkston/general-rv-center/
-shop: car
+shop: Autohaus
 ---

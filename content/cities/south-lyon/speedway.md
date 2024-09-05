@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /south-lyon/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

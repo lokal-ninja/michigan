@@ -1,5 +1,5 @@
 ---
 title: "Old Navy"
 url: /lansing/old-navy/
-shop: clothes
+shop: Kleidung
 ---

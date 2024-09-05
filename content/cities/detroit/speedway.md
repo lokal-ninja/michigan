@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /detroit/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

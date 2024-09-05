@@ -1,5 +1,5 @@
 ---
 title: "Sunoco"
 url: /lapeer/sunoco-east-genesee-street/
-shop: convenience
+shop: Lebensmittel
 ---

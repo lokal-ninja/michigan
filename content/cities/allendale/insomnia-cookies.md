@@ -1,5 +1,5 @@
 ---
 title: "Insomnia Cookies"
 url: /allendale/insomnia-cookies/
-shop: pastry
+shop: Konditorei
 ---

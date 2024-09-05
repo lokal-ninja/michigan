@@ -1,5 +1,5 @@
 ---
 title: "Hurricane Vape"
 url: /southgate/hurricane-vape/
-shop: e-cigarette
+shop: E-Zigaretten
 ---

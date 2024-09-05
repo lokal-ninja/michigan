@@ -1,5 +1,5 @@
 ---
 title: "Comp-U-Link"
 url: /battle-creek/comp-u-link/
-shop: electronics
+shop: Elektronik
 ---

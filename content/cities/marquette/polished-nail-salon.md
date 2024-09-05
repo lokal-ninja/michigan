@@ -1,5 +1,5 @@
 ---
 title: "Polished Nail Salon"
 url: /marquette/polished-nail-salon/
-shop: beauty
+shop: Kosmetik
 ---

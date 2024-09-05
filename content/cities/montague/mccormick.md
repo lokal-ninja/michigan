@@ -1,5 +1,5 @@
 ---
 title: "McCormick"
 url: /montague/mccormick/
-shop: convenience
+shop: Lebensmittel
 ---

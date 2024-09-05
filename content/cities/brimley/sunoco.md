@@ -1,5 +1,5 @@
 ---
 title: "Sunoco"
 url: /brimley/sunoco/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sunoco"
 url: /river-rouge/sunoco/
-shop: convenience
+shop: Lebensmittel
 ---

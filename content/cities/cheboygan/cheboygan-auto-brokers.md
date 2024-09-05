@@ -1,5 +1,5 @@
 ---
 title: "Cheboygan Auto Brokers"
 url: /cheboygan/cheboygan-auto-brokers/
-shop: car
+shop: Autohaus
 ---

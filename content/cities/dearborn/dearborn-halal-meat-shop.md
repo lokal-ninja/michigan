@@ -1,5 +1,5 @@
 ---
 title: "Dearborn Halal Meat Shop"
 url: /dearborn/dearborn-halal-meat-shop/
-shop: butcher
+shop: Metzgerei
 ---

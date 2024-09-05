@@ -1,5 +1,5 @@
 ---
 title: "Marathon"
 url: /kimball/marathon/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Q's Plants"
 url: /hersey/qs-plants/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

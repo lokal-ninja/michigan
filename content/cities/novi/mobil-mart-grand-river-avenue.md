@@ -1,5 +1,5 @@
 ---
 title: "Mobil Mart"
 url: /novi/mobil-mart-grand-river-avenue/
-shop: convenience
+shop: Lebensmittel
 ---

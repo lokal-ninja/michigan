@@ -1,5 +1,5 @@
 ---
 title: "London Square"
 url: /mackinac-island/london-square/
-shop: gift
+shop: Andenken
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Plum Tree Yarn Shop"
 url: /milan/plum-tree-yarn-shop/
-shop: craft
+shop: Basteln
 ---

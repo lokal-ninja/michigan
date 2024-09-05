@@ -1,5 +1,5 @@
 ---
 title: "Valero"
 url: /redford/valero/
-shop: convenience
+shop: Lebensmittel
 ---

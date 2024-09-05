@@ -1,5 +1,5 @@
 ---
 title: "Paris Baguette"
 url: /birmingham/paris-baguette/
-shop: bakery
+shop: Bäckerei
 ---

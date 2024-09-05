@@ -1,5 +1,5 @@
 ---
 title: "Nueve"
 url: /grand-rapids/nueve/
-shop: antiques
+shop: Antiquitäten
 ---

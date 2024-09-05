@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
 url: /canton/kroger/
-shop: supermarket
+shop: Supermarkt
 ---

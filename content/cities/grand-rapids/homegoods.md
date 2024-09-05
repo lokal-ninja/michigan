@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
 url: /grand-rapids/homegoods/
-shop: houseware
+shop: Haushaltsartikel
 ---

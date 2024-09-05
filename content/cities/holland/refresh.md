@@ -1,5 +1,5 @@
 ---
 title: "ReFresh"
 url: /holland/refresh/
-shop: laundry
+shop: Wäscherei
 ---

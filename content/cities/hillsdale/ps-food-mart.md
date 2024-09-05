@@ -1,5 +1,5 @@
 ---
 title: "PS Food Mart"
 url: /hillsdale/ps-food-mart/
-shop: convenience
+shop: Lebensmittel
 ---

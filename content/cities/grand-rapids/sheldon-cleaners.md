@@ -1,5 +1,5 @@
 ---
 title: "Sheldon Cleaners"
 url: /grand-rapids/sheldon-cleaners/
-shop: laundry
+shop: Wäscherei
 ---

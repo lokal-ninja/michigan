@@ -1,5 +1,5 @@
 ---
 title: "Celina's Creations"
 url: /lincoln-park/celinas-creations/
-shop: clothes
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Oaklea Store"
 url: /grand-haven/oaklea-store/
-shop: convenience
+shop: Lebensmittel
 ---

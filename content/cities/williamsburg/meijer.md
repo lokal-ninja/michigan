@@ -1,5 +1,5 @@
 ---
 title: "Meijer"
 url: /williamsburg/meijer/
-shop: supermarket
+shop: Supermarkt
 ---

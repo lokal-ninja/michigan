@@ -1,5 +1,5 @@
 ---
 title: "Amoco"
 url: /brownstown-township/amoco/
-shop: convenience
+shop: Lebensmittel
 ---

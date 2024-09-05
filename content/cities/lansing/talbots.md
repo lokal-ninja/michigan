@@ -1,5 +1,5 @@
 ---
 title: "Talbots"
 url: /lansing/talbots/
-shop: clothes
+shop: Kleidung
 ---

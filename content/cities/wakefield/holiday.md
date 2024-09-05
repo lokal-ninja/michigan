@@ -1,5 +1,5 @@
 ---
 title: "Holiday"
 url: /wakefield/holiday/
-shop: convenience
+shop: Lebensmittel
 ---

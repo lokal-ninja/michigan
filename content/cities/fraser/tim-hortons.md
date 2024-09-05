@@ -1,5 +1,5 @@
 ---
 title: "Tim Hortons"
 url: /fraser/tim-hortons/
-shop: coffee
+shop: Kaffee
 ---

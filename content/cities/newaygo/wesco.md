@@ -1,5 +1,5 @@
 ---
 title: "Wesco"
 url: /newaygo/wesco/
-shop: convenience
+shop: Lebensmittel
 ---

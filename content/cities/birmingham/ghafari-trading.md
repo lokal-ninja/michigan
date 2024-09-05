@@ -1,5 +1,5 @@
 ---
 title: "Ghafari Trading"
 url: /birmingham/ghafari-trading/
-shop: convenience
+shop: Lebensmittel
 ---

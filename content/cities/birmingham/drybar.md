@@ -1,5 +1,5 @@
 ---
 title: "Drybar"
 url: /birmingham/drybar/
-shop: hairdresser
+shop: Friseur
 ---

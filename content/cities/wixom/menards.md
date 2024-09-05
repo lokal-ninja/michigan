@@ -1,5 +1,5 @@
 ---
 title: "Menards"
 url: /wixom/menards/
-shop: doityourself
+shop: Baumarkt
 ---

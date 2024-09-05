@@ -1,5 +1,5 @@
 ---
 title: "Michigan Petroleum"
 url: /kalamazoo/michigan-petroleum/
-shop: convenience
+shop: Lebensmittel
 ---

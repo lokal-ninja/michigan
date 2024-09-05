@@ -1,5 +1,5 @@
 ---
 title: "Kerrytown Market"
 url: /ann-arbor/kerrytown-market/
-shop: mall
+shop: Einkaufszentrum
 ---

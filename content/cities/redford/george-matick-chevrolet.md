@@ -1,5 +1,5 @@
 ---
 title: "George Matick Chevrolet"
 url: /redford/george-matick-chevrolet/
-shop: car
+shop: Autohaus
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Twelve Oaks Mall"
 url: /novi/twelve-oaks-mall/
-shop: mall
+shop: Einkaufszentrum
 ---

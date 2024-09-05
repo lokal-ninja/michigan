@@ -1,5 +1,5 @@
 ---
 title: "Cakabakery"
 url: /holland/cakabakery/
-shop: bakery
+shop: Bäckerei
 ---

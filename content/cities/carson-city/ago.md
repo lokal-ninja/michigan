@@ -1,5 +1,5 @@
 ---
 title: "AGO"
 url: /carson-city/ago/
-shop: convenience
+shop: Lebensmittel
 ---

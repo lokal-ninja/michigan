@@ -1,5 +1,5 @@
 ---
 title: "Admiral"
 url: /grand-rapids/admiral/
-shop: convenience
+shop: Lebensmittel
 ---

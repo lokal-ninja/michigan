@@ -1,5 +1,5 @@
 ---
 title: "Citgo"
 url: /detroit/citgo-south-fort-street/
-shop: convenience
+shop: Lebensmittel
 ---

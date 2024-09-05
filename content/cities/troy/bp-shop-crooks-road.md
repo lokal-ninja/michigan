@@ -1,5 +1,5 @@
 ---
 title: "BP Shop"
 url: /troy/bp-shop-crooks-road/
-shop: convenience
+shop: Lebensmittel
 ---

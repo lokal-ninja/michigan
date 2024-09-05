@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /grand-rapids/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dollar Tree"
 url: /caro/dollar-tree/
-shop: variety store
+shop: Kramladen
 ---

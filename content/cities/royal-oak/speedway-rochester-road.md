@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /royal-oak/speedway-rochester-road/
-shop: convenience
+shop: Lebensmittel
 ---

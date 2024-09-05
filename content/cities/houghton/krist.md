@@ -1,5 +1,5 @@
 ---
 title: "Krist"
 url: /houghton/krist/
-shop: convenience
+shop: Lebensmittel
 ---

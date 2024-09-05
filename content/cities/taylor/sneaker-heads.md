@@ -1,5 +1,5 @@
 ---
 title: "Sneaker Heads"
 url: /taylor/sneaker-heads/
-shop: shoes
+shop: Schuhe
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /traverse-city/michaels/
-shop: craft
+shop: Basteln
 ---

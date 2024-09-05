@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
 url: /lake-orion/kroger/
-shop: convenience
+shop: Lebensmittel
 ---

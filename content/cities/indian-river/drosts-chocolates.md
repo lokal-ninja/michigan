@@ -1,5 +1,5 @@
 ---
 title: "Drost's Chocolates"
 url: /indian-river/drosts-chocolates/
-shop: chocolate
+shop: Schokolade
 ---

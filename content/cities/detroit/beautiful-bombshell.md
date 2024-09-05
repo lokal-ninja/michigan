@@ -1,5 +1,5 @@
 ---
 title: "Beautiful Bombshell"
 url: /detroit/beautiful-bombshell/
-shop: clothes
+shop: Kleidung
 ---

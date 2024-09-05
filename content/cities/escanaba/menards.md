@@ -1,5 +1,5 @@
 ---
 title: "Menards"
 url: /escanaba/menards/
-shop: doityourself
+shop: Baumarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Admiral"
 url: /lowell/admiral-west-main-street/
-shop: convenience
+shop: Lebensmittel
 ---

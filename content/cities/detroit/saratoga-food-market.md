@@ -1,5 +1,5 @@
 ---
 title: "Saratoga Food Market"
 url: /detroit/saratoga-food-market/
-shop: alcohol
+shop: Spirituosen
 ---

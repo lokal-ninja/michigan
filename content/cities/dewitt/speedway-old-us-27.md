@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /dewitt/speedway-old-us-27/
-shop: convenience
+shop: Lebensmittel
 ---

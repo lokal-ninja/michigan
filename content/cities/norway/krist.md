@@ -1,5 +1,5 @@
 ---
 title: "Krist"
 url: /norway/krist/
-shop: convenience
+shop: Lebensmittel
 ---

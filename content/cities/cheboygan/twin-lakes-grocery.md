@@ -1,5 +1,5 @@
 ---
 title: "Twin Lakes Grocery"
 url: /cheboygan/twin-lakes-grocery/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Salon14"
 url: /detroit/salon14/
-shop: beauty
+shop: Kosmetik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sunoco"
 url: /lansing/sunoco/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Community Drug of Frankfort"
 url: /frankfort/community-drug-of-frankfort/
-shop: chemist
+shop: Drogerie
 ---

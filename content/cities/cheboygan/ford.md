@@ -1,5 +1,5 @@
 ---
 title: "Ford"
 url: /cheboygan/ford/
-shop: car
+shop: Autohaus
 ---

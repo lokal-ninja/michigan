@@ -1,5 +1,5 @@
 ---
 title: "Buddy's Mini Mart"
 url: /jackson/buddys-mini-mart/
-shop: convenience
+shop: Lebensmittel
 ---

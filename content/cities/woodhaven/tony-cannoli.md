@@ -1,5 +1,5 @@
 ---
 title: "Tony Cannoli"
 url: /woodhaven/tony-cannoli/
-shop: bakery
+shop: Bäckerei
 ---

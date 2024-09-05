@@ -1,5 +1,5 @@
 ---
 title: "Fastenal"
 url: /alpena/fastenal/
-shop: trade
+shop: Baustoffe
 ---

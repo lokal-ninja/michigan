@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /waterford/shell/
-shop: convenience
+shop: Lebensmittel
 ---

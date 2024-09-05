@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /eagle/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

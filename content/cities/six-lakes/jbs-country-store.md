@@ -1,5 +1,5 @@
 ---
 title: "JB's Country Store"
 url: /six-lakes/jbs-country-store/
-shop: convenience
+shop: Lebensmittel
 ---

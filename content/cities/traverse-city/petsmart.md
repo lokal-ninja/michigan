@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
 url: /traverse-city/petsmart/
-shop: pet
+shop: Tiere
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sunoco"
 url: /novi/sunoco/
-shop: convenience
+shop: Lebensmittel
 ---

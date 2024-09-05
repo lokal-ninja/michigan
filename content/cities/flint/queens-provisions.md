@@ -1,5 +1,5 @@
 ---
 title: "Queens Provisions"
 url: /flint/queens-provisions/
-shop: wine
+shop: Wein
 ---

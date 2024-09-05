@@ -1,5 +1,5 @@
 ---
 title: "Clift Buick GMC"
 url: /adrian/clift-buick-gmc/
-shop: car
+shop: Autohaus
 ---

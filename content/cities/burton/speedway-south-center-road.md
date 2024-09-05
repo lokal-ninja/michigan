@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /burton/speedway-south-center-road/
-shop: convenience
+shop: Lebensmittel
 ---

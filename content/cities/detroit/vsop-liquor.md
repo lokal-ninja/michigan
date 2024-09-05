@@ -1,5 +1,5 @@
 ---
 title: "Vsop Liquor"
 url: /detroit/vsop-liquor/
-shop: convenience
+shop: Lebensmittel
 ---

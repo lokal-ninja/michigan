@@ -1,5 +1,5 @@
 ---
 title: "Meijer"
 url: /flint/meijer-hill-road/
-shop: supermarket
+shop: Supermarkt
 ---

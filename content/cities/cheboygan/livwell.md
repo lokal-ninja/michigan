@@ -1,5 +1,5 @@
 ---
 title: "LivWell"
 url: /cheboygan/livwell/
-shop: cannabis
+shop: Hanf
 ---

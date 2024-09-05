@@ -1,5 +1,5 @@
 ---
 title: "Wild Bill's Tobacco"
 url: /southgate/wild-bills-tobacco/
-shop: tobacco
+shop: Tabak
 ---

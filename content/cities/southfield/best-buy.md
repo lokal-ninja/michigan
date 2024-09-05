@@ -1,5 +1,5 @@
 ---
 title: "Best Buy"
 url: /southfield/best-buy/
-shop: electronics
+shop: Elektronik
 ---

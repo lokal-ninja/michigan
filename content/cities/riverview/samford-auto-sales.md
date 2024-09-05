@@ -1,5 +1,5 @@
 ---
 title: "Samford Auto Sales"
 url: /riverview/samford-auto-sales/
-shop: car
+shop: Autohaus
 ---

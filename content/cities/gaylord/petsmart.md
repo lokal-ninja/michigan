@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
 url: /gaylord/petsmart/
-shop: pet
+shop: Tiere
 ---

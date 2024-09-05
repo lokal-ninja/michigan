@@ -1,5 +1,5 @@
 ---
 title: "Admiral"
 url: /westland/admiral/
-shop: convenience
+shop: Lebensmittel
 ---

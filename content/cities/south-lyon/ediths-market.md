@@ -1,5 +1,5 @@
 ---
 title: "Edith's Market"
 url: /south-lyon/ediths-market/
-shop: alcohol
+shop: Spirituosen
 ---

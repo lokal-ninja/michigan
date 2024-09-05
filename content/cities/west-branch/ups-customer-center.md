@@ -1,5 +1,5 @@
 ---
 title: "UPS Customer Center"
 url: /west-branch/ups-customer-center/
-shop: copyshop
+shop: Kopieren
 ---

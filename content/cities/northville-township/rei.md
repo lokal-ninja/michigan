@@ -1,5 +1,5 @@
 ---
 title: "REI"
 url: /northville-township/rei/
-shop: outdoor
+shop: Outdoor
 ---

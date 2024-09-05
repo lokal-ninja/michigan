@@ -1,5 +1,5 @@
 ---
 title: "JOANN Fabrics and Crafts"
 url: /allen-park/joann-fabrics-and-crafts/
-shop: craft
+shop: Basteln
 ---

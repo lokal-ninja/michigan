@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
 url: /bloomfield-hills/kroger/
-shop: supermarket
+shop: Supermarkt
 ---

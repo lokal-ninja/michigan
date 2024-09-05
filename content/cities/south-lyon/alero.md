@@ -1,5 +1,5 @@
 ---
 title: "Alero"
 url: /south-lyon/alero/
-shop: convenience
+shop: Lebensmittel
 ---

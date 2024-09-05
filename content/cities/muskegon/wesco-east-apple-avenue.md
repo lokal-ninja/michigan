@@ -1,5 +1,5 @@
 ---
 title: "Wesco"
 url: /muskegon/wesco-east-apple-avenue/
-shop: convenience
+shop: Lebensmittel
 ---

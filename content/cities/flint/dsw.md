@@ -1,5 +1,5 @@
 ---
 title: "DSW"
 url: /flint/dsw/
-shop: shoes
+shop: Schuhe
 ---

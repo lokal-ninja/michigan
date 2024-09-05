@@ -1,5 +1,5 @@
 ---
 title: "Bayne's Apple Valley"
 url: /freeland/baynes-apple-valley/
-shop: farm
+shop: Hofladen
 ---

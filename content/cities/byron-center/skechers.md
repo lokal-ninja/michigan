@@ -1,5 +1,5 @@
 ---
 title: "Skechers"
 url: /byron-center/skechers/
-shop: shoes
+shop: Schuhe
 ---

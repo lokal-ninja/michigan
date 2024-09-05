@@ -1,5 +1,5 @@
 ---
 title: "Cenex"
 url: /watersmeet/cenex/
-shop: convenience
+shop: Lebensmittel
 ---

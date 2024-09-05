@@ -1,5 +1,5 @@
 ---
 title: "Krist"
 url: /bessemer/krist/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Northern Promotions LLC"
 url: /lachine/northern-promotions-llc/
-shop: art
+shop: Kunst
 ---

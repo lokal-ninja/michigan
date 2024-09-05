@@ -1,5 +1,5 @@
 ---
 title: "Sunoco"
 url: /garden-city/sunoco/
-shop: convenience
+shop: Lebensmittel
 ---

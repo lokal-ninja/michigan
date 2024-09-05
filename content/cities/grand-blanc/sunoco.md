@@ -1,5 +1,5 @@
 ---
 title: "Sunoco"
 url: /grand-blanc/sunoco/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "VG's"
 url: /howell/vgs/
-shop: supermarket
+shop: Supermarkt
 ---

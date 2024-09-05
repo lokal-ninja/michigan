@@ -1,5 +1,5 @@
 ---
 title: "LightRx"
 url: /birmingham/lightrx/
-shop: beauty
+shop: Kosmetik
 ---

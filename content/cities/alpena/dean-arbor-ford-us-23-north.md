@@ -1,5 +1,5 @@
 ---
 title: "Dean Arbor Ford"
 url: /alpena/dean-arbor-ford-us-23-north/
-shop: car repair
+shop: Autowerkstatt
 ---

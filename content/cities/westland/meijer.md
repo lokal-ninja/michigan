@@ -1,5 +1,5 @@
 ---
 title: "Meijer"
 url: /westland/meijer/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Fireside Hearth and Leisure"
 url: /cheboygan/fireside-hearth-and-leisure/
-shop: fireplace
+shop: Kamine & Öfen
 ---

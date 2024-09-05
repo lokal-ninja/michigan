@@ -1,5 +1,5 @@
 ---
 title: "Speedy"
 url: /farmington-hills/speedy/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "The Hangar"
 url: /ludington/the-hangar/
-shop: clothes
+shop: Kleidung
 ---

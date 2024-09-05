@@ -1,5 +1,5 @@
 ---
 title: "Ninja Monkey"
 url: /cheboygan/ninja-monkey/
-shop: tattoo
+shop: Tattoo
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Advance America"
 url: /lincoln-park/advance-america/
-shop: pawnbroker
+shop: Leiher
 ---

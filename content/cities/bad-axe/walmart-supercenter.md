@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
 url: /bad-axe/walmart-supercenter/
-shop: supermarket
+shop: Supermarkt
 ---

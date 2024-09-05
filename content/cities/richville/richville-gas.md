@@ -1,5 +1,5 @@
 ---
 title: "Richville Gas"
 url: /richville/richville-gas/
-shop: convenience
+shop: Lebensmittel
 ---

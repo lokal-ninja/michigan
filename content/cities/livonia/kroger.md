@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
 url: /livonia/kroger/
-shop: supermarket
+shop: Supermarkt
 ---

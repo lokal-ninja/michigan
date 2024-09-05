@@ -1,5 +1,5 @@
 ---
 title: "Kerns Grocery"
 url: /harrison/kerns-grocery/
-shop: convenience
+shop: Lebensmittel
 ---

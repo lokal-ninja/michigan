@@ -1,5 +1,5 @@
 ---
 title: "Duke's Hardware"
 url: /dearborn-heights/dukes-hardware/
-shop: doityourself
+shop: Baumarkt
 ---

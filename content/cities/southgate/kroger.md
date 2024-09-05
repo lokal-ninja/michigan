@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
 url: /southgate/kroger/
-shop: convenience
+shop: Lebensmittel
 ---

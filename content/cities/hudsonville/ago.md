@@ -1,5 +1,5 @@
 ---
 title: "AGO"
 url: /hudsonville/ago/
-shop: convenience
+shop: Lebensmittel
 ---

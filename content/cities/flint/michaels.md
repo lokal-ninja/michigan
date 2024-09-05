@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /flint/michaels/
-shop: craft
+shop: Basteln
 ---

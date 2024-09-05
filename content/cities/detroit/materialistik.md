@@ -1,5 +1,5 @@
 ---
 title: "Materialistik"
 url: /detroit/materialistik/
-shop: clothes
+shop: Kleidung
 ---

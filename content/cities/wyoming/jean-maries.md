@@ -1,5 +1,5 @@
 ---
 title: "Jean Marie's"
 url: /wyoming/jean-maries/
-shop: clothes
+shop: Kleidung
 ---

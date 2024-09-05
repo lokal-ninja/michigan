@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /jenison/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

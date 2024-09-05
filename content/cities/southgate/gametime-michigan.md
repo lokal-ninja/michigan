@@ -1,5 +1,5 @@
 ---
 title: "GameTime Michigan"
 url: /southgate/gametime-michigan/
-shop: games
+shop: Spiele
 ---

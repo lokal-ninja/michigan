@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /west-bloomfield/shell-commerce-road/
-shop: convenience
+shop: Lebensmittel
 ---

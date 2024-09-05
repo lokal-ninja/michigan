@@ -1,5 +1,5 @@
 ---
 title: "Chartreuse Sisters"
 url: /grand-rapids/chartreuse-sisters/
-shop: pastry
+shop: Konditorei
 ---

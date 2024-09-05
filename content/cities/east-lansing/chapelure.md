@@ -1,5 +1,5 @@
 ---
 title: "Chapelure"
 url: /east-lansing/chapelure/
-shop: bakery
+shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Minhaten"
 url: /detroit/minhaten/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Liquor Cave East"
 url: /holland/liquor-cave-east/
-shop: convenience
+shop: Lebensmittel
 ---

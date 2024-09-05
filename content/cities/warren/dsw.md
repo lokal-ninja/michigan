@@ -1,5 +1,5 @@
 ---
 title: "DSW"
 url: /warren/dsw/
-shop: shoes
+shop: Schuhe
 ---

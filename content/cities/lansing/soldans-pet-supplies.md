@@ -1,5 +1,5 @@
 ---
 title: "Soldan's Pet Supplies"
 url: /lansing/soldans-pet-supplies/
-shop: pet
+shop: Tiere
 ---

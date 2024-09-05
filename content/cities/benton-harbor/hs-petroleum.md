@@ -1,5 +1,5 @@
 ---
 title: "Hs Petroleum"
 url: /benton-harbor/hs-petroleum/
-shop: convenience
+shop: Lebensmittel
 ---

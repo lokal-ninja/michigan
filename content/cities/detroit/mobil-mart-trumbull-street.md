@@ -1,5 +1,5 @@
 ---
 title: "Mobil Mart"
 url: /detroit/mobil-mart-trumbull-street/
-shop: convenience
+shop: Lebensmittel
 ---

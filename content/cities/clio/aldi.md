@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /clio/aldi/
-shop: supermarket
+shop: Supermarkt
 ---

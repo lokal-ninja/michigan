@@ -1,5 +1,5 @@
 ---
 title: "Krist"
 url: /manistique/krist/
-shop: convenience
+shop: Lebensmittel
 ---

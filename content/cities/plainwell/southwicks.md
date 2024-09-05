@@ -1,5 +1,5 @@
 ---
 title: "Southwicks"
 url: /plainwell/southwicks/
-shop: weapons
+shop: Waffen
 ---

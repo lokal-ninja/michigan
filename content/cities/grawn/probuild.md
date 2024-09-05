@@ -1,5 +1,5 @@
 ---
 title: "ProBuild"
 url: /grawn/probuild/
-shop: hardware
+shop: Eisenwaren
 ---

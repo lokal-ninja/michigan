@@ -1,5 +1,5 @@
 ---
 title: "Jims Fill Up"
 url: /detroit/jims-fill-up/
-shop: convenience
+shop: Lebensmittel
 ---

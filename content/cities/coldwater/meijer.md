@@ -1,5 +1,5 @@
 ---
 title: "Meijer"
 url: /coldwater/meijer/
-shop: convenience
+shop: Lebensmittel
 ---

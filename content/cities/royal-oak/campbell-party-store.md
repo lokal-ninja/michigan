@@ -1,5 +1,5 @@
 ---
 title: "Campbell Party Store"
 url: /royal-oak/campbell-party-store/
-shop: alcohol
+shop: Spirituosen
 ---

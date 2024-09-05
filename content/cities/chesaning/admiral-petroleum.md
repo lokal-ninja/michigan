@@ -1,5 +1,5 @@
 ---
 title: "Admiral Petroleum"
 url: /chesaning/admiral-petroleum/
-shop: convenience
+shop: Lebensmittel
 ---

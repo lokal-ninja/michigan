@@ -1,5 +1,5 @@
 ---
 title: "Marathon"
 url: /ferndale/marathon/
-shop: convenience
+shop: Lebensmittel
 ---

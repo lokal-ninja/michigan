@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /croswell/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

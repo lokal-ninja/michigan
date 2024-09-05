@@ -1,5 +1,5 @@
 ---
 title: "Indian Lake Outpost"
 url: /national-city/indian-lake-outpost/
-shop: convenience
+shop: Lebensmittel
 ---

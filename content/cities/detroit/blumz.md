@@ -1,5 +1,5 @@
 ---
 title: "Blumz"
 url: /detroit/blumz/
-shop: florist
+shop: Blumen
 ---

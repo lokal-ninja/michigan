@@ -1,5 +1,5 @@
 ---
 title: "Holiday"
 url: /menominee/holiday/
-shop: convenience
+shop: Lebensmittel
 ---

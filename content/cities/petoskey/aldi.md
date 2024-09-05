@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /petoskey/aldi/
-shop: supermarket
+shop: Supermarkt
 ---

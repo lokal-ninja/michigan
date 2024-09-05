@@ -1,5 +1,5 @@
 ---
 title: "Skinphorea Facial Bar"
 url: /detroit/skinphorea-facial-bar/
-shop: beauty
+shop: Kosmetik
 ---

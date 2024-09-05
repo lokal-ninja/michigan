@@ -1,5 +1,5 @@
 ---
 title: "Gaylord Dry Cleaners"
 url: /gaylord/gaylord-dry-cleaners/
-shop: laundry
+shop: Wäscherei
 ---

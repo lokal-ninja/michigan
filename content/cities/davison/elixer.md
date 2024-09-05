@@ -1,5 +1,5 @@
 ---
 title: "Elixer"
 url: /davison/elixer/
-shop: clothes
+shop: Kleidung
 ---

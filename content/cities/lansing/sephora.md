@@ -1,5 +1,5 @@
 ---
 title: "Sephora"
 url: /lansing/sephora/
-shop: beauty
+shop: Kosmetik
 ---

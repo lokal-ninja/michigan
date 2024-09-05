@@ -1,5 +1,5 @@
 ---
 title: "Mcdonough's Market"
 url: /beaver-island/mcdonoughs-market/
-shop: supermarket
+shop: Supermarkt
 ---

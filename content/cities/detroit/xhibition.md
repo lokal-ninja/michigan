@@ -1,5 +1,5 @@
 ---
 title: "XHIBITION"
 url: /detroit/xhibition/
-shop: clothes
+shop: Kleidung
 ---

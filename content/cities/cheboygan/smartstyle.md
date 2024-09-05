@@ -1,5 +1,5 @@
 ---
 title: "SmartStyle"
 url: /cheboygan/smartstyle/
-shop: hairdresser
+shop: Friseur
 ---

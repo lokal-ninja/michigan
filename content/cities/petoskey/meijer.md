@@ -1,5 +1,5 @@
 ---
 title: "Meijer"
 url: /petoskey/meijer/
-shop: convenience
+shop: Lebensmittel
 ---

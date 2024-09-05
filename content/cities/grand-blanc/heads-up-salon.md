@@ -1,5 +1,5 @@
 ---
 title: "Heads Up Salon"
 url: /grand-blanc/heads-up-salon/
-shop: beauty
+shop: Kosmetik
 ---

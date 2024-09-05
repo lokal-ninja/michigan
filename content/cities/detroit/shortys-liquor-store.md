@@ -1,5 +1,5 @@
 ---
 title: "Shorty's Liquor Store"
 url: /detroit/shortys-liquor-store/
-shop: alcohol
+shop: Spirituosen
 ---

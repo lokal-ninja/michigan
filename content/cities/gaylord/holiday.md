@@ -1,5 +1,5 @@
 ---
 title: "Holiday"
 url: /gaylord/holiday/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Evereve"
 url: /birmingham/evereve/
-shop: clothes
+shop: Kleidung
 ---

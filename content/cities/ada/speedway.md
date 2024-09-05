@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /ada/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /albion/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

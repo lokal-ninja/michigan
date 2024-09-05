@@ -1,5 +1,5 @@
 ---
 title: "Admiral Petroleum"
 url: /flint/admiral-petroleum-davison-road/
-shop: convenience
+shop: Lebensmittel
 ---

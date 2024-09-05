@@ -1,5 +1,5 @@
 ---
 title: "Admiral"
 url: /charlotte/admiral/
-shop: convenience
+shop: Lebensmittel
 ---

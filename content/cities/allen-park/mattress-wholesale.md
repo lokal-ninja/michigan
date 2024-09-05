@@ -1,5 +1,5 @@
 ---
 title: "Mattress Wholesale"
 url: /allen-park/mattress-wholesale/
-shop: bed
+shop: Betten
 ---

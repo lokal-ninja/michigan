@@ -1,5 +1,5 @@
 ---
 title: "Valero"
 url: /inkster/valero/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "AGO"
 url: /lansing/ago/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /hartland/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

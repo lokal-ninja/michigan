@@ -1,5 +1,5 @@
 ---
 title: "Love's"
 url: /holland/loves/
-shop: convenience
+shop: Lebensmittel
 ---

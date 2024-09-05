@@ -1,5 +1,5 @@
 ---
 title: "Hallmark"
 url: /petoskey/hallmark/
-shop: gift
+shop: Andenken
 ---

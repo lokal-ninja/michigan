@@ -1,5 +1,5 @@
 ---
 title: "Laser Team Challenge"
 url: /alpena/laser-team-challenge/
-shop: shop
+shop: Allgemein
 ---

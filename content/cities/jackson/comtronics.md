@@ -1,5 +1,5 @@
 ---
 title: "Comtronics"
 url: /jackson/comtronics/
-shop: electronics
+shop: Elektronik
 ---

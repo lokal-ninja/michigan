@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /romeo/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

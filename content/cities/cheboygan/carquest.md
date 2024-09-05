@@ -1,5 +1,5 @@
 ---
 title: "Carquest"
 url: /cheboygan/carquest/
-shop: car parts
+shop: Autoteile
 ---

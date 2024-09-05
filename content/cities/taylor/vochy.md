@@ -1,5 +1,5 @@
 ---
 title: "Vochy"
 url: /taylor/vochy/
-shop: shop
+shop: Allgemein
 ---

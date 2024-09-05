@@ -1,5 +1,5 @@
 ---
 title: "Airgas"
 url: /alpena/airgas/
-shop: gas
+shop: Gasflaschen
 ---

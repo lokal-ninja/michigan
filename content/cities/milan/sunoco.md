@@ -1,5 +1,5 @@
 ---
 title: "Sunoco"
 url: /milan/sunoco/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Holly Marathon"
 url: /holly/holly-marathon/
-shop: convenience
+shop: Lebensmittel
 ---
