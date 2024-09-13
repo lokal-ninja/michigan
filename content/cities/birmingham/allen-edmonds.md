@@ -1,5 +1,5 @@
 ---
 title: "Allen Edmonds"
 url: /birmingham/allen-edmonds/
-shop: Schuhe
+shop: shoes
 ---

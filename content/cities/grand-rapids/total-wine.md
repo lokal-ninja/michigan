@@ -1,5 +1,5 @@
 ---
 title: "Total Wine"
 url: /grand-rapids/total-wine/
-shop: Spirituosen
+shop: alcohol
 ---

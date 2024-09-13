@@ -1,5 +1,5 @@
 ---
 title: "Family Furniture"
 url: /highland-park/family-furniture/
-shop: Möbel
+shop: furniture
 ---

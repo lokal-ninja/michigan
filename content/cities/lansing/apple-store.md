@@ -1,5 +1,5 @@
 ---
 title: "Apple Store"
 url: /lansing/apple-store/
-shop: Elektronik
+shop: electronics
 ---

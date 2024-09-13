@@ -1,5 +1,5 @@
 ---
 title: "Guess"
 url: /byron-center/guess/
-shop: Kleidung
+shop: clothes
 ---

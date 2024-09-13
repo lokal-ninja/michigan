@@ -1,5 +1,5 @@
 ---
 title: "Marathon"
 url: /kentwood/marathon/
-shop: Lebensmittel
+shop: convenience
 ---

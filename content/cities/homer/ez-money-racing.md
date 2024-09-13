@@ -1,5 +1,5 @@
 ---
 title: "EZ Money Racing"
 url: /homer/ez-money-racing/
-shop: Autowerkstatt
+shop: car repair
 ---

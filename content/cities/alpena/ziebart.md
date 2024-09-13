@@ -1,5 +1,5 @@
 ---
 title: "Ziebart"
 url: /alpena/ziebart/
-shop: Autowerkstatt
+shop: car repair
 ---

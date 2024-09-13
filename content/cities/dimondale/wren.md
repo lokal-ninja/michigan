@@ -1,5 +1,5 @@
 ---
 title: "Wren"
 url: /dimondale/wren/
-shop: Haushaltsartikel
+shop: houseware
 ---

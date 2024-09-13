@@ -1,5 +1,5 @@
 ---
 title: "Einstein Cycles"
 url: /traverse-city/einstein-cycles/
-shop: Fahrrad
+shop: bicycle
 ---

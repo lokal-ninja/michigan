@@ -1,5 +1,5 @@
 ---
 title: "Verheyden Funeral Home"
 url: /grosse-pointe-park/verheyden-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

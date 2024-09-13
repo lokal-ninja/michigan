@@ -1,5 +1,5 @@
 ---
 title: "IKEA"
 url: /canton/ikea/
-shop: Möbel
+shop: furniture
 ---

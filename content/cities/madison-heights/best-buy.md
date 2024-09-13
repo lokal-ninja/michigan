@@ -1,5 +1,5 @@
 ---
 title: "Best Buy"
 url: /madison-heights/best-buy/
-shop: Elektronik
+shop: electronics
 ---

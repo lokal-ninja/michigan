@@ -1,5 +1,5 @@
 ---
 title: "JCPenney"
 url: /ann-arbor/jcpenney/
-shop: Warenhaus
+shop: department store
 ---

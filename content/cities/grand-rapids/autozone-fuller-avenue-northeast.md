@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /grand-rapids/autozone-fuller-avenue-northeast/
-shop: Autoteile
+shop: car parts
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
 url: /orion/kroger/
-shop: Supermarkt
+shop: supermarket
 ---

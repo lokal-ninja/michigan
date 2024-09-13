@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /shelby-township/aldi-hall-road/
-shop: Supermarkt
+shop: supermarket
 ---

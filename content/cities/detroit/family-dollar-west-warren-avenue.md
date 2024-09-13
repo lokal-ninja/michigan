@@ -1,5 +1,5 @@
 ---
 title: "Family Dollar"
 url: /detroit/family-dollar-west-warren-avenue/
-shop: Kramladen
+shop: variety store
 ---

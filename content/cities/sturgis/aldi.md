@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /sturgis/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

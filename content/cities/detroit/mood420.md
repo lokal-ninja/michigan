@@ -1,5 +1,5 @@
 ---
 title: "MOOD420"
 url: /detroit/mood420/
-shop: Hanf
+shop: cannabis
 ---

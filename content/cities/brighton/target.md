@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /brighton/target/
-shop: Warenhaus
+shop: department store
 ---

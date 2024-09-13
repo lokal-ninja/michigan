@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
 url: /breckenridge/dollar-general/
-shop: Kramladen
+shop: variety store
 ---

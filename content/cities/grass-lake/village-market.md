@@ -1,5 +1,5 @@
 ---
 title: "Village Market"
 url: /grass-lake/village-market/
-shop: Lebensmittel
+shop: convenience
 ---

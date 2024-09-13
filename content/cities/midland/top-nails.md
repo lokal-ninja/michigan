@@ -1,5 +1,5 @@
 ---
 title: "Top Nails"
 url: /midland/top-nails/
-shop: Kosmetik
+shop: beauty
 ---

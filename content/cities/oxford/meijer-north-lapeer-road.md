@@ -1,5 +1,5 @@
 ---
 title: "Meijer"
 url: /oxford/meijer-north-lapeer-road/
-shop: Supermarkt
+shop: supermarket
 ---

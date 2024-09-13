@@ -1,5 +1,5 @@
 ---
 title: "Anthropologie"
 url: /birmingham/anthropologie/
-shop: Kleidung
+shop: clothes
 ---

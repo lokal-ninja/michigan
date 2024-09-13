@@ -1,5 +1,5 @@
 ---
 title: "Metro Tire"
 url: /detroit/metro-tire/
-shop: Autowerkstatt
+shop: car repair
 ---

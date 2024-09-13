@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /clinton-township/walgreens/
-shop: Drogerie
+shop: chemist
 ---

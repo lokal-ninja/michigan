@@ -1,5 +1,5 @@
 ---
 title: "First Class Auto Repair"
 url: /rogers-city/first-class-auto-repair/
-shop: Autowerkstatt
+shop: car repair
 ---

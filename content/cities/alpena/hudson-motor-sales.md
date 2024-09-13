@@ -1,5 +1,5 @@
 ---
 title: "Hudson Motor Sales"
 url: /alpena/hudson-motor-sales/
-shop: Autohaus
+shop: car
 ---

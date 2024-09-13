@@ -1,5 +1,5 @@
 ---
 title: "Busch's"
 url: /canton/buschs/
-shop: Supermarkt
+shop: supermarket
 ---

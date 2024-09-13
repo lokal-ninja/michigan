@@ -1,5 +1,5 @@
 ---
 title: "Kohl's"
 url: /gaylord/kohls/
-shop: Warenhaus
+shop: department store
 ---

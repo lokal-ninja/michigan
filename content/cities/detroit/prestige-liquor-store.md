@@ -1,5 +1,5 @@
 ---
 title: "Prestige Liquor Store"
 url: /detroit/prestige-liquor-store/
-shop: Spirituosen
+shop: alcohol
 ---

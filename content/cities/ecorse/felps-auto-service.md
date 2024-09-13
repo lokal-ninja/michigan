@@ -1,5 +1,5 @@
 ---
 title: "Felps Auto Service"
 url: /ecorse/felps-auto-service/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Celebrity Silver"
 url: /lincoln-park/celebrity-silver/
-shop: Schmuck
+shop: jewelry
 ---

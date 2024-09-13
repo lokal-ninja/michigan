@@ -1,5 +1,5 @@
 ---
 title: "Charles Wangler Sales"
 url: /west-branch/charles-wangler-sales/
-shop: Baustoffe
+shop: trade
 ---

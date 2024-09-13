@@ -1,5 +1,5 @@
 ---
 title: "Jaus"
 url: /birmingham/jaus/
-shop: Kleidung
+shop: clothes
 ---

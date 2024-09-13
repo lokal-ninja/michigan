@@ -1,5 +1,5 @@
 ---
 title: "Quality Car Wash"
 url: /muskegon/quality-car-wash/
-shop: Lebensmittel
+shop: convenience
 ---

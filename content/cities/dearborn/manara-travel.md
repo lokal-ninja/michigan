@@ -1,5 +1,5 @@
 ---
 title: "Manara Travel"
 url: /dearborn/manara-travel/
-shop: Reisebüro
+shop: travel agency
 ---

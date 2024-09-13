@@ -1,5 +1,5 @@
 ---
 title: "Express Stop"
 url: /jackson/express-stop/
-shop: Lebensmittel
+shop: convenience
 ---

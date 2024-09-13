@@ -1,5 +1,5 @@
 ---
 title: "Carquest"
 url: /alpena/carquest/
-shop: Autoteile
+shop: car parts
 ---

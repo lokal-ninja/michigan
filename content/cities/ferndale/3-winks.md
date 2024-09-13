@@ -1,5 +1,5 @@
 ---
 title: "3 Winks"
 url: /ferndale/3-winks/
-shop: Andenken
+shop: gift
 ---

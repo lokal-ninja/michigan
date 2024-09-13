@@ -1,5 +1,5 @@
 ---
 title: "New Image Beauty"
 url: /trenton/new-image-beauty/
-shop: Kosmetik
+shop: beauty
 ---

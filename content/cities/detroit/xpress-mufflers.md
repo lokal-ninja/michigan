@@ -1,5 +1,5 @@
 ---
 title: "Xpress Mufflers"
 url: /detroit/xpress-mufflers/
-shop: Autowerkstatt
+shop: car repair
 ---

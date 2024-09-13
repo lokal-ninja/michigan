@@ -1,5 +1,5 @@
 ---
 title: "First Street Station"
 url: /lawton/first-street-station/
-shop: Lebensmittel
+shop: convenience
 ---

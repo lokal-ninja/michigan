@@ -1,5 +1,5 @@
 ---
 title: "Sit-N-Spin"
 url: /mio/sit-n-spin/
-shop: Wäscherei
+shop: laundry
 ---

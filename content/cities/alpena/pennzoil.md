@@ -1,5 +1,5 @@
 ---
 title: "Pennzoil"
 url: /alpena/pennzoil/
-shop: Autowerkstatt
+shop: car repair
 ---

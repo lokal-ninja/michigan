@@ -1,5 +1,5 @@
 ---
 title: "Marathon"
 url: /detroit/marathon-west-mcnichols-road-6/
-shop: Lebensmittel
+shop: convenience
 ---

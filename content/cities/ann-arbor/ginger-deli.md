@@ -1,5 +1,5 @@
 ---
 title: "Ginger Deli"
 url: /ann-arbor/ginger-deli/
-shop: Feinkost
+shop: deli
 ---

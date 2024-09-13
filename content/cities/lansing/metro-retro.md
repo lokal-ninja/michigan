@@ -1,5 +1,5 @@
 ---
 title: "Metro Retro"
 url: /lansing/metro-retro/
-shop: Kleidung
+shop: clothes
 ---

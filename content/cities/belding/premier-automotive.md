@@ -1,5 +1,5 @@
 ---
 title: "Premier Automotive"
 url: /belding/premier-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

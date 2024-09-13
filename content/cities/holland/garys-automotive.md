@@ -1,5 +1,5 @@
 ---
 title: "Gary's Automotive"
 url: /holland/garys-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

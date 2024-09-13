@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /waterford/speedway-highland-road/
-shop: Lebensmittel
+shop: convenience
 ---

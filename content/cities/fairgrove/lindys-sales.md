@@ -1,5 +1,5 @@
 ---
 title: "Lindy's Sales"
 url: /fairgrove/lindys-sales/
-shop: Boot
+shop: boat
 ---

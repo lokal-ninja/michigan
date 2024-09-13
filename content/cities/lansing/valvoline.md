@@ -1,5 +1,5 @@
 ---
 title: "Valvoline"
 url: /lansing/valvoline/
-shop: Autowerkstatt
+shop: car repair
 ---

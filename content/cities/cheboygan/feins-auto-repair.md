@@ -1,5 +1,5 @@
 ---
 title: "Fein's Auto Repair"
 url: /cheboygan/feins-auto-repair/
-shop: Autowerkstatt
+shop: car repair
 ---

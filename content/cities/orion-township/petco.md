@@ -1,5 +1,5 @@
 ---
 title: "Petco"
 url: /orion-township/petco/
-shop: Tiere
+shop: pet
 ---

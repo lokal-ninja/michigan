@@ -1,5 +1,5 @@
 ---
 title: "Iversen's Bakery"
 url: /dearborn/iversens-bakery/
-shop: Bäckerei
+shop: bakery
 ---

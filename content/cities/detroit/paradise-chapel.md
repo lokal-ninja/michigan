@@ -1,5 +1,5 @@
 ---
 title: "Paradise Chapel"
 url: /detroit/paradise-chapel/
-shop: Bestattungen
+shop: funeral directors
 ---

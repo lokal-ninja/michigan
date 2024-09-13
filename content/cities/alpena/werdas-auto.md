@@ -1,5 +1,5 @@
 ---
 title: "Werda's Auto"
 url: /alpena/werdas-auto/
-shop: Autowerkstatt
+shop: car repair
 ---

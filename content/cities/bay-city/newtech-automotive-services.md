@@ -1,5 +1,5 @@
 ---
 title: "NewTech Automotive Services"
 url: /bay-city/newtech-automotive-services/
-shop: Autowerkstatt
+shop: car repair
 ---

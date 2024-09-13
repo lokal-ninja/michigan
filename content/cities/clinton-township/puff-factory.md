@@ -1,5 +1,5 @@
 ---
 title: "Puff Factory"
 url: /clinton-township/puff-factory/
-shop: Tabak
+shop: tobacco
 ---

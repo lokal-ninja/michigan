@@ -1,5 +1,5 @@
 ---
 title: "Justin One"
 url: /detroit/justin-one/
-shop: Lebensmittel
+shop: convenience
 ---

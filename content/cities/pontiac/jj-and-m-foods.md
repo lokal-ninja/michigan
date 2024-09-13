@@ -1,5 +1,5 @@
 ---
 title: "Jj And M Foods"
 url: /pontiac/jj-and-m-foods/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Family Fare"
 url: /cheboygan/family-fare/
-shop: Supermarkt
+shop: supermarket
 ---

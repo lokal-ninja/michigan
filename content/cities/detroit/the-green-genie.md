@@ -1,5 +1,5 @@
 ---
 title: "The Green Genie"
 url: /detroit/the-green-genie/
-shop: Hanf
+shop: cannabis
 ---

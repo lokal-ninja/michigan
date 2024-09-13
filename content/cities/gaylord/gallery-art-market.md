@@ -1,5 +1,5 @@
 ---
 title: "Gallery Art Market"
 url: /gaylord/gallery-art-market/
-shop: Kunst
+shop: art
 ---

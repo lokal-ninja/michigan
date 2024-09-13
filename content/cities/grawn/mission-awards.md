@@ -1,5 +1,5 @@
 ---
 title: "Mission Awards"
 url: /grawn/mission-awards/
-shop: Pokal
+shop: trophy
 ---

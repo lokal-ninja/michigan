@@ -1,5 +1,5 @@
 ---
 title: "Dollar Tree"
 url: /livonia/dollar-tree-plymouth-road/
-shop: Kramladen
+shop: variety store
 ---

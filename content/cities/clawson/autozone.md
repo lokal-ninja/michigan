@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /clawson/autozone/
-shop: Autoteile
+shop: car parts
 ---

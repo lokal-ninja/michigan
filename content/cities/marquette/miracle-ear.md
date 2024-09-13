@@ -1,5 +1,5 @@
 ---
 title: "Miracle-Ear"
 url: /marquette/miracle-ear/
-shop: Hörgeräte
+shop: hearing aids
 ---

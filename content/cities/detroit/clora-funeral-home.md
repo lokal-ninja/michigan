@@ -1,5 +1,5 @@
 ---
 title: "Clora Funeral Home"
 url: /detroit/clora-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Circle K"
 url: /richland/circle-k/
-shop: Lebensmittel
+shop: convenience
 ---

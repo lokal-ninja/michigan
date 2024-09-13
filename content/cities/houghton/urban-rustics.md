@@ -1,5 +1,5 @@
 ---
 title: "Urban Rustics"
 url: /houghton/urban-rustics/
-shop: Raumausstattung
+shop: interior decoration
 ---

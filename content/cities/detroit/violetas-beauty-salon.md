@@ -1,5 +1,5 @@
 ---
 title: "Violeta's Beauty Salon"
 url: /detroit/violetas-beauty-salon/
-shop: Friseur
+shop: hairdresser
 ---

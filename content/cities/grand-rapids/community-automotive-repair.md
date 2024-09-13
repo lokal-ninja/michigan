@@ -1,5 +1,5 @@
 ---
 title: "Community Automotive Repair"
 url: /grand-rapids/community-automotive-repair/
-shop: Autowerkstatt
+shop: car repair
 ---

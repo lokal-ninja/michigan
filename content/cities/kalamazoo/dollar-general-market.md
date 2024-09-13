@@ -1,5 +1,5 @@
 ---
 title: "Dollar General Market"
 url: /kalamazoo/dollar-general-market/
-shop: Supermarkt
+shop: supermarket
 ---

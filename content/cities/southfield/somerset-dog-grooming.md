@@ -1,5 +1,5 @@
 ---
 title: "Somerset Dog Grooming"
 url: /southfield/somerset-dog-grooming/
-shop: Tiersalon
+shop: pet grooming
 ---

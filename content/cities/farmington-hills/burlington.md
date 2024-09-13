@@ -1,5 +1,5 @@
 ---
 title: "Burlington"
 url: /farmington-hills/burlington/
-shop: Warenhaus
+shop: department store
 ---

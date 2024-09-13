@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
 url: /alpena/verizon-south-state-avenue/
-shop: Handy
+shop: mobile phone
 ---

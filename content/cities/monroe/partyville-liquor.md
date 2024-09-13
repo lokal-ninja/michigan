@@ -1,5 +1,5 @@
 ---
 title: "Partyville Liquor"
 url: /monroe/partyville-liquor/
-shop: Spirituosen
+shop: alcohol
 ---

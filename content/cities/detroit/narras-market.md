@@ -1,5 +1,5 @@
 ---
 title: "Narras Market"
 url: /detroit/narras-market/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ridis"
 url: /adrian/ridis/
-shop: Lebensmittel
+shop: convenience
 ---

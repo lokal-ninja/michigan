@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /munising/shell-m-28/
-shop: Lebensmittel
+shop: convenience
 ---

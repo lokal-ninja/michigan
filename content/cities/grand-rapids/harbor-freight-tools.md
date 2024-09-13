@@ -1,5 +1,5 @@
 ---
 title: "Harbor Freight Tools"
 url: /grand-rapids/harbor-freight-tools/
-shop: Eisenwaren
+shop: hardware
 ---

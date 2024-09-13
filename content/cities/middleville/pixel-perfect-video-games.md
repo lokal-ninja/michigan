@@ -1,5 +1,5 @@
 ---
 title: "Pixel Perfect Video Games"
 url: /middleville/pixel-perfect-video-games/
-shop: Videospiele
+shop: video games
 ---

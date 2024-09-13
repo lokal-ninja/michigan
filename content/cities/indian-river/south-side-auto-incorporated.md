@@ -1,5 +1,5 @@
 ---
 title: "South Side Auto, Incorporated"
 url: /indian-river/south-side-auto-incorporated/
-shop: Autoteile
+shop: car parts
 ---

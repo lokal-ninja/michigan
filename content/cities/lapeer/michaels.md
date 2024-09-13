@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /lapeer/michaels/
-shop: Basteln
+shop: craft
 ---

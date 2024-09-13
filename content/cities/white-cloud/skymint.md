@@ -1,5 +1,5 @@
 ---
 title: "Skymint"
 url: /white-cloud/skymint/
-shop: Hanf
+shop: cannabis
 ---

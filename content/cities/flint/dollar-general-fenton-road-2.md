@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
 url: /flint/dollar-general-fenton-road-2/
-shop: Kramladen
+shop: variety store
 ---

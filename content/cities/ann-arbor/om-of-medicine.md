@@ -1,5 +1,5 @@
 ---
 title: "Om of Medicine"
 url: /ann-arbor/om-of-medicine/
-shop: Hanf
+shop: cannabis
 ---

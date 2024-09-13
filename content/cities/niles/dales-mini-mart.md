@@ -1,5 +1,5 @@
 ---
 title: "Dale's Mini Mart"
 url: /niles/dales-mini-mart/
-shop: Lebensmittel
+shop: convenience
 ---

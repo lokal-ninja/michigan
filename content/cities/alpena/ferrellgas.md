@@ -1,5 +1,5 @@
 ---
 title: "Ferrellgas"
 url: /alpena/ferrellgas/
-shop: Gasflaschen
+shop: gas
 ---

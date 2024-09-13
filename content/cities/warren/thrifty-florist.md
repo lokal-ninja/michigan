@@ -1,5 +1,5 @@
 ---
 title: "Thrifty Florist"
 url: /warren/thrifty-florist/
-shop: Blumen
+shop: florist
 ---

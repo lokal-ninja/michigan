@@ -1,5 +1,5 @@
 ---
 title: "Ann Arbor Gateway"
 url: /ann-arbor/ann-arbor-gateway/
-shop: Lebensmittel
+shop: convenience
 ---

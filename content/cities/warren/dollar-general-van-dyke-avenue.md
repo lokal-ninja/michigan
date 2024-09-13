@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
 url: /warren/dollar-general-van-dyke-avenue/
-shop: Kramladen
+shop: variety store
 ---

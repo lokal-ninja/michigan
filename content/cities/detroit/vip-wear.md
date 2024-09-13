@@ -1,5 +1,5 @@
 ---
 title: "VIP Wear"
 url: /detroit/vip-wear/
-shop: Kleidung
+shop: clothes
 ---

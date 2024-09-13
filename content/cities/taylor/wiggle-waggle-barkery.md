@@ -1,5 +1,5 @@
 ---
 title: "Wiggle Waggle Barkery"
 url: /taylor/wiggle-waggle-barkery/
-shop: Tiere
+shop: pet
 ---

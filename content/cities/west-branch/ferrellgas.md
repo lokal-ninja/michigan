@@ -1,5 +1,5 @@
 ---
 title: "Ferrellgas"
 url: /west-branch/ferrellgas/
-shop: Gasflaschen
+shop: gas
 ---

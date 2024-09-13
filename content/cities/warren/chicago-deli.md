@@ -1,5 +1,5 @@
 ---
 title: "Chicago Deli"
 url: /warren/chicago-deli/
-shop: Lebensmittel
+shop: convenience
 ---

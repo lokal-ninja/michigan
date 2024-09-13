@@ -1,5 +1,5 @@
 ---
 title: "BP Shop"
 url: /detroit/bp-shop-fenkell-street/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Jo Jo's Natural Market"
 url: /gaylord/jo-jos-natural-market/
-shop: Bioladen
+shop: health food
 ---

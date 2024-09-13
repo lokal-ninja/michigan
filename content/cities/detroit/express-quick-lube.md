@@ -1,5 +1,5 @@
 ---
 title: "Express Quick Lube"
 url: /detroit/express-quick-lube/
-shop: Autowerkstatt
+shop: car repair
 ---

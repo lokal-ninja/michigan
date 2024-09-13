@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
 url: /grosse-pointe-woods/kroger/
-shop: Supermarkt
+shop: supermarket
 ---

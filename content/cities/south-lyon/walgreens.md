@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /south-lyon/walgreens/
-shop: Drogerie
+shop: chemist
 ---

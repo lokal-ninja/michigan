@@ -1,5 +1,5 @@
 ---
 title: "PXG Detroit"
 url: /troy/pxg-detroit/
-shop: Sport
+shop: sports
 ---

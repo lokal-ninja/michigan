@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
 url: /howell/dollar-general/
-shop: Lebensmittel
+shop: convenience
 ---

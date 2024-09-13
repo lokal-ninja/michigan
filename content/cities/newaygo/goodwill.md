@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /newaygo/goodwill/
-shop: Gebrauchtwaren
+shop: charity
 ---

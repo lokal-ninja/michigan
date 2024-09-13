@@ -1,5 +1,5 @@
 ---
 title: "BP Shop"
 url: /napoleon/bp-shop/
-shop: Lebensmittel
+shop: convenience
 ---

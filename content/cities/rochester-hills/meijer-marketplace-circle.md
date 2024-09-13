@@ -1,5 +1,5 @@
 ---
 title: "Meijer"
 url: /rochester-hills/meijer-marketplace-circle/
-shop: Supermarkt
+shop: supermarket
 ---

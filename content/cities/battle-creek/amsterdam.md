@@ -1,5 +1,5 @@
 ---
 title: "Amsterdam"
 url: /battle-creek/amsterdam/
-shop: Hanf
+shop: cannabis
 ---

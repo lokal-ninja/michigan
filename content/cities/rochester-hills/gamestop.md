@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
 url: /rochester-hills/gamestop/
-shop: Videospiele
+shop: video games
 ---

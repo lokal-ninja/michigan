@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /alpena/walgreens/
-shop: Drogerie
+shop: chemist
 ---

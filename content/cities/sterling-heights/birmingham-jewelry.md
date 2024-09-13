@@ -1,5 +1,5 @@
 ---
 title: "Birmingham Jewelry"
 url: /sterling-heights/birmingham-jewelry/
-shop: Schmuck
+shop: jewelry
 ---

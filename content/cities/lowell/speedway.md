@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /lowell/speedway/
-shop: Lebensmittel
+shop: convenience
 ---

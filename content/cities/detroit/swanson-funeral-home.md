@@ -1,5 +1,5 @@
 ---
 title: "Swanson Funeral Home"
 url: /detroit/swanson-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

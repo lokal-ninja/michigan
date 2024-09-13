@@ -1,5 +1,5 @@
 ---
 title: "Valero"
 url: /warren/valero-groesbeck-highway/
-shop: Lebensmittel
+shop: convenience
 ---

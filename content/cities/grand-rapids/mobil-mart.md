@@ -1,5 +1,5 @@
 ---
 title: "Mobil Mart"
 url: /grand-rapids/mobil-mart/
-shop: Lebensmittel
+shop: convenience
 ---

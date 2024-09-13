@@ -1,5 +1,5 @@
 ---
 title: "Gear Headz"
 url: /southfield/gear-headz/
-shop: Mieten
+shop: storage rental
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Meijer"
 url: /east-lansing/meijer-west-lake-lansing-road/
-shop: Supermarkt
+shop: supermarket
 ---

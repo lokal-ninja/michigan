@@ -1,5 +1,5 @@
 ---
 title: "Selena Liquor Lane"
 url: /detroit/selena-liquor-lane/
-shop: Spirituosen
+shop: alcohol
 ---

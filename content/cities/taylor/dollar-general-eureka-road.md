@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
 url: /taylor/dollar-general-eureka-road/
-shop: Kramladen
+shop: variety store
 ---

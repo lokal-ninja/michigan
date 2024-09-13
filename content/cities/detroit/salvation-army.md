@@ -1,5 +1,5 @@
 ---
 title: "Salvation Army"
 url: /detroit/salvation-army/
-shop: Gebrauchtwaren
+shop: charity
 ---

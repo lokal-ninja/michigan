@@ -1,5 +1,5 @@
 ---
 title: "GreenPharm"
 url: /ossineke/greenpharm/
-shop: Hanf
+shop: cannabis
 ---

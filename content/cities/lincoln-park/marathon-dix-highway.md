@@ -1,5 +1,5 @@
 ---
 title: "Marathon"
 url: /lincoln-park/marathon-dix-highway/
-shop: Lebensmittel
+shop: convenience
 ---

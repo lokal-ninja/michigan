@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
 url: /lansing/verizon/
-shop: Handy
+shop: mobile phone
 ---

@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
 url: /holland/homegoods/
-shop: Haushaltsartikel
+shop: houseware
 ---

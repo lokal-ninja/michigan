@@ -1,5 +1,5 @@
 ---
 title: "Mattress Firm"
 url: /farmington-hills/mattress-firm/
-shop: Betten
+shop: bed
 ---

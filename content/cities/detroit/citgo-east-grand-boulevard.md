@@ -1,5 +1,5 @@
 ---
 title: "Citgo"
 url: /detroit/citgo-east-grand-boulevard/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cottage Bookshop"
 url: /glen-arbor/cottage-bookshop/
-shop: Bücher
+shop: books
 ---

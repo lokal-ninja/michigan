@@ -1,5 +1,5 @@
 ---
 title: "Sears"
 url: /portage/sears/
-shop: Warenhaus
+shop: department store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dollar Tree"
 url: /clinton-township/dollar-tree-garfield-road/
-shop: Kramladen
+shop: variety store
 ---

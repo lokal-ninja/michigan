@@ -1,5 +1,5 @@
 ---
 title: "Auto Fixit Shop"
 url: /grand-rapids/auto-fixit-shop/
-shop: Autowerkstatt
+shop: car repair
 ---

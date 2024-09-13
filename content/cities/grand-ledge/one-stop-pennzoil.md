@@ -1,5 +1,5 @@
 ---
 title: "One Stop Pennzoil"
 url: /grand-ledge/one-stop-pennzoil/
-shop: Autowerkstatt
+shop: car repair
 ---

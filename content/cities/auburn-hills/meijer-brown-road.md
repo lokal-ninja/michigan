@@ -1,5 +1,5 @@
 ---
 title: "Meijer"
 url: /auburn-hills/meijer-brown-road/
-shop: Supermarkt
+shop: supermarket
 ---

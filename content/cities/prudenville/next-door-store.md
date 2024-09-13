@@ -1,5 +1,5 @@
 ---
 title: "Next Door Store"
 url: /prudenville/next-door-store/
-shop: Lebensmittel
+shop: convenience
 ---

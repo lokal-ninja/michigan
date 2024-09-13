@@ -1,5 +1,5 @@
 ---
 title: "Myers' Fashions Etc."
 url: /alpena/myers-fashions-etc/
-shop: Kleidung
+shop: clothes
 ---

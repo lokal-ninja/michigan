@@ -1,5 +1,5 @@
 ---
 title: "Main Street Convenience"
 url: /ann-arbor/main-street-convenience/
-shop: Lebensmittel
+shop: convenience
 ---

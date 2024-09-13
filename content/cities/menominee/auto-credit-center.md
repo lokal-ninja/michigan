@@ -1,5 +1,5 @@
 ---
 title: "Auto Credit Center"
 url: /menominee/auto-credit-center/
-shop: Autohaus
+shop: car
 ---

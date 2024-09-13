@@ -1,5 +1,5 @@
 ---
 title: "AGO"
 url: /portage/ago/
-shop: Lebensmittel
+shop: convenience
 ---

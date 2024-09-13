@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /clarkston/speedway/
-shop: Lebensmittel
+shop: convenience
 ---

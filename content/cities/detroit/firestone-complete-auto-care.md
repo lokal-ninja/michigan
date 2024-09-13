@@ -1,5 +1,5 @@
 ---
 title: "Firestone Complete Auto Care"
 url: /detroit/firestone-complete-auto-care/
-shop: Autowerkstatt
+shop: car repair
 ---

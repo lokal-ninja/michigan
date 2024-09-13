@@ -1,5 +1,5 @@
 ---
 title: "Wesco"
 url: /ludington/wesco-east-ludington-avenue/
-shop: Lebensmittel
+shop: convenience
 ---

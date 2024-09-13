@@ -1,5 +1,5 @@
 ---
 title: "Beltone"
 url: /brownstown-township/beltone/
-shop: Hörgeräte
+shop: hearing aids
 ---

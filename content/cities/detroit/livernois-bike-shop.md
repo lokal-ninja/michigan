@@ -1,5 +1,5 @@
 ---
 title: "Livernois Bike Shop"
 url: /detroit/livernois-bike-shop/
-shop: Fahrrad
+shop: bicycle
 ---

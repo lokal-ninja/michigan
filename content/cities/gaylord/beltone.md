@@ -1,5 +1,5 @@
 ---
 title: "Beltone"
 url: /gaylord/beltone/
-shop: Hörgeräte
+shop: hearing aids
 ---

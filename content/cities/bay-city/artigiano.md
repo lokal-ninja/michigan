@@ -1,5 +1,5 @@
 ---
 title: "Artigiano"
 url: /bay-city/artigiano/
-shop: Käse
+shop: cheese
 ---

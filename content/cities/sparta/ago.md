@@ -1,5 +1,5 @@
 ---
 title: "AGO"
 url: /sparta/ago/
-shop: Lebensmittel
+shop: convenience
 ---

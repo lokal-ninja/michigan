@@ -1,5 +1,5 @@
 ---
 title: "Marathon"
 url: /flint/marathon-west-pierson-road/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /commerce-township/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

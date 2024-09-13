@@ -1,5 +1,5 @@
 ---
 title: "Marathon"
 url: /westland/marathon-ford-road/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
 url: /sterling-heights/dollar-general-dodge-park-road/
-shop: Kramladen
+shop: variety store
 ---

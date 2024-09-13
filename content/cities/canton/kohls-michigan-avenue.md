@@ -1,5 +1,5 @@
 ---
 title: "Kohl's"
 url: /canton/kohls-michigan-avenue/
-shop: Warenhaus
+shop: department store
 ---

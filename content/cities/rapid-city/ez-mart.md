@@ -1,5 +1,5 @@
 ---
 title: "EZ Mart"
 url: /rapid-city/ez-mart/
-shop: Lebensmittel
+shop: convenience
 ---

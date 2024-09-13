@@ -1,5 +1,5 @@
 ---
 title: "Lucky Fire"
 url: /detroit/lucky-fire/
-shop: Hanf
+shop: cannabis
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Leons Party Store"
 url: /inkster/leons-party-store/
-shop: Lebensmittel
+shop: convenience
 ---

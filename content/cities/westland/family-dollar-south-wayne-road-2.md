@@ -1,5 +1,5 @@
 ---
 title: "Family Dollar"
 url: /westland/family-dollar-south-wayne-road-2/
-shop: Kramladen
+shop: variety store
 ---

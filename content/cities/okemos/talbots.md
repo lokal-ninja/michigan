@@ -1,5 +1,5 @@
 ---
 title: "Talbots"
 url: /okemos/talbots/
-shop: Kleidung
+shop: clothes
 ---

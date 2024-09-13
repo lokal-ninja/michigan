@@ -1,5 +1,5 @@
 ---
 title: "Speedy"
 url: /farmington-hills/speedy-grand-river-avenue/
-shop: Lebensmittel
+shop: convenience
 ---

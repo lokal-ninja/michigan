@@ -1,5 +1,5 @@
 ---
 title: "Crane Optical"
 url: /ferndale/crane-optical/
-shop: Optiker
+shop: optician
 ---

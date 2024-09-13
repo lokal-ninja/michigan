@@ -1,5 +1,5 @@
 ---
 title: "Cannaisseur"
 url: /lansing/cannaisseur/
-shop: Hanf
+shop: cannabis
 ---

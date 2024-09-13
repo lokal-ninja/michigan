@@ -1,5 +1,5 @@
 ---
 title: "Cedarville EZ Mart"
 url: /cedarville/cedarville-ez-mart/
-shop: Lebensmittel
+shop: convenience
 ---

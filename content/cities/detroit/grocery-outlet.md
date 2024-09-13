@@ -1,5 +1,5 @@
 ---
 title: "Grocery Outlet"
 url: /detroit/grocery-outlet/
-shop: Supermarkt
+shop: supermarket
 ---

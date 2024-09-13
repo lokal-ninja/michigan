@@ -1,5 +1,5 @@
 ---
 title: "English Gardens"
 url: /clinton-township/english-gardens/
-shop: Garten-Center
+shop: garden centre
 ---

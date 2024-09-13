@@ -1,5 +1,5 @@
 ---
 title: "Big Ray's Express Lube"
 url: /lansing/big-rays-express-lube/
-shop: Autowerkstatt
+shop: car repair
 ---

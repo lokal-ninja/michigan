@@ -1,5 +1,5 @@
 ---
 title: "Clippervision Barber Co."
 url: /belleville/clippervision-barber-co/
-shop: Friseur
+shop: hairdresser
 ---

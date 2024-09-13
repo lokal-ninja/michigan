@@ -1,5 +1,5 @@
 ---
 title: "Pilot"
 url: /monroe/pilot/
-shop: Lebensmittel
+shop: convenience
 ---

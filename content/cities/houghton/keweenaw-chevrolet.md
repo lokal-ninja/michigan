@@ -1,5 +1,5 @@
 ---
 title: "Keweenaw Chevrolet"
 url: /houghton/keweenaw-chevrolet/
-shop: Autohaus
+shop: car
 ---

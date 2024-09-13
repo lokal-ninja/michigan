@@ -1,5 +1,5 @@
 ---
 title: "BP Shop"
 url: /flat-rock/bp-shop/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Platt Convenience"
 url: /ann-arbor/platt-convenience/
-shop: Lebensmittel
+shop: convenience
 ---

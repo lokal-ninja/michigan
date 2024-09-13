@@ -1,5 +1,5 @@
 ---
 title: "Pastrami Joe's"
 url: /marshall/pastrami-joes-north-jefferson-street/
-shop: Feinkost
+shop: deli
 ---

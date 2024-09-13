@@ -1,5 +1,5 @@
 ---
 title: "Affordable Flowers"
 url: /birmingham/affordable-flowers/
-shop: Blumen
+shop: florist
 ---

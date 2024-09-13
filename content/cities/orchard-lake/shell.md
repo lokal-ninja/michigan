@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /orchard-lake/shell/
-shop: Lebensmittel
+shop: convenience
 ---

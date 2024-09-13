@@ -1,5 +1,5 @@
 ---
 title: "Ebels Hardware"
 url: /falmouth/ebels-hardware/
-shop: Eisenwaren
+shop: hardware
 ---

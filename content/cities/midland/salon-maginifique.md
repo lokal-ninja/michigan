@@ -1,5 +1,5 @@
 ---
 title: "Salon Maginifique"
 url: /midland/salon-maginifique/
-shop: Friseur
+shop: hairdresser
 ---

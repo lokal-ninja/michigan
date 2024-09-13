@@ -1,5 +1,5 @@
 ---
 title: "Tuffy"
 url: /midland/tuffy/
-shop: Autowerkstatt
+shop: car repair
 ---

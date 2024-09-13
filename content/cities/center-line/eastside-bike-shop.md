@@ -1,5 +1,5 @@
 ---
 title: "Eastside Bike Shop"
 url: /center-line/eastside-bike-shop/
-shop: Fahrrad
+shop: bicycle
 ---

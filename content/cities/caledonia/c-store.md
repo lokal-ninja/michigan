@@ -1,5 +1,5 @@
 ---
 title: "C-Store"
 url: /caledonia/c-store/
-shop: Lebensmittel
+shop: convenience
 ---

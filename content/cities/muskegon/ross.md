@@ -1,5 +1,5 @@
 ---
 title: "Ross"
 url: /muskegon/ross/
-shop: Warenhaus
+shop: department store
 ---

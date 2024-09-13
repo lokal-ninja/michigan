@@ -1,5 +1,5 @@
 ---
 title: "Yoder's BP"
 url: /brooklyn/yoders-bp/
-shop: Lebensmittel
+shop: convenience
 ---

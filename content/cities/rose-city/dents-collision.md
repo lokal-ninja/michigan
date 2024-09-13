@@ -1,5 +1,5 @@
 ---
 title: "Dent's Collision"
 url: /rose-city/dents-collision/
-shop: Autowerkstatt
+shop: car repair
 ---

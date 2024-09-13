@@ -1,5 +1,5 @@
 ---
 title: "WOW Electronics"
 url: /eastpointe/wow-electronics/
-shop: Elektronik
+shop: electronics
 ---

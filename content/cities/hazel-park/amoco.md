@@ -1,5 +1,5 @@
 ---
 title: "Amoco"
 url: /hazel-park/amoco/
-shop: Lebensmittel
+shop: convenience
 ---

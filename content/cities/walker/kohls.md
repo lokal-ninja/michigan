@@ -1,5 +1,5 @@
 ---
 title: "Kohl's"
 url: /walker/kohls/
-shop: Warenhaus
+shop: department store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sunoco"
 url: /dearborn/sunoco-michigan-avenue/
-shop: Lebensmittel
+shop: convenience
 ---

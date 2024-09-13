@@ -1,5 +1,5 @@
 ---
 title: "Alpena Diesel Service"
 url: /alpena/alpena-diesel-service/
-shop: Autowerkstatt
+shop: car repair
 ---

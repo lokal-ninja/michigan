@@ -1,5 +1,5 @@
 ---
 title: "Steve's Party Store"
 url: /hamtramck/steves-party-store/
-shop: Spirituosen
+shop: alcohol
 ---

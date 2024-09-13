@@ -1,5 +1,5 @@
 ---
 title: "Auto Europe"
 url: /birmingham/auto-europe/
-shop: Autowerkstatt
+shop: car repair
 ---

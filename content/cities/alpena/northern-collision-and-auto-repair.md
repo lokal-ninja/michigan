@@ -1,5 +1,5 @@
 ---
 title: "Northern Collision and Auto Repair"
 url: /alpena/northern-collision-and-auto-repair/
-shop: Autowerkstatt
+shop: car repair
 ---

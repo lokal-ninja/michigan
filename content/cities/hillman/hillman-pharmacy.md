@@ -1,5 +1,5 @@
 ---
 title: "Hillman Pharmacy"
 url: /hillman/hillman-pharmacy/
-shop: Drogerie
+shop: chemist
 ---

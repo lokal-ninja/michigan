@@ -1,5 +1,5 @@
 ---
 title: "Sam's Florist"
 url: /sterling-heights/sams-florist/
-shop: Blumen
+shop: florist
 ---

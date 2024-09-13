@@ -1,5 +1,5 @@
 ---
 title: "Citgo"
 url: /lincoln-park/citgo-dix-highway/
-shop: Lebensmittel
+shop: convenience
 ---

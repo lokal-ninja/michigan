@@ -1,5 +1,5 @@
 ---
 title: "Locker Room"
 url: /eaton-rapids/locker-room/
-shop: Kleidung
+shop: clothes
 ---

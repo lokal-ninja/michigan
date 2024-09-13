@@ -1,5 +1,5 @@
 ---
 title: "Ballenger Corner"
 url: /flint/ballenger-corner/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Joe's Rite-Way"
 url: /wyandotte/joes-rite-way-fort-street/
-shop: Autowerkstatt
+shop: car repair
 ---

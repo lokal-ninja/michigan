@@ -1,5 +1,5 @@
 ---
 title: "Circle K Party Store"
 url: /highland-park/circle-k-party-store/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Marathon"
 url: /benton-harbor/marathon/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Admiral"
 url: /burton/admiral/
-shop: Lebensmittel
+shop: convenience
 ---

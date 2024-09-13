@@ -1,5 +1,5 @@
 ---
 title: "Gadget Drop"
 url: /royal-oak/gadget-drop/
-shop: Elektronik
+shop: electronics
 ---

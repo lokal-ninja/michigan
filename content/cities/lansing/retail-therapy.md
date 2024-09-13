@@ -1,5 +1,5 @@
 ---
 title: "Retail Therapy"
 url: /lansing/retail-therapy/
-shop: Modehaus
+shop: boutique
 ---

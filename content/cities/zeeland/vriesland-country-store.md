@@ -1,5 +1,5 @@
 ---
 title: "Vriesland Country Store"
 url: /zeeland/vriesland-country-store/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Candy Store"
 url: /copper-harbor/candy-store/
-shop: Süßwaren
+shop: confectionery
 ---

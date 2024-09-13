@@ -1,5 +1,5 @@
 ---
 title: "Chabot Collision Services"
 url: /alpena/chabot-collision-services/
-shop: Autowerkstatt
+shop: car repair
 ---

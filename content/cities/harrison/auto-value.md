@@ -1,5 +1,5 @@
 ---
 title: "Auto Value"
 url: /harrison/auto-value/
-shop: Autoteile
+shop: car parts
 ---

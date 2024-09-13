@@ -1,5 +1,5 @@
 ---
 title: "Realms Metaphysical"
 url: /west-branch/realms-metaphysical/
-shop: Andenken
+shop: gift
 ---

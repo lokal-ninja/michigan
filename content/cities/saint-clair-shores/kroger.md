@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
 url: /saint-clair-shores/kroger/
-shop: Lebensmittel
+shop: convenience
 ---

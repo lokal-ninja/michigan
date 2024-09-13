@@ -1,5 +1,5 @@
 ---
 title: "Glik's"
 url: /ludington/gliks/
-shop: Kleidung
+shop: clothes
 ---

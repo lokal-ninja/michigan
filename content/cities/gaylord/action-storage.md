@@ -1,5 +1,5 @@
 ---
 title: "Action Storage"
 url: /gaylord/action-storage/
-shop: Mieten
+shop: storage rental
 ---

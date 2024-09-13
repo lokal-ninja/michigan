@@ -1,5 +1,5 @@
 ---
 title: "FanaticU"
 url: /southgate/fanaticu/
-shop: Sport
+shop: sports
 ---

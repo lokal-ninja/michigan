@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /detroit/shell-west-fort-street/
-shop: Lebensmittel
+shop: convenience
 ---

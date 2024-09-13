@@ -1,5 +1,5 @@
 ---
 title: "Armada Technologies"
 url: /byron-township/armada-technologies/
-shop: Allgemein
+shop: shop
 ---

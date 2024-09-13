@@ -1,5 +1,5 @@
 ---
 title: "InnerSpace"
 url: /marne/innerspace/
-shop: Sanitätshaus
+shop: medical supply
 ---

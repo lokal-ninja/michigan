@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /flint/target/
-shop: Warenhaus
+shop: department store
 ---

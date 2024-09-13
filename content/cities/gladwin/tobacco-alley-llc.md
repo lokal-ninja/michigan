@@ -1,5 +1,5 @@
 ---
 title: "Tobacco Alley LLC"
 url: /gladwin/tobacco-alley-llc/
-shop: Tabak
+shop: tobacco
 ---

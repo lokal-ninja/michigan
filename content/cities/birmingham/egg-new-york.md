@@ -1,5 +1,5 @@
 ---
 title: "Egg New York"
 url: /birmingham/egg-new-york/
-shop: Kleidung
+shop: clothes
 ---

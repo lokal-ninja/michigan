@@ -1,5 +1,5 @@
 ---
 title: "Riverside Toyota"
 url: /marquette/riverside-toyota/
-shop: Autohaus
+shop: car
 ---

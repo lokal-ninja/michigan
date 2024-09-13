@@ -1,5 +1,5 @@
 ---
 title: "Kilwins"
 url: /ann-arbor/kilwins/
-shop: Süßwaren
+shop: confectionery
 ---

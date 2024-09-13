@@ -1,5 +1,5 @@
 ---
 title: "Trenton Jewelers"
 url: /trenton/trenton-jewelers/
-shop: Schmuck
+shop: jewelry
 ---

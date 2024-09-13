@@ -1,5 +1,5 @@
 ---
 title: "Meijer"
 url: /burton/meijer/
-shop: Lebensmittel
+shop: convenience
 ---

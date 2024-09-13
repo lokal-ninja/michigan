@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /belleville/shell/
-shop: Lebensmittel
+shop: convenience
 ---

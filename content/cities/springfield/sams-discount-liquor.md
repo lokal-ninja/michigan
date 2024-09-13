@@ -1,5 +1,5 @@
 ---
 title: "Sams Discount Liquor"
 url: /springfield/sams-discount-liquor/
-shop: Spirituosen
+shop: alcohol
 ---

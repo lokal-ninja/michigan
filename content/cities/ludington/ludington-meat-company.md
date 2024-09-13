@@ -1,5 +1,5 @@
 ---
 title: "Ludington Meat Company"
 url: /ludington/ludington-meat-company/
-shop: Metzgerei
+shop: butcher
 ---

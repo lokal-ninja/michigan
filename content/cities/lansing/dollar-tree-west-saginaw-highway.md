@@ -1,5 +1,5 @@
 ---
 title: "Dollar Tree"
 url: /lansing/dollar-tree-west-saginaw-highway/
-shop: Kramladen
+shop: variety store
 ---

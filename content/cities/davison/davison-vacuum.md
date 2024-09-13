@@ -1,5 +1,5 @@
 ---
 title: "Davison Vacuum"
 url: /davison/davison-vacuum/
-shop: Staubsauger
+shop: vacuum cleaner
 ---

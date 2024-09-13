@@ -1,5 +1,5 @@
 ---
 title: "Stems Market"
 url: /grandville/stems-market/
-shop: Blumen
+shop: florist
 ---

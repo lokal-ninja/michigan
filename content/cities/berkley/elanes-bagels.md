@@ -1,5 +1,5 @@
 ---
 title: "Elane's Bagels"
 url: /berkley/elanes-bagels/
-shop: Bäckerei
+shop: bakery
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Len's Lift Truck Services"
 url: /alpena/lens-lift-truck-services/
-shop: Autowerkstatt
+shop: car repair
 ---

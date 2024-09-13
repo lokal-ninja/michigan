@@ -1,5 +1,5 @@
 ---
 title: "Conlee Travel Center"
 url: /clio/conlee-travel-center/
-shop: Lebensmittel
+shop: convenience
 ---

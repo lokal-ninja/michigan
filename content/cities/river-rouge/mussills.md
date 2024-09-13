@@ -1,5 +1,5 @@
 ---
 title: "Mussill's"
 url: /river-rouge/mussills/
-shop: Kleidung
+shop: clothes
 ---

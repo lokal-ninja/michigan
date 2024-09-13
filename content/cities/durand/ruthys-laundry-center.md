@@ -1,5 +1,5 @@
 ---
 title: "Ruthy's Laundry Center"
 url: /durand/ruthys-laundry-center/
-shop: Wäscherei
+shop: laundry
 ---

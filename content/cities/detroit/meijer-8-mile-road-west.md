@@ -1,5 +1,5 @@
 ---
 title: "Meijer"
 url: /detroit/meijer-8-mile-road-west/
-shop: Supermarkt
+shop: supermarket
 ---

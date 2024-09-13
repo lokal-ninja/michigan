@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /bloomfield-hills/target/
-shop: Warenhaus
+shop: department store
 ---

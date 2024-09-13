@@ -1,5 +1,5 @@
 ---
 title: "Eddie Bauer"
 url: /clinton-township/eddie-bauer/
-shop: Kleidung
+shop: clothes
 ---

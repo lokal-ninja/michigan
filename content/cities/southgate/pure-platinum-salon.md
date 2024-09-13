@@ -1,5 +1,5 @@
 ---
 title: "Pure Platinum Salon"
 url: /southgate/pure-platinum-salon/
-shop: Kosmetik
+shop: beauty
 ---

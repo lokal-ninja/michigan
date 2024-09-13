@@ -1,5 +1,5 @@
 ---
 title: "Flowers by Lobb"
 url: /lincoln-park/flowers-by-lobb/
-shop: Blumen
+shop: florist
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Valvoline"
 url: /midland/valvoline-west-wackerly-street/
-shop: Autowerkstatt
+shop: car repair
 ---

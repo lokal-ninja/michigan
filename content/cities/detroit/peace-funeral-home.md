@@ -1,5 +1,5 @@
 ---
 title: "Peace Funeral Home"
 url: /detroit/peace-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

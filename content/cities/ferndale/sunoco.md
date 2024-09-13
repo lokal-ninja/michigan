@@ -1,5 +1,5 @@
 ---
 title: "Sunoco"
 url: /ferndale/sunoco/
-shop: Lebensmittel
+shop: convenience
 ---

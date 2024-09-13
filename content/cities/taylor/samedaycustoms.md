@@ -1,5 +1,5 @@
 ---
 title: "SameDayCustoms"
 url: /taylor/samedaycustoms/
-shop: Kleidung
+shop: clothes
 ---

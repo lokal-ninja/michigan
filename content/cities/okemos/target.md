@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /okemos/target/
-shop: Warenhaus
+shop: department store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kilwins"
 url: /petoskey/kilwins/
-shop: Süßwaren
+shop: confectionery
 ---

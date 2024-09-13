@@ -1,5 +1,5 @@
 ---
 title: "F.C Simpson Lime Co."
 url: /smiths-creek/f-c-simpson-lime-co/
-shop: Garten-Center
+shop: garden centre
 ---

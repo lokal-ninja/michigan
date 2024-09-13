@@ -1,5 +1,5 @@
 ---
 title: "North Lake Marathon"
 url: /chelsea/north-lake-marathon/
-shop: Lebensmittel
+shop: convenience
 ---

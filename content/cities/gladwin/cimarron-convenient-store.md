@@ -1,5 +1,5 @@
 ---
 title: "Cimarron Convenient Store"
 url: /gladwin/cimarron-convenient-store/
-shop: Lebensmittel
+shop: convenience
 ---

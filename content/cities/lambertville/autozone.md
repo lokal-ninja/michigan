@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /lambertville/autozone/
-shop: Autoteile
+shop: car parts
 ---

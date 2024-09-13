@@ -1,5 +1,5 @@
 ---
 title: "Big Lots"
 url: /pontiac/big-lots/
-shop: Warenhaus
+shop: department store
 ---

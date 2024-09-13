@@ -1,5 +1,5 @@
 ---
 title: "U Stor Mini Storage"
 url: /alpena/u-stor-mini-storage/
-shop: Mieten
+shop: storage rental
 ---

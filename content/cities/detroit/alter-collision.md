@@ -1,5 +1,5 @@
 ---
 title: "Alter Collision"
 url: /detroit/alter-collision/
-shop: Autowerkstatt
+shop: car repair
 ---

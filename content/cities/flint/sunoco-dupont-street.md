@@ -1,5 +1,5 @@
 ---
 title: "Sunoco"
 url: /flint/sunoco-dupont-street/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Burlington"
 url: /saginaw/burlington/
-shop: Warenhaus
+shop: department store
 ---

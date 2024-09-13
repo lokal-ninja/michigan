@@ -1,5 +1,5 @@
 ---
 title: "Liberty Food Center"
 url: /detroit/liberty-food-center/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "CGX"
 url: /detroit/cgx/
-shop: Warenhaus
+shop: department store
 ---

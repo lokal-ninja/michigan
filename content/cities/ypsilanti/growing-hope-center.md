@@ -1,5 +1,5 @@
 ---
 title: "Growing Hope Center"
 url: /ypsilanti/growing-hope-center/
-shop: Hofladen
+shop: farm
 ---

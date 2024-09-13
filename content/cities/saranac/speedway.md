@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /saranac/speedway/
-shop: Lebensmittel
+shop: convenience
 ---

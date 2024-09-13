@@ -1,5 +1,5 @@
 ---
 title: "Hilltop Truck Stop"
 url: /marlette/hilltop-truck-stop/
-shop: Lebensmittel
+shop: convenience
 ---

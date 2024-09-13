@@ -1,5 +1,5 @@
 ---
 title: "Blue Canary Confections"
 url: /birmingham/blue-canary-confections/
-shop: Bäckerei
+shop: bakery
 ---

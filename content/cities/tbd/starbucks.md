@@ -1,5 +1,5 @@
 ---
 title: "Starbucks"
 url: /tbd/starbucks/
-shop: Kaffee
+shop: coffee
 ---

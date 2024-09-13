@@ -1,5 +1,5 @@
 ---
 title: "Admiral"
 url: /fremont/admiral/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bosswag Clothing"
 url: /detroit/bosswag-clothing/
-shop: Kleidung
+shop: clothes
 ---

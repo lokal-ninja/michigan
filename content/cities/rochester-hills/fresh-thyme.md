@@ -1,5 +1,5 @@
 ---
 title: "Fresh Thyme"
 url: /rochester-hills/fresh-thyme/
-shop: Supermarkt
+shop: supermarket
 ---

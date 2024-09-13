@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /detroit/autozone-woodward-avenue/
-shop: Autoteile
+shop: car parts
 ---

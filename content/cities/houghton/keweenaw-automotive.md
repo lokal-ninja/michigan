@@ -1,5 +1,5 @@
 ---
 title: "Keweenaw Automotive"
 url: /houghton/keweenaw-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

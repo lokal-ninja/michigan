@@ -1,5 +1,5 @@
 ---
 title: "Avissa Salon|Spa"
 url: /ann-arbor/avissa-salon-spa/
-shop: Friseur
+shop: hairdresser
 ---

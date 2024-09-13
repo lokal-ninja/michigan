@@ -1,5 +1,5 @@
 ---
 title: "Dallas Standard Service"
 url: /ruth/dallas-standard-service/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "The Carriage Clippery"
 url: /gaylord/the-carriage-clippery/
-shop: Friseur
+shop: hairdresser
 ---

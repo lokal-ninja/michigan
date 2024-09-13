@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /allendale/autozone/
-shop: Autoteile
+shop: car parts
 ---

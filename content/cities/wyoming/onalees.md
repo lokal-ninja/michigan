@@ -1,5 +1,5 @@
 ---
 title: "Onalee's"
 url: /wyoming/onalees/
-shop: Kleidung
+shop: clothes
 ---

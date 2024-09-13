@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /sterling-heights/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

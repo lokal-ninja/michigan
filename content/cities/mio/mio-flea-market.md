@@ -1,5 +1,5 @@
 ---
 title: "Mio Flea Market"
 url: /mio/mio-flea-market/
-shop: Gebrauchtwaren
+shop: charity
 ---

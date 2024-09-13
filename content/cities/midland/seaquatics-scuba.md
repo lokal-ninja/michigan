@@ -1,5 +1,5 @@
 ---
 title: "Seaquatics Scuba"
 url: /midland/seaquatics-scuba/
-shop: Tauchen
+shop: diving
 ---

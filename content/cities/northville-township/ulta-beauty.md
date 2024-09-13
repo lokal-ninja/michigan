@@ -1,5 +1,5 @@
 ---
 title: "Ulta Beauty"
 url: /northville-township/ulta-beauty/
-shop: Drogerie
+shop: chemist
 ---

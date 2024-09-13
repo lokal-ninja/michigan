@@ -1,5 +1,5 @@
 ---
 title: "Wesco"
 url: /brooklyn/wesco/
-shop: Lebensmittel
+shop: convenience
 ---

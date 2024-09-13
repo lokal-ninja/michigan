@@ -1,5 +1,5 @@
 ---
 title: "Jaddco Enterprises"
 url: /gibraltar/jaddco-enterprises/
-shop: Lebensmittel
+shop: convenience
 ---

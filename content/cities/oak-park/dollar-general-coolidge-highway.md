@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
 url: /oak-park/dollar-general-coolidge-highway/
-shop: Kramladen
+shop: variety store
 ---

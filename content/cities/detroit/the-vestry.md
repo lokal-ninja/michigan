@@ -1,5 +1,5 @@
 ---
 title: "The Vestry"
 url: /detroit/the-vestry/
-shop: Kleidung
+shop: clothes
 ---

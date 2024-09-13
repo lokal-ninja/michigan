@@ -1,5 +1,5 @@
 ---
 title: "Sonnenberg Hardware"
 url: /detroit/sonnenberg-hardware/
-shop: Eisenwaren
+shop: hardware
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Chelsea's Closet"
 url: /cheboygan/chelseas-closet/
-shop: Allgemein
+shop: shop
 ---

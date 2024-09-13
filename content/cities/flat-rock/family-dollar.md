@@ -1,5 +1,5 @@
 ---
 title: "Family Dollar"
 url: /flat-rock/family-dollar/
-shop: Kramladen
+shop: variety store
 ---

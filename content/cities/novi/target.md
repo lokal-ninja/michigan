@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /novi/target/
-shop: Warenhaus
+shop: department store
 ---

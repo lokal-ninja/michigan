@@ -1,5 +1,5 @@
 ---
 title: "Sunoco Mini Mart"
 url: /pontiac/sunoco-mini-mart/
-shop: Lebensmittel
+shop: convenience
 ---

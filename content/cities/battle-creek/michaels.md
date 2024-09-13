@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /battle-creek/michaels/
-shop: Basteln
+shop: craft
 ---

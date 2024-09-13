@@ -1,5 +1,5 @@
 ---
 title: "Ruby Creek Store"
 url: /branch/ruby-creek-store/
-shop: Lebensmittel
+shop: convenience
 ---

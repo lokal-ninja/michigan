@@ -1,5 +1,5 @@
 ---
 title: "Bliss Store"
 url: /levering/bliss-store/
-shop: Lebensmittel
+shop: convenience
 ---

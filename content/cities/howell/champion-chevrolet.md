@@ -1,5 +1,5 @@
 ---
 title: "Champion Chevrolet"
 url: /howell/champion-chevrolet/
-shop: Autohaus
+shop: car
 ---

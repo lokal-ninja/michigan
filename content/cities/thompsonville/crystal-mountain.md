@@ -1,5 +1,5 @@
 ---
 title: "Crystal Mountain"
 url: /thompsonville/crystal-mountain/
-shop: Sport
+shop: sports
 ---

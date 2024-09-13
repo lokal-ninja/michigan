@@ -1,5 +1,5 @@
 ---
 title: "VGs Food Center"
 url: /davison/vgs-food-center/
-shop: Supermarkt
+shop: supermarket
 ---

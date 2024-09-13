@@ -1,5 +1,5 @@
 ---
 title: "C-Store"
 url: /grand-rapids/c-store-fuller-avenue-northeast/
-shop: Lebensmittel
+shop: convenience
 ---

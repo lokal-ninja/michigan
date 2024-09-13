@@ -1,5 +1,5 @@
 ---
 title: "Sumerix Implement"
 url: /lachine/sumerix-implement/
-shop: Allgemein
+shop: shop
 ---

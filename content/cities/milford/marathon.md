@@ -1,5 +1,5 @@
 ---
 title: "Marathon"
 url: /milford/marathon/
-shop: Lebensmittel
+shop: convenience
 ---

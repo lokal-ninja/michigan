@@ -1,5 +1,5 @@
 ---
 title: "Marathon"
 url: /royal-oak/marathon-woodward-avenue/
-shop: Lebensmittel
+shop: convenience
 ---

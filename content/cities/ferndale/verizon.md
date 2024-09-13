@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
 url: /ferndale/verizon/
-shop: Handy
+shop: mobile phone
 ---

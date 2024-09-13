@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /wyoming/autozone/
-shop: Autoteile
+shop: car parts
 ---

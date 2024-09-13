@@ -1,5 +1,5 @@
 ---
 title: "Liquor Island"
 url: /detroit/liquor-island/
-shop: Spirituosen
+shop: alcohol
 ---

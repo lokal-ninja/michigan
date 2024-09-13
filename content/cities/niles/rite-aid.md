@@ -1,5 +1,5 @@
 ---
 title: "Rite Aid"
 url: /niles/rite-aid/
-shop: Drogerie
+shop: chemist
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Treasure Chest"
 url: /mackinaw-city/treasure-chest/
-shop: Andenken
+shop: gift
 ---

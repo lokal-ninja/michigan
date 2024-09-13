@@ -1,5 +1,5 @@
 ---
 title: "Marathon"
 url: /pontiac/marathon/
-shop: Lebensmittel
+shop: convenience
 ---

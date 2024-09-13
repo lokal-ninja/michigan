@@ -1,5 +1,5 @@
 ---
 title: "RPM Records"
 url: /traverse-city/rpm-records/
-shop: Musik
+shop: music
 ---

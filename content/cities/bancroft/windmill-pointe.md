@@ -1,5 +1,5 @@
 ---
 title: "Windmill Pointe"
 url: /bancroft/windmill-pointe/
-shop: Lebensmittel
+shop: convenience
 ---

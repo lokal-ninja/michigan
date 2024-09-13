@@ -1,5 +1,5 @@
 ---
 title: "Pocket Change"
 url: /ionia/pocket-change/
-shop: Gebrauchtwaren
+shop: charity
 ---

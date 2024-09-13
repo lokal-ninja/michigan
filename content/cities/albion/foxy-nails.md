@@ -1,5 +1,5 @@
 ---
 title: "Foxy Nails"
 url: /albion/foxy-nails/
-shop: Friseur
+shop: hairdresser
 ---

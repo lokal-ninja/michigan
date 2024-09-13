@@ -1,5 +1,5 @@
 ---
 title: "Mobil Mart"
 url: /sterling-heights/mobil-mart/
-shop: Lebensmittel
+shop: convenience
 ---

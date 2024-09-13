@@ -1,5 +1,5 @@
 ---
 title: "Essential Balance Therapeutic Massage"
 url: /midland/essential-balance-therapeutic-massage/
-shop: Massage
+shop: massage
 ---

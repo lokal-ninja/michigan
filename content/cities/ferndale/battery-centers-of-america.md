@@ -1,5 +1,5 @@
 ---
 title: "Battery Centers of America"
 url: /ferndale/battery-centers-of-america/
-shop: Autoteile
+shop: car parts
 ---

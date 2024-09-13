@@ -1,5 +1,5 @@
 ---
 title: "Tuffy"
 url: /kalamazoo/tuffy/
-shop: Autowerkstatt
+shop: car repair
 ---

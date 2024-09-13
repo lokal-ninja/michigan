@@ -1,5 +1,5 @@
 ---
 title: "BP Shop"
 url: /redford/bp-shop-plymouth-road/
-shop: Lebensmittel
+shop: convenience
 ---

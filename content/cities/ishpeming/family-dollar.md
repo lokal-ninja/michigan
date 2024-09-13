@@ -1,5 +1,5 @@
 ---
 title: "Family Dollar"
 url: /ishpeming/family-dollar/
-shop: Kramladen
+shop: variety store
 ---

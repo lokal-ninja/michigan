@@ -1,5 +1,5 @@
 ---
 title: "Monroe Self Storage"
 url: /monroe/monroe-self-storage/
-shop: Mieten
+shop: storage rental
 ---

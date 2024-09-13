@@ -1,5 +1,5 @@
 ---
 title: "Shalla's Market"
 url: /alpena/shallas-market/
-shop: Lebensmittel
+shop: convenience
 ---

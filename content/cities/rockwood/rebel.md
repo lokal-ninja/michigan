@@ -1,5 +1,5 @@
 ---
 title: "Rebel"
 url: /rockwood/rebel/
-shop: Lebensmittel
+shop: convenience
 ---

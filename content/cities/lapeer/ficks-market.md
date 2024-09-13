@@ -1,5 +1,5 @@
 ---
 title: "Fick's Market"
 url: /lapeer/ficks-market/
-shop: Lebensmittel
+shop: convenience
 ---

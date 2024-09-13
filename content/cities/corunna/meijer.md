@@ -1,5 +1,5 @@
 ---
 title: "Meijer"
 url: /corunna/meijer/
-shop: Lebensmittel
+shop: convenience
 ---

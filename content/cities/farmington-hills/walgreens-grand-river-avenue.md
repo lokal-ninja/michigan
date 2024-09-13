@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /farmington-hills/walgreens-grand-river-avenue/
-shop: Drogerie
+shop: chemist
 ---

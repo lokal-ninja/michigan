@@ -1,5 +1,5 @@
 ---
 title: "Valvoline"
 url: /novi/valvoline/
-shop: Autowerkstatt
+shop: car repair
 ---

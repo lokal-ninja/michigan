@@ -1,5 +1,5 @@
 ---
 title: "Admiral"
 url: /cadillac/admiral/
-shop: Lebensmittel
+shop: convenience
 ---

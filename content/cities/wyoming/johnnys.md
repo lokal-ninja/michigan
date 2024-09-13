@@ -1,5 +1,5 @@
 ---
 title: "Johnny's"
 url: /wyoming/johnnys/
-shop: Lebensmittel
+shop: convenience
 ---

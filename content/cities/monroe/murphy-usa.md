@@ -1,5 +1,5 @@
 ---
 title: "Murphy USA"
 url: /monroe/murphy-usa/
-shop: Lebensmittel
+shop: convenience
 ---

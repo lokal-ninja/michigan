@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /grand-rapids/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

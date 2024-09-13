@@ -1,5 +1,5 @@
 ---
 title: "Kennys Mini Market"
 url: /monroe/kennys-mini-market/
-shop: Lebensmittel
+shop: convenience
 ---

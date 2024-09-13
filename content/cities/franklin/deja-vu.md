@@ -1,5 +1,5 @@
 ---
 title: "Deja Vu"
 url: /franklin/deja-vu/
-shop: Kleidung
+shop: clothes
 ---

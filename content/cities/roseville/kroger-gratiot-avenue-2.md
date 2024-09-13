@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
 url: /roseville/kroger-gratiot-avenue-2/
-shop: Supermarkt
+shop: supermarket
 ---

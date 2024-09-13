@@ -1,5 +1,5 @@
 ---
 title: "Mobil Mart"
 url: /livonia/mobil-mart-plymouth-road/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /mount-pleasant/target/
-shop: Warenhaus
+shop: department store
 ---

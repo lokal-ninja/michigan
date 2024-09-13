@@ -1,5 +1,5 @@
 ---
 title: "Witbeck's Family Foods"
 url: /clare/witbecks-family-foods/
-shop: Supermarkt
+shop: supermarket
 ---

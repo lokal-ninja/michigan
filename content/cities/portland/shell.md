@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /portland/shell/
-shop: Lebensmittel
+shop: convenience
 ---

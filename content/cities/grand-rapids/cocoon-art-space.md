@@ -1,5 +1,5 @@
 ---
 title: "Cocoon Art Space"
 url: /grand-rapids/cocoon-art-space/
-shop: Kunst
+shop: art
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Guilios Market"
 url: /detroit/guilios-market/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /rochester-hills/shell-crooks-road-2/
-shop: Lebensmittel
+shop: convenience
 ---

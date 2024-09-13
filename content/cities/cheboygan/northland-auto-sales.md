@@ -1,5 +1,5 @@
 ---
 title: "Northland Auto Sales"
 url: /cheboygan/northland-auto-sales/
-shop: Autohaus
+shop: car
 ---

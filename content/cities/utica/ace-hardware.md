@@ -1,5 +1,5 @@
 ---
 title: "Ace Hardware"
 url: /utica/ace-hardware/
-shop: Baumarkt
+shop: doityourself
 ---

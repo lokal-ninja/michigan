@@ -1,5 +1,5 @@
 ---
 title: "Clark"
 url: /marlette/clark/
-shop: Lebensmittel
+shop: convenience
 ---

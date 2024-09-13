@@ -1,5 +1,5 @@
 ---
 title: "Woosah"
 url: /douglas/woosah/
-shop: Kleidung
+shop: clothes
 ---

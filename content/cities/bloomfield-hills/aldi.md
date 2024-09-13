@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /bloomfield-hills/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Grand River Music"
 url: /easttown/grand-river-music/
-shop: Instrumente
+shop: musical instrument
 ---

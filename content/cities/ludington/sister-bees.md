@@ -1,5 +1,5 @@
 ---
 title: "Sister Bees"
 url: /ludington/sister-bees/
-shop: Bioladen
+shop: health food
 ---

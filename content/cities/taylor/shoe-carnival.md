@@ -1,5 +1,5 @@
 ---
 title: "Shoe Carnival"
 url: /taylor/shoe-carnival/
-shop: Schuhe
+shop: shoes
 ---

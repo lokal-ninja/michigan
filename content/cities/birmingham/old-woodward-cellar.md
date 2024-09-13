@@ -1,5 +1,5 @@
 ---
 title: "Old Woodward Cellar"
 url: /birmingham/old-woodward-cellar/
-shop: Wein
+shop: wine
 ---

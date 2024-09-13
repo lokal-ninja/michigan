@@ -1,5 +1,5 @@
 ---
 title: "Caverly Appliance Repair"
 url: /lyons/caverly-appliance-repair/
-shop: Allgemein
+shop: shop
 ---

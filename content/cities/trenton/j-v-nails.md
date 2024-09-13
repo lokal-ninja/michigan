@@ -1,5 +1,5 @@
 ---
 title: "J.V. Nails"
 url: /trenton/j-v-nails/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lincare"
 url: /alpena/lincare/
-shop: Sanitätshaus
+shop: medical supply
 ---

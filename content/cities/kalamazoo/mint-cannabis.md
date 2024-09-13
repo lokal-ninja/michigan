@@ -1,5 +1,5 @@
 ---
 title: "Mint Cannabis"
 url: /kalamazoo/mint-cannabis/
-shop: Hanf
+shop: cannabis
 ---

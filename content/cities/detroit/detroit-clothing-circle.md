@@ -1,5 +1,5 @@
 ---
 title: "Detroit Clothing Circle"
 url: /detroit/detroit-clothing-circle/
-shop: Modehaus
+shop: boutique
 ---

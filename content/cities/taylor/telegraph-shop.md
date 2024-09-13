@@ -1,5 +1,5 @@
 ---
 title: "Telegraph Shop"
 url: /taylor/telegraph-shop/
-shop: Lebensmittel
+shop: convenience
 ---

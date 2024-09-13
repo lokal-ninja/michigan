@@ -1,5 +1,5 @@
 ---
 title: "Sorenson-Lockwood Funeral Home"
 url: /grayling/sorenson-lockwood-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

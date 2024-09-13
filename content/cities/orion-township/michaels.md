@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /orion-township/michaels/
-shop: Basteln
+shop: craft
 ---

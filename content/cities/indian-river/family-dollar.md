@@ -1,5 +1,5 @@
 ---
 title: "Family Dollar"
 url: /indian-river/family-dollar/
-shop: Kramladen
+shop: variety store
 ---

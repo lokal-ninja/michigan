@@ -1,5 +1,5 @@
 ---
 title: "Eboni Beauty Supply"
 url: /detroit/eboni-beauty-supply/
-shop: Kosmetik
+shop: beauty
 ---

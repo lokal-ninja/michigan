@@ -1,5 +1,5 @@
 ---
 title: "Bonobos"
 url: /detroit/bonobos/
-shop: Kleidung
+shop: clothes
 ---

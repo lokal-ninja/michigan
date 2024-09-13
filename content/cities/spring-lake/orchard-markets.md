@@ -1,5 +1,5 @@
 ---
 title: "Orchard Markets"
 url: /spring-lake/orchard-markets/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /midland/speedway-south-saginaw-road/
-shop: Lebensmittel
+shop: convenience
 ---

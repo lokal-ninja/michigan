@@ -1,5 +1,5 @@
 ---
 title: "Marathon"
 url: /waterford/marathon-west-walton-boulevard/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Grease Monkeys"
 url: /montague-township/grease-monkeys/
-shop: Autowerkstatt
+shop: car repair
 ---

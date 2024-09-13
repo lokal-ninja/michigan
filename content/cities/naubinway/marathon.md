@@ -1,5 +1,5 @@
 ---
 title: "Marathon"
 url: /naubinway/marathon/
-shop: Lebensmittel
+shop: convenience
 ---

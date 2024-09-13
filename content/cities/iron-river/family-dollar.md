@@ -1,5 +1,5 @@
 ---
 title: "Family Dollar"
 url: /iron-river/family-dollar/
-shop: Kramladen
+shop: variety store
 ---

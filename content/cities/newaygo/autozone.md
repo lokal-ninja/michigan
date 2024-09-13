@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /newaygo/autozone/
-shop: Autoteile
+shop: car parts
 ---

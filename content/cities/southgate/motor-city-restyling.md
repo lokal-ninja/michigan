@@ -1,5 +1,5 @@
 ---
 title: "Motor City Restyling"
 url: /southgate/motor-city-restyling/
-shop: Autowerkstatt
+shop: car repair
 ---

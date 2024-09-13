@@ -1,5 +1,5 @@
 ---
 title: "Nirvana"
 url: /escanaba/nirvana/
-shop: Hanf
+shop: cannabis
 ---

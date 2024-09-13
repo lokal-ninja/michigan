@@ -1,5 +1,5 @@
 ---
 title: "Kohl's"
 url: /marquette/kohls/
-shop: Warenhaus
+shop: department store
 ---

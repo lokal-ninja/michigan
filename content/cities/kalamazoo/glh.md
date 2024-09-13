@@ -1,5 +1,5 @@
 ---
 title: "GLH"
 url: /kalamazoo/glh/
-shop: Hanf
+shop: cannabis
 ---

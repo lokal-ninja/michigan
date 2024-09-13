@@ -1,5 +1,5 @@
 ---
 title: "Marathon"
 url: /detroit/marathon-west-chicago-street/
-shop: Lebensmittel
+shop: convenience
 ---

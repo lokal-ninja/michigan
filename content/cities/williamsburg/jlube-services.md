@@ -1,5 +1,5 @@
 ---
 title: "JLube Services"
 url: /williamsburg/jlube-services/
-shop: Autowerkstatt
+shop: car repair
 ---

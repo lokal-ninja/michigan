@@ -1,5 +1,5 @@
 ---
 title: "Johnson's Carpet One"
 url: /grandville/johnsons-carpet-one/
-shop: Teppiche
+shop: carpet
 ---

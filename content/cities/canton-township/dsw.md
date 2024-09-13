@@ -1,5 +1,5 @@
 ---
 title: "DSW"
 url: /canton-township/dsw/
-shop: Schuhe
+shop: shoes
 ---

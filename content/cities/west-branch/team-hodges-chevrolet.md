@@ -1,5 +1,5 @@
 ---
 title: "Team Hodges Chevrolet"
 url: /west-branch/team-hodges-chevrolet/
-shop: Autohaus
+shop: car
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Clio Petroleum"
 url: /flint/clio-petroleum/
-shop: Lebensmittel
+shop: convenience
 ---

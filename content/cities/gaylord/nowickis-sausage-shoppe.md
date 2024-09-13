@@ -1,5 +1,5 @@
 ---
 title: "Nowicki's Sausage Shoppe"
 url: /gaylord/nowickis-sausage-shoppe/
-shop: Allgemein
+shop: shop
 ---

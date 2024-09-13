@@ -1,5 +1,5 @@
 ---
 title: "GMC"
 url: /alpena/gmc/
-shop: Autohaus
+shop: car
 ---

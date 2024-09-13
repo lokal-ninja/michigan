@@ -1,5 +1,5 @@
 ---
 title: "Joe's One Stop"
 url: /rock/joes-one-stop/
-shop: Lebensmittel
+shop: convenience
 ---

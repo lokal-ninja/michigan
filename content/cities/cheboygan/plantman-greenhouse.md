@@ -1,5 +1,5 @@
 ---
 title: "Plantman Greenhouse"
 url: /cheboygan/plantman-greenhouse/
-shop: Garten-Center
+shop: garden centre
 ---

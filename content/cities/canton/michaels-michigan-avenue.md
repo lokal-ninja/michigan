@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /canton/michaels-michigan-avenue/
-shop: Basteln
+shop: craft
 ---

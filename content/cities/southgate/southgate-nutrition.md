@@ -1,5 +1,5 @@
 ---
 title: "Southgate Nutrition"
 url: /southgate/southgate-nutrition/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

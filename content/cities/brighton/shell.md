@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /brighton/shell/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Marathon"
 url: /detroit/marathon-east-vernor-highway/
-shop: Lebensmittel
+shop: convenience
 ---

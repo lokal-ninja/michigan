@@ -1,5 +1,5 @@
 ---
 title: "Burlington"
 url: /norton-shores/burlington/
-shop: Warenhaus
+shop: department store
 ---

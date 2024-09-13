@@ -1,5 +1,5 @@
 ---
 title: "C J's Party Store"
 url: /jonesville/c-js-party-store/
-shop: Lebensmittel
+shop: convenience
 ---

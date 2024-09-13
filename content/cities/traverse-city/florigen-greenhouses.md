@@ -1,5 +1,5 @@
 ---
 title: "Florigen Greenhouses"
 url: /traverse-city/florigen-greenhouses/
-shop: Garten-Center
+shop: garden centre
 ---

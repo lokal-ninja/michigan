@@ -1,5 +1,5 @@
 ---
 title: "THC Detroit"
 url: /detroit/thc-detroit/
-shop: Hanf
+shop: cannabis
 ---

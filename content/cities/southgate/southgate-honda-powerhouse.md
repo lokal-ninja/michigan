@@ -1,5 +1,5 @@
 ---
 title: "Southgate Honda Powerhouse"
 url: /southgate/southgate-honda-powerhouse/
-shop: Motorrad
+shop: motorcycle
 ---

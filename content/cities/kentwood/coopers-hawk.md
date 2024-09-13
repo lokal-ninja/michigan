@@ -1,5 +1,5 @@
 ---
 title: "Cooper's Hawk"
 url: /kentwood/coopers-hawk/
-shop: Wein
+shop: wine
 ---

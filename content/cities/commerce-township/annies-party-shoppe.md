@@ -1,5 +1,5 @@
 ---
 title: "Annie's Party Shoppe"
 url: /commerce-township/annies-party-shoppe/
-shop: Spirituosen
+shop: alcohol
 ---

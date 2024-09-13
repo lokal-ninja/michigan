@@ -1,5 +1,5 @@
 ---
 title: "Pandora"
 url: /clinton-township/pandora/
-shop: Schmuck
+shop: jewelry
 ---

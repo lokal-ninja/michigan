@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /shelby-township/target/
-shop: Warenhaus
+shop: department store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Burt's Auto Repair"
 url: /detroit/burts-auto-repair/
-shop: Autowerkstatt
+shop: car repair
 ---

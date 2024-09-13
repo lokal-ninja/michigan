@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
 url: /whitehall/verizon/
-shop: Handy
+shop: mobile phone
 ---

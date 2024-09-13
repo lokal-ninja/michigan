@@ -1,5 +1,5 @@
 ---
 title: "Citgo"
 url: /detroit/citgo-livernois-avenue-2/
-shop: Lebensmittel
+shop: convenience
 ---

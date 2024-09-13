@@ -1,5 +1,5 @@
 ---
 title: "BP Shop"
 url: /eastpointe/bp-shop-gratiot-avenue/
-shop: Lebensmittel
+shop: convenience
 ---

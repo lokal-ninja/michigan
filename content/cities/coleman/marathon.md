@@ -1,5 +1,5 @@
 ---
 title: "Marathon"
 url: /coleman/marathon/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Nail Tech"
 url: /southgate/nail-tech/
-shop: Kosmetik
+shop: beauty
 ---

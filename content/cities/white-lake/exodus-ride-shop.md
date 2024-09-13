@@ -1,5 +1,5 @@
 ---
 title: "Exodus Ride Shop"
 url: /white-lake/exodus-ride-shop/
-shop: Kleidung
+shop: clothes
 ---

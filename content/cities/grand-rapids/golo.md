@@ -1,5 +1,5 @@
 ---
 title: "GoLo"
 url: /grand-rapids/golo/
-shop: Lebensmittel
+shop: convenience
 ---

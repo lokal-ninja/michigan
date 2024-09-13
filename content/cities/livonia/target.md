@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /livonia/target/
-shop: Warenhaus
+shop: department store
 ---

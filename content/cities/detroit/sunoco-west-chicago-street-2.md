@@ -1,5 +1,5 @@
 ---
 title: "Sunoco"
 url: /detroit/sunoco-west-chicago-street-2/
-shop: Lebensmittel
+shop: convenience
 ---

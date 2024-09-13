@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /white-pigeon/speedway/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Food Castle"
 url: /grand-blanc/food-castle-east-hill-road/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Yemen Islamic Market"
 url: /detroit/yemen-islamic-market/
-shop: Lebensmittel
+shop: convenience
 ---

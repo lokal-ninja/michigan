@@ -1,5 +1,5 @@
 ---
 title: "Maurices"
 url: /alpena/maurices/
-shop: Kleidung
+shop: clothes
 ---

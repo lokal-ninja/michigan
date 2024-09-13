@@ -1,5 +1,5 @@
 ---
 title: "Pat's Foods"
 url: /munising/pats-foods/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "ValueMart"
 url: /saint-joseph/valuemart/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Marathon"
 url: /flint/marathon-south-dort-highway/
-shop: Lebensmittel
+shop: convenience
 ---

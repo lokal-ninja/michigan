@@ -1,5 +1,5 @@
 ---
 title: "Ginop Sales"
 url: /hillman/ginop-sales/
-shop: Allgemein
+shop: shop
 ---

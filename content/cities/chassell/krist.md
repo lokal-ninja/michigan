@@ -1,5 +1,5 @@
 ---
 title: "Krist"
 url: /chassell/krist/
-shop: Lebensmittel
+shop: convenience
 ---

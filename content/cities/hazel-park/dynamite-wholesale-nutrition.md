@@ -1,5 +1,5 @@
 ---
 title: "Dynamite Wholesale Nutrition"
 url: /hazel-park/dynamite-wholesale-nutrition/
-shop: Bioladen
+shop: health food
 ---

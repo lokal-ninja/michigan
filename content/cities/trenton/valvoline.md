@@ -1,5 +1,5 @@
 ---
 title: "Valvoline"
 url: /trenton/valvoline/
-shop: Autowerkstatt
+shop: car repair
 ---

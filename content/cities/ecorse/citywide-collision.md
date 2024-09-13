@@ -1,5 +1,5 @@
 ---
 title: "Citywide Collision"
 url: /ecorse/citywide-collision/
-shop: Autowerkstatt
+shop: car repair
 ---

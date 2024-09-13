@@ -1,5 +1,5 @@
 ---
 title: "The Grate Haus"
 url: /jackson/the-grate-haus/
-shop: Kamine & Öfen
+shop: fireplace
 ---

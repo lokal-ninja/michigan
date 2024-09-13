@@ -1,5 +1,5 @@
 ---
 title: "Wujek-Calcaterra"
 url: /sterling-heights/wujek-calcaterra/
-shop: Bestattungen
+shop: funeral directors
 ---

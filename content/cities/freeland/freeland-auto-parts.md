@@ -1,5 +1,5 @@
 ---
 title: "Freeland Auto Parts"
 url: /freeland/freeland-auto-parts/
-shop: Autoteile
+shop: car parts
 ---

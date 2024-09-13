@@ -1,5 +1,5 @@
 ---
 title: "Hackney Hardware"
 url: /dexter/hackney-hardware/
-shop: Eisenwaren
+shop: hardware
 ---

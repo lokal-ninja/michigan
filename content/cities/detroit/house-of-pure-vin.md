@@ -1,5 +1,5 @@
 ---
 title: "House of Pure Vin"
 url: /detroit/house-of-pure-vin/
-shop: Wein
+shop: wine
 ---

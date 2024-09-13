@@ -1,5 +1,5 @@
 ---
 title: "CVS Pharmacy"
 url: /jackson/cvs-pharmacy/
-shop: Drogerie
+shop: chemist
 ---

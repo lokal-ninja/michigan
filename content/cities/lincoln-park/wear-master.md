@@ -1,5 +1,5 @@
 ---
 title: "Wear Master"
 url: /lincoln-park/wear-master/
-shop: Autowerkstatt
+shop: car repair
 ---

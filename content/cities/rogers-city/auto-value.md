@@ -1,5 +1,5 @@
 ---
 title: "Auto Value"
 url: /rogers-city/auto-value/
-shop: Autoteile
+shop: car parts
 ---

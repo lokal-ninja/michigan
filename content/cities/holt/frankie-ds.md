@@ -1,5 +1,5 @@
 ---
 title: "Frankie D's"
 url: /holt/frankie-ds/
-shop: Autowerkstatt
+shop: car repair
 ---

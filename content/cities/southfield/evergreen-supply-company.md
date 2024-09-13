@@ -1,5 +1,5 @@
 ---
 title: "Evergreen Supply Company"
 url: /southfield/evergreen-supply-company/
-shop: Supermarkt
+shop: supermarket
 ---

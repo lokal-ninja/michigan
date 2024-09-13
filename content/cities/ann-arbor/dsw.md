@@ -1,5 +1,5 @@
 ---
 title: "DSW"
 url: /ann-arbor/dsw/
-shop: Schuhe
+shop: shoes
 ---

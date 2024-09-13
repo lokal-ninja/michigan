@@ -1,5 +1,5 @@
 ---
 title: "Bombay Grocers"
 url: /canton/bombay-grocers/
-shop: Supermarkt
+shop: supermarket
 ---

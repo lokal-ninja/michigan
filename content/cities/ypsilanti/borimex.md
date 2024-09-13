@@ -1,5 +1,5 @@
 ---
 title: "Borimex"
 url: /ypsilanti/borimex/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "CosmoProf"
 url: /clawson/cosmoprof/
-shop: Friseurbedarf
+shop: hairdresser supply
 ---

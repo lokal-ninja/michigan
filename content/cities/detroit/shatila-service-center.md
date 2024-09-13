@@ -1,5 +1,5 @@
 ---
 title: "Shatila Service Center"
 url: /detroit/shatila-service-center/
-shop: Autowerkstatt
+shop: car repair
 ---

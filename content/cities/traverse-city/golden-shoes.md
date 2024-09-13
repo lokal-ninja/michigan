@@ -1,5 +1,5 @@
 ---
 title: "Golden Shoes"
 url: /traverse-city/golden-shoes/
-shop: Schuhe
+shop: shoes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kohl's"
 url: /fort-gratiot/kohls/
-shop: Warenhaus
+shop: department store
 ---

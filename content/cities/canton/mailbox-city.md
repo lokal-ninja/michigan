@@ -1,5 +1,5 @@
 ---
 title: "Mailbox City"
 url: /canton/mailbox-city/
-shop: Kopieren
+shop: copyshop
 ---

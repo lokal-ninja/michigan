@@ -1,5 +1,5 @@
 ---
 title: "Powers Party Store"
 url: /jackson/powers-party-store/
-shop: Spirituosen
+shop: alcohol
 ---

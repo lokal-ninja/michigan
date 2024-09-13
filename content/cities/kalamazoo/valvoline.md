@@ -1,5 +1,5 @@
 ---
 title: "Valvoline"
 url: /kalamazoo/valvoline/
-shop: Autowerkstatt
+shop: car repair
 ---

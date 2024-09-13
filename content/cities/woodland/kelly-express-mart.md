@@ -1,5 +1,5 @@
 ---
 title: "Kelly Express Mart"
 url: /woodland/kelly-express-mart/
-shop: Lebensmittel
+shop: convenience
 ---

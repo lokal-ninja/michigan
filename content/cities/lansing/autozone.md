@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /lansing/autozone/
-shop: Autoteile
+shop: car parts
 ---

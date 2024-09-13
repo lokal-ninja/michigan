@@ -1,5 +1,5 @@
 ---
 title: "Kenny Jones Womens Hair Styling"
 url: /detroit/kenny-jones-womens-hair-styling/
-shop: Friseur
+shop: hairdresser
 ---

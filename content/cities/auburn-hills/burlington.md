@@ -1,5 +1,5 @@
 ---
 title: "Burlington"
 url: /auburn-hills/burlington/
-shop: Warenhaus
+shop: department store
 ---

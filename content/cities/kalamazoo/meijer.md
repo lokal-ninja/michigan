@@ -1,5 +1,5 @@
 ---
 title: "Meijer"
 url: /kalamazoo/meijer/
-shop: Lebensmittel
+shop: convenience
 ---

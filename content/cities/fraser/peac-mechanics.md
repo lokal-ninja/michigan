@@ -1,5 +1,5 @@
 ---
 title: "PEAC Mechanics"
 url: /fraser/peac-mechanics/
-shop: Autowerkstatt
+shop: car repair
 ---

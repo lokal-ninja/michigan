@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /gaylord/shell/
-shop: Lebensmittel
+shop: convenience
 ---

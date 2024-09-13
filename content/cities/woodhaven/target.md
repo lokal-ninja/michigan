@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /woodhaven/target/
-shop: Warenhaus
+shop: department store
 ---

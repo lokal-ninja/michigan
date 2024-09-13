@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
 url: /wyandotte/dollar-general-elm-street/
-shop: Kramladen
+shop: variety store
 ---

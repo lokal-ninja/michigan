@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
 url: /kalamazoo/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

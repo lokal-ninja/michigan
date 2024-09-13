@@ -1,5 +1,5 @@
 ---
 title: "Famous Footware Outlet"
 url: /west-branch/famous-footware-outlet/
-shop: Schuhe
+shop: shoes
 ---

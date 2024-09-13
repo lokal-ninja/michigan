@@ -1,5 +1,5 @@
 ---
 title: "Karvakko's Market"
 url: /chassell/karvakkos-market/
-shop: Lebensmittel
+shop: convenience
 ---

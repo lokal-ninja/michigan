@@ -1,5 +1,5 @@
 ---
 title: "Play On"
 url: /davison/play-on/
-shop: Videospiele
+shop: video games
 ---

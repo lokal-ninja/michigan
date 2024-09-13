@@ -1,5 +1,5 @@
 ---
 title: "Turn the Page"
 url: /alpena/turn-the-page/
-shop: Bücher
+shop: books
 ---

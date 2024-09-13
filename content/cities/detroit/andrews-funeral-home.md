@@ -1,5 +1,5 @@
 ---
 title: "Andrews Funeral Home"
 url: /detroit/andrews-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

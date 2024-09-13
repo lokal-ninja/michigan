@@ -1,5 +1,5 @@
 ---
 title: "Ferne Boutique"
 url: /ann-arbor/ferne-boutique/
-shop: Kleidung
+shop: clothes
 ---

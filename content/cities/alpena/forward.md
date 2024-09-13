@@ -1,5 +1,5 @@
 ---
 title: "Forward"
 url: /alpena/forward/
-shop: Lebensmittel
+shop: convenience
 ---

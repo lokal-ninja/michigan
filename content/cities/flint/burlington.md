@@ -1,5 +1,5 @@
 ---
 title: "Burlington"
 url: /flint/burlington/
-shop: Warenhaus
+shop: department store
 ---

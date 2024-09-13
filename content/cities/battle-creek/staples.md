@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /battle-creek/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Admiral"
 url: /lansing/admiral-south-cedar-street/
-shop: Lebensmittel
+shop: convenience
 ---

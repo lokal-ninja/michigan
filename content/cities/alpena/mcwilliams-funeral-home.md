@@ -1,5 +1,5 @@
 ---
 title: "McWilliams Funeral Home"
 url: /alpena/mcwilliams-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

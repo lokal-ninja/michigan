@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /garden-city/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

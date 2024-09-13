@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /cheboygan/walgreens/
-shop: Drogerie
+shop: chemist
 ---

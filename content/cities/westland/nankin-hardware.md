@@ -1,5 +1,5 @@
 ---
 title: "Nankin Hardware"
 url: /westland/nankin-hardware/
-shop: Baumarkt
+shop: doityourself
 ---

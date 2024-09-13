@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /clawson/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

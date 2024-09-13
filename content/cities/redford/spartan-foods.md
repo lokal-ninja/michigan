@@ -1,5 +1,5 @@
 ---
 title: "Spartan Foods"
 url: /redford/spartan-foods/
-shop: Lebensmittel
+shop: convenience
 ---

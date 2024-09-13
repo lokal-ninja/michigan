@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
 url: /detroit/dollar-general-hayes-street/
-shop: Kramladen
+shop: variety store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Michigan Vehicle Solutions"
 url: /wyandotte/michigan-vehicle-solutions/
-shop: Autowerkstatt
+shop: car repair
 ---

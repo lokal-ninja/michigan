@@ -1,5 +1,5 @@
 ---
 title: "dy'nfly"
 url: /royal-oak/dynfly/
-shop: Friseur
+shop: hairdresser
 ---

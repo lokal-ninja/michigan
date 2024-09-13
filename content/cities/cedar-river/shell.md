@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /cedar-river/shell/
-shop: Lebensmittel
+shop: convenience
 ---

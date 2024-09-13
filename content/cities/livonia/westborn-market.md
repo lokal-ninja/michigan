@@ -1,5 +1,5 @@
 ---
 title: "Westborn Market"
 url: /livonia/westborn-market/
-shop: Supermarkt
+shop: supermarket
 ---

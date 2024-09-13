@@ -1,5 +1,5 @@
 ---
 title: "Snippers"
 url: /linden/snippers/
-shop: Friseur
+shop: hairdresser
 ---

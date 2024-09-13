@@ -1,5 +1,5 @@
 ---
 title: "Chewy's"
 url: /detroit/chewys/
-shop: Schokolade
+shop: chocolate
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kenny's Laundromat"
 url: /marquette/kennys-laundromat/
-shop: Wäscherei
+shop: laundry
 ---

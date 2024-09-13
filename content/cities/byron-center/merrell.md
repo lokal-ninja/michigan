@@ -1,5 +1,5 @@
 ---
 title: "Merrell"
 url: /byron-center/merrell/
-shop: Schuhe
+shop: shoes
 ---

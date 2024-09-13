@@ -1,5 +1,5 @@
 ---
 title: "Rivertown Auto Group"
 url: /cheboygan/rivertown-auto-group/
-shop: Autohaus
+shop: car
 ---

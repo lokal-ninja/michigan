@@ -1,5 +1,5 @@
 ---
 title: "Citgo"
 url: /dearborn/citgo-greenfield-road/
-shop: Lebensmittel
+shop: convenience
 ---

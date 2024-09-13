@@ -1,5 +1,5 @@
 ---
 title: "Freedom Recovery Center"
 url: /alpena/freedom-recovery-center/
-shop: Allgemein
+shop: shop
 ---

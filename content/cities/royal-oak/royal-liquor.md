@@ -1,5 +1,5 @@
 ---
 title: "Royal Liquor"
 url: /royal-oak/royal-liquor/
-shop: Spirituosen
+shop: alcohol
 ---

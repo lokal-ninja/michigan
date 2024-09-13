@@ -1,5 +1,5 @@
 ---
 title: "Maximillian Outerwear"
 url: /birmingham/maximillian-outerwear/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Chuck Renze Ford"
 url: /manistique/chuck-renze-ford/
-shop: Autohaus
+shop: car
 ---

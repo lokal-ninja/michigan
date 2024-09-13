@@ -1,5 +1,5 @@
 ---
 title: "Citgo"
 url: /houghton-lake/citgo/
-shop: Lebensmittel
+shop: convenience
 ---

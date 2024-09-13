@@ -1,5 +1,5 @@
 ---
 title: "Kilwins"
 url: /frankfort/kilwins/
-shop: Süßwaren
+shop: confectionery
 ---

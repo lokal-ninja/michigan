@@ -1,5 +1,5 @@
 ---
 title: "Wesco"
 url: /sand-lake/wesco/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Maple Gas Mart"
 url: /troy/maple-gas-mart/
-shop: Lebensmittel
+shop: convenience
 ---

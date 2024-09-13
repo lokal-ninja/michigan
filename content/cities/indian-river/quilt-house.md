@@ -1,5 +1,5 @@
 ---
 title: "Quilt House"
 url: /indian-river/quilt-house/
-shop: Allgemein
+shop: shop
 ---

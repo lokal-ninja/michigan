@@ -1,5 +1,5 @@
 ---
 title: "Marathon"
 url: /rochester-hills/marathon/
-shop: Lebensmittel
+shop: convenience
 ---

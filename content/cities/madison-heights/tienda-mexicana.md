@@ -1,5 +1,5 @@
 ---
 title: "Tienda Mexicana"
 url: /madison-heights/tienda-mexicana/
-shop: Supermarkt
+shop: supermarket
 ---

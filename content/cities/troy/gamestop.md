@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
 url: /troy/gamestop/
-shop: Videospiele
+shop: video games
 ---

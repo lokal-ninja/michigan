@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /dearborn-heights/autozone-ford-road/
-shop: Autoteile
+shop: car parts
 ---

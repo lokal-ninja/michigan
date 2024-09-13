@@ -1,5 +1,5 @@
 ---
 title: "Buscemi's"
 url: /roseville/buscemis/
-shop: Lebensmittel
+shop: convenience
 ---

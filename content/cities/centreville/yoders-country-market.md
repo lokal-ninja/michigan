@@ -1,5 +1,5 @@
 ---
 title: "Yoder's Country Market"
 url: /centreville/yoders-country-market/
-shop: Kramladen
+shop: variety store
 ---

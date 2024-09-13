@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /dundee/autozone/
-shop: Autoteile
+shop: car parts
 ---

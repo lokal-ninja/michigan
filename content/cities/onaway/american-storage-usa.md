@@ -1,5 +1,5 @@
 ---
 title: "American Storage USA"
 url: /onaway/american-storage-usa/
-shop: Mieten
+shop: storage rental
 ---

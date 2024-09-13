@@ -1,5 +1,5 @@
 ---
 title: "AAA Detailing"
 url: /lansing/aaa-detailing/
-shop: Autowerkstatt
+shop: car repair
 ---

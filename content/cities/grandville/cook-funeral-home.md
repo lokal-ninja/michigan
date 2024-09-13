@@ -1,5 +1,5 @@
 ---
 title: "Cook Funeral Home"
 url: /grandville/cook-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

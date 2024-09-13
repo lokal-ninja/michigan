@@ -1,5 +1,5 @@
 ---
 title: "Rite Aid"
 url: /detroit/rite-aid-wyoming-street/
-shop: Drogerie
+shop: chemist
 ---

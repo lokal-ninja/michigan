@@ -1,5 +1,5 @@
 ---
 title: "Marathon"
 url: /dexter/marathon/
-shop: Lebensmittel
+shop: convenience
 ---

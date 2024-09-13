@@ -1,5 +1,5 @@
 ---
 title: "Rite Aid"
 url: /manistee/rite-aid/
-shop: Drogerie
+shop: chemist
 ---

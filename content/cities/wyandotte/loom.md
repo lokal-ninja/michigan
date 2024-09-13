@@ -1,5 +1,5 @@
 ---
 title: "LOOM"
 url: /wyandotte/loom/
-shop: Kleidung
+shop: clothes
 ---

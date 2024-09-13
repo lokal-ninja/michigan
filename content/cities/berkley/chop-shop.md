@@ -1,5 +1,5 @@
 ---
 title: "Chop Shop"
 url: /berkley/chop-shop/
-shop: Friseur
+shop: hairdresser
 ---

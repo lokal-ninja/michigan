@@ -1,5 +1,5 @@
 ---
 title: "Redford Mini Stop"
 url: /redford/redford-mini-stop/
-shop: Lebensmittel
+shop: convenience
 ---

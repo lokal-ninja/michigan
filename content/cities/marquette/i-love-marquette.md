@@ -1,5 +1,5 @@
 ---
 title: "I Love Marquette"
 url: /marquette/i-love-marquette/
-shop: Andenken
+shop: gift
 ---

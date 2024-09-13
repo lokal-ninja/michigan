@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /dearborn-heights/target/
-shop: Warenhaus
+shop: department store
 ---

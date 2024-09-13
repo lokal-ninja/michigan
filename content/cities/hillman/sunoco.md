@@ -1,5 +1,5 @@
 ---
 title: "Sunoco"
 url: /hillman/sunoco/
-shop: Lebensmittel
+shop: convenience
 ---

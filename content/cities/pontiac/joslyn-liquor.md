@@ -1,5 +1,5 @@
 ---
 title: "Joslyn Liquor"
 url: /pontiac/joslyn-liquor/
-shop: Lebensmittel
+shop: convenience
 ---

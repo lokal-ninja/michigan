@@ -1,5 +1,5 @@
 ---
 title: "Driftwood"
 url: /escanaba/driftwood/
-shop: Lebensmittel
+shop: convenience
 ---

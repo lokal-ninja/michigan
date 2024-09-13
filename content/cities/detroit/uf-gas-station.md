@@ -1,5 +1,5 @@
 ---
 title: "UF Gas Station"
 url: /detroit/uf-gas-station/
-shop: Lebensmittel
+shop: convenience
 ---

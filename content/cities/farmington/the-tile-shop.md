@@ -1,5 +1,5 @@
 ---
 title: "The Tile Shop"
 url: /farmington/the-tile-shop/
-shop: Allgemein
+shop: shop
 ---

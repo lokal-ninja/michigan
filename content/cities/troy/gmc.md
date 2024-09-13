@@ -1,5 +1,5 @@
 ---
 title: "GMC"
 url: /troy/gmc/
-shop: Autohaus
+shop: car
 ---

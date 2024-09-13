@@ -1,5 +1,5 @@
 ---
 title: "EZ Money"
 url: /alpena/ez-money/
-shop: Leiher
+shop: pawnbroker
 ---

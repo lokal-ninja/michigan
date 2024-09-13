@@ -1,5 +1,5 @@
 ---
 title: "Sunoco"
 url: /dearborn/sunoco-south-telegraph-road/
-shop: Lebensmittel
+shop: convenience
 ---

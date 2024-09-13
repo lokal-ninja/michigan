@@ -1,5 +1,5 @@
 ---
 title: "Charlevoix Food"
 url: /charlevoix/charlevoix-food/
-shop: Lebensmittel
+shop: convenience
 ---

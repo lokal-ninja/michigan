@@ -1,5 +1,5 @@
 ---
 title: "Holiday"
 url: /sault-sainte-marie/holiday/
-shop: Lebensmittel
+shop: convenience
 ---

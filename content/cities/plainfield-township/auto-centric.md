@@ -1,5 +1,5 @@
 ---
 title: "Auto Centric"
 url: /plainfield-township/auto-centric/
-shop: Autowerkstatt
+shop: car repair
 ---

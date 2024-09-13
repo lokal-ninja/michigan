@@ -1,5 +1,5 @@
 ---
 title: "Wally King Service"
 url: /saginaw/wally-king-service/
-shop: Autowerkstatt
+shop: car repair
 ---

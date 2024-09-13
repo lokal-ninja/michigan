@@ -1,5 +1,5 @@
 ---
 title: "Serra Nissan"
 url: /traverse-city/serra-nissan/
-shop: Autohaus
+shop: car
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ed's Service"
 url: /monroe/eds-service/
-shop: Autowerkstatt
+shop: car repair
 ---

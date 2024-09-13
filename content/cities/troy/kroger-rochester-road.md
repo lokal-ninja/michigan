@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
 url: /troy/kroger-rochester-road/
-shop: Lebensmittel
+shop: convenience
 ---

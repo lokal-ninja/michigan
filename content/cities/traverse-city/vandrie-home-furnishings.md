@@ -1,5 +1,5 @@
 ---
 title: "VanDrie Home Furnishings"
 url: /traverse-city/vandrie-home-furnishings/
-shop: Möbel
+shop: furniture
 ---

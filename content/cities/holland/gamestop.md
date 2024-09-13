@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
 url: /holland/gamestop/
-shop: Videospiele
+shop: video games
 ---

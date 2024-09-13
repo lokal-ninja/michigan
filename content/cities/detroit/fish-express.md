@@ -1,5 +1,5 @@
 ---
 title: "Fish Express"
 url: /detroit/fish-express/
-shop: Fisch
+shop: seafood
 ---

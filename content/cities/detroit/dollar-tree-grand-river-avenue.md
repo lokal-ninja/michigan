@@ -1,5 +1,5 @@
 ---
 title: "Dollar Tree"
 url: /detroit/dollar-tree-grand-river-avenue/
-shop: Kramladen
+shop: variety store
 ---

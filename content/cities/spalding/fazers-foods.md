@@ -1,5 +1,5 @@
 ---
 title: "Fazer's Foods"
 url: /spalding/fazers-foods/
-shop: Supermarkt
+shop: supermarket
 ---

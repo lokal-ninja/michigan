@@ -1,5 +1,5 @@
 ---
 title: "The Varsity Shop"
 url: /birmingham/the-varsity-shop/
-shop: Kleidung
+shop: clothes
 ---

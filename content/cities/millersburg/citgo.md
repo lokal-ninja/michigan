@@ -1,5 +1,5 @@
 ---
 title: "Citgo"
 url: /millersburg/citgo/
-shop: Lebensmittel
+shop: convenience
 ---

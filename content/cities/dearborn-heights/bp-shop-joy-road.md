@@ -1,5 +1,5 @@
 ---
 title: "BP Shop"
 url: /dearborn-heights/bp-shop-joy-road/
-shop: Lebensmittel
+shop: convenience
 ---

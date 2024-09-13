@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /grand-blanc/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

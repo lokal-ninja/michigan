@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
 url: /byron-center/verizon/
-shop: Handy
+shop: mobile phone
 ---

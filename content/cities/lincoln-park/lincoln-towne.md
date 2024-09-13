@@ -1,5 +1,5 @@
 ---
 title: "Lincoln Towne"
 url: /lincoln-park/lincoln-towne/
-shop: Kramladen
+shop: variety store
 ---

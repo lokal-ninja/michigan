@@ -1,5 +1,5 @@
 ---
 title: "National Storage Centers - Redford"
 url: /redford/national-storage-centers-redford/
-shop: Mieten
+shop: storage rental
 ---

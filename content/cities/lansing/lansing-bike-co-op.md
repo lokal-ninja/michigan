@@ -1,5 +1,5 @@
 ---
 title: "Lansing Bike Co-op"
 url: /lansing/lansing-bike-co-op/
-shop: Fahrrad
+shop: bicycle
 ---

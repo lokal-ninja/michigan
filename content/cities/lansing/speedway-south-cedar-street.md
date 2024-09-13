@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /lansing/speedway-south-cedar-street/
-shop: Lebensmittel
+shop: convenience
 ---

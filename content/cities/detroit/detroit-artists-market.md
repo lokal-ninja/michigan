@@ -1,5 +1,5 @@
 ---
 title: "Detroit Artists Market"
 url: /detroit/detroit-artists-market/
-shop: Kunst
+shop: art
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /williamsburg/shell/
-shop: Lebensmittel
+shop: convenience
 ---

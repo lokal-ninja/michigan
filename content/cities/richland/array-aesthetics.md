@@ -1,5 +1,5 @@
 ---
 title: "Array Aesthetics"
 url: /richland/array-aesthetics/
-shop: Allgemein
+shop: shop
 ---

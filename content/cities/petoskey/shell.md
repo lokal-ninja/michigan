@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /petoskey/shell/
-shop: Lebensmittel
+shop: convenience
 ---

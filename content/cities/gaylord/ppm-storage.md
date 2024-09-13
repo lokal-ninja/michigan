@@ -1,5 +1,5 @@
 ---
 title: "PPM Storage"
 url: /gaylord/ppm-storage/
-shop: Mieten
+shop: storage rental
 ---

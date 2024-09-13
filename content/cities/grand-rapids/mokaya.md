@@ -1,5 +1,5 @@
 ---
 title: "Mokaya"
 url: /grand-rapids/mokaya/
-shop: Schokolade
+shop: chocolate
 ---

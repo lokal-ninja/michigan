@@ -1,5 +1,5 @@
 ---
 title: "Valero"
 url: /detroit/valero-grand-river-avenue/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Meijer"
 url: /ionia/meijer/
-shop: Lebensmittel
+shop: convenience
 ---

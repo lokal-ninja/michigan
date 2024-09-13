@@ -1,5 +1,5 @@
 ---
 title: "Spun"
 url: /ann-arbor/spun/
-shop: Allgemein
+shop: shop
 ---

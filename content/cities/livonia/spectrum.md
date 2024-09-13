@@ -1,5 +1,5 @@
 ---
 title: "Spectrum"
 url: /livonia/spectrum/
-shop: Handy
+shop: mobile phone
 ---

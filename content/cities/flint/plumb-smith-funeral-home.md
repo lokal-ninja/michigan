@@ -1,5 +1,5 @@
 ---
 title: "Plumb-Smith Funeral Home"
 url: /flint/plumb-smith-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

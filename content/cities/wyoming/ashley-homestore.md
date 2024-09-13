@@ -1,5 +1,5 @@
 ---
 title: "Ashley HomeStore"
 url: /wyoming/ashley-homestore/
-shop: Möbel
+shop: furniture
 ---

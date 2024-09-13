@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /canton/speedway-ford-road/
-shop: Lebensmittel
+shop: convenience
 ---

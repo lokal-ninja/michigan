@@ -1,5 +1,5 @@
 ---
 title: "Save-A-Lot"
 url: /benzonia/save-a-lot/
-shop: Supermarkt
+shop: supermarket
 ---

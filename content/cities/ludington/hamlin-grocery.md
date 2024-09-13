@@ -1,5 +1,5 @@
 ---
 title: "Hamlin Grocery"
 url: /ludington/hamlin-grocery/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Meijer"
 url: /manistee/meijer-caberfae-highway/
-shop: Supermarkt
+shop: supermarket
 ---

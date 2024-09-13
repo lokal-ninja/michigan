@@ -1,5 +1,5 @@
 ---
 title: "Beauty Nails"
 url: /lincoln-park/beauty-nails/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Plowman's Collision"
 url: /alpena/plowmans-collision/
-shop: Autowerkstatt
+shop: car repair
 ---

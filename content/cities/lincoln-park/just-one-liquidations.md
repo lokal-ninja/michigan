@@ -1,5 +1,5 @@
 ---
 title: "Just One Liquidations"
 url: /lincoln-park/just-one-liquidations/
-shop: Möbel
+shop: furniture
 ---

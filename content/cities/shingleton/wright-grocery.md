@@ -1,5 +1,5 @@
 ---
 title: "Wright Grocery"
 url: /shingleton/wright-grocery/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hermitage Towing LLC"
 url: /grand-rapids/hermitage-towing-llc/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Crumbl Cookies"
 url: /grand-rapids/crumbl-cookies/
-shop: Konditorei
+shop: pastry
 ---

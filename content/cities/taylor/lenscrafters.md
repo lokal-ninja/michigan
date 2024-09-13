@@ -1,5 +1,5 @@
 ---
 title: "LensCrafters"
 url: /taylor/lenscrafters/
-shop: Optiker
+shop: optician
 ---

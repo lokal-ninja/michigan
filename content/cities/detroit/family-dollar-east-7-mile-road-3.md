@@ -1,5 +1,5 @@
 ---
 title: "Family Dollar"
 url: /detroit/family-dollar-east-7-mile-road-3/
-shop: Kramladen
+shop: variety store
 ---

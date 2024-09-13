@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /schoolcraft/speedway/
-shop: Lebensmittel
+shop: convenience
 ---

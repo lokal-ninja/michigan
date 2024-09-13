@@ -1,5 +1,5 @@
 ---
 title: "Terry's Cycle"
 url: /alma/terrys-cycle/
-shop: Fahrrad
+shop: bicycle
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Attitudes Hair Salon"
 url: /cheboygan/attitudes-hair-salon/
-shop: Friseur
+shop: hairdresser
 ---

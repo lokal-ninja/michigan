@@ -1,5 +1,5 @@
 ---
 title: "Citgo"
 url: /detroit/citgo-west-mcnichols-road-4/
-shop: Lebensmittel
+shop: convenience
 ---

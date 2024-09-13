@@ -1,5 +1,5 @@
 ---
 title: "AGO"
 url: /belding/ago/
-shop: Lebensmittel
+shop: convenience
 ---

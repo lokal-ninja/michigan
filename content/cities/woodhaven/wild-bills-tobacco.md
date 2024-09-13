@@ -1,5 +1,5 @@
 ---
 title: "Wild Bill's Tobacco"
 url: /woodhaven/wild-bills-tobacco/
-shop: Tabak
+shop: tobacco
 ---

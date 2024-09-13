@@ -1,5 +1,5 @@
 ---
 title: "Zabház"
 url: /grand-rapids/zabhaz/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /kalamazoo/speedway-south-sprinkle-road/
-shop: Lebensmittel
+shop: convenience
 ---

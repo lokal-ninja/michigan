@@ -1,5 +1,5 @@
 ---
 title: "Rite Aid"
 url: /saginaw/rite-aid/
-shop: Drogerie
+shop: chemist
 ---

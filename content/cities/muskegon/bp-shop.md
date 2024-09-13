@@ -1,5 +1,5 @@
 ---
 title: "BP Shop"
 url: /muskegon/bp-shop/
-shop: Lebensmittel
+shop: convenience
 ---

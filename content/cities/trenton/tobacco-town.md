@@ -1,5 +1,5 @@
 ---
 title: "Tobacco Town"
 url: /trenton/tobacco-town/
-shop: Tabak
+shop: tobacco
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Decadent Dogs"
 url: /south-haven/decadent-dogs/
-shop: Tiere
+shop: pet
 ---

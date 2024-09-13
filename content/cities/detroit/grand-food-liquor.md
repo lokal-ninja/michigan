@@ -1,5 +1,5 @@
 ---
 title: "Grand Food Liquor"
 url: /detroit/grand-food-liquor/
-shop: Spirituosen
+shop: alcohol
 ---

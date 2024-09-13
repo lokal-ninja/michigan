@@ -1,5 +1,5 @@
 ---
 title: "On The Spot Engraving"
 url: /lansing/on-the-spot-engraving/
-shop: Allgemein
+shop: shop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Meijer"
 url: /portage/meijer/
-shop: Lebensmittel
+shop: convenience
 ---

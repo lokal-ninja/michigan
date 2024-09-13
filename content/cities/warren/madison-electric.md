@@ -1,5 +1,5 @@
 ---
 title: "Madison Electric"
 url: /warren/madison-electric/
-shop: Elektrisch
+shop: electrical
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Merle Boes"
 url: /west-olive/merle-boes/
-shop: Lebensmittel
+shop: convenience
 ---

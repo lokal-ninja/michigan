@@ -1,5 +1,5 @@
 ---
 title: "Fab Petroleum"
 url: /new-haven/fab-petroleum/
-shop: Lebensmittel
+shop: convenience
 ---

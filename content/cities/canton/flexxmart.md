@@ -1,5 +1,5 @@
 ---
 title: "FlexxMart"
 url: /canton/flexxmart/
-shop: Lebensmittel
+shop: convenience
 ---

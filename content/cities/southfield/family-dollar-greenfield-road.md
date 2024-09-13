@@ -1,5 +1,5 @@
 ---
 title: "Family Dollar"
 url: /southfield/family-dollar-greenfield-road/
-shop: Kramladen
+shop: variety store
 ---

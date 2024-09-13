@@ -1,5 +1,5 @@
 ---
 title: "Marathon"
 url: /onaway/marathon/
-shop: Lebensmittel
+shop: convenience
 ---

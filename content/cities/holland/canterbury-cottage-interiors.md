@@ -1,5 +1,5 @@
 ---
 title: "Canterbury Cottage Interiors"
 url: /holland/canterbury-cottage-interiors/
-shop: Möbel
+shop: furniture
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /lansing/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

@@ -1,5 +1,5 @@
 ---
 title: "CVS Pharmacy"
 url: /saint-clair-shores/cvs-pharmacy/
-shop: Drogerie
+shop: chemist
 ---

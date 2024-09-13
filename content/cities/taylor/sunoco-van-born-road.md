@@ -1,5 +1,5 @@
 ---
 title: "Sunoco"
 url: /taylor/sunoco-van-born-road/
-shop: Lebensmittel
+shop: convenience
 ---

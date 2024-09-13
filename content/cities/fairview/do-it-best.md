@@ -1,5 +1,5 @@
 ---
 title: "Do it Best"
 url: /fairview/do-it-best/
-shop: Eisenwaren
+shop: hardware
 ---

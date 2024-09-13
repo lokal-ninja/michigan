@@ -1,5 +1,5 @@
 ---
 title: "Broadway Auto Services"
 url: /ann-arbor/broadway-auto-services/
-shop: Autowerkstatt
+shop: car repair
 ---

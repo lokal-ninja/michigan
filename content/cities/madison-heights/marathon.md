@@ -1,5 +1,5 @@
 ---
 title: "Marathon"
 url: /madison-heights/marathon/
-shop: Lebensmittel
+shop: convenience
 ---

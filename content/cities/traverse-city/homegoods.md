@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
 url: /traverse-city/homegoods/
-shop: Haushaltsartikel
+shop: houseware
 ---

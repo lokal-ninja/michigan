@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /saginaw/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

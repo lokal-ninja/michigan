@@ -1,5 +1,5 @@
 ---
 title: "Barber Station"
 url: /detroit/barber-station/
-shop: Friseur
+shop: hairdresser
 ---

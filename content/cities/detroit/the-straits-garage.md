@@ -1,5 +1,5 @@
 ---
 title: "The Straits Garage"
 url: /detroit/the-straits-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

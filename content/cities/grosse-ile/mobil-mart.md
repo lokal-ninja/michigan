@@ -1,5 +1,5 @@
 ---
 title: "Mobil Mart"
 url: /grosse-ile/mobil-mart/
-shop: Lebensmittel
+shop: convenience
 ---

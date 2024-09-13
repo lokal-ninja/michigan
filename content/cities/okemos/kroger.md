@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
 url: /okemos/kroger/
-shop: Supermarkt
+shop: supermarket
 ---

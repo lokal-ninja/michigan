@@ -1,5 +1,5 @@
 ---
 title: "Meijer"
 url: /burton/meijer-south-center-road/
-shop: Supermarkt
+shop: supermarket
 ---

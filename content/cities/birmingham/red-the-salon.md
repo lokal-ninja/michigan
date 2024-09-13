@@ -1,5 +1,5 @@
 ---
 title: "Red the Salon"
 url: /birmingham/red-the-salon/
-shop: Friseur
+shop: hairdresser
 ---

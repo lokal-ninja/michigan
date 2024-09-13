@@ -1,5 +1,5 @@
 ---
 title: "U-Haul"
 url: /rogers-city/u-haul/
-shop: Mieten
+shop: storage rental
 ---

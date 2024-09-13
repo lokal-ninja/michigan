@@ -1,5 +1,5 @@
 ---
 title: "Miller Office Machines"
 url: /lincoln/miller-office-machines/
-shop: Kopieren
+shop: copyshop
 ---

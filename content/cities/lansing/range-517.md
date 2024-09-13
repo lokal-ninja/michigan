@@ -1,5 +1,5 @@
 ---
 title: "Range 517"
 url: /lansing/range-517/
-shop: Waffen
+shop: weapons
 ---

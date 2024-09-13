@@ -1,5 +1,5 @@
 ---
 title: "Bertoni Holdings"
 url: /oak-park/bertoni-holdings/
-shop: Lebensmittel
+shop: convenience
 ---

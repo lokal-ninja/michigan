@@ -1,5 +1,5 @@
 ---
 title: "Vintage Detroit"
 url: /detroit/vintage-detroit/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /walled-lake/target/
-shop: Warenhaus
+shop: department store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "King World"
 url: /lansing/king-world/
-shop: Lebensmittel
+shop: convenience
 ---

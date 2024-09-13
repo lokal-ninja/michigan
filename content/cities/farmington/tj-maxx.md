@@ -1,5 +1,5 @@
 ---
 title: "TJ Maxx"
 url: /farmington/tj-maxx/
-shop: Warenhaus
+shop: department store
 ---

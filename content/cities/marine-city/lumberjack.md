@@ -1,5 +1,5 @@
 ---
 title: "Lumberjack"
 url: /marine-city/lumberjack/
-shop: Eisenwaren
+shop: hardware
 ---

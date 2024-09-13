@@ -1,5 +1,5 @@
 ---
 title: "C. Roy Processing"
 url: /yale/c-roy-processing/
-shop: Metzgerei
+shop: butcher
 ---

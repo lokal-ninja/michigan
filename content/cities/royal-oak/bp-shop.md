@@ -1,5 +1,5 @@
 ---
 title: "BP Shop"
 url: /royal-oak/bp-shop/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Green Jade Spa"
 url: /plymouth/green-jade-spa/
-shop: Massage
+shop: massage
 ---

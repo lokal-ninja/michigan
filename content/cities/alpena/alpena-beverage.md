@@ -1,5 +1,5 @@
 ---
 title: "Alpena Beverage"
 url: /alpena/alpena-beverage/
-shop: Großhandel
+shop: wholesale
 ---

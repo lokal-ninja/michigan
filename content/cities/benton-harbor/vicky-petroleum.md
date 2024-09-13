@@ -1,5 +1,5 @@
 ---
 title: "Vicky Petroleum"
 url: /benton-harbor/vicky-petroleum/
-shop: Lebensmittel
+shop: convenience
 ---

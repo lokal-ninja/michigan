@@ -1,5 +1,5 @@
 ---
 title: "The Rocket"
 url: /ypsilanti/the-rocket/
-shop: Spielzeug
+shop: toys
 ---

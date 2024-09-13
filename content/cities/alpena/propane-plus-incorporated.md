@@ -1,5 +1,5 @@
 ---
 title: "Propane Plus, Incorporated"
 url: /alpena/propane-plus-incorporated/
-shop: Gasflaschen
+shop: gas
 ---

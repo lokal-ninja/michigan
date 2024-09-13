@@ -1,5 +1,5 @@
 ---
 title: "CVS Pharmacy"
 url: /northville/cvs-pharmacy/
-shop: Drogerie
+shop: chemist
 ---

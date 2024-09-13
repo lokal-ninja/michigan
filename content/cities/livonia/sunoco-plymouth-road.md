@@ -1,5 +1,5 @@
 ---
 title: "Sunoco"
 url: /livonia/sunoco-plymouth-road/
-shop: Lebensmittel
+shop: convenience
 ---

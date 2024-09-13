@@ -1,5 +1,5 @@
 ---
 title: "Flowerland"
 url: /wyoming/flowerland/
-shop: Garten-Center
+shop: garden centre
 ---

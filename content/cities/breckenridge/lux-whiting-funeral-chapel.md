@@ -1,5 +1,5 @@
 ---
 title: "Lux Whiting Funeral Chapel"
 url: /breckenridge/lux-whiting-funeral-chapel/
-shop: Bestattungen
+shop: funeral directors
 ---

@@ -1,5 +1,5 @@
 ---
 title: "TEAM Verizon"
 url: /marquette/team-verizon/
-shop: Handy
+shop: mobile phone
 ---

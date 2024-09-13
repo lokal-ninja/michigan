@@ -1,5 +1,5 @@
 ---
 title: "Trail's End Baking Company"
 url: /ludington/trails-end-baking-company/
-shop: Bäckerei
+shop: bakery
 ---

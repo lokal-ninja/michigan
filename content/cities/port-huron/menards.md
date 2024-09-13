@@ -1,5 +1,5 @@
 ---
 title: "Menards"
 url: /port-huron/menards/
-shop: Baumarkt
+shop: doityourself
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /romulus/shell/
-shop: Lebensmittel
+shop: convenience
 ---

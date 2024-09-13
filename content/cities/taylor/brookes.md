@@ -1,5 +1,5 @@
 ---
 title: "Brookes"
 url: /taylor/brookes/
-shop: Kerzen
+shop: candles
 ---

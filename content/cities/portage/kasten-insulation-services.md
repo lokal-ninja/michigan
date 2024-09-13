@@ -1,5 +1,5 @@
 ---
 title: "Kasten Insulation Services"
 url: /portage/kasten-insulation-services/
-shop: Allgemein
+shop: shop
 ---

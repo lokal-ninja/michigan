@@ -1,5 +1,5 @@
 ---
 title: "Mattress Firm"
 url: /woodhaven/mattress-firm/
-shop: Betten
+shop: bed
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Market Express"
 url: /allendale/market-express/
-shop: Lebensmittel
+shop: convenience
 ---

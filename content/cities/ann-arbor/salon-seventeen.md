@@ -1,5 +1,5 @@
 ---
 title: "Salon Seventeen"
 url: /ann-arbor/salon-seventeen/
-shop: Friseur
+shop: hairdresser
 ---

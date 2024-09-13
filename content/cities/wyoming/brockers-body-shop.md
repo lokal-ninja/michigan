@@ -1,5 +1,5 @@
 ---
 title: "Brocker's Body Shop"
 url: /wyoming/brockers-body-shop/
-shop: Autowerkstatt
+shop: car repair
 ---

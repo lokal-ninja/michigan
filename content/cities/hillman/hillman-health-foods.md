@@ -1,5 +1,5 @@
 ---
 title: "Hillman Health Foods"
 url: /hillman/hillman-health-foods/
-shop: Bioladen
+shop: health food
 ---

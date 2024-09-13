@@ -1,5 +1,5 @@
 ---
 title: "Greenfield Party Shoppe"
 url: /southfield/greenfield-party-shoppe/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Opechee"
 url: /alpena/opechee/
-shop: Lebensmittel
+shop: convenience
 ---

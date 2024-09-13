@@ -1,5 +1,5 @@
 ---
 title: "Larry's Collision and Truck Stuff"
 url: /alpena/larrys-collision-and-truck-stuff/
-shop: Autowerkstatt
+shop: car repair
 ---

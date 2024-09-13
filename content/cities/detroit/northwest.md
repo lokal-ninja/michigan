@@ -1,5 +1,5 @@
 ---
 title: "Northwest"
 url: /detroit/northwest/
-shop: Lebensmittel
+shop: convenience
 ---

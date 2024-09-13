@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /portage/target/
-shop: Warenhaus
+shop: department store
 ---

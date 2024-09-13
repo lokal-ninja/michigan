@@ -1,5 +1,5 @@
 ---
 title: "Quick Phone Fix"
 url: /st-clair-shores/quick-phone-fix/
-shop: Handy
+shop: mobile phone
 ---

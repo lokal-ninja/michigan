@@ -1,5 +1,5 @@
 ---
 title: "Family Dollar"
 url: /south-haven/family-dollar/
-shop: Kramladen
+shop: variety store
 ---

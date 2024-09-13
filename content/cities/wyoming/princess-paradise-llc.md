@@ -1,5 +1,5 @@
 ---
 title: "Princess Paradise LLC"
 url: /wyoming/princess-paradise-llc/
-shop: Kleidung
+shop: clothes
 ---

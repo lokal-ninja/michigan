@@ -1,5 +1,5 @@
 ---
 title: "OfficeMax"
 url: /dearborn/officemax/
-shop: Schreibwaren
+shop: office supplies
 ---

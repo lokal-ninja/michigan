@@ -1,5 +1,5 @@
 ---
 title: "Mound Petro Express"
 url: /warren/mound-petro-express/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Anchor Party Store"
 url: /holland/anchor-party-store/
-shop: Lebensmittel
+shop: convenience
 ---

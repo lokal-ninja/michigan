@@ -1,5 +1,5 @@
 ---
 title: "Pri Mart"
 url: /dowagiac/pri-mart/
-shop: Lebensmittel
+shop: convenience
 ---

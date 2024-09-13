@@ -1,5 +1,5 @@
 ---
 title: "EZ Mart"
 url: /fremont/ez-mart/
-shop: Lebensmittel
+shop: convenience
 ---

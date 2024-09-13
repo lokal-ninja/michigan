@@ -1,5 +1,5 @@
 ---
 title: "Village Auto Service Center"
 url: /west-branch/village-auto-service-center/
-shop: Autowerkstatt
+shop: car repair
 ---

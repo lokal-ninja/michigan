@@ -1,5 +1,5 @@
 ---
 title: "OfficeMax"
 url: /lansing/officemax/
-shop: Schreibwaren
+shop: office supplies
 ---

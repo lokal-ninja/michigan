@@ -1,5 +1,5 @@
 ---
 title: "Family Dollar"
 url: /saint-ignace/family-dollar/
-shop: Kramladen
+shop: variety store
 ---

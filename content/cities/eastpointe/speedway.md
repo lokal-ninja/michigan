@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /eastpointe/speedway/
-shop: Lebensmittel
+shop: convenience
 ---

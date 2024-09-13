@@ -1,5 +1,5 @@
 ---
 title: "Uber Nails"
 url: /ferndale/uber-nails/
-shop: Kosmetik
+shop: beauty
 ---

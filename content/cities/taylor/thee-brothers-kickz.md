@@ -1,5 +1,5 @@
 ---
 title: "Thee Brothers Kickz"
 url: /taylor/thee-brothers-kickz/
-shop: Schuhe
+shop: shoes
 ---

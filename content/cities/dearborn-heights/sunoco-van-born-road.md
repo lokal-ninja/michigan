@@ -1,5 +1,5 @@
 ---
 title: "Sunoco"
 url: /dearborn-heights/sunoco-van-born-road/
-shop: Lebensmittel
+shop: convenience
 ---

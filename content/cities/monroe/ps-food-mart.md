@@ -1,5 +1,5 @@
 ---
 title: "PS Food Mart"
 url: /monroe/ps-food-mart/
-shop: Lebensmittel
+shop: convenience
 ---

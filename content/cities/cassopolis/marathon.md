@@ -1,5 +1,5 @@
 ---
 title: "Marathon"
 url: /cassopolis/marathon/
-shop: Lebensmittel
+shop: convenience
 ---

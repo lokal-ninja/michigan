@@ -1,5 +1,5 @@
 ---
 title: "Attic Storage Centers"
 url: /corunna/attic-storage-centers/
-shop: Mieten
+shop: storage rental
 ---

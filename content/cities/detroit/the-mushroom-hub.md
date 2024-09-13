@@ -1,5 +1,5 @@
 ---
 title: "The Mushroom Hub"
 url: /detroit/the-mushroom-hub/
-shop: Bioladen
+shop: health food
 ---

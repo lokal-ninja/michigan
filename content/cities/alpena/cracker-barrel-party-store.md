@@ -1,5 +1,5 @@
 ---
 title: "Cracker Barrel Party Store"
 url: /alpena/cracker-barrel-party-store/
-shop: Lebensmittel
+shop: convenience
 ---

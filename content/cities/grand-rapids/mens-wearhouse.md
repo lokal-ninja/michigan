@@ -1,5 +1,5 @@
 ---
 title: "Men's Wearhouse"
 url: /grand-rapids/mens-wearhouse/
-shop: Kleidung
+shop: clothes
 ---

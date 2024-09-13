@@ -1,5 +1,5 @@
 ---
 title: "Shear Envy Salon"
 url: /alpena/shear-envy-salon/
-shop: Friseur
+shop: hairdresser
 ---

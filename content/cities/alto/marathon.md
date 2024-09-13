@@ -1,5 +1,5 @@
 ---
 title: "Marathon"
 url: /alto/marathon/
-shop: Lebensmittel
+shop: convenience
 ---

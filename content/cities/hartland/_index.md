@@ -1,6 +1,6 @@
 ---
 title: Hartland
 url: /hartland/
-latitude: 42.631
-longitude: -83.746
+latitude: 42.643
+longitude: -83.739
 ---

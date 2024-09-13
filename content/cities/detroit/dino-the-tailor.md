@@ -1,5 +1,5 @@
 ---
 title: "Dino The Tailor"
 url: /detroit/dino-the-tailor/
-shop: Schneiderei
+shop: tailor
 ---

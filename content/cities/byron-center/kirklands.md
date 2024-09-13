@@ -1,5 +1,5 @@
 ---
 title: "Kirkland's"
 url: /byron-center/kirklands/
-shop: Raumausstattung
+shop: interior decoration
 ---

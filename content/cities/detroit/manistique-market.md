@@ -1,5 +1,5 @@
 ---
 title: "Manistique Market"
 url: /detroit/manistique-market/
-shop: Lebensmittel
+shop: convenience
 ---

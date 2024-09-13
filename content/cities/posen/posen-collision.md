@@ -1,5 +1,5 @@
 ---
 title: "Posen Collision"
 url: /posen/posen-collision/
-shop: Autowerkstatt
+shop: car repair
 ---

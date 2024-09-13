@@ -1,5 +1,5 @@
 ---
 title: "Admiral"
 url: /grand-haven/admiral/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /caledonia/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

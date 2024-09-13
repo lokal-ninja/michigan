@@ -1,5 +1,5 @@
 ---
 title: "Alpine Marketplace"
 url: /linden/alpine-marketplace/
-shop: Supermarkt
+shop: supermarket
 ---

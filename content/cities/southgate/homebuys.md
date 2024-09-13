@@ -1,5 +1,5 @@
 ---
 title: "HomeBuys"
 url: /southgate/homebuys/
-shop: Warenhaus
+shop: department store
 ---

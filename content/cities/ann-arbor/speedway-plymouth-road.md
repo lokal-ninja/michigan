@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /ann-arbor/speedway-plymouth-road/
-shop: Lebensmittel
+shop: convenience
 ---

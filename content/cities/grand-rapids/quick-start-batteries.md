@@ -1,5 +1,5 @@
 ---
 title: "Quick Start Batteries"
 url: /grand-rapids/quick-start-batteries/
-shop: Autowerkstatt
+shop: car repair
 ---

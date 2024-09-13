@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /warren/shell/
-shop: Lebensmittel
+shop: convenience
 ---

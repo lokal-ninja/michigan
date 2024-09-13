@@ -1,5 +1,5 @@
 ---
 title: "Material Mart"
 url: /midland/material-mart/
-shop: Textil
+shop: fabric
 ---

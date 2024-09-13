@@ -1,5 +1,5 @@
 ---
 title: "Dollar Tree"
 url: /iron-mountain/dollar-tree/
-shop: Kramladen
+shop: variety store
 ---

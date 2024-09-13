@@ -1,5 +1,5 @@
 ---
 title: "BP Shop"
 url: /calumet/bp-shop/
-shop: Lebensmittel
+shop: convenience
 ---

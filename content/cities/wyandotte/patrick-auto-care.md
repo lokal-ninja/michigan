@@ -1,5 +1,5 @@
 ---
 title: "Patrick Auto Care"
 url: /wyandotte/patrick-auto-care/
-shop: Autowerkstatt
+shop: car repair
 ---

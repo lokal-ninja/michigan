@@ -1,5 +1,5 @@
 ---
 title: "Interlochen Self Storage"
 url: /interlochen/interlochen-self-storage/
-shop: Mieten
+shop: storage rental
 ---

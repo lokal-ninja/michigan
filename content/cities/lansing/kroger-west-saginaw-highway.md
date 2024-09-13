@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
 url: /lansing/kroger-west-saginaw-highway/
-shop: Supermarkt
+shop: supermarket
 ---

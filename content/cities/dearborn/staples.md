@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /dearborn/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

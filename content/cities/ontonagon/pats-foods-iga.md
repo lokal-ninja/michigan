@@ -1,5 +1,5 @@
 ---
 title: "Pat's Foods IGA"
 url: /ontonagon/pats-foods-iga/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
 url: /royal-oak/verizon/
-shop: Handy
+shop: mobile phone
 ---

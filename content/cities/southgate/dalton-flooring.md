@@ -1,5 +1,5 @@
 ---
 title: "Dalton Flooring"
 url: /southgate/dalton-flooring/
-shop: Teppiche
+shop: carpet
 ---

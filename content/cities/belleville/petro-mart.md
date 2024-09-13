@@ -1,5 +1,5 @@
 ---
 title: "Petro Mart"
 url: /belleville/petro-mart/
-shop: Lebensmittel
+shop: convenience
 ---

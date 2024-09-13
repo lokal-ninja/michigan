@@ -1,5 +1,5 @@
 ---
 title: "BP Shop"
 url: /detroit/bp-shop-east-mcnichols-road/
-shop: Lebensmittel
+shop: convenience
 ---

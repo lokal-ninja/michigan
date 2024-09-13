@@ -1,5 +1,5 @@
 ---
 title: "Sunoco"
 url: /flint/sunoco-south-dort-highway/
-shop: Lebensmittel
+shop: convenience
 ---

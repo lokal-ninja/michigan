@@ -1,5 +1,5 @@
 ---
 title: "Bay View Flooring"
 url: /traverse-city/bay-view-flooring/
-shop: Fußböden
+shop: flooring
 ---

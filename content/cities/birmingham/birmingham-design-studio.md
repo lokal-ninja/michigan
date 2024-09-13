@@ -1,5 +1,5 @@
 ---
 title: "Birmingham Design Studio"
 url: /birmingham/birmingham-design-studio/
-shop: Möbel
+shop: furniture
 ---

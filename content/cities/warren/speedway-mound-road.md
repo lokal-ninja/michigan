@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /warren/speedway-mound-road/
-shop: Lebensmittel
+shop: convenience
 ---

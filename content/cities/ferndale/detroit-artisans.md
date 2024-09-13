@@ -1,5 +1,5 @@
 ---
 title: "Detroit Artisans"
 url: /ferndale/detroit-artisans/
-shop: Allgemein
+shop: shop
 ---

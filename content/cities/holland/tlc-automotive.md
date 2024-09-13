@@ -1,5 +1,5 @@
 ---
 title: "TLC Automotive"
 url: /holland/tlc-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

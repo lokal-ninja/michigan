@@ -1,5 +1,5 @@
 ---
 title: "Bookbug"
 url: /kalamazoo/bookbug/
-shop: Bücher
+shop: books
 ---

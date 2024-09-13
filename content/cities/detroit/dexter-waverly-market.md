@@ -1,5 +1,5 @@
 ---
 title: "Dexter Waverly Market"
 url: /detroit/dexter-waverly-market/
-shop: Spirituosen
+shop: alcohol
 ---

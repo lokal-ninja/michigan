@@ -1,5 +1,5 @@
 ---
 title: "Marketplace Antiques Gallery"
 url: /detroit/marketplace-antiques-gallery/
-shop: Antiquitäten
+shop: antiques
 ---

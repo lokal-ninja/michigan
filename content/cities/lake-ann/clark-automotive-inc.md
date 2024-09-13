@@ -1,5 +1,5 @@
 ---
 title: "Clark Automotive Inc"
 url: /lake-ann/clark-automotive-inc/
-shop: Autowerkstatt
+shop: car repair
 ---

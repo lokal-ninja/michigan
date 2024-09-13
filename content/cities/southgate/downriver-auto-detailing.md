@@ -1,5 +1,5 @@
 ---
 title: "Downriver Auto Detailing"
 url: /southgate/downriver-auto-detailing/
-shop: Autowerkstatt
+shop: car repair
 ---

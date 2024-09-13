@@ -1,5 +1,5 @@
 ---
 title: "All-Petz Grooming"
 url: /southgate/all-petz-grooming/
-shop: Tiersalon
+shop: pet grooming
 ---

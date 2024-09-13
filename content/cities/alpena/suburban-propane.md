@@ -1,5 +1,5 @@
 ---
 title: "Suburban Propane"
 url: /alpena/suburban-propane/
-shop: Gasflaschen
+shop: gas
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cornelius Firewood"
 url: /clinton-township/cornelius-firewood/
-shop: Allgemein
+shop: shop
 ---

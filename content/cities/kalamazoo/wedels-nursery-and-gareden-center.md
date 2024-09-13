@@ -1,5 +1,5 @@
 ---
 title: "Wedel's Nursery and Gareden Center"
 url: /kalamazoo/wedels-nursery-and-gareden-center/
-shop: Garten-Center
+shop: garden centre
 ---

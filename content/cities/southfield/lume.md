@@ -1,5 +1,5 @@
 ---
 title: "Lume"
 url: /southfield/lume/
-shop: Hanf
+shop: cannabis
 ---

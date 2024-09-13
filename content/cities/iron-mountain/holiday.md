@@ -1,5 +1,5 @@
 ---
 title: "Holiday"
 url: /iron-mountain/holiday/
-shop: Lebensmittel
+shop: convenience
 ---

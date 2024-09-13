@@ -1,5 +1,5 @@
 ---
 title: "CMS Oil Company"
 url: /metamora/cms-oil-company/
-shop: Lebensmittel
+shop: convenience
 ---

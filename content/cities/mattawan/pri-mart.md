@@ -1,5 +1,5 @@
 ---
 title: "Pri Mart"
 url: /mattawan/pri-mart/
-shop: Lebensmittel
+shop: convenience
 ---

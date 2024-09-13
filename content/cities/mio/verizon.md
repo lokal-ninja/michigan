@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
 url: /mio/verizon/
-shop: Handy
+shop: mobile phone
 ---

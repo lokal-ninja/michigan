@@ -1,5 +1,5 @@
 ---
 title: "JustStorage"
 url: /southgate/juststorage/
-shop: Mieten
+shop: storage rental
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Maila Nails"
 url: /sterling-heights/maila-nails/
-shop: Kosmetik
+shop: beauty
 ---

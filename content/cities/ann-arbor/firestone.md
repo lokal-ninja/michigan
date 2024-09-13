@@ -1,5 +1,5 @@
 ---
 title: "Firestone"
 url: /ann-arbor/firestone/
-shop: Autowerkstatt
+shop: car repair
 ---

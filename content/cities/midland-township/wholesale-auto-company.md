@@ -1,5 +1,5 @@
 ---
 title: "Wholesale Auto Company"
 url: /midland-township/wholesale-auto-company/
-shop: Autohaus
+shop: car
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tip Toe Shoe Repair"
 url: /detroit/tip-toe-shoe-repair/
-shop: Schuhe
+shop: shoes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /kentwood/speedway-broadmoor-avenue-southeast/
-shop: Lebensmittel
+shop: convenience
 ---

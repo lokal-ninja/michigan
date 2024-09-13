@@ -1,5 +1,5 @@
 ---
 title: "Great Clips"
 url: /kalamazoo/great-clips/
-shop: Friseur
+shop: hairdresser
 ---

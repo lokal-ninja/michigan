@@ -1,5 +1,5 @@
 ---
 title: "Dutch Girl Donuts"
 url: /detroit/dutch-girl-donuts/
-shop: Bäckerei
+shop: bakery
 ---

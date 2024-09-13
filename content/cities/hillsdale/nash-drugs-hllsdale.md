@@ -1,5 +1,5 @@
 ---
 title: "Nash Drugs Hllsdale"
 url: /hillsdale/nash-drugs-hllsdale/
-shop: Allgemein
+shop: shop
 ---

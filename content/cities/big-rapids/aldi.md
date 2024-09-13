@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /big-rapids/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

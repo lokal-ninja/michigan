@@ -1,5 +1,5 @@
 ---
 title: "Kitchen Master"
 url: /farmington/kitchen-master/
-shop: Küchen
+shop: kitchen
 ---

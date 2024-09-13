@@ -1,5 +1,5 @@
 ---
 title: "Della's Maple Lane Florist"
 url: /troy/dellas-maple-lane-florist/
-shop: Blumen
+shop: florist
 ---

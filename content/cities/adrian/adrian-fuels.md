@@ -1,5 +1,5 @@
 ---
 title: "Adrian Fuels"
 url: /adrian/adrian-fuels/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /ann-arbor/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

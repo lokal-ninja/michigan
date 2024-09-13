@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /manistee/walgreens/
-shop: Drogerie
+shop: chemist
 ---

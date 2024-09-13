@@ -1,5 +1,5 @@
 ---
 title: "Tow Truck Troy"
 url: /troy/tow-truck-troy/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Grainger"
 url: /romulus/grainger/
-shop: Baustoffe
+shop: trade
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ship Store"
 url: /saint-joseph/ship-store/
-shop: Lebensmittel
+shop: convenience
 ---

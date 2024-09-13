@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /saginaw/speedway-bay-road/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Marathon"
 url: /ecorse/marathon-west-jefferson-avenue/
-shop: Lebensmittel
+shop: convenience
 ---

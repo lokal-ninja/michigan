@@ -1,5 +1,5 @@
 ---
 title: "Dearborn Fresh Supermarket"
 url: /dearborn/dearborn-fresh-supermarket/
-shop: Supermarkt
+shop: supermarket
 ---

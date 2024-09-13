@@ -1,5 +1,5 @@
 ---
 title: "Meijer"
 url: /cadillac/meijer/
-shop: Supermarkt
+shop: supermarket
 ---

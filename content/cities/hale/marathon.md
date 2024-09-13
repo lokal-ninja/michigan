@@ -1,5 +1,5 @@
 ---
 title: "Marathon"
 url: /hale/marathon/
-shop: Lebensmittel
+shop: convenience
 ---

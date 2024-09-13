@@ -1,5 +1,5 @@
 ---
 title: "Lakeside Convenience Store"
 url: /michigan-center/lakeside-convenience-store/
-shop: Lebensmittel
+shop: convenience
 ---

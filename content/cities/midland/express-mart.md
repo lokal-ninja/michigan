@@ -1,5 +1,5 @@
 ---
 title: "Express Mart"
 url: /midland/express-mart/
-shop: Lebensmittel
+shop: convenience
 ---

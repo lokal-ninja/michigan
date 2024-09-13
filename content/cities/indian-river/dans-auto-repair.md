@@ -1,5 +1,5 @@
 ---
 title: "Dan's Auto Repair"
 url: /indian-river/dans-auto-repair/
-shop: Autowerkstatt
+shop: car repair
 ---

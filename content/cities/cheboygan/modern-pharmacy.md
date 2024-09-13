@@ -1,5 +1,5 @@
 ---
 title: "Modern Pharmacy"
 url: /cheboygan/modern-pharmacy/
-shop: Drogerie
+shop: chemist
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Jars Cannabis"
 url: /ann-arbor/jars-cannabis/
-shop: Hanf
+shop: cannabis
 ---

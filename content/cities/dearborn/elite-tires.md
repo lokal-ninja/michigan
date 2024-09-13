@@ -1,5 +1,5 @@
 ---
 title: "Elite Tires"
 url: /dearborn/elite-tires/
-shop: Autoteile
+shop: car parts
 ---

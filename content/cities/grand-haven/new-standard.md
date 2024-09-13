@@ -1,5 +1,5 @@
 ---
 title: "New Standard"
 url: /grand-haven/new-standard/
-shop: Hanf
+shop: cannabis
 ---

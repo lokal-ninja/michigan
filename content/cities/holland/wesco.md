@@ -1,5 +1,5 @@
 ---
 title: "Wesco"
 url: /holland/wesco/
-shop: Lebensmittel
+shop: convenience
 ---

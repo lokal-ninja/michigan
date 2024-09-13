@@ -1,5 +1,5 @@
 ---
 title: "Adj Petroleum"
 url: /lawrence/adj-petroleum/
-shop: Lebensmittel
+shop: convenience
 ---

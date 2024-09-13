@@ -1,5 +1,5 @@
 ---
 title: "Bell's Clearance Center"
 url: /whitehall/bells-clearance-center/
-shop: Möbel
+shop: furniture
 ---

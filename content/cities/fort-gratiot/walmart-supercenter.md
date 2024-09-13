@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
 url: /fort-gratiot/walmart-supercenter/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cadarette Collision Service"
 url: /alpena/cadarette-collision-service/
-shop: Autowerkstatt
+shop: car repair
 ---

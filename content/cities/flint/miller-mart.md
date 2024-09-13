@@ -1,5 +1,5 @@
 ---
 title: "Miller Mart"
 url: /flint/miller-mart/
-shop: Lebensmittel
+shop: convenience
 ---

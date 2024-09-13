@@ -1,5 +1,5 @@
 ---
 title: "The Doll House"
 url: /onaway/the-doll-house/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
 url: /saginaw/walmart-supercenter-brockway-road/
-shop: Supermarkt
+shop: supermarket
 ---

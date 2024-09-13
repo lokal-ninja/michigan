@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
 url: /white-lake/kroger/
-shop: Supermarkt
+shop: supermarket
 ---

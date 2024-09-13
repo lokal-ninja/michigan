@@ -1,5 +1,5 @@
 ---
 title: "BJ Sports"
 url: /kalamazoo/bj-sports/
-shop: Sport
+shop: sports
 ---

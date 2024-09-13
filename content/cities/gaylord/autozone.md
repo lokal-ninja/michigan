@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /gaylord/autozone/
-shop: Autoteile
+shop: car parts
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /midland/speedway-eastman-avenue/
-shop: Lebensmittel
+shop: convenience
 ---

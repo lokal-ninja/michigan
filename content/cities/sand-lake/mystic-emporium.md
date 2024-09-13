@@ -1,5 +1,5 @@
 ---
 title: "Mystic Emporium"
 url: /sand-lake/mystic-emporium/
-shop: Sport
+shop: sports
 ---

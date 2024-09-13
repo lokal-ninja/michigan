@@ -1,5 +1,5 @@
 ---
 title: "Menards"
 url: /comstock-park/menards/
-shop: Baumarkt
+shop: doityourself
 ---

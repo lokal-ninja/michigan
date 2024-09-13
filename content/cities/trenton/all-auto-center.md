@@ -1,5 +1,5 @@
 ---
 title: "All Auto Center"
 url: /trenton/all-auto-center/
-shop: Autowerkstatt
+shop: car repair
 ---

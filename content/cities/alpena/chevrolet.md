@@ -1,5 +1,5 @@
 ---
 title: "Chevrolet"
 url: /alpena/chevrolet/
-shop: Autowerkstatt
+shop: car repair
 ---

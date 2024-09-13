@@ -1,5 +1,5 @@
 ---
 title: "Admiral"
 url: /marysville/admiral/
-shop: Lebensmittel
+shop: convenience
 ---

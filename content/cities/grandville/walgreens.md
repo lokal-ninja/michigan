@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /grandville/walgreens/
-shop: Drogerie
+shop: chemist
 ---

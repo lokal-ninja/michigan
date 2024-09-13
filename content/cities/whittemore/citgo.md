@@ -1,5 +1,5 @@
 ---
 title: "Citgo"
 url: /whittemore/citgo/
-shop: Lebensmittel
+shop: convenience
 ---

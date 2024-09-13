@@ -1,5 +1,5 @@
 ---
 title: "Virtuoso Salon"
 url: /birmingham/virtuoso-salon/
-shop: Friseur
+shop: hairdresser
 ---

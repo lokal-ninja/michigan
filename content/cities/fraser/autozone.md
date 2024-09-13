@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /fraser/autozone/
-shop: Autoteile
+shop: car parts
 ---

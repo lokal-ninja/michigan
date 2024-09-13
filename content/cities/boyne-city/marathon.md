@@ -1,5 +1,5 @@
 ---
 title: "Marathon"
 url: /boyne-city/marathon/
-shop: Lebensmittel
+shop: convenience
 ---

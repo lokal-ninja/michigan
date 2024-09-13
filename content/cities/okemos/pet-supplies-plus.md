@@ -1,5 +1,5 @@
 ---
 title: "Pet Supplies Plus"
 url: /okemos/pet-supplies-plus/
-shop: Tiere
+shop: pet
 ---

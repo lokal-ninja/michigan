@@ -1,5 +1,5 @@
 ---
 title: "Gladwin Mart"
 url: /gladwin/gladwin-mart/
-shop: Lebensmittel
+shop: convenience
 ---

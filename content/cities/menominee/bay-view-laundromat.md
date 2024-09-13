@@ -1,5 +1,5 @@
 ---
 title: "Bay View Laundromat"
 url: /menominee/bay-view-laundromat/
-shop: Wäscherei
+shop: laundry
 ---

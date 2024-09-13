@@ -1,5 +1,5 @@
 ---
 title: "Black River Party Store"
 url: /onaway/black-river-party-store/
-shop: Lebensmittel
+shop: convenience
 ---

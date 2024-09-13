@@ -1,5 +1,5 @@
 ---
 title: "Eagle Express"
 url: /howell/eagle-express/
-shop: Lebensmittel
+shop: convenience
 ---

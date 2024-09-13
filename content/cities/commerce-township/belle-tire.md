@@ -1,5 +1,5 @@
 ---
 title: "Belle Tire"
 url: /commerce-township/belle-tire/
-shop: Autowerkstatt
+shop: car repair
 ---

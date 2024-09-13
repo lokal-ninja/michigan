@@ -1,5 +1,5 @@
 ---
 title: "Rite Aid"
 url: /bloomfield-hills/rite-aid/
-shop: Drogerie
+shop: chemist
 ---

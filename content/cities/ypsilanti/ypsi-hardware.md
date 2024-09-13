@@ -1,5 +1,5 @@
 ---
 title: "Ypsi Hardware"
 url: /ypsilanti/ypsi-hardware/
-shop: Eisenwaren
+shop: hardware
 ---

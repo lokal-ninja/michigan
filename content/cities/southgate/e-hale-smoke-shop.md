@@ -1,5 +1,5 @@
 ---
 title: "E-Hale Smoke Shop"
 url: /southgate/e-hale-smoke-shop/
-shop: Tabak
+shop: tobacco
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sleep Number"
 url: /traverse-city/sleep-number/
-shop: Betten
+shop: bed
 ---

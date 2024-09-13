@@ -1,5 +1,5 @@
 ---
 title: "Orchard Market"
 url: /free-soil/orchard-market/
-shop: Bäckerei
+shop: bakery
 ---

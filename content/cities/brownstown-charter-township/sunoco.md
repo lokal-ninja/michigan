@@ -1,5 +1,5 @@
 ---
 title: "Sunoco"
 url: /brownstown-charter-township/sunoco/
-shop: Lebensmittel
+shop: convenience
 ---

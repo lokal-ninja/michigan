@@ -1,5 +1,5 @@
 ---
 title: "Chevrolet"
 url: /rose-city/chevrolet/
-shop: Autowerkstatt
+shop: car repair
 ---

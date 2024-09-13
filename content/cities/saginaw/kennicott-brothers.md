@@ -1,5 +1,5 @@
 ---
 title: "Kennicott Brothers"
 url: /saginaw/kennicott-brothers/
-shop: Blumen
+shop: florist
 ---

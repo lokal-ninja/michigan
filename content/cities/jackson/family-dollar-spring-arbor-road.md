@@ -1,5 +1,5 @@
 ---
 title: "Family Dollar"
 url: /jackson/family-dollar-spring-arbor-road/
-shop: Kramladen
+shop: variety store
 ---

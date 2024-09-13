@@ -1,5 +1,5 @@
 ---
 title: "Sunoco"
 url: /davison/sunoco/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Boggs"
 url: /ypsilanti/boggs/
-shop: Lebensmittel
+shop: convenience
 ---

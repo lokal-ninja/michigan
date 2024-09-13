@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /wyoming/speedway-28th-street-southwest/
-shop: Lebensmittel
+shop: convenience
 ---

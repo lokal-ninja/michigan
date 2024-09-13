@@ -1,5 +1,5 @@
 ---
 title: "Sunoco"
 url: /flat-rock/sunoco/
-shop: Lebensmittel
+shop: convenience
 ---

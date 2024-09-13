@@ -1,5 +1,5 @@
 ---
 title: "Michigan Party Store"
 url: /detroit/michigan-party-store/
-shop: Lebensmittel
+shop: convenience
 ---

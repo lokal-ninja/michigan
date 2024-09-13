@@ -1,5 +1,5 @@
 ---
 title: "Goldiloxx Salon"
 url: /holland/goldiloxx-salon/
-shop: Friseur
+shop: hairdresser
 ---

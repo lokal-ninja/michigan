@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /canton/target/
-shop: Warenhaus
+shop: department store
 ---

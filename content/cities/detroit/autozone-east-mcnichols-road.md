@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /detroit/autozone-east-mcnichols-road/
-shop: Autoteile
+shop: car parts
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sunoco"
 url: /ossineke/sunoco/
-shop: Lebensmittel
+shop: convenience
 ---

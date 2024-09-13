@@ -1,5 +1,5 @@
 ---
 title: "Belle Tire"
 url: /woodhaven/belle-tire/
-shop: Reifen
+shop: tyres
 ---

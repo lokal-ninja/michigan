@@ -1,5 +1,5 @@
 ---
 title: "The Store"
 url: /elm-hall/the-store/
-shop: Lebensmittel
+shop: convenience
 ---

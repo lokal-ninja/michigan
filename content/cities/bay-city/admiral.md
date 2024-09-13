@@ -1,5 +1,5 @@
 ---
 title: "Admiral"
 url: /bay-city/admiral/
-shop: Lebensmittel
+shop: convenience
 ---

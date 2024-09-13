@@ -1,5 +1,5 @@
 ---
 title: "Peterson Services"
 url: /cadillac/peterson-services/
-shop: Autowerkstatt
+shop: car repair
 ---

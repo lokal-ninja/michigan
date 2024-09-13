@@ -1,5 +1,5 @@
 ---
 title: "Angel Nails"
 url: /allendale/angel-nails/
-shop: Kosmetik
+shop: beauty
 ---

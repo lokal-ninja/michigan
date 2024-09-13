@@ -1,5 +1,5 @@
 ---
 title: "Write Impressions"
 url: /royal-oak/write-impressions/
-shop: Schreibwaren
+shop: office supplies
 ---

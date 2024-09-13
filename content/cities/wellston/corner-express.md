@@ -1,5 +1,5 @@
 ---
 title: "Corner Express"
 url: /wellston/corner-express/
-shop: Lebensmittel
+shop: convenience
 ---

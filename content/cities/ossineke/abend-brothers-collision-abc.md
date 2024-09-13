@@ -1,5 +1,5 @@
 ---
 title: "Abend Brothers Collision (ABC)"
 url: /ossineke/abend-brothers-collision-abc/
-shop: Autowerkstatt
+shop: car repair
 ---

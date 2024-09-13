@@ -1,5 +1,5 @@
 ---
 title: "7-Eleven"
 url: /livonia/7-eleven-middlebelt-road/
-shop: Lebensmittel
+shop: convenience
 ---

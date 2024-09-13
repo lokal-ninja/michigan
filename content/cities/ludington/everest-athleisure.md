@@ -1,5 +1,5 @@
 ---
 title: "Everest Athleisure"
 url: /ludington/everest-athleisure/
-shop: Kleidung
+shop: clothes
 ---

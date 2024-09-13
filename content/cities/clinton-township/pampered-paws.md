@@ -1,5 +1,5 @@
 ---
 title: "Pampered Paws"
 url: /clinton-township/pampered-paws/
-shop: Tiersalon
+shop: pet grooming
 ---

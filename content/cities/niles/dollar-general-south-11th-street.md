@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
 url: /niles/dollar-general-south-11th-street/
-shop: Kramladen
+shop: variety store
 ---

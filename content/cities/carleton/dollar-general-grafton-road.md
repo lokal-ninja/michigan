@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
 url: /carleton/dollar-general-grafton-road/
-shop: Kramladen
+shop: variety store
 ---

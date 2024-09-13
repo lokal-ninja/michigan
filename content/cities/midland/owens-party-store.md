@@ -1,5 +1,5 @@
 ---
 title: "Owen's Party Store"
 url: /midland/owens-party-store/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dollar Tree"
 url: /monroe/dollar-tree-south-monroe-street/
-shop: Kramladen
+shop: variety store
 ---

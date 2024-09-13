@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /grand-rapids/speedway-division-avenue-south/
-shop: Lebensmittel
+shop: convenience
 ---

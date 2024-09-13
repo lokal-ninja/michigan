@@ -1,5 +1,5 @@
 ---
 title: "Marathon"
 url: /grand-blanc/marathon/
-shop: Lebensmittel
+shop: convenience
 ---

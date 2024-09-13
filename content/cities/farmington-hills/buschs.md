@@ -1,5 +1,5 @@
 ---
 title: "Busch's"
 url: /farmington-hills/buschs/
-shop: Supermarkt
+shop: supermarket
 ---

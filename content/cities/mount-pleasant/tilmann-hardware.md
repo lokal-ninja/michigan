@@ -1,5 +1,5 @@
 ---
 title: "Tilmann Hardware"
 url: /mount-pleasant/tilmann-hardware/
-shop: Baustoffe
+shop: trade
 ---

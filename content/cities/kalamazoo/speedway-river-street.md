@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /kalamazoo/speedway-river-street/
-shop: Lebensmittel
+shop: convenience
 ---

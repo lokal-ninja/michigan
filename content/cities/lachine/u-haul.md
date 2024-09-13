@@ -1,5 +1,5 @@
 ---
 title: "U-Haul"
 url: /lachine/u-haul/
-shop: Mieten
+shop: storage rental
 ---

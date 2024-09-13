@@ -1,5 +1,5 @@
 ---
 title: "Bridge St Electric"
 url: /grand-rapids/bridge-st-electric/
-shop: Lampen
+shop: lamps
 ---

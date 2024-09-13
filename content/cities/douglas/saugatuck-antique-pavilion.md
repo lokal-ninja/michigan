@@ -1,5 +1,5 @@
 ---
 title: "Saugatuck Antique Pavilion"
 url: /douglas/saugatuck-antique-pavilion/
-shop: Antiquitäten
+shop: antiques
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Central Petro Mart"
 url: /detroit/central-petro-mart/
-shop: Lebensmittel
+shop: convenience
 ---

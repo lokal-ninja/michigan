@@ -1,5 +1,5 @@
 ---
 title: "Ace Hardware"
 url: /hillman/ace-hardware/
-shop: Baumarkt
+shop: doityourself
 ---

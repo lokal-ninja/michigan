@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /clinton-township/target/
-shop: Warenhaus
+shop: department store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Pilot"
 url: /ionia/pilot/
-shop: Lebensmittel
+shop: convenience
 ---

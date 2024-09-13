@@ -1,5 +1,5 @@
 ---
 title: "Southgate RV Storage"
 url: /southgate/southgate-rv-storage/
-shop: Wohnwagen
+shop: caravan
 ---

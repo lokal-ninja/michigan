@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /holt/autozone/
-shop: Autoteile
+shop: car parts
 ---

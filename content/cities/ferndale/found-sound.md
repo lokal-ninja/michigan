@@ -1,5 +1,5 @@
 ---
 title: "Found Sound"
 url: /ferndale/found-sound/
-shop: Musik
+shop: music
 ---

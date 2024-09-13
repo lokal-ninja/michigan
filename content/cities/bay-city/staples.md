@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /bay-city/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

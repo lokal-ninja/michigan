@@ -1,5 +1,5 @@
 ---
 title: "KRS Trailer Service"
 url: /southgate/krs-trailer-service/
-shop: Autoteile
+shop: car parts
 ---

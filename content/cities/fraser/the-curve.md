@@ -1,5 +1,5 @@
 ---
 title: "The Curve"
 url: /fraser/the-curve/
-shop: Friseur
+shop: hairdresser
 ---

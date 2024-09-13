@@ -1,5 +1,5 @@
 ---
 title: "Sisters of the Moon"
 url: /linden/sisters-of-the-moon/
-shop: Allgemein
+shop: shop
 ---

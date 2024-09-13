@@ -1,5 +1,5 @@
 ---
 title: "Goodwill Store"
 url: /mount-pleasant/goodwill-store/
-shop: Gebrauchtwaren
+shop: charity
 ---

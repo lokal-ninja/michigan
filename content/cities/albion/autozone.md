@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /albion/autozone/
-shop: Autoteile
+shop: car parts
 ---

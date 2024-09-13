@@ -1,5 +1,5 @@
 ---
 title: "RiteWay Auto Sales"
 url: /caro/riteway-auto-sales/
-shop: Autohaus
+shop: car
 ---

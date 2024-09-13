@@ -1,5 +1,5 @@
 ---
 title: "Grandpa's Barn"
 url: /copper-harbor/grandpas-barn/
-shop: Bücher
+shop: books
 ---

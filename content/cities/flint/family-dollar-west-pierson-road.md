@@ -1,5 +1,5 @@
 ---
 title: "Family Dollar"
 url: /flint/family-dollar-west-pierson-road/
-shop: Kramladen
+shop: variety store
 ---

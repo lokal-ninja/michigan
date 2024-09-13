@@ -1,5 +1,5 @@
 ---
 title: "GNC"
 url: /troy/gnc/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Gap"
 url: /portage/gap/
-shop: Kleidung
+shop: clothes
 ---

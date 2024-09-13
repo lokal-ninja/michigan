@@ -1,5 +1,5 @@
 ---
 title: "Mattress Wholesale"
 url: /eastpointe/mattress-wholesale/
-shop: Betten
+shop: bed
 ---

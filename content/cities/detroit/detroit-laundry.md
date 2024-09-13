@@ -1,5 +1,5 @@
 ---
 title: "Detroit Laundry"
 url: /detroit/detroit-laundry/
-shop: Wäscherei
+shop: laundry
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Rudy Funeral Home"
 url: /center-line/rudy-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

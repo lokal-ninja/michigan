@@ -1,5 +1,5 @@
 ---
 title: "Herbology"
 url: /bangor/herbology/
-shop: Hanf
+shop: cannabis
 ---

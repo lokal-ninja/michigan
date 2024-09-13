@@ -1,5 +1,5 @@
 ---
 title: "Wallys Liquor"
 url: /taylor/wallys-liquor/
-shop: Lebensmittel
+shop: convenience
 ---

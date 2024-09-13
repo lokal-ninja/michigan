@@ -1,5 +1,5 @@
 ---
 title: "The Hub"
 url: /detroit/the-hub/
-shop: Fahrrad
+shop: bicycle
 ---

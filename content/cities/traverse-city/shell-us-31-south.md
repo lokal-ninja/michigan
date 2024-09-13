@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /traverse-city/shell-us-31-south/
-shop: Lebensmittel
+shop: convenience
 ---

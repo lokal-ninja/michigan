@@ -1,5 +1,5 @@
 ---
 title: "Dollar Tree"
 url: /garden-city/dollar-tree/
-shop: Kramladen
+shop: variety store
 ---

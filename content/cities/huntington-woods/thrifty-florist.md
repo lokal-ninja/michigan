@@ -1,5 +1,5 @@
 ---
 title: "Thrifty Florist"
 url: /huntington-woods/thrifty-florist/
-shop: Blumen
+shop: florist
 ---

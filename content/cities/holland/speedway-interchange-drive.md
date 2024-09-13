@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /holland/speedway-interchange-drive/
-shop: Lebensmittel
+shop: convenience
 ---

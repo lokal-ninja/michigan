@@ -1,5 +1,5 @@
 ---
 title: "Tomboy Liquor"
 url: /melvindale/tomboy-liquor/
-shop: Lebensmittel
+shop: convenience
 ---

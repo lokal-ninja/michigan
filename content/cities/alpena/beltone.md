@@ -1,5 +1,5 @@
 ---
 title: "Beltone"
 url: /alpena/beltone/
-shop: Hörgeräte
+shop: hearing aids
 ---
