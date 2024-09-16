@@ -1,11 +1,11 @@
 id: 52835993
-type: way
+type: node
 latitude: 42.5612
 longitude: -83.13254
 postcode: "48083"
 city: Troy
-street: "E Big Beaver Rd"
-housenumber: 766
-phone: "+1-248-689-4402"
-opening_hours: "Mo-Sa 10:00-21:00; Su 11:00-18:00"
-website: "https://www.rei.com/stores/troy"
+street: E Big Beaver Rd
+housenumber: "766"
+phone: +1-248-689-4402
+opening_hours: Mo-Sa 10:00-21:00; Su 11:00-18:00
+website: https://www.rei.com/stores/troy

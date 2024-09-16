@@ -1,11 +1,11 @@
 id: 529224462
-type: way
+type: node
 latitude: 42.59443
 longitude: -83.07026
 postcode: "48314"
 city: Sterling Heights
-street: "18 Mile Road"
-housenumber: 4025
+street: 18 Mile Road
+housenumber: "4025"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/sterling-heights-mi-pharmacies/4025-18-mile-rd-sterling-heights-mi-48314/storeid=8191"
+website: https://www.cvs.com/store-locator/sterling-heights-mi-pharmacies/4025-18-mile-rd-sterling-heights-mi-48314/storeid=8191

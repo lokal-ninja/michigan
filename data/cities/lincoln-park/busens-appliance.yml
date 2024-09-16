@@ -1,11 +1,11 @@
 id: 146689770
-type: way
+type: node
 latitude: 42.24526
 longitude: -83.17932
 postcode: "48146"
 city: Lincoln Park
-street: "Fort Street"
-housenumber: 2323
-phone: "+1-313-381-1492"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-13:00"
+street: Fort Street
+housenumber: "2323"
+phone: +1-313-381-1492
+opening_hours: Mo-Fr 08:00-18:00; Sa 09:00-13:00
 website: ""

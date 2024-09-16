@@ -1,11 +1,11 @@
 id: 514271599
-type: way
+type: node
 latitude: 42.74792
 longitude: -84.40342
 postcode: "48840"
 city: Haslett
-street: "Haslett Road"
-housenumber: 1510
-phone: "+1 517 339 7704"
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://www.gerbercollision.com"
+street: Haslett Road
+housenumber: "1510"
+phone: +1 517 339 7704
+opening_hours: Mo-Fr 08:00-17:00
+website: https://www.gerbercollision.com

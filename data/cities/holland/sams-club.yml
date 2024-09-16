@@ -1,11 +1,11 @@
 id: 441528231
-type: way
+type: node
 latitude: 42.80808
 longitude: -86.08894
 postcode: "49424"
 city: Holland
-street: "North Park Drive"
-housenumber: 2190
-phone: "+1 616-395-3190"
-opening_hours: "Mo 10:00-20:00; Sa 09:00-20:00; Su 10:00-18:00"
-website: "https://www.samsclub.com/club/holland-mi-sams-club/6417"
+street: North Park Drive
+housenumber: "2190"
+phone: +1 616-395-3190
+opening_hours: Mo 10:00-20:00; Sa 09:00-20:00; Su 10:00-18:00
+website: https://www.samsclub.com/club/holland-mi-sams-club/6417

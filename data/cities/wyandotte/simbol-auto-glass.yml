@@ -1,11 +1,11 @@
 id: 147993885
-type: way
+type: node
 latitude: 42.2048
 longitude: -83.18007
 postcode: "48192"
 city: Wyandotte
-street: "Fort Street"
-housenumber: 2743
+street: Fort Street
+housenumber: "2743"
 phone: ""
 opening_hours: ""
 website: ""

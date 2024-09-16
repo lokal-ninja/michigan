@@ -4,8 +4,8 @@ latitude: 42.64266
 longitude: -82.95527
 postcode: "48044"
 city: Macomb
-street: "21 Mile Road"
-housenumber: 16761
-phone: "+1 586-263-0776"
-opening_hours: "24/7"
-website: "https://www.7-eleven.com/locations/mi/macomb-township/16761-21-mile-rd-32193"
+street: 21 Mile Road
+housenumber: "16761"
+phone: +1 586-263-0776
+opening_hours: 24/7
+website: https://www.7-eleven.com/locations/mi/macomb-township/16761-21-mile-rd-32193

@@ -1,11 +1,11 @@
 id: 980387112
-type: way
+type: node
 latitude: 43.44243
 longitude: -86.34553
 postcode: "49437"
 city: Montague Township
-street: "Old US-31"
-housenumber: 10130
+street: Old US-31
+housenumber: "10130"
 phone: ""
 opening_hours: ""
 website: ""

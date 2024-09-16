@@ -1,11 +1,11 @@
 id: 315148054
-type: way
+type: node
 latitude: 42.32587
 longitude: -83.32733
 postcode: "48135"
 city: Garden City
-street: "Ford Road"
-housenumber: 28982
+street: Ford Road
+housenumber: "28982"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 301839556
-type: way
+type: node
 latitude: 42.81419
 longitude: -86.03081
 postcode: "49464"
 city: Zeeland
-street: "West Washington Avenue"
-housenumber: 455
-phone: "+1 616 748 7944"
-opening_hours: "Mo 09:00-18:00; Tu-Fr 09:00-17:00; Sa 09:00-12:00"
-website: "https://www.officeoutlet.net"
+street: West Washington Avenue
+housenumber: "455"
+phone: +1 616 748 7944
+opening_hours: Mo 09:00-18:00; Tu-Fr 09:00-17:00; Sa 09:00-12:00
+website: https://www.officeoutlet.net

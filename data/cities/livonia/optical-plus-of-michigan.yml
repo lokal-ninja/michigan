@@ -1,11 +1,11 @@
 id: 303254218
-type: way
+type: node
 latitude: 42.38294
 longitude: -83.40193
 postcode: "48150"
 city: Livonia
-street: "Schoolcraft Road"
-housenumber: 36300
-phone: "+1-734-464-8040"
+street: Schoolcraft Road
+housenumber: "36300"
+phone: +1-734-464-8040
 opening_hours: ""
 website: ""

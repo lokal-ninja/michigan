@@ -1,11 +1,11 @@
 id: 803465902
-type: way
+type: node
 latitude: 45.64083
 longitude: -84.4519
 postcode: "49721"
 city: Cheboygan
-street: "East State Street"
-housenumber: 1719
+street: East State Street
+housenumber: "1719"
 phone: ""
 opening_hours: ""
 website: ""

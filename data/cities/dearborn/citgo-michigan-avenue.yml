@@ -1,11 +1,11 @@
 id: 262719371
-type: way
+type: node
 latitude: 42.30635
 longitude: -83.24602
 postcode: "48124"
 city: Dearborn
-street: "Michigan Avenue"
-housenumber: 22096
+street: Michigan Avenue
+housenumber: "22096"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

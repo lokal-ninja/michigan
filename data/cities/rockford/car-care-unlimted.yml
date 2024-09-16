@@ -1,11 +1,11 @@
 id: 671595057
-type: way
+type: node
 latitude: 43.12142
 longitude: -85.55993
 postcode: "49341"
 city: Rockford
-street: "North Main Street Northeast"
-housenumber: 113
-phone: "+1 616 866 0363"
-opening_hours: "Mo-Th 07:30-18:00; Fr 7:30-16:00; Sa,Su off"
-website: "http://www.carcareunlimited.net/"
+street: North Main Street Northeast
+housenumber: "113"
+phone: +1 616 866 0363
+opening_hours: Mo-Th 07:30-18:00; Fr 7:30-16:00; Sa,Su off
+website: http://www.carcareunlimited.net/

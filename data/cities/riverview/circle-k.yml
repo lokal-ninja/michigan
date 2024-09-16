@@ -1,11 +1,11 @@
 id: 700368579
-type: way
+type: node
 latitude: 42.18481
 longitude: -83.18006
 postcode: "48193"
 city: Riverview
-street: "Pennsylvania Road"
-housenumber: 12705
+street: Pennsylvania Road
+housenumber: "12705"
 phone: ""
 opening_hours: ""
 website: ""

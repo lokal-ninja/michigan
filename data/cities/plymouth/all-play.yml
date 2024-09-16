@@ -1,11 +1,11 @@
 id: 473907968
-type: way
+type: node
 latitude: 42.39197
 longitude: -83.46454
 postcode: "48170"
 city: Plymouth
-street: "5 Mile Road"
-housenumber: 42865
+street: 5 Mile Road
+housenumber: "42865"
 phone: ""
 opening_hours: ""
-website: "http://AllPlayGaming.com"
+website: http://AllPlayGaming.com

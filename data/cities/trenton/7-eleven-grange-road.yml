@@ -1,11 +1,11 @@
 id: 944876695
-type: way
+type: node
 latitude: 42.14011
 longitude: -83.21205
-postcode: "48183-3440"
+postcode: 48183-3440
 city: Trenton
-street: "Grange Road"
-housenumber: 2842
-phone: "+1 734-676-9676"
+street: Grange Road
+housenumber: "2842"
+phone: +1 734-676-9676
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/mi/trenton/2842-grange-road-13464"
+website: https://www.7-eleven.com/locations/mi/trenton/2842-grange-road-13464

@@ -1,11 +1,11 @@
 id: 1089469722
-type: way
+type: node
 latitude: 43.49325
 longitude: -83.3918
 postcode: "48723"
 city: Caro
-street: "North State Street"
-housenumber: 625
-phone: "+1-989-673-6852"
-opening_hours: "Mo-Fr 09:00-21:00; Sa-Su 09:00-18:00"
-website: "https://www.riteaid.com/locations/mi/caro/625-north-state-street.html"
+street: North State Street
+housenumber: "625"
+phone: +1-989-673-6852
+opening_hours: Mo-Fr 09:00-21:00; Sa-Su 09:00-18:00
+website: https://www.riteaid.com/locations/mi/caro/625-north-state-street.html

@@ -1,11 +1,11 @@
 id: 224317889
-type: way
+type: node
 latitude: 42.46281
 longitude: -83.37502
 postcode: "48336"
 city: Farmington
-street: "Farmington Road"
-housenumber: 23330
+street: Farmington Road
+housenumber: "23330"
 phone: ""
-opening_hours: "Mo-Su 07:00-21:00"
+opening_hours: Mo-Su 07:00-21:00
 website: ""

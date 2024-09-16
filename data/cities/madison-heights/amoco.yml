@@ -1,11 +1,11 @@
 id: 618147845
-type: way
+type: node
 latitude: 42.53385
 longitude: -83.10757
 postcode: "48071"
 city: Madison Heights
-street: "John R Road"
-housenumber: 32845
+street: John R Road
+housenumber: "32845"
 phone: ""
 opening_hours: ""
 website: ""

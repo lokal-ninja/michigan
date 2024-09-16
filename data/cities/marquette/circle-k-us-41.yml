@@ -1,11 +1,11 @@
 id: 538131472
-type: way
+type: node
 latitude: 46.54789
 longitude: -87.43019
 postcode: "49855"
 city: Marquette
-street: "US 41"
-housenumber: 2000
+street: US 41
+housenumber: "2000"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

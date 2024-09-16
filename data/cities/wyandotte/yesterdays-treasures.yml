@@ -1,11 +1,11 @@
 id: 701428724
-type: way
+type: node
 latitude: 42.20355
 longitude: -83.1528
 postcode: "48192"
 city: Wyandotte
-street: "Elm Street"
-housenumber: 258
-phone: "+1-734-283-5232"
+street: Elm Street
+housenumber: "258"
+phone: +1-734-283-5232
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 308799271
-type: way
+type: node
 latitude: 43.58876
 longitude: -85.28363
 postcode: "49346"
 city: Canadian Lakes
-street: "100th Avenue"
-housenumber: 8370
-phone: "+1 231-972-1319"
-opening_hours: "Mo-Fr 08:00-18:30; Sa 08:00-17:00; Su 10:00-15:00"
-website: "https://www.acehardware.com/"
+street: 100th Avenue
+housenumber: "8370"
+phone: +1 231-972-1319
+opening_hours: Mo-Fr 08:00-18:30; Sa 08:00-17:00; Su 10:00-15:00
+website: https://www.acehardware.com/

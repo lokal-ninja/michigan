@@ -1,11 +1,11 @@
 id: 117882643
-type: way
+type: node
 latitude: 44.76396
 longitude: -85.62853
 postcode: "49684"
 city: Traverse City
-street: "West Front Street"
-housenumber: 401
+street: West Front Street
+housenumber: "401"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 742651333
-type: way
+type: node
 latitude: 42.46239
 longitude: -83.56207
 postcode: "48178"
 city: South Lyon
-street: "10 Mile Road"
-housenumber: 51847
-phone: "+1 248-667-7310"
-opening_hours: "06:00-24:00"
-website: "https://www.kroger.com/stores/grocery/mi/south-lyon/ten-mile/018/00366"
+street: 10 Mile Road
+housenumber: "51847"
+phone: +1 248-667-7310
+opening_hours: 06:00-24:00
+website: https://www.kroger.com/stores/grocery/mi/south-lyon/ten-mile/018/00366

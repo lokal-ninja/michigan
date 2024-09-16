@@ -1,11 +1,11 @@
 id: 889473634
-type: way
+type: node
 latitude: 42.70136
 longitude: -83.39884
 postcode: "48329"
 city: Waterford
-street: "Dixie Highway"
-housenumber: 5640
-phone: "+1 248-623-2880"
-opening_hours: "Mo-We 10:00-21:00; Th-Sa 09:00-21:00; Su 10:00-21:00"
-website: "https://local.biglots.com/mi/waterford/5640-dixie-hwy"
+street: Dixie Highway
+housenumber: "5640"
+phone: +1 248-623-2880
+opening_hours: Mo-We 10:00-21:00; Th-Sa 09:00-21:00; Su 10:00-21:00
+website: https://local.biglots.com/mi/waterford/5640-dixie-hwy

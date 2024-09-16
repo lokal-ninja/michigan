@@ -1,11 +1,11 @@
 id: 233580171
-type: way
+type: node
 latitude: 45.74604
 longitude: -87.06035
 postcode: "49829"
 city: Escanaba
-street: "Ludington Street"
-housenumber: 908
+street: Ludington Street
+housenumber: "908"
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00"
+opening_hours: Mo-Sa 10:00-19:00
 website: ""

@@ -1,11 +1,11 @@
 id: 1293754816
-type: way
+type: node
 latitude: 41.96219
 longitude: -83.68147
 postcode: "48131"
 city: Dundee
-street: "Tecumseh Road"
-housenumber: 16490
+street: Tecumseh Road
+housenumber: "16490"
 phone: "+17342423900"
 opening_hours: ""
 website: ""

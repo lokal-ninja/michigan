@@ -1,11 +1,11 @@
 id: 839515441
-type: way
+type: node
 latitude: 42.29585
 longitude: -83.38897
 postcode: "48186"
 city: Westland
-street: "South Wayne Road"
-housenumber: 1750
+street: South Wayne Road
+housenumber: "1750"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/westland-mi-pharmacies/1750-s-wayne-rd-westland-mi-48186/storeid=8059"
+website: https://www.cvs.com/store-locator/westland-mi-pharmacies/1750-s-wayne-rd-westland-mi-48186/storeid=8059

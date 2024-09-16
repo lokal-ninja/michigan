@@ -2,10 +2,10 @@ id: 4945806630
 type: node
 latitude: 42.27871
 longitude: -83.74093
-postcode: "48104-2412"
+postcode: 48104-2412
 city: Ann Arbor
-street: "South State Street"
-housenumber: 317
-phone: "+1 734-913-2076"
-opening_hours: "Mo-Su 12:00-12:00"
+street: South State Street
+housenumber: "317"
+phone: +1 734-913-2076
+opening_hours: Mo-Su 12:00-12:00
 website: ""

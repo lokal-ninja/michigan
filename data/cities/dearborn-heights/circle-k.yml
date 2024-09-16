@@ -1,11 +1,11 @@
 id: 666005787
-type: way
+type: node
 latitude: 42.29669
 longitude: -83.28779
 postcode: "48125"
 city: Dearborn Heights
-street: "Michigan Avenue"
-housenumber: 25569
+street: Michigan Avenue
+housenumber: "25569"
 phone: ""
 opening_hours: ""
 website: ""

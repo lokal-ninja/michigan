@@ -1,11 +1,11 @@
 id: 270716607
-type: way
+type: node
 latitude: 44.75156
 longitude: -85.62964
 postcode: "49684"
 city: Traverse City
-street: "West Fourteenth Street"
-housenumber: 429
+street: West Fourteenth Street
+housenumber: "429"
 phone: ""
 opening_hours: ""
 website: ""

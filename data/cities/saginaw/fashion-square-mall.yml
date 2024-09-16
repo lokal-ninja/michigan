@@ -1,11 +1,11 @@
 id: 319453343
-type: way
+type: node
 latitude: 43.47886
 longitude: -83.97325
 postcode: "48604"
 city: Saginaw
-street: "Fashion Square Mall"
-housenumber: 4787
-phone: "+1 989 793 6401"
+street: Fashion Square Mall
+housenumber: "4787"
+phone: +1 989 793 6401
 opening_hours: ""
 website: ""

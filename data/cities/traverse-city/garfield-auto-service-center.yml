@@ -1,11 +1,11 @@
 id: 318991495
-type: way
+type: node
 latitude: 44.7541
 longitude: -85.59472
 postcode: "49686"
 city: Traverse City
-street: "South Garfield Avenue"
-housenumber: 725
-phone: "+1-231-929-3862"
+street: South Garfield Avenue
+housenumber: "725"
+phone: +1-231-929-3862
 opening_hours: ""
-website: "https://www.garfieldauto.com/"
+website: https://www.garfieldauto.com/

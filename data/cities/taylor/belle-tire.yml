@@ -1,11 +1,12 @@
 id: 442790857
-type: way
+type: node
 latitude: 42.19743
 longitude: -83.26195
 postcode: "48180"
 city: Taylor
-street: "Eureka Road"
-housenumber: 23533
-phone: "+1 734-720-9994"
-opening_hours: "Mo 08:00-20:00; Tu-We 08:00-18:00; Th 08:00-20:00; Fr 08:00-18:00; Sa 08:00-17:00; Su closed"
-website: "https://www.belletire.com/stores/detail/41/belle-tire-taylor-mi"
+street: Eureka Road
+housenumber: "23533"
+phone: +1 734-720-9994
+opening_hours: Mo 08:00-20:00; Tu-We 08:00-18:00; Th 08:00-20:00; Fr 08:00-18:00;
+    Sa 08:00-17:00; Su closed
+website: https://www.belletire.com/stores/detail/41/belle-tire-taylor-mi

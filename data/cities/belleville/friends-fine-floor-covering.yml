@@ -1,11 +1,11 @@
 id: 369314095
-type: way
+type: node
 latitude: 42.20645
 longitude: -83.48734
 postcode: "48111"
 city: Belleville
-street: "Main Street"
-housenumber: 164
+street: Main Street
+housenumber: "164"
 phone: ""
 opening_hours: ""
-website: "https://www.facebook.com/FriendsFineFlooring/"
+website: https://www.facebook.com/FriendsFineFlooring/

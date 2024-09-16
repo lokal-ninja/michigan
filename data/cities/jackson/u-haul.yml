@@ -1,11 +1,11 @@
 id: 779976169
-type: way
+type: node
 latitude: 42.2531
 longitude: -84.36882
 postcode: "49202"
 city: Jackson
-street: "East Michigan Avenue"
-housenumber: 2925
+street: East Michigan Avenue
+housenumber: "2925"
 phone: ""
 opening_hours: ""
 website: ""

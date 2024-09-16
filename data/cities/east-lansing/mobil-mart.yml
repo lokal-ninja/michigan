@@ -1,11 +1,11 @@
 id: 888311275
-type: way
+type: node
 latitude: 42.74637
 longitude: -84.42805
 postcode: "48823"
 city: East Lansing
-street: "Haslett Road"
-housenumber: 2139
+street: Haslett Road
+housenumber: "2139"
 phone: ""
 opening_hours: ""
 website: ""

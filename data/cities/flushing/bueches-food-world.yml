@@ -1,11 +1,11 @@
 id: 546880239
-type: way
+type: node
 latitude: 43.0638
 longitude: -83.86105
 postcode: "48433"
 city: Flushing
-street: "West Main Street"
-housenumber: 300
+street: West Main Street
+housenumber: "300"
 phone: ""
-opening_hours: "07:00-23:00"
+opening_hours: 07:00-23:00
 website: ""

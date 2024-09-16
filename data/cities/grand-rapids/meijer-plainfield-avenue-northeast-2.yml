@@ -1,11 +1,11 @@
 id: 550988967
-type: way
+type: node
 latitude: 43.0335
 longitude: -85.6291
 postcode: "49525"
 city: Grand Rapids
-street: "Plainfield Avenue Northeast"
-housenumber: 3757
-phone: "+1-616-365-1400"
+street: Plainfield Avenue Northeast
+housenumber: "3757"
+phone: +1-616-365-1400
 opening_hours: ""
 website: ""

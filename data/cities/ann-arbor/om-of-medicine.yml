@@ -5,7 +5,7 @@ longitude: -83.7487
 postcode: "48104"
 city: Ann Arbor
 street: ""
-housenumber: 111
+housenumber: "111"
 phone: ""
 opening_hours: ""
-website: "https://www.omofmedicine.org/"
+website: https://www.omofmedicine.org/

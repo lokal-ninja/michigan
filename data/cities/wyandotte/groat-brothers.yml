@@ -1,11 +1,11 @@
 id: 116771732
-type: way
+type: node
 latitude: 42.19996
 longitude: -83.17011
 postcode: "48192"
 city: Wyandotte
-street: "Eureka Road"
-housenumber: 1466
-phone: "+1-734-284-6232"
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://www.groatbrothers.com/"
+street: Eureka Road
+housenumber: "1466"
+phone: +1-734-284-6232
+opening_hours: Mo-Fr 08:00-17:00
+website: https://www.groatbrothers.com/

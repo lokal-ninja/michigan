@@ -1,11 +1,11 @@
 id: 216274624
-type: way
+type: node
 latitude: 46.54832
 longitude: -87.45764
-postcode: "49855-9494"
+postcode: 49855-9494
 city: Marquette
-street: "Highway 41 West"
-housenumber: 3175
-phone: "+1 906-228-3059"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://locations.michaels.com/mi/marquette/5734"
+street: Highway 41 West
+housenumber: "3175"
+phone: +1 906-228-3059
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://locations.michaels.com/mi/marquette/5734

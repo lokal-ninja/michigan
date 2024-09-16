@@ -4,8 +4,8 @@ latitude: 42.27604
 longitude: -85.42788
 postcode: "49053"
 city: Galesburg
-street: "Miller Drive"
-housenumber: 10305
-phone: "+1 269 665 7226"
-opening_hours: "04:00-02:00"
-website: "https://johnnysmarkets.com/store/galesburg/"
+street: Miller Drive
+housenumber: "10305"
+phone: +1 269 665 7226
+opening_hours: 04:00-02:00
+website: https://johnnysmarkets.com/store/galesburg/

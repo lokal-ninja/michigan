@@ -1,11 +1,11 @@
 id: 919826663
-type: way
+type: node
 latitude: 42.46082
 longitude: -83.18125
 postcode: "48237"
 city: Oak Park
-street: "West 9 Mile Road"
-housenumber: 13550
+street: West 9 Mile Road
+housenumber: "13550"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-13550+w+9+mile+rd-oak+park-mi-48237/id=5425"
+website: https://www.walgreens.com/locator/walgreens-13550+w+9+mile+rd-oak+park-mi-48237/id=5425

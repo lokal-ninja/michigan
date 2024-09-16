@@ -1,11 +1,11 @@
 id: 352415977
-type: way
+type: node
 latitude: 42.64252
 longitude: -83.19745
 postcode: "48309"
 city: Rochester Hills
-street: "South Adams Road"
-housenumber: 2500
-phone: "+1 248-853-0433"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/2354/rochester-hills-mi/whats-new"
+street: South Adams Road
+housenumber: "2500"
+phone: +1 248-853-0433
+opening_hours: 24/7
+website: https://www.walmart.com/store/2354/rochester-hills-mi/whats-new

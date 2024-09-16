@@ -1,11 +1,11 @@
 id: 242170960
-type: way
+type: node
 latitude: 42.55155
 longitude: -83.43982
 postcode: "48390"
 city: Commerce Township
-street: "Haggerty Road"
-housenumber: 1887
+street: Haggerty Road
+housenumber: "1887"
 phone: ""
 opening_hours: ""
 website: ""

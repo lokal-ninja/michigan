@@ -1,11 +1,11 @@
 id: 682252853
-type: way
+type: node
 latitude: 43.32113
 longitude: -83.74009
 postcode: "48734"
 city: Frankenmuth
-street: "South Main Street"
-housenumber: 1015
+street: South Main Street
+housenumber: "1015"
 phone: ""
 opening_hours: ""
 website: ""

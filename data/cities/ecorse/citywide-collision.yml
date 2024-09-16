@@ -1,11 +1,11 @@
 id: 675440742
-type: way
+type: node
 latitude: 42.25585
 longitude: -83.13985
 postcode: "48229"
 city: Ecorse
-street: "West Jefferson Avenue"
-housenumber: 3860
-phone: "+1-313-928-8220"
+street: West Jefferson Avenue
+housenumber: "3860"
+phone: +1-313-928-8220
 opening_hours: ""
 website: ""

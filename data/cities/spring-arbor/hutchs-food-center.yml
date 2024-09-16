@@ -4,8 +4,8 @@ latitude: 42.20707
 longitude: -84.54146
 postcode: "49283"
 city: Spring Arbor
-street: "Spring Arbor Road"
-housenumber: 8025
+street: Spring Arbor Road
+housenumber: "8025"
 phone: ""
-opening_hours: "7:00-21:00"
-website: "https://www.hutchsfoodcenter.com/"
+opening_hours: 7:00-21:00
+website: https://www.hutchsfoodcenter.com/

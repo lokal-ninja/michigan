@@ -1,11 +1,11 @@
 id: 158364502
-type: way
+type: node
 latitude: 42.20104
 longitude: -83.25464
 postcode: "48180"
 city: Taylor
-street: "Eureka Road"
-housenumber: 23000
+street: Eureka Road
+housenumber: "23000"
 phone: ""
 opening_hours: ""
-website: "https://www.macys.com/stores/mi/taylor/southland-center_309.html"
+website: https://www.macys.com/stores/mi/taylor/southland-center_309.html

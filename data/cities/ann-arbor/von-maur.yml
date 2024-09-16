@@ -1,11 +1,11 @@
 id: 671191776
-type: way
+type: node
 latitude: 42.23952
 longitude: -83.74757
 postcode: ""
 city: Ann Arbor
-street: "Briarwood Circle"
-housenumber: 
+street: Briarwood Circle
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.vonmaur.com/"
+website: https://www.vonmaur.com/

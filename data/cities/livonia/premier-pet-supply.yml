@@ -1,11 +1,11 @@
 id: 318667166
-type: way
+type: node
 latitude: 42.39839
 longitude: -83.35504
 postcode: "48154"
 city: Livonia
-street: "Merriman Road"
-housenumber: 15399
+street: Merriman Road
+housenumber: "15399"
 phone: ""
 opening_hours: ""
 website: ""

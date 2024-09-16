@@ -1,11 +1,11 @@
 id: 234943046
-type: way
+type: node
 latitude: 45.94947
 longitude: -86.2324
 postcode: "49854"
 city: Manistique
-street: "East Lakeshore Drive"
-housenumber: 735
-phone: "+1-906-341-8070"
+street: East Lakeshore Drive
+housenumber: "735"
+phone: +1-906-341-8070
 opening_hours: ""
-website: "https://www.jacksfreshmarket.com/"
+website: https://www.jacksfreshmarket.com/

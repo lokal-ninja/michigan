@@ -1,11 +1,11 @@
 id: 342234577
-type: way
+type: node
 latitude: 46.27657
 longitude: -87.41964
 postcode: "49841"
 city: Gwinn
-street: "East M-35"
-housenumber: 188
-phone: "+1-906-346-9664"
+street: East M-35
+housenumber: "188"
+phone: +1-906-346-9664
 opening_hours: ""
 website: ""

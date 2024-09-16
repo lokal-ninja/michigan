@@ -4,8 +4,8 @@ latitude: 42.27931
 longitude: -83.74385
 postcode: ""
 city: Ann Arbor
-street: "South Division Street"
-housenumber: 303
+street: South Division Street
+housenumber: "303"
 phone: ""
-opening_hours: "Mo-We 11:00-16:00; Th-Fr 11:00-19:00; Sa 11:00-16:00; Su closed"
-website: "http://www.gingerdeli.com/"
+opening_hours: Mo-We 11:00-16:00; Th-Fr 11:00-19:00; Sa 11:00-16:00; Su closed
+website: http://www.gingerdeli.com/

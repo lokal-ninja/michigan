@@ -1,11 +1,11 @@
 id: 1258018077
-type: way
+type: node
 latitude: 44.91357
 longitude: -83.44018
 postcode: "49766"
 city: Ossineke
-street: "US 23 South"
-housenumber: 11199
+street: US 23 South
+housenumber: "11199"
 phone: ""
 opening_hours: ""
 website: ""

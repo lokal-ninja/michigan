@@ -1,11 +1,11 @@
 id: 1173737253
-type: way
+type: node
 latitude: 45.42286
 longitude: -83.81931
 postcode: "49779"
 city: Rogers City
-street: "North 3rd Street"
-housenumber: 380
-phone: "+1-989-734-7306"
-opening_hours: "Mo-Tu,Th,Sa 09:00-16:00; We,Fr 09:00-17:00"
-website: "https://hopeshores.org/"
+street: North 3rd Street
+housenumber: "380"
+phone: +1-989-734-7306
+opening_hours: Mo-Tu,Th,Sa 09:00-16:00; We,Fr 09:00-17:00
+website: https://hopeshores.org/

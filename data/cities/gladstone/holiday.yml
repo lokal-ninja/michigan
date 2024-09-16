@@ -1,11 +1,11 @@
 id: 372419031
-type: way
+type: node
 latitude: 45.8502
 longitude: -87.02212
 postcode: "49837"
 city: Gladstone
-street: "North 9th Street"
-housenumber: 210
-phone: "+1 906 428 3900"
-opening_hours: "04:00-02:00"
-website: "https://www.holidaystationstores.com/locations/Detail?storeNumber=201"
+street: North 9th Street
+housenumber: "210"
+phone: +1 906 428 3900
+opening_hours: 04:00-02:00
+website: https://www.holidaystationstores.com/locations/Detail?storeNumber=201

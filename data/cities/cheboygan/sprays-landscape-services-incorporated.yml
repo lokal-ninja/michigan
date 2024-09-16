@@ -1,11 +1,11 @@
 id: 1226566951
-type: way
+type: node
 latitude: 45.64426
 longitude: -84.49699
 postcode: "49721"
 city: Cheboygan
-street: "Court Street"
-housenumber: 1420
-phone: "+1-231-627-3813"
+street: Court Street
+housenumber: "1420"
+phone: +1-231-627-3813
 opening_hours: ""
 website: ""

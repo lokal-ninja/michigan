@@ -1,11 +1,11 @@
 id: 851429246
-type: way
+type: node
 latitude: 44.02109
 longitude: -84.80049
 postcode: "48625"
 city: Harrison
-street: "East Beech Street"
-housenumber: 161
+street: East Beech Street
+housenumber: "161"
 phone: ""
-opening_hours: "Mo-Fr 08:00-21:00; Sa 09:00-19:00; Su 09:00-18:00"
-website: "https://www.riteaid.com/locations/mi/harrison/161-beech-street.html"
+opening_hours: Mo-Fr 08:00-21:00; Sa 09:00-19:00; Su 09:00-18:00
+website: https://www.riteaid.com/locations/mi/harrison/161-beech-street.html

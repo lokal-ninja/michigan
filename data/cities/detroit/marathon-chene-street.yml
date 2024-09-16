@@ -1,11 +1,11 @@
 id: 380134439
-type: way
+type: node
 latitude: 42.37364
 longitude: -83.04558
 postcode: "48211"
 city: Detroit
-street: "Chene Street"
-housenumber: 5960
+street: Chene Street
+housenumber: "5960"
 phone: ""
 opening_hours: ""
 website: ""

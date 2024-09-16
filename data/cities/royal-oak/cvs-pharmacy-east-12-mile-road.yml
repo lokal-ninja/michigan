@@ -1,11 +1,11 @@
 id: 359438560
-type: way
+type: node
 latitude: 42.50493
 longitude: -83.14227
 postcode: "48073"
 city: Royal Oak
-street: "East 12 Mile Road"
-housenumber: 209
+street: East 12 Mile Road
+housenumber: "209"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/royal-oak-mi-pharmacies/209-e-12-mile-rd-royal-oak-mi-48073/storeid=8127"
+website: https://www.cvs.com/store-locator/royal-oak-mi-pharmacies/209-e-12-mile-rd-royal-oak-mi-48073/storeid=8127

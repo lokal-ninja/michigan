@@ -1,11 +1,11 @@
 id: 812643323
-type: way
+type: node
 latitude: 42.21349
 longitude: -83.19012
 postcode: "48195"
 city: Southgate
-street: "Northline Road"
-housenumber: 13571
+street: Northline Road
+housenumber: "13571"
 phone: ""
 opening_hours: ""
 website: ""

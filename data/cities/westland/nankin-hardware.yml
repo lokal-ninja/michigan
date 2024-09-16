@@ -1,11 +1,11 @@
 id: 317117678
-type: way
+type: node
 latitude: 42.32438
 longitude: -83.38536
-postcode: "48185-7124"
+postcode: 48185-7124
 city: Westland
-street: "Ford Road"
-housenumber: 35101
-phone: "+1 734-722-5700"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 10:00-18:00; Su 10:00-16:00"
+street: Ford Road
+housenumber: "35101"
+phone: +1 734-722-5700
+opening_hours: Mo-Fr 09:00-19:00; Sa 10:00-18:00; Su 10:00-16:00
 website: ""

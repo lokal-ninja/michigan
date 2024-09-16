@@ -4,8 +4,8 @@ latitude: 42.41397
 longitude: -83.28324
 postcode: "48219"
 city: Detroit
-street: "West McNichols Road"
-housenumber: 24555
-phone: "+1 313 472 5363"
-opening_hours: "Mo 0:00-24:00; Tu-Su 06:00-22:00"
+street: West McNichols Road
+housenumber: "24555"
+phone: +1 313 472 5363
+opening_hours: Mo 0:00-24:00; Tu-Su 06:00-22:00
 website: ""

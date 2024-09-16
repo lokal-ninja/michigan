@@ -1,11 +1,11 @@
 id: 227727266
-type: way
+type: node
 latitude: 42.49016
 longitude: -83.16014
 postcode: "48072"
 city: Berkley
-street: "Woodward Avenue"
-housenumber: 27157
+street: Woodward Avenue
+housenumber: "27157"
 phone: ""
 opening_hours: ""
 website: ""

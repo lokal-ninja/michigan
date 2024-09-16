@@ -1,11 +1,11 @@
 id: 96158920
-type: way
+type: node
 latitude: 42.2494
 longitude: -83.6595
 postcode: "48197"
 city: Ypsilanti
-street: "Washtenaw Avenue"
-housenumber: 2985
+street: Washtenaw Avenue
+housenumber: "2985"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 390416567
-type: way
+type: node
 latitude: 42.53418
 longitude: -83.13469
 postcode: "48017"
 city: Clawson
-street: "East 14 Mile Road"
-housenumber: 775
+street: East 14 Mile Road
+housenumber: "775"
 phone: ""
 opening_hours: ""
 website: ""

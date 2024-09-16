@@ -4,8 +4,8 @@ latitude: 42.35725
 longitude: -83.23554
 postcode: "48228"
 city: Detroit
-street: "Joy Road"
-housenumber: 19839
-phone: "+1 313 525 1113"
-opening_hours: "24/7"
+street: Joy Road
+housenumber: "19839"
+phone: +1 313 525 1113
+opening_hours: 24/7
 website: ""

@@ -1,11 +1,11 @@
 id: 201214290
-type: way
+type: node
 latitude: 41.94816
 longitude: -86.33742
 postcode: "49103"
 city: Berrien Springs
-street: "East Mars Street"
-housenumber: 106
+street: East Mars Street
+housenumber: "106"
 phone: ""
-opening_hours: "Mo-Su 07:00-23:00"
+opening_hours: Mo-Su 07:00-23:00
 website: ""

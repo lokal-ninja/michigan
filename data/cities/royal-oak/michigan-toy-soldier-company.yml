@@ -1,11 +1,11 @@
 id: 547025294
-type: way
+type: node
 latitude: 42.49017
 longitude: -83.12813
 postcode: "48067"
 city: Royal Oak
-street: "East 11 Mile Road"
-housenumber: 1400
+street: East 11 Mile Road
+housenumber: "1400"
 phone: ""
 opening_hours: ""
-website: "https://www.michtoy.com/"
+website: https://www.michtoy.com/

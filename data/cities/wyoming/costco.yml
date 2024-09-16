@@ -1,11 +1,11 @@
 id: 261169207
-type: way
+type: node
 latitude: 42.87601
 longitude: -85.76478
 postcode: "49418"
 city: Wyoming
-street: "Wilson Avenue Southwest"
-housenumber: 4901
-phone: "+1 616-406-2651"
-opening_hours: "Mo-Fr 10:00-20:30; Sa 09:30-18:00; Su 10:00-18:00"
-website: "https://www.costco.com/warehouse-locations/wyoming-mi-744.html"
+street: Wilson Avenue Southwest
+housenumber: "4901"
+phone: +1 616-406-2651
+opening_hours: Mo-Fr 10:00-20:30; Sa 09:30-18:00; Su 10:00-18:00
+website: https://www.costco.com/warehouse-locations/wyoming-mi-744.html

@@ -1,11 +1,11 @@
 id: 261738899
-type: way
+type: node
 latitude: 42.26328
 longitude: -85.17881
-postcode: "49014-7556"
+postcode: 49014-7556
 city: Battle Creek
-street: "Harper Village Drive"
-housenumber: 12765
-phone: "+1 269-979-8771"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://locations.michaels.com/mi/battle-creek/1537"
+street: Harper Village Drive
+housenumber: "12765"
+phone: +1 269-979-8771
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://locations.michaels.com/mi/battle-creek/1537

@@ -1,11 +1,11 @@
 id: 1277856766
-type: way
+type: node
 latitude: 42.57974
 longitude: -82.81132
 postcode: "48045"
 city: Harrison Township
-street: "Jefferson Avenue"
-housenumber: 38610
+street: Jefferson Avenue
+housenumber: "38610"
 phone: ""
 opening_hours: ""
-website: "https://daisysalonstudios.com/"
+website: https://daisysalonstudios.com/

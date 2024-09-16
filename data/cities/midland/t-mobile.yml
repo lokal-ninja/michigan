@@ -1,11 +1,11 @@
 id: 315255662
-type: way
+type: node
 latitude: 43.65843
 longitude: -84.24779
 postcode: "48642"
 city: Midland
-street: "Eastman Avenue"
-housenumber: 6615
+street: Eastman Avenue
+housenumber: "6615"
 phone: ""
 opening_hours: ""
 website: ""

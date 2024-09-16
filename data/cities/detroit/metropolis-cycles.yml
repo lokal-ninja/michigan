@@ -4,8 +4,8 @@ latitude: 42.33119
 longitude: -83.07545
 postcode: "48216"
 city: Detroit
-street: "Michigan Avenue"
-housenumber: 2117
+street: Michigan Avenue
+housenumber: "2117"
 phone: ""
-opening_hours: "Sa-Su 10:00-19:00"
-website: "https://metropoliscycles.bike"
+opening_hours: Sa-Su 10:00-19:00
+website: https://metropoliscycles.bike

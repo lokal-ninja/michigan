@@ -1,11 +1,11 @@
 id: 383453097
-type: way
+type: node
 latitude: 42.2448
 longitude: -83.69547
 postcode: "48108"
 city: Ann Arbor
-street: "Packard Road"
-housenumber: 3240
-phone: "+1-305-673-8086"
-opening_hours: "Mo-Su 11:00-22:00"
-website: "https://www.iloveliquor.com/"
+street: Packard Road
+housenumber: "3240"
+phone: +1-305-673-8086
+opening_hours: Mo-Su 11:00-22:00
+website: https://www.iloveliquor.com/

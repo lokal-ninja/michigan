@@ -1,11 +1,11 @@
 id: 92821239
-type: way
+type: node
 latitude: 45.40844
 longitude: -87.61071
 postcode: "49887"
 city: Stephenson
-street: "US 41"
-housenumber: 927
-phone: "+1-906-753-9644"
-opening_hours: "Mo-Su 06:00-22:00"
-website: "https://www.kristoil.com/"
+street: US 41
+housenumber: "927"
+phone: +1-906-753-9644
+opening_hours: Mo-Su 06:00-22:00
+website: https://www.kristoil.com/

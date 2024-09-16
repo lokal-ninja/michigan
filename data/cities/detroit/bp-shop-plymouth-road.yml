@@ -4,8 +4,8 @@ latitude: 42.37195
 longitude: -83.21582
 postcode: "48227"
 city: Detroit
-street: "Plymouth Road"
-housenumber: 17707
-phone: "+1 313 837 6300"
-opening_hours: "24/7"
+street: Plymouth Road
+housenumber: "17707"
+phone: +1 313 837 6300
+opening_hours: 24/7
 website: ""

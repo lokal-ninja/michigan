@@ -1,11 +1,11 @@
 id: 190113041
-type: way
+type: node
 latitude: 42.25991
 longitude: -83.73968
 postcode: "48104"
 city: Ann Arbor
-street: "South State Street"
-housenumber: 1621
+street: South State Street
+housenumber: "1621"
 phone: ""
 opening_hours: ""
 website: ""

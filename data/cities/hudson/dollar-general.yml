@@ -1,11 +1,11 @@
 id: 905225765
-type: way
+type: node
 latitude: 41.85629
 longitude: -84.36049
 postcode: "49247"
 city: Hudson
-street: "Railroad Street"
-housenumber: 400
+street: Railroad Street
+housenumber: "400"
 phone: ""
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/mi/hudson/14158"
+website: https://www.dollargeneral.com/store-directory/mi/hudson/14158

@@ -1,11 +1,11 @@
 id: 1109045998
-type: way
+type: node
 latitude: 42.97312
 longitude: -85.91285
 postcode: "49401"
 city: Allendale
-street: "Lake Michigan Drive"
-housenumber: 5135
-phone: "+1-616-892-2403"
-opening_hours: "Mo-Sa 10:00-18:00; Su 10:00-17:00"
-website: "https://salons.greatclips.com/us/mi/allendale/5135-lake-michigan-dr"
+street: Lake Michigan Drive
+housenumber: "5135"
+phone: +1-616-892-2403
+opening_hours: Mo-Sa 10:00-18:00; Su 10:00-17:00
+website: https://salons.greatclips.com/us/mi/allendale/5135-lake-michigan-dr

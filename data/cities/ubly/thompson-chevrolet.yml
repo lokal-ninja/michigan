@@ -1,11 +1,11 @@
 id: 857510512
-type: way
+type: node
 latitude: 43.72524
 longitude: -82.94078
 postcode: "48475"
 city: Ubly
-street: "North Ubly Road"
-housenumber: 3960
+street: North Ubly Road
+housenumber: "3960"
 phone: ""
 opening_hours: ""
-website: "https://www.gothompsonchevrolet.com/"
+website: https://www.gothompsonchevrolet.com/

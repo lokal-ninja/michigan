@@ -1,11 +1,11 @@
 id: 308933920
-type: way
+type: node
 latitude: 42.32733
 longitude: -83.29152
 postcode: "48127"
 city: Dearborn Heights
-street: "Ford Road"
-housenumber: 25700
+street: Ford Road
+housenumber: "25700"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-25700+ford+rd-dearborn+heights-mi-48127/id=11456"
+website: https://www.walgreens.com/locator/walgreens-25700+ford+rd-dearborn+heights-mi-48127/id=11456

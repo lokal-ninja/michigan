@@ -1,11 +1,11 @@
 id: 362315013
-type: way
+type: node
 latitude: 43.2055
 longitude: -86.29285
 postcode: "49441"
 city: Norton Shores
-street: "West Sherman Boulevard"
-housenumber: 1987
+street: West Sherman Boulevard
+housenumber: "1987"
 phone: ""
 opening_hours: ""
 website: ""

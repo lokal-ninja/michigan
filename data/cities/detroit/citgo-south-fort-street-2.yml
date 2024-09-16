@@ -1,11 +1,11 @@
 id: 440894239
-type: way
+type: node
 latitude: 42.28897
 longitude: -83.14469
 postcode: "48217"
 city: Detroit
-street: "South Fort Street"
-housenumber: 270
-phone: "+1 313 297 2227"
-opening_hours: "Mo-Sa 0:00-24:00"
+street: South Fort Street
+housenumber: "270"
+phone: +1 313 297 2227
+opening_hours: Mo-Sa 0:00-24:00
 website: ""

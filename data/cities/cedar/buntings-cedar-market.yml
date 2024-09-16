@@ -1,11 +1,11 @@
 id: 840983306
-type: way
+type: node
 latitude: 44.84674
 longitude: -85.79581
 postcode: "49621"
 city: Cedar
-street: "Kasson Street"
-housenumber: 9054
+street: Kasson Street
+housenumber: "9054"
 phone: ""
 opening_hours: ""
 website: ""

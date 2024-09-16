@@ -4,8 +4,8 @@ latitude: 42.29375
 longitude: -85.65121
 postcode: "49009"
 city: Kalamazoo
-street: "West Main Street"
-housenumber: 5161
-phone: "+1 269 344 3488"
+street: West Main Street
+housenumber: "5161"
+phone: +1 269 344 3488
 opening_hours: ""
-website: "https://hardings.com/"
+website: https://hardings.com/

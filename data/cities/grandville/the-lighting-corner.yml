@@ -1,11 +1,11 @@
 id: 1042722898
-type: way
+type: node
 latitude: 42.908
 longitude: -85.76956
 postcode: "49418"
 city: Grandville
-street: "Chicago Drive Southwest"
-housenumber: 4269
-phone: "+1-616-534-8560"
+street: Chicago Drive Southwest
+housenumber: "4269"
+phone: +1-616-534-8560
 opening_hours: ""
-website: "https://www.thelightingcorner.com"
+website: https://www.thelightingcorner.com

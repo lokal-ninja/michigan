@@ -1,11 +1,11 @@
 id: 1095940666
-type: way
+type: node
 latitude: 43.40553
 longitude: -85.796
 postcode: "49337"
 city: Newaygo
-street: "Pine Lake Drive"
-housenumber: 51
+street: Pine Lake Drive
+housenumber: "51"
 phone: ""
 opening_hours: ""
 website: ""

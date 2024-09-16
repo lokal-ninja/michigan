@@ -1,11 +1,11 @@
 id: 316618814
-type: way
+type: node
 latitude: 42.43201
 longitude: -83.29946
 postcode: "48240"
 city: Redford
-street: "Grand River Avenue"
-housenumber: 25851
-phone: "+1 855-955-2534"
-opening_hours: "Mo, We, Fr-Su 09:00-20:00, Tu, Th 08:30-20:00"
-website: "https://stores.aldi.us/mi/redford/25851-grand-river-avenue"
+street: Grand River Avenue
+housenumber: "25851"
+phone: +1 855-955-2534
+opening_hours: Mo, We, Fr-Su 09:00-20:00, Tu, Th 08:30-20:00
+website: https://stores.aldi.us/mi/redford/25851-grand-river-avenue

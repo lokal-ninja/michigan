@@ -1,11 +1,11 @@
 id: 845142356
-type: way
+type: node
 latitude: 42.28575
 longitude: -83.23371
 postcode: "48124"
 city: Dearborn
-street: "West Outer Drive"
-housenumber: 22001
-phone: "+1-313-730-1030"
+street: West Outer Drive
+housenumber: "22001"
+phone: +1-313-730-1030
 opening_hours: ""
-website: "http://www.impgraphics.net/index.html"
+website: http://www.impgraphics.net/index.html

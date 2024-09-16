@@ -1,11 +1,11 @@
 id: 1242008049
-type: way
+type: node
 latitude: 45.06288
 longitude: -83.48735
 postcode: "49707"
 city: Alpena
-street: "Crittenden Court"
-housenumber: 1055
-phone: "+1-989-356-4521"
-opening_hours: "Mo-Fr 07:30-16:30"
-website: "https://standardelectricco.com/locations/standard-electric-alpena/"
+street: Crittenden Court
+housenumber: "1055"
+phone: +1-989-356-4521
+opening_hours: Mo-Fr 07:30-16:30
+website: https://standardelectricco.com/locations/standard-electric-alpena/

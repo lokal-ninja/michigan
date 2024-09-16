@@ -1,11 +1,11 @@
 id: 495774012
-type: way
+type: node
 latitude: 42.63603
 longitude: -83.75737
 postcode: "48843"
 city: Howell
-street: "East Highland Road"
-housenumber: 10025
-phone: "+1 810-632-2304"
-opening_hours: "08:00-22:00"
-website: "https://www.target.com/sl/hartland-township/1971"
+street: East Highland Road
+housenumber: "10025"
+phone: +1 810-632-2304
+opening_hours: 08:00-22:00
+website: https://www.target.com/sl/hartland-township/1971

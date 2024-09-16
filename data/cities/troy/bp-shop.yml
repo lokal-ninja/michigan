@@ -4,8 +4,8 @@ latitude: 42.54881
 longitude: -83.1082
 postcode: "48083"
 city: Troy
-street: "East Maple Road"
-housenumber: 1980
-phone: "+1 248 589 3660"
-opening_hours: "24/7"
+street: East Maple Road
+housenumber: "1980"
+phone: +1 248 589 3660
+opening_hours: 24/7
 website: ""

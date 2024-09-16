@@ -1,11 +1,11 @@
 id: 544048513
-type: way
+type: node
 latitude: 42.49491
 longitude: -83.48273
 postcode: "48377"
 city: Novi
-street: "West 12 Mile Road"
-housenumber: 44055
+street: West 12 Mile Road
+housenumber: "44055"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 675484647
-type: way
+type: node
 latitude: 42.24581
 longitude: -83.16303
 postcode: "48146"
 city: Lincoln Park
-street: "Southfield Road"
-housenumber: 585
+street: Southfield Road
+housenumber: "585"
 phone: ""
 opening_hours: ""
 website: ""

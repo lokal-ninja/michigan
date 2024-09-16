@@ -1,11 +1,11 @@
 id: 496752446
-type: way
+type: node
 latitude: 45.07062
 longitude: -83.44395
 postcode: "49707"
 city: Alpena
-street: "West Chisholm Street"
-housenumber: 932
-phone: "+1-989-200-4608"
-opening_hours: "Mo-Sa 09:00-18:00"
-website: "https://www.hudsonmotorsales.com/"
+street: West Chisholm Street
+housenumber: "932"
+phone: +1-989-200-4608
+opening_hours: Mo-Sa 09:00-18:00
+website: https://www.hudsonmotorsales.com/

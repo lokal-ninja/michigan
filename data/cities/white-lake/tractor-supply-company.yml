@@ -1,11 +1,11 @@
 id: 895614141
-type: way
+type: node
 latitude: 42.65349
 longitude: -83.48637
 postcode: "48386"
 city: White Lake
-street: "Highland Road"
-housenumber: 10150
-phone: "+1 248-698-3075"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
+street: Highland Road
+housenumber: "10150"
+phone: +1 248-698-3075
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
 website: ""

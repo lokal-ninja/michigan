@@ -1,11 +1,11 @@
 id: 687656481
-type: way
+type: node
 latitude: 42.16793
 longitude: -83.26764
 postcode: "48174"
 city: Brownstown Township
-street: "Telegraph Road"
-housenumber: 18900
+street: Telegraph Road
+housenumber: "18900"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/brownstown-mi-pharmacies/18900-telegraph-rd-brownstown-mi-48174/storeid=211"
+website: https://www.cvs.com/store-locator/brownstown-mi-pharmacies/18900-telegraph-rd-brownstown-mi-48174/storeid=211

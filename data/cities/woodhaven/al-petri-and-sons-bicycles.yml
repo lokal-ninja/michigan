@@ -1,11 +1,11 @@
 id: 704925062
-type: way
+type: node
 latitude: 42.14254
 longitude: -83.22677
 postcode: "48183"
 city: Woodhaven
-street: "Allen Road"
-housenumber: 22720
+street: Allen Road
+housenumber: "22720"
 phone: ""
 opening_hours: ""
 website: ""

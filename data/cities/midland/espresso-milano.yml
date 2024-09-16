@@ -1,11 +1,11 @@
 id: 314452691
-type: way
+type: node
 latitude: 43.61397
 longitude: -84.24508
 postcode: "48640"
 city: Midland
-street: "Ashman Street"
-housenumber: 133
+street: Ashman Street
+housenumber: "133"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1082923607
-type: way
+type: node
 latitude: 42.11482
 longitude: -86.48267
 postcode: "49085"
 city: Saint Joseph
-street: "Marina Drive"
-housenumber: 273
+street: Marina Drive
+housenumber: "273"
 phone: ""
 opening_hours: ""
 website: ""

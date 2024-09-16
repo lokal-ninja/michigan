@@ -1,11 +1,11 @@
 id: 358410045
-type: way
+type: node
 latitude: 42.64564
 longitude: -83.9575
 postcode: "48855"
 city: Howell
-street: "Brewer Road"
-housenumber: 3300
+street: Brewer Road
+housenumber: "3300"
 phone: ""
 opening_hours: ""
 website: ""

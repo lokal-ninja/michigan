@@ -1,11 +1,11 @@
 id: 802006661
-type: way
+type: node
 latitude: 42.55436
 longitude: -83.7922
 postcode: "48114"
 city: Brighton
-street: "West Grand River Avenue"
-housenumber: 8144
+street: West Grand River Avenue
+housenumber: "8144"
 phone: ""
-opening_hours: "Mo-Fr 07:00-20:00; Su 12:00-17:00"
+opening_hours: Mo-Fr 07:00-20:00; Su 12:00-17:00
 website: ""

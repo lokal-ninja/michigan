@@ -1,11 +1,11 @@
 id: 1095293647
-type: way
+type: node
 latitude: 42.9627
 longitude: -85.64648
 postcode: ""
 city: Grand Rapids
-street: "Fulton Street East"
-housenumber: 926
+street: Fulton Street East
+housenumber: "926"
 phone: ""
 opening_hours: ""
-website: "https://www.myurbanexchange.com/"
+website: https://www.myurbanexchange.com/

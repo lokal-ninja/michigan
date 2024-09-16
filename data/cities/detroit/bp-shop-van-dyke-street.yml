@@ -4,8 +4,8 @@ latitude: 42.38719
 longitude: -83.02024
 postcode: "48213"
 city: Detroit
-street: "Van Dyke Street"
-housenumber: 6420
-phone: "+1 313 571 3333"
-opening_hours: "24/7"
+street: Van Dyke Street
+housenumber: "6420"
+phone: +1 313 571 3333
+opening_hours: 24/7
 website: ""

@@ -1,11 +1,11 @@
 id: 851725210
-type: way
+type: node
 latitude: 44.16937
 longitude: -84.12519
 postcode: "48610"
 city: Alger
-street: "South M-33"
-housenumber: 5766
-phone: "+1-989-836-2900"
+street: South M-33
+housenumber: "5766"
+phone: +1-989-836-2900
 opening_hours: ""
 website: ""

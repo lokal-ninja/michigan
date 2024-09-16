@@ -4,8 +4,8 @@ latitude: 42.30345
 longitude: -83.70518
 postcode: "48105"
 city: Ann Arbor
-street: "Plymouth Road"
-housenumber: 2789
-phone: "+1-734-669-8821"
-opening_hours: "10:00-21:00"
+street: Plymouth Road
+housenumber: "2789"
+phone: +1-734-669-8821
+opening_hours: 10:00-21:00
 website: ""

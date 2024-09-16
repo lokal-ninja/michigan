@@ -1,11 +1,11 @@
 id: 341230866
-type: way
+type: node
 latitude: 44.6654
 longitude: -85.69324
 postcode: "49637"
 city: Grawn
-street: "US 31 South"
-housenumber: 5818
+street: US 31 South
+housenumber: "5818"
 phone: ""
 opening_hours: ""
 website: ""

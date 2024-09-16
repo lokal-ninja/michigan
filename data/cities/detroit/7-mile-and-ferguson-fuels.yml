@@ -4,8 +4,8 @@ latitude: 42.42991
 longitude: -83.21085
 postcode: "48235"
 city: Detroit
-street: "West 7 Mile Road"
-housenumber: 16901
-phone: "+1 313 340 2227"
-opening_hours: "24/7"
+street: West 7 Mile Road
+housenumber: "16901"
+phone: +1 313 340 2227
+opening_hours: 24/7
 website: ""

@@ -1,11 +1,11 @@
 id: 429334269
-type: way
+type: node
 latitude: 42.4982
 longitude: -83.41808
 postcode: "48331"
 city: Farmington Hills
-street: "West 12 Mile Road"
-housenumber: 37500
+street: West 12 Mile Road
+housenumber: "37500"
 phone: ""
 opening_hours: ""
 website: ""

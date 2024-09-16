@@ -1,11 +1,11 @@
 id: 482358926
-type: way
+type: node
 latitude: 42.26922
 longitude: -83.4898
 postcode: "48188"
 city: Canton
-street: "Michigan Avenue"
-housenumber: 45555
-phone: "+1 734-985-9413"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/5761/canton-mi/whats-new"
+street: Michigan Avenue
+housenumber: "45555"
+phone: +1 734-985-9413
+opening_hours: 24/7
+website: https://www.walmart.com/store/5761/canton-mi/whats-new

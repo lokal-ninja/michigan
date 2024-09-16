@@ -1,11 +1,11 @@
 id: 772094061
-type: way
+type: node
 latitude: 42.71272
 longitude: -83.03861
 postcode: "48316"
 city: Washington Township
-street: "26 Mile Road"
-housenumber: 7526
+street: 26 Mile Road
+housenumber: "7526"
 phone: ""
 opening_hours: ""
 website: ""

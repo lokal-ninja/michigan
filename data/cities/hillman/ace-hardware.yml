@@ -1,11 +1,11 @@
 id: 490584462
-type: way
+type: node
 latitude: 45.05811
 longitude: -83.89172
 postcode: "49746"
 city: Hillman
-street: "M-32"
-housenumber: 27500
-phone: "+1 989-742-3330"
-opening_hours: "Mo-Sa 08:00-18:00; Su 09:00-17:00"
-website: "https://www.acehardware.com/store-details/16974"
+street: M-32
+housenumber: "27500"
+phone: +1 989-742-3330
+opening_hours: Mo-Sa 08:00-18:00; Su 09:00-17:00
+website: https://www.acehardware.com/store-details/16974

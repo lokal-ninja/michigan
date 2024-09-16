@@ -1,11 +1,11 @@
 id: 637177697
-type: way
+type: node
 latitude: 42.51073
 longitude: -83.113
 postcode: "48071"
 city: Madison Heights
-street: "Ajax Drive"
-housenumber: 789
+street: Ajax Drive
+housenumber: "789"
 phone: ""
 opening_hours: ""
 website: ""

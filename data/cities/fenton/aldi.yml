@@ -1,11 +1,11 @@
 id: 1302758053
-type: way
+type: node
 latitude: 42.78909
 longitude: -83.73525
 postcode: "48430"
 city: Fenton
-street: "Owen Road"
-housenumber: 3235
-phone: "+1 855-955-2534"
-opening_hours: "Mo, We, Fr-Su 09:00-20:00, Tu, Th 08:30-20:00"
-website: "https://stores.aldi.us/mi/fenton/3235-owen-rd"
+street: Owen Road
+housenumber: "3235"
+phone: +1 855-955-2534
+opening_hours: Mo, We, Fr-Su 09:00-20:00, Tu, Th 08:30-20:00
+website: https://stores.aldi.us/mi/fenton/3235-owen-rd

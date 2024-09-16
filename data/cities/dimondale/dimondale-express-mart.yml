@@ -1,11 +1,11 @@
 id: 604386528
-type: way
+type: node
 latitude: 42.64771
 longitude: -84.64186
 postcode: "48821"
 city: Dimondale
-street: "Creyts Road"
-housenumber: 364
+street: Creyts Road
+housenumber: "364"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 653212979
-type: way
+type: node
 latitude: 43.23124
 longitude: -85.55161
 postcode: "49319"
 city: Cedar Springs
-street: "North Main Street Northeast"
-housenumber: 417
+street: North Main Street Northeast
+housenumber: "417"
 phone: ""
 opening_hours: ""
 website: ""

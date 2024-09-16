@@ -1,11 +1,11 @@
 id: 228414945
-type: way
+type: node
 latitude: 42.29593
 longitude: -83.28662
 postcode: "48125"
 city: Dearborn Heights
-street: "Michigan Avenue"
-housenumber: 25451
-phone: "+1 313-359-9600"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.homedepot.com/l/Dearborn-Heights/MI/Dearborn-Heights/48125/2710"
+street: Michigan Avenue
+housenumber: "25451"
+phone: +1 313-359-9600
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.homedepot.com/l/Dearborn-Heights/MI/Dearborn-Heights/48125/2710

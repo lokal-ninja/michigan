@@ -1,11 +1,11 @@
 id: 288402479
-type: way
+type: node
 latitude: 42.39384
 longitude: -83.4955
 postcode: "48170"
 city: Plymouth Township
-street: "Keel Street"
-housenumber: 15100
-phone: "+1 248 974 9513"
-opening_hours: "Mo-Fr 08:00-17:00;Sa 08:00-15:00"
-website: "http://www.vanguardmotorsales.com"
+street: Keel Street
+housenumber: "15100"
+phone: +1 248 974 9513
+opening_hours: Mo-Fr 08:00-17:00;Sa 08:00-15:00
+website: http://www.vanguardmotorsales.com

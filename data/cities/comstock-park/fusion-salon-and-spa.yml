@@ -1,11 +1,11 @@
 id: 1118677757
-type: way
+type: node
 latitude: 43.04624
 longitude: -85.65782
 postcode: "49321"
 city: Comstock Park
-street: "West River Drive Northeast"
-housenumber: 4575
-phone: "+1-616-272-3322"
-opening_hours: "Mo-We 10:00-20:00, Fr 10:00-19:00, Sa 09:00-17:00"
+street: West River Drive Northeast
+housenumber: "4575"
+phone: +1-616-272-3322
+opening_hours: Mo-We 10:00-20:00, Fr 10:00-19:00, Sa 09:00-17:00
 website: ""

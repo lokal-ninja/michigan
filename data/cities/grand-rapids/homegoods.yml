@@ -4,8 +4,8 @@ latitude: 42.91418
 longitude: -85.58029
 postcode: "49512"
 city: Grand Rapids
-street: "28th Street Southeast"
-housenumber: 3525
-phone: "+1 616-949-2166"
-opening_hours: "Mo-Sa 09:30-21:30; Su 10:00-20:00"
+street: 28th Street Southeast
+housenumber: "3525"
+phone: +1 616-949-2166
+opening_hours: Mo-Sa 09:30-21:30; Su 10:00-20:00
 website: ""

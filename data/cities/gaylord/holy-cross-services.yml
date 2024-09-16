@@ -4,8 +4,8 @@ latitude: 45.02768
 longitude: -84.67198
 postcode: "49735"
 city: Gaylord
-street: "East Main Street"
-housenumber: 213
-phone: "+1-586-506-4141"
+street: East Main Street
+housenumber: "213"
+phone: +1-586-506-4141
 opening_hours: ""
-website: "https://holycrossservices.org/"
+website: https://holycrossservices.org/

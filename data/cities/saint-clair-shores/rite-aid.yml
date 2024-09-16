@@ -1,11 +1,11 @@
 id: 913334765
-type: way
+type: node
 latitude: 42.45982
 longitude: -82.88213
 postcode: "48080"
 city: Saint Clair Shores
-street: "Marter Road"
-housenumber: 23201
+street: Marter Road
+housenumber: "23201"
 phone: ""
-opening_hours: "Mo-Su 08:00-22:00"
-website: "https://www.riteaid.com/locations/mi/st-clair-shores/23201-marter-road.html"
+opening_hours: Mo-Su 08:00-22:00
+website: https://www.riteaid.com/locations/mi/st-clair-shores/23201-marter-road.html

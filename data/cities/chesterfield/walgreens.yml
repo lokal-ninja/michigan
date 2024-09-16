@@ -1,11 +1,11 @@
 id: 379110071
-type: way
+type: node
 latitude: 42.67518
 longitude: -82.83164
 postcode: "48051"
 city: Chesterfield
-street: "Gratiot Avenue"
-housenumber: 51008
+street: Gratiot Avenue
+housenumber: "51008"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-51008+gratiot+ave-chesterfield-mi-48051/id=4452"
+website: https://www.walgreens.com/locator/walgreens-51008+gratiot+ave-chesterfield-mi-48051/id=4452

@@ -1,11 +1,11 @@
 id: 812611744
-type: way
+type: node
 latitude: 42.22725
 longitude: -83.2292
 postcode: "48195"
 city: Southgate
-street: "Goddard Road"
-housenumber: 19141
+street: Goddard Road
+housenumber: "19141"
 phone: ""
 opening_hours: ""
 website: ""

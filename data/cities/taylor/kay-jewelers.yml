@@ -1,11 +1,11 @@
 id: 685454192
-type: way
+type: node
 latitude: 42.2006
 longitude: -83.25356
 postcode: "48180"
 city: Taylor
-street: "Eureka Road"
-housenumber: 23000
+street: Eureka Road
+housenumber: "23000"
 phone: ""
 opening_hours: ""
 website: ""

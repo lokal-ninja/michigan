@@ -1,11 +1,11 @@
 id: 381724449
-type: way
+type: node
 latitude: 42.23687
 longitude: -83.67725
 postcode: "48197"
 city: Ypsilanti
-street: "Carpenter Road"
-housenumber: 3737
-phone: "+1 734-975-0310"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-18:00"
-website: "https://stores.joann.com/mi/ypsilanti/2004/"
+street: Carpenter Road
+housenumber: "3737"
+phone: +1 734-975-0310
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-18:00
+website: https://stores.joann.com/mi/ypsilanti/2004/

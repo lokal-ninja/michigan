@@ -1,11 +1,11 @@
 id: 1253664093
-type: way
+type: node
 latitude: 42.30642
 longitude: -85.60336
 postcode: "49007"
 city: Kalamazoo
-street: "Douglas Avenue"
-housenumber: 1511
-phone: "+1 269 382 4045"
-opening_hours: "Mo-Fr 08:30-17:00"
-website: "https://chapmanautomotive.net/"
+street: Douglas Avenue
+housenumber: "1511"
+phone: +1 269 382 4045
+opening_hours: Mo-Fr 08:30-17:00
+website: https://chapmanautomotive.net/

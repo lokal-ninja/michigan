@@ -1,11 +1,11 @@
 id: 1216095440
-type: way
+type: node
 latitude: 45.60046
 longitude: -84.47584
 postcode: "49721"
 city: Cheboygan
-street: "North Straits Highway"
-housenumber: 9661
-phone: "+1-231-627-9661"
-opening_hours: "Mo-Fr 08:00-17:00"
+street: North Straits Highway
+housenumber: "9661"
+phone: +1-231-627-9661
+opening_hours: Mo-Fr 08:00-17:00
 website: ""

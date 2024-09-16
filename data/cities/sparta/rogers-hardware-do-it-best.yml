@@ -1,11 +1,11 @@
 id: 573256133
-type: way
+type: node
 latitude: 43.16086
 longitude: -85.70647
-postcode: "49345-1329"
+postcode: 49345-1329
 city: Sparta
-street: "East Division Street"
-housenumber: 155
-phone: "+1 616-887-7381"
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-17:00"
+street: East Division Street
+housenumber: "155"
+phone: +1 616-887-7381
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-17:00
 website: ""

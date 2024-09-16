@@ -1,11 +1,11 @@
 id: 318664295
-type: way
+type: node
 latitude: 42.32649
 longitude: -83.2794
 postcode: "48128"
 city: Dearborn
-street: "Ford Road"
-housenumber: 24641
+street: Ford Road
+housenumber: "24641"
 phone: ""
 opening_hours: ""
-website: "https://www.thriftyflorist.net/"
+website: https://www.thriftyflorist.net/

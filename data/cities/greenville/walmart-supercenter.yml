@@ -1,11 +1,11 @@
 id: 223084103
-type: way
+type: node
 latitude: 43.18053
 longitude: -85.29126
 postcode: "48838"
 city: Greenville
-street: "West Carson City Road"
-housenumber: 10772
-phone: "+1 616-754-3062"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/3328/greenville-mi/whats-new"
+street: West Carson City Road
+housenumber: "10772"
+phone: +1 616-754-3062
+opening_hours: 24/7
+website: https://www.walmart.com/store/3328/greenville-mi/whats-new

@@ -1,11 +1,11 @@
 id: 700602280
-type: way
+type: node
 latitude: 42.38508
 longitude: -83.17793
 postcode: "48227"
 city: Detroit
-street: "Grand River Avenue"
-housenumber: 13580
+street: Grand River Avenue
+housenumber: "13580"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/detroit-mi-pharmacies/13580-grand-river-ave-detroit-mi-48227/storeid=8269"
+website: https://www.cvs.com/store-locator/detroit-mi-pharmacies/13580-grand-river-ave-detroit-mi-48227/storeid=8269

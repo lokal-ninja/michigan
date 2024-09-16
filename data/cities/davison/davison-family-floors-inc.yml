@@ -1,11 +1,11 @@
 id: 611869153
-type: way
+type: node
 latitude: 43.03202
 longitude: -83.51861
 postcode: "48423"
 city: Davison
-street: "North State Road"
-housenumber: 305
+street: North State Road
+housenumber: "305"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1037273526
-type: way
+type: node
 latitude: 46.41816
 longitude: -87.75127
 postcode: "49849"
 city: Ishpeming
-street: "County Road 581"
-housenumber: 29907
-phone: "+1-906-485-5635"
+street: County Road 581
+housenumber: "29907"
+phone: +1-906-485-5635
 opening_hours: ""
 website: ""

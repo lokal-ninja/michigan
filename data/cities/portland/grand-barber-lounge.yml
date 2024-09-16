@@ -1,11 +1,11 @@
 id: 1146871706
-type: way
+type: node
 latitude: 42.86823
 longitude: -84.90473
 postcode: "48875"
 city: Portland
-street: "Kent Street"
-housenumber: 318
+street: Kent Street
+housenumber: "318"
 phone: ""
-opening_hours: "Mo-Th 09:00-17:00; Fr 09:00-16:00; Sa 08:00-12:00"
+opening_hours: Mo-Th 09:00-17:00; Fr 09:00-16:00; Sa 08:00-12:00
 website: ""

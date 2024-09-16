@@ -1,11 +1,11 @@
 id: 1241403832
-type: way
+type: node
 latitude: 45.06208
 longitude: -83.45281
 postcode: "49707"
 city: Alpena
-street: "West Washington Avenue"
-housenumber: 909
-phone: "+1-989-266-9333"
-opening_hours: "Mo-Sa 08:00-20:00; Su 10:00-18:00"
-website: "https://www.nprovisions.com/"
+street: West Washington Avenue
+housenumber: "909"
+phone: +1-989-266-9333
+opening_hours: Mo-Sa 08:00-20:00; Su 10:00-18:00
+website: https://www.nprovisions.com/

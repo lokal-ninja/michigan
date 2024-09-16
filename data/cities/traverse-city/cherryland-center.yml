@@ -1,11 +1,11 @@
 id: 142421429
-type: way
+type: node
 latitude: 44.73366
 longitude: -85.59905
 postcode: "49684"
 city: Traverse City
-street: "South Airport Road West"
-housenumber: 1150
+street: South Airport Road West
+housenumber: "1150"
 phone: ""
 opening_hours: ""
 website: ""

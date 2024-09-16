@@ -1,11 +1,11 @@
 id: 1227195103
-type: way
+type: node
 latitude: 43.01182
 longitude: -83.69063
 postcode: "48502"
 city: Flint
-street: "Church Street"
-housenumber: 809
+street: Church Street
+housenumber: "809"
 phone: ""
 opening_hours: ""
 website: ""

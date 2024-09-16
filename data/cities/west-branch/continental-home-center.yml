@@ -1,11 +1,11 @@
 id: 1230725637
-type: way
+type: node
 latitude: 44.26288
 longitude: -84.21816
 postcode: "48661"
 city: West Branch
-street: "West Flowage Lake Road"
-housenumber: 2490
-phone: "+1-989-345-1580"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-16:00"
-website: "https://www.continentalhomecenter.com/west-branch-mi"
+street: West Flowage Lake Road
+housenumber: "2490"
+phone: +1-989-345-1580
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-16:00
+website: https://www.continentalhomecenter.com/west-branch-mi

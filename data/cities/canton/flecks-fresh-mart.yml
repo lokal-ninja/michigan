@@ -1,11 +1,11 @@
 id: 484132685
-type: way
+type: node
 latitude: 42.27148
 longitude: -83.48619
 postcode: "48188"
 city: Canton
-street: "Michigan Avenue"
-housenumber: 45495
+street: Michigan Avenue
+housenumber: "45495"
 phone: ""
 opening_hours: ""
 website: ""

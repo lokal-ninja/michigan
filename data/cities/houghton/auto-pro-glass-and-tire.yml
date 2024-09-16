@@ -1,11 +1,11 @@
 id: 224163869
-type: way
+type: node
 latitude: 47.11069
 longitude: -88.59177
 postcode: "49931"
 city: Houghton
-street: "Memorial Drive"
-housenumber: 1212
+street: Memorial Drive
+housenumber: "1212"
 phone: ""
 opening_hours: ""
-website: "https://www.autoproglass.com"
+website: https://www.autoproglass.com

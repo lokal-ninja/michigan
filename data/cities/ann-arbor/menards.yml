@@ -1,11 +1,11 @@
 id: 534162072
-type: way
+type: node
 latitude: 42.2886
 longitude: -83.85625
 postcode: "48103"
 city: Ann Arbor
-street: "Jackson Road"
-housenumber: 6405
+street: Jackson Road
+housenumber: "6405"
 phone: ""
 opening_hours: ""
-website: "https://www.menards.com/main/storeDetails.html?store=3322"
+website: https://www.menards.com/main/storeDetails.html?store=3322

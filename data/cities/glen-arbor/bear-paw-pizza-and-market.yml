@@ -1,11 +1,11 @@
 id: 816847114
-type: way
+type: node
 latitude: 44.89786
 longitude: -85.98799
 postcode: "49636"
 city: Glen Arbor
-street: "Western Avenue"
-housenumber: 6444
+street: Western Avenue
+housenumber: "6444"
 phone: ""
 opening_hours: ""
-website: "https://www.bearpawpizza.com/"
+website: https://www.bearpawpizza.com/

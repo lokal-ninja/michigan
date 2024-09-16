@@ -1,11 +1,11 @@
 id: 878968696
-type: way
+type: node
 latitude: 42.81262
 longitude: -82.72356
 postcode: "48063"
 city: Columbus Township
-street: "Gratiot Avenue"
-housenumber: 10336
-phone: "+1-586-727-9955"
+street: Gratiot Avenue
+housenumber: "10336"
+phone: +1-586-727-9955
 opening_hours: ""
-website: "https://www.traction.com/"
+website: https://www.traction.com/

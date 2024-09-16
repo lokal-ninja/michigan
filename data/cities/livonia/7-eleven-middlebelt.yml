@@ -1,11 +1,11 @@
 id: 322381946
-type: way
+type: node
 latitude: 42.35653
 longitude: -83.33179
-postcode: "48150-4052"
+postcode: 48150-4052
 city: Livonia
-street: "MIDDLEBELT"
-housenumber: 8988
-phone: "+1 734-261-9711"
+street: MIDDLEBELT
+housenumber: "8988"
+phone: +1 734-261-9711
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/mi/livonia/8988-middlebelt-17636"
+website: https://www.7-eleven.com/locations/mi/livonia/8988-middlebelt-17636

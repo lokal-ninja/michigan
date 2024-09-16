@@ -1,11 +1,11 @@
 id: 1155674372
-type: way
+type: node
 latitude: 42.53195
 longitude: -83.22472
 postcode: "48009"
 city: Birmingham
-street: "Southfield Road"
-housenumber: 1964
+street: Southfield Road
+housenumber: "1964"
 phone: ""
 opening_hours: ""
 website: ""

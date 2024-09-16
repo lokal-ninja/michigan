@@ -1,11 +1,11 @@
 id: 667357674
-type: way
+type: node
 latitude: 43.9557
 longitude: -86.44728
 postcode: "49431"
 city: Ludington
-street: "East Ludington Avenue"
-housenumber: 109
+street: East Ludington Avenue
+housenumber: "109"
 phone: ""
 opening_hours: ""
 website: ""

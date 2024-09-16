@@ -1,11 +1,11 @@
 id: 798425130
-type: way
+type: node
 latitude: 42.47738
 longitude: -83.02656
 postcode: "48015"
 city: Center Line
-street: "East 10 Mile Road"
-housenumber: 8044
+street: East 10 Mile Road
+housenumber: "8044"
 phone: ""
-opening_hours: "Mo-Fr 07:00-17:00; Sa 08:00-16:00"
+opening_hours: Mo-Fr 07:00-17:00; Sa 08:00-16:00
 website: ""

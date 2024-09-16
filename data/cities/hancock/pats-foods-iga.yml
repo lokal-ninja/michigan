@@ -1,11 +1,11 @@
 id: 294133293
-type: way
+type: node
 latitude: 47.13183
 longitude: -88.59181
 postcode: "49930"
 city: Hancock
-street: "Market Street"
-housenumber: 801
-phone: "+1 906-482-4919"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.patsfoodsiga.com/StoreLocator/Store/?L=581193&S="
+street: Market Street
+housenumber: "801"
+phone: +1 906-482-4919
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.patsfoodsiga.com/StoreLocator/Store/?L=581193&S=

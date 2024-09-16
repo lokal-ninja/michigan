@@ -1,11 +1,11 @@
 id: 1123416909
-type: way
+type: node
 latitude: 44.05018
 longitude: -84.80942
 postcode: "48625"
 city: Harrison
-street: "North Clare Avenue"
-housenumber: 4235
+street: North Clare Avenue
+housenumber: "4235"
 phone: ""
 opening_hours: ""
 website: ""

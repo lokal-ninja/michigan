@@ -1,11 +1,11 @@
 id: 877380772
-type: way
+type: node
 latitude: 45.3545
 longitude: -84.23213
 postcode: "49765"
 city: Onaway
-street: "Washington Street"
-housenumber: 20935
-phone: "+1-989-733-8535"
+street: Washington Street
+housenumber: "20935"
+phone: +1-989-733-8535
 opening_hours: ""
-website: "https://www.brewbakers.com"
+website: https://www.brewbakers.com

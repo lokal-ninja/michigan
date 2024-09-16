@@ -1,11 +1,11 @@
 id: 919857134
-type: way
+type: node
 latitude: 42.72952
 longitude: -83.30668
 postcode: "48359"
 city: Lake Orion
-street: "South Baldwin Road"
-housenumber: 3475
+street: South Baldwin Road
+housenumber: "3475"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/lake-orion-mi-pharmacies/3475-s-baldwin-rd-lake-orion-mi-48359/storeid=8071"
+website: https://www.cvs.com/store-locator/lake-orion-mi-pharmacies/3475-s-baldwin-rd-lake-orion-mi-48359/storeid=8071

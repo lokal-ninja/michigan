@@ -1,11 +1,11 @@
 id: 114637184
-type: way
+type: node
 latitude: 44.74435
 longitude: -85.64508
 postcode: ""
 city: Traverse City
-street: "North US 31 South"
-housenumber: 3955
-phone: "+1-231-941-1543"
-opening_hours: "24/7"
+street: North US 31 South
+housenumber: "3955"
+phone: +1-231-941-1543
+opening_hours: 24/7
 website: ""

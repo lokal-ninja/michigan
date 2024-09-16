@@ -1,11 +1,11 @@
 id: 1230725631
-type: way
+type: node
 latitude: 44.26072
 longitude: -84.21359
 postcode: "48661"
 city: West Branch
-street: "South M-76"
-housenumber: 2543
-phone: "+1-989-345-5720"
-opening_hours: "Mo-Fr 07:00-16:30"
-website: "https://www.medlerelectric.com/"
+street: South M-76
+housenumber: "2543"
+phone: +1-989-345-5720
+opening_hours: Mo-Fr 07:00-16:30
+website: https://www.medlerelectric.com/

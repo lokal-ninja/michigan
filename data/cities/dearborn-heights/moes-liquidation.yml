@@ -4,8 +4,8 @@ latitude: 42.35595
 longitude: -83.29239
 postcode: "48127"
 city: Dearborn Heights
-street: "Joy Road"
-housenumber: 25585
-phone: "+1-313-657-9999"
-opening_hours: "Mo-Fr 10:00-18:00"
+street: Joy Road
+housenumber: "25585"
+phone: +1-313-657-9999
+opening_hours: Mo-Fr 10:00-18:00
 website: ""

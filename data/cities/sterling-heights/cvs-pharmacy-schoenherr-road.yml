@@ -1,11 +1,11 @@
 id: 545791060
-type: way
+type: node
 latitude: 42.61579
 longitude: -82.99357
 postcode: "48313"
 city: Sterling Heights
-street: "Schoenherr Road"
-housenumber: 43611
+street: Schoenherr Road
+housenumber: "43611"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/sterling-heights-mi-pharmacies/43611-schoenherr-rd-sterling-heights-mi-48313/storeid=8300"
+website: https://www.cvs.com/store-locator/sterling-heights-mi-pharmacies/43611-schoenherr-rd-sterling-heights-mi-48313/storeid=8300

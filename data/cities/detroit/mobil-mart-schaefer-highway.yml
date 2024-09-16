@@ -4,8 +4,8 @@ latitude: 42.38403
 longitude: -83.17792
 postcode: "48227"
 city: Detroit
-street: "Schaefer Highway"
-housenumber: 13150
-phone: "+1 313 273 2055"
-opening_hours: "24/7"
+street: Schaefer Highway
+housenumber: "13150"
+phone: +1 313 273 2055
+opening_hours: 24/7
 website: ""

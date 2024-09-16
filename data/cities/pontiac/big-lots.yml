@@ -1,11 +1,11 @@
 id: 899370060
-type: way
+type: node
 latitude: 42.6426
 longitude: -83.3219
 postcode: "48341"
 city: Pontiac
-street: "North Telegraph Road"
-housenumber: 300
-phone: "+1 248-454-8391"
-opening_hours: "Mo-We 10:00-21:00; Th-Sa 09:00-21:00; Su 10:00-21:00"
-website: "https://local.biglots.com/mi/pontiac/300-n-telegraph-rd"
+street: North Telegraph Road
+housenumber: "300"
+phone: +1 248-454-8391
+opening_hours: Mo-We 10:00-21:00; Th-Sa 09:00-21:00; Su 10:00-21:00
+website: https://local.biglots.com/mi/pontiac/300-n-telegraph-rd

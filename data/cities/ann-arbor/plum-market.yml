@@ -1,11 +1,11 @@
 id: 298913031
-type: way
+type: node
 latitude: 42.30609
 longitude: -83.69148
 postcode: "48105"
 city: Ann Arbor
-street: "Plymouth Road"
-housenumber: 3601
+street: Plymouth Road
+housenumber: "3601"
 phone: ""
 opening_hours: ""
 website: ""

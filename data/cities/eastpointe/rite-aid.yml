@@ -1,11 +1,11 @@
 id: 911417589
-type: way
+type: node
 latitude: 42.46391
 longitude: -82.9576
 postcode: "48021"
 city: Eastpointe
-street: "Gratiot Avenue"
-housenumber: 22600
+street: Gratiot Avenue
+housenumber: "22600"
 phone: ""
-opening_hours: "Mo-Su 08:00-22:00"
-website: "https://www.riteaid.com/locations/mi/eastpointe/22600-gratiot-avenue.html"
+opening_hours: Mo-Su 08:00-22:00
+website: https://www.riteaid.com/locations/mi/eastpointe/22600-gratiot-avenue.html

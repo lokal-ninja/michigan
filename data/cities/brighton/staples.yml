@@ -1,11 +1,11 @@
 id: 1254362053
-type: way
+type: node
 latitude: 42.54721
 longitude: -83.79549
 postcode: "48116"
 city: Brighton
-street: "Challis Road"
-housenumber: 8063
+street: Challis Road
+housenumber: "8063"
 phone: ""
-opening_hours: "Mo-Fr 08:00-21:00; Sa 09:00-21:00; Su 10:00-18:00"
-website: "https://stores.staples.com/mi/brighton/8063-challis-rd"
+opening_hours: Mo-Fr 08:00-21:00; Sa 09:00-21:00; Su 10:00-18:00
+website: https://stores.staples.com/mi/brighton/8063-challis-rd

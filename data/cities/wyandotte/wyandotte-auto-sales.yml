@@ -1,11 +1,11 @@
 id: 116771687
-type: way
+type: node
 latitude: 42.19919
 longitude: -83.17248
 postcode: "48192"
 city: Wyandotte
-street: "Eureka Road"
-housenumber: 1641
+street: Eureka Road
+housenumber: "1641"
 phone: ""
 opening_hours: ""
 website: ""

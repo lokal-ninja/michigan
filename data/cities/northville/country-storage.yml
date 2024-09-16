@@ -4,8 +4,8 @@ latitude: 42.43315
 longitude: -83.61906
 postcode: "48167"
 city: Northville
-street: "8 Mile Road"
-housenumber: 58000
-phone: "+1-248-437-3333"
-opening_hours: "Mo-Fr 10:00-17:00; Sa 09:00-14:00"
-website: "https://www.countrystorage.info/58000-8-mile-rd-northville-mi-48167"
+street: 8 Mile Road
+housenumber: "58000"
+phone: +1-248-437-3333
+opening_hours: Mo-Fr 10:00-17:00; Sa 09:00-14:00
+website: https://www.countrystorage.info/58000-8-mile-rd-northville-mi-48167

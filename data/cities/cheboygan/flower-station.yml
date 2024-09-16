@@ -1,11 +1,11 @@
 id: 1226720593
-type: way
+type: node
 latitude: 45.65553
 longitude: -84.48749
 postcode: "49721"
 city: Cheboygan
-street: "Mackinaw Avenue"
-housenumber: 1262
-phone: "+1-231-597-9901"
-opening_hours: "Mo-Fr 09:00-17:00; Sa 10:00-13:00"
-website: "https://flowerstationcheboyganmi.com/"
+street: Mackinaw Avenue
+housenumber: "1262"
+phone: +1-231-597-9901
+opening_hours: Mo-Fr 09:00-17:00; Sa 10:00-13:00
+website: https://flowerstationcheboyganmi.com/

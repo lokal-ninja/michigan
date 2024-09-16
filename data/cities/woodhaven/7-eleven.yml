@@ -1,11 +1,11 @@
 id: 713102460
-type: way
+type: node
 latitude: 42.11208
 longitude: -83.22564
 postcode: "48183"
 city: Woodhaven
-street: "Allen Road"
-housenumber: 26900
-phone: "+1 734-676-7881"
+street: Allen Road
+housenumber: "26900"
+phone: +1 734-676-7881
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/mi/woodhaven/26900-allen-rd-19571"
+website: https://www.7-eleven.com/locations/mi/woodhaven/26900-allen-rd-19571

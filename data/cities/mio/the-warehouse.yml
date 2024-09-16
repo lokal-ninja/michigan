@@ -1,11 +1,11 @@
 id: 1195381843
-type: way
+type: node
 latitude: 44.65124
 longitude: -84.13226
 postcode: "49647"
 city: Mio
-street: "West 9th Street"
-housenumber: 205
-phone: "+1-989-826-5100"
-opening_hours: "Mo-Fr 09:00-17:30; Sa 09:00-15:00"
-website: "https://www.thewarehouseinmio.com"
+street: West 9th Street
+housenumber: "205"
+phone: +1-989-826-5100
+opening_hours: Mo-Fr 09:00-17:30; Sa 09:00-15:00
+website: https://www.thewarehouseinmio.com

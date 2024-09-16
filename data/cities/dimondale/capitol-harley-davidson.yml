@@ -1,11 +1,11 @@
 id: 556071200
-type: way
+type: node
 latitude: 42.68008
 longitude: -84.65133
 postcode: "48821"
 city: Dimondale
-street: "Woodlane Drive"
-housenumber: 9550
+street: Woodlane Drive
+housenumber: "9550"
 phone: ""
 opening_hours: ""
 website: ""

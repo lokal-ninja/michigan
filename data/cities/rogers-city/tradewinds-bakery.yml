@@ -1,11 +1,11 @@
 id: 1173825155
-type: way
+type: node
 latitude: 45.41852
 longitude: -83.81687
 postcode: "49779"
 city: Rogers City
-street: "West Erie Street"
-housenumber: 213
-phone: "+1-989-734-4774"
-opening_hours: "Tu-Sa 06:30-12:30"
-website: "https://tradewinds-bakery.edan.io"
+street: West Erie Street
+housenumber: "213"
+phone: +1-989-734-4774
+opening_hours: Tu-Sa 06:30-12:30
+website: https://tradewinds-bakery.edan.io

@@ -1,11 +1,11 @@
 id: 1015729640
-type: way
+type: node
 latitude: 42.99779
 longitude: -84.18357
 postcode: "48867"
 city: Owosso
-street: "West Main Street"
-housenumber: 910
-phone: "+1 989 723 9375"
-opening_hours: "Mo-Fr appointment only; Sa 12:00-24:00; Su off"
-website: "https://www.americanmadetattoos.com/"
+street: West Main Street
+housenumber: "910"
+phone: +1 989 723 9375
+opening_hours: Mo-Fr "appointment only"; Sa 12:00-24:00; Su off
+website: https://www.americanmadetattoos.com/

@@ -1,11 +1,11 @@
 id: 842289551
-type: way
+type: node
 latitude: 44.74787
 longitude: -85.76371
 postcode: "49685"
 city: Traverse City
-street: "North Long Lake Road"
-housenumber: 9352
-phone: "+1 231 946 4249"
+street: North Long Lake Road
+housenumber: "9352"
+phone: +1 231 946 4249
 opening_hours: ""
-website: "http://www.longlakegrocery.com/"
+website: http://www.longlakegrocery.com/

@@ -1,11 +1,11 @@
 id: 46594245
-type: way
+type: node
 latitude: 42.53021
 longitude: -83.10522
 postcode: "48071"
 city: Madison Heights
-street: "John R Road"
-housenumber: 32320
-phone: "+1 248-583-7310"
+street: John R Road
+housenumber: "32320"
+phone: +1 248-583-7310
 opening_hours: ""
-website: "https://stores.bestbuy.com/mi/madison-heights/32320-john-r-rd-414.html"
+website: https://stores.bestbuy.com/mi/madison-heights/32320-john-r-rd-414.html

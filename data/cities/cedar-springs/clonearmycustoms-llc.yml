@@ -1,11 +1,11 @@
 id: 908652913
-type: way
+type: node
 latitude: 43.19052
 longitude: -85.55157
 postcode: "49319"
 city: Cedar Springs
-street: "Northland Drive"
-housenumber: 10405
+street: Northland Drive
+housenumber: "10405"
 phone: ""
 opening_hours: ""
-website: "https://powersport-parts.net/"
+website: https://powersport-parts.net/

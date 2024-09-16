@@ -1,11 +1,11 @@
 id: 1081535025
-type: way
+type: node
 latitude: 42.52009
 longitude: -83.12605
 postcode: "48073"
 city: Royal Oak
-street: "North Campbell Road"
-housenumber: 
+street: North Campbell Road
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1223105376
-type: way
+type: node
 latitude: 46.54957
 longitude: -87.39679
 postcode: "49855"
 city: Marquette
-street: "North 4th Street"
-housenumber: 700
-phone: "+1-906-273-0039"
+street: North 4th Street
+housenumber: "700"
+phone: +1-906-273-0039
 opening_hours: ""
 website: ""

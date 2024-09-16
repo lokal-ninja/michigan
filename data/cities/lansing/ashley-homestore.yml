@@ -1,11 +1,11 @@
 id: 259999805
-type: way
+type: node
 latitude: 42.73854
 longitude: -84.62804
 postcode: "48917"
 city: Lansing
-street: "West Saginaw Highway"
-housenumber: 5503
-phone: "+1 517-708-8827"
+street: West Saginaw Highway
+housenumber: "5503"
+phone: +1 517-708-8827
 opening_hours: ""
-website: "https://stores.ashleyfurniture.com/store/us/michigan/lansing/9000109142/"
+website: https://stores.ashleyfurniture.com/store/us/michigan/lansing/9000109142/

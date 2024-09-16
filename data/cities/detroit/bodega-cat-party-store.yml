@@ -1,11 +1,11 @@
 id: 370271771
-type: way
+type: node
 latitude: 42.32389
 longitude: -83.09551
 postcode: "48216"
 city: Detroit
-street: "Scotten Street"
-housenumber: 2200
+street: Scotten Street
+housenumber: "2200"
 phone: ""
 opening_hours: ""
 website: ""

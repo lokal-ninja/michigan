@@ -1,11 +1,11 @@
 id: 1202021363
-type: way
+type: node
 latitude: 45.37858
 longitude: -83.80243
 postcode: "49779"
 city: Rogers City
-street: "US-23 South"
-housenumber: 1952
-phone: "+1-989-734-3547"
+street: US-23 South
+housenumber: "1952"
+phone: +1-989-734-3547
 opening_hours: ""
 website: ""

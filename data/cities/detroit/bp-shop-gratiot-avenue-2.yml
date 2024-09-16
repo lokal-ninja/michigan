@@ -1,11 +1,11 @@
 id: 379399433
-type: way
+type: node
 latitude: 42.35064
 longitude: -83.03389
 postcode: "48207"
 city: Detroit
-street: "Gratiot Avenue"
-housenumber: 2153
-phone: "+1 313 446 6914"
+street: Gratiot Avenue
+housenumber: "2153"
+phone: +1 313 446 6914
 opening_hours: ""
 website: ""

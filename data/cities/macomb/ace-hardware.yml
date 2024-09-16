@@ -4,8 +4,8 @@ latitude: 42.64066
 longitude: -82.95547
 postcode: "48044"
 city: Macomb
-street: "21 Mile Road"
-housenumber: 16752
-phone: "+1 586-286-8191"
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-19:00; Su 09:00-18:00"
-website: "https://www.greatlakesace.com/locations/macomb/"
+street: 21 Mile Road
+housenumber: "16752"
+phone: +1 586-286-8191
+opening_hours: Mo-Fr 08:00-20:00; Sa 08:00-19:00; Su 09:00-18:00
+website: https://www.greatlakesace.com/locations/macomb/

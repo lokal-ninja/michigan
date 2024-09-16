@@ -1,11 +1,11 @@
 id: 270883791
-type: way
+type: node
 latitude: 44.76445
 longitude: -85.63505
 postcode: "49684"
 city: Traverse City
-street: "West Front Street"
-housenumber: 704
+street: West Front Street
+housenumber: "704"
 phone: ""
 opening_hours: ""
-website: "https://www.speedway.com/locations/MI/Traverse-City/704-West-Front-Street"
+website: https://www.speedway.com/locations/MI/Traverse-City/704-West-Front-Street

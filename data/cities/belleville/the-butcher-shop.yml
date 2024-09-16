@@ -4,8 +4,8 @@ latitude: 42.20955
 longitude: -83.49213
 postcode: "48111"
 city: Belleville
-street: "Main Street"
-housenumber: 510
-phone: "+1-734-796-2008"
-opening_hours: "Mo-Sa 10:00-19:00; Su 10:00-18:00"
-website: "https://bellevillebutcher.com/"
+street: Main Street
+housenumber: "510"
+phone: +1-734-796-2008
+opening_hours: Mo-Sa 10:00-19:00; Su 10:00-18:00
+website: https://bellevillebutcher.com/

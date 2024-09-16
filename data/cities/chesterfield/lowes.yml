@@ -1,11 +1,11 @@
 id: 394545392
-type: way
+type: node
 latitude: 42.67238
 longitude: -82.83073
 postcode: "48051"
 city: Chesterfield
-street: "23 Mile Road"
-housenumber: 27990
-phone: "+1 586-948-0854"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.lowes.com/store/mi-chesterfield/1156"
+street: 23 Mile Road
+housenumber: "27990"
+phone: +1 586-948-0854
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.lowes.com/store/mi-chesterfield/1156

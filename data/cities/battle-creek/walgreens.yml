@@ -1,11 +1,11 @@
 id: 261738901
-type: way
+type: node
 latitude: 42.26196
 longitude: -85.17961
 postcode: "49015"
 city: Battle Creek
-street: "Beckley Road"
-housenumber: 5991
+street: Beckley Road
+housenumber: "5991"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-5991+beckley+rd-battle+creek-mi-49014/id=9130"
+website: https://www.walgreens.com/locator/walgreens-5991+beckley+rd-battle+creek-mi-49014/id=9130

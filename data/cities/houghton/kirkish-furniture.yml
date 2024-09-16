@@ -1,11 +1,11 @@
 id: 130725999
-type: way
+type: node
 latitude: 47.11155
 longitude: -88.59102
 postcode: "49931"
 city: Houghton
-street: "Memorial Road"
-housenumber: 1200
-phone: "+1-800-535-0258"
+street: Memorial Road
+housenumber: "1200"
+phone: +1-800-535-0258
 opening_hours: ""
-website: "http://kirkishfurn.com/"
+website: http://kirkishfurn.com/

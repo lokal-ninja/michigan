@@ -1,11 +1,11 @@
 id: 288661118
-type: way
+type: node
 latitude: 42.50163
 longitude: -83.30803
 postcode: "48034"
 city: Southfield
-street: "Northwestern Highway"
-housenumber: 29030
+street: Northwestern Highway
+housenumber: "29030"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-29030+northwestern+hwy-southfield-mi-48034/id=5969"
+website: https://www.walgreens.com/locator/walgreens-29030+northwestern+hwy-southfield-mi-48034/id=5969

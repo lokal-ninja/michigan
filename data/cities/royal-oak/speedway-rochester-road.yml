@@ -1,11 +1,11 @@
 id: 360962942
-type: way
+type: node
 latitude: 42.50405
 longitude: -83.14276
 postcode: "48067"
 city: Royal Oak
-street: "Rochester Road"
-housenumber: 1720
+street: Rochester Road
+housenumber: "1720"
 phone: ""
 opening_hours: ""
-website: "https://www.speedway.com/locations/MI/Royal-Oak/1720-Rochester-Road"
+website: https://www.speedway.com/locations/MI/Royal-Oak/1720-Rochester-Road

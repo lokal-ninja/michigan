@@ -1,11 +1,11 @@
 id: 1192688652
-type: way
+type: node
 latitude: 45.26308
 longitude: -83.69868
 postcode: "49776"
 city: Posen
-street: "Michigan Avenue"
-housenumber: 10941
-phone: "+1-989-766-2495"
+street: Michigan Avenue
+housenumber: "10941"
+phone: +1-989-766-2495
 opening_hours: ""
-website: "https://www.myautovaluestore.com/locations/po-box-215-posen-mi-49776-273"
+website: https://www.myautovaluestore.com/locations/po-box-215-posen-mi-49776-273

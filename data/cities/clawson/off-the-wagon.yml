@@ -1,11 +1,11 @@
 id: 683341007
-type: way
+type: node
 latitude: 42.54436
 longitude: -83.16435
 postcode: "48017"
 city: Clawson
-street: "Crooks Road"
-housenumber: 1500
+street: Crooks Road
+housenumber: "1500"
 phone: ""
 opening_hours: ""
 website: ""

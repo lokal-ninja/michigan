@@ -1,11 +1,11 @@
 id: 356128938
-type: way
+type: node
 latitude: 42.50616
 longitude: -83.11148
 postcode: "48071"
 city: Madison Heights
-street: "West 12 Mile Road"
-housenumber: 660
-phone: "+1-248-591-7520"
+street: West 12 Mile Road
+housenumber: "660"
+phone: +1-248-591-7520
 opening_hours: ""
-website: "https://www.homedepot.com/l/Madison-Heights/MI/Madison-Heights/48071/2731"
+website: https://www.homedepot.com/l/Madison-Heights/MI/Madison-Heights/48071/2731

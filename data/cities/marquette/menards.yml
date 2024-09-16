@@ -1,11 +1,11 @@
 id: 216274612
-type: way
+type: node
 latitude: 46.54734
 longitude: -87.46631
 postcode: "49855"
 city: Marquette
-street: "Highway 41 West"
-housenumber: 3445
+street: Highway 41 West
+housenumber: "3445"
 phone: ""
 opening_hours: ""
-website: "https://www.menards.com/store-details/store.html?store=3510"
+website: https://www.menards.com/store-details/store.html?store=3510

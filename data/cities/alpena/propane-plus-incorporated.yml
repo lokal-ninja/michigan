@@ -1,11 +1,11 @@
 id: 1243245080
-type: way
+type: node
 latitude: 45.07931
 longitude: -83.42852
 postcode: "49707"
 city: Alpena
-street: "Commerce Drive"
-housenumber: 860
-phone: "+1-989-595-2913"
+street: Commerce Drive
+housenumber: "860"
+phone: +1-989-595-2913
 opening_hours: ""
 website: ""

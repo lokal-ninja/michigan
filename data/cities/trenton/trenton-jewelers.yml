@@ -1,11 +1,11 @@
 id: 152559393
-type: way
+type: node
 latitude: 42.14105
 longitude: -83.19651
 postcode: "48183"
 city: Trenton
-street: "West Road"
-housenumber: 2355
+street: West Road
+housenumber: "2355"
 phone: ""
 opening_hours: ""
-website: "http://www.trentonjewelers.net"
+website: http://www.trentonjewelers.net

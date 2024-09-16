@@ -1,11 +1,11 @@
 id: 1147648082
-type: way
+type: node
 latitude: 42.54463
 longitude: -83.2125
 postcode: "48009"
 city: Birmingham
-street: "South Old Woodward Avenue"
-housenumber: 300
+street: South Old Woodward Avenue
+housenumber: "300"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 840364482
-type: way
+type: node
 latitude: 45.02697
 longitude: -84.6858
 postcode: "49735"
 city: Gaylord
-street: "West Main Street"
-housenumber: 835
-phone: "+1-989-731-5607"
+street: West Main Street
+housenumber: "835"
+phone: +1-989-731-5607
 opening_hours: ""
-website: "https://www.shopfamilyfare.com/quick-stops"
+website: https://www.shopfamilyfare.com/quick-stops

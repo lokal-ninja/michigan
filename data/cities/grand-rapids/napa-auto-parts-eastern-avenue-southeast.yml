@@ -1,11 +1,11 @@
 id: 922950083
-type: way
+type: node
 latitude: 42.90788
 longitude: -85.64767
 postcode: "49508"
 city: Grand Rapids
-street: "Eastern Avenue Southeast"
-housenumber: 3013
-phone: "+1-616-241-5411"
-opening_hours: "Mo-Fr 07:30-19:00; Sa 08:00-18:00; Su 09:00-16:00"
-website: "https://www.napaonline.com/stores/mi/grand-rapids/3013-eastern-ave-se?sdref=modal"
+street: Eastern Avenue Southeast
+housenumber: "3013"
+phone: +1-616-241-5411
+opening_hours: Mo-Fr 07:30-19:00; Sa 08:00-18:00; Su 09:00-16:00
+website: https://www.napaonline.com/stores/mi/grand-rapids/3013-eastern-ave-se?sdref=modal

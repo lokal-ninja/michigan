@@ -1,11 +1,11 @@
 id: 786343160
-type: way
+type: node
 latitude: 45.10755
 longitude: -87.61543
 postcode: "49858"
 city: Menominee
-street: "10th Avenue"
-housenumber: 
+street: 10th Avenue
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 492884859
-type: way
+type: node
 latitude: 42.28515
 longitude: -83.23208
 postcode: "48124"
 city: Dearborn
-street: "Pelham Road"
-housenumber: 3544
+street: Pelham Road
+housenumber: "3544"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 114982645
-type: way
+type: node
 latitude: 42.53748
 longitude: -83.03345
 postcode: "48312"
 city: Sterling Heights
-street: "Van Dyke Avenue"
-housenumber: 33201
-phone: "+1 586-939-7208"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/2559/sterling-heights-mi/whats-new"
+street: Van Dyke Avenue
+housenumber: "33201"
+phone: +1 586-939-7208
+opening_hours: 24/7
+website: https://www.walmart.com/store/2559/sterling-heights-mi/whats-new

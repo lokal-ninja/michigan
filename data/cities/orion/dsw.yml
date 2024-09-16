@@ -1,11 +1,11 @@
 id: 895662909
-type: way
+type: node
 latitude: 42.70824
 longitude: -83.31139
 postcode: "48359"
 city: Orion
-street: "South Baldwin Road"
-housenumber: 4910
-phone: "+1 248-393-0521"
-opening_hours: "Mo-Sa 10:00-20:00; Su 11:00-19:00"
-website: "https://stores.dsw.com/usa/mi/orion/dsw-designer-shoe-warehouse-auburn-hills-at-baldwin-commons.html"
+street: South Baldwin Road
+housenumber: "4910"
+phone: +1 248-393-0521
+opening_hours: Mo-Sa 10:00-20:00; Su 11:00-19:00
+website: https://stores.dsw.com/usa/mi/orion/dsw-designer-shoe-warehouse-auburn-hills-at-baldwin-commons.html

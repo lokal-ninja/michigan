@@ -1,11 +1,11 @@
 id: 1312073037
-type: way
+type: node
 latitude: 45.02703
 longitude: -84.68203
 postcode: "49735"
 city: Gaylord
-street: "West Main Street"
-housenumber: 619
-phone: "+1-989-448-8575"
-opening_hours: "Mo-Sa 09:00-20:00; Su 10:00-18:00"
-website: "https://wildbillstobacco.com/locations/wild-bills-of-gaylord-2/"
+street: West Main Street
+housenumber: "619"
+phone: +1-989-448-8575
+opening_hours: Mo-Sa 09:00-20:00; Su 10:00-18:00
+website: https://wildbillstobacco.com/locations/wild-bills-of-gaylord-2/

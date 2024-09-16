@@ -1,11 +1,11 @@
 id: 603911964
-type: way
+type: node
 latitude: 45.12953
 longitude: -85.61684
 postcode: "49670"
 city: Northport
-street: "West Nagonaba Street"
-housenumber: 102
+street: West Nagonaba Street
+housenumber: "102"
 phone: ""
 opening_hours: ""
 website: ""

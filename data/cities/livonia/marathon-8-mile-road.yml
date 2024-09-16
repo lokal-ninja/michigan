@@ -1,11 +1,11 @@
 id: 318519020
-type: way
+type: node
 latitude: 42.44069
 longitude: -83.35664
 postcode: "48152"
 city: Livonia
-street: "8 Mile Road"
-housenumber: 31401
-phone: "+1-248-471-4782"
+street: 8 Mile Road
+housenumber: "31401"
+phone: +1-248-471-4782
 opening_hours: ""
 website: ""

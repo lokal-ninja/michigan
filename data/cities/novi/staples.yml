@@ -1,11 +1,11 @@
 id: 336931722
-type: way
+type: node
 latitude: 42.49178
 longitude: -83.51788
 postcode: "48374"
 city: Novi
-street: "Grand River"
-housenumber: 47610
+street: Grand River
+housenumber: "47610"
 phone: ""
-opening_hours: "Mo-Fr 09:00-20:00; Sa 10:00-19:00; Su 11:00-18:00"
-website: "https://stores.staples.com/mi/novi/47610-grand-river"
+opening_hours: Mo-Fr 09:00-20:00; Sa 10:00-19:00; Su 11:00-18:00
+website: https://stores.staples.com/mi/novi/47610-grand-river

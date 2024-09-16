@@ -4,8 +4,8 @@ latitude: 42.42374
 longitude: -83.47358
 postcode: ""
 city: Northville
-street: "Northville Road"
-housenumber: 19086
-phone: "+1 248 924 2375"
-opening_hours: "Mo-Sa 08:00-18:00"
-website: "https://www.oilexchangenorthville.com/"
+street: Northville Road
+housenumber: "19086"
+phone: +1 248 924 2375
+opening_hours: Mo-Sa 08:00-18:00
+website: https://www.oilexchangenorthville.com/

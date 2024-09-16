@@ -1,11 +1,11 @@
 id: 1303793121
-type: way
+type: node
 latitude: 44.6665
 longitude: -85.68201
 postcode: "49637"
 city: Grawn
-street: "US 31 South"
-housenumber: 5210
+street: US 31 South
+housenumber: "5210"
 phone: ""
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/mi/fife-lake/21666"
+website: https://www.dollargeneral.com/store-directory/mi/fife-lake/21666

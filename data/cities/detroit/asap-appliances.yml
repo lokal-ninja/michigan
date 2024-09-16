@@ -4,8 +4,8 @@ latitude: 42.33095
 longitude: -83.12969
 postcode: "48210"
 city: Detroit
-street: "Michigan Avenue"
-housenumber: 6915
-phone: "+1-313-633-0085"
-opening_hours: "Mo-Sa 10:00-18:00"
-website: "https://asapapliances.net"
+street: Michigan Avenue
+housenumber: "6915"
+phone: +1-313-633-0085
+opening_hours: Mo-Sa 10:00-18:00
+website: https://asapapliances.net

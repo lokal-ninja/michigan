@@ -2,10 +2,10 @@ id: 2440516040
 type: node
 latitude: 42.59442
 longitude: -86.10421
-postcode: "49408-5114"
+postcode: 49408-5114
 city: Fennville
-street: "East Main Street"
-housenumber: 111
-phone: "+1 269-561-4321"
+street: East Main Street
+housenumber: "111"
+phone: +1 269-561-4321
 opening_hours: ""
-website: "https://www.truevalue.com/fennville"
+website: https://www.truevalue.com/fennville

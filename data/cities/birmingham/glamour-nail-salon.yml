@@ -1,11 +1,11 @@
 id: 1071774822
-type: way
+type: node
 latitude: 42.53958
 longitude: -83.20572
 postcode: "48009"
 city: Birmingham
-street: "South Adams Road"
-housenumber: 
+street: South Adams Road
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

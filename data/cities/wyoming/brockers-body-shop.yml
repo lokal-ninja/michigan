@@ -1,11 +1,11 @@
 id: 1011848138
-type: way
+type: node
 latitude: 42.93621
 longitude: -85.69183
 postcode: "49509"
 city: Wyoming
-street: "Godfrey Avenue Southwest"
-housenumber: 1524
-phone: "+1 616 243 8340"
-opening_hours: "Mo-Fr 09:00-17:00"
+street: Godfrey Avenue Southwest
+housenumber: "1524"
+phone: +1 616 243 8340
+opening_hours: Mo-Fr 09:00-17:00
 website: ""

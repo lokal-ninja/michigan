@@ -1,11 +1,11 @@
 id: 589997192
-type: way
+type: node
 latitude: 42.25465
 longitude: -83.19607
 postcode: "48146"
 city: Lincoln Park
-street: "Dix Highway"
-housenumber: 2060
-phone: "+1 313-386-5355"
-opening_hours: "Mo-Su 06:00-22:00"
-website: "https://www.kroger.com/stores/grocery/mi/lincoln-park/lincoln-park/018/00693"
+street: Dix Highway
+housenumber: "2060"
+phone: +1 313-386-5355
+opening_hours: Mo-Su 06:00-22:00
+website: https://www.kroger.com/stores/grocery/mi/lincoln-park/lincoln-park/018/00693

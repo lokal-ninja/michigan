@@ -2,10 +2,10 @@ id: 10065220510
 type: node
 latitude: 42.96968
 longitude: -85.63795
-postcode: "49503-2002"
+postcode: 49503-2002
 city: Grand Rapids
-street: "Michigan Street Northeast"
-housenumber: 1234
-phone: "+1 616-451-0724"
-opening_hours: "Mo-Fr 07:00-20:00; Sa 08:00-20:00; Su 09:00-18:00"
+street: Michigan Street Northeast
+housenumber: "1234"
+phone: +1 616-451-0724
+opening_hours: Mo-Fr 07:00-20:00; Sa 08:00-20:00; Su 09:00-18:00
 website: ""

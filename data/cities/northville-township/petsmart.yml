@@ -1,11 +1,11 @@
 id: 309348638
-type: way
+type: node
 latitude: 42.41444
 longitude: -83.43512
 postcode: "48168"
 city: Northville Township
-street: "Haggerty Road"
-housenumber: 17677
-phone: "+1 248-347-4337"
-opening_hours: "Mo-Sa 07:00-21:00; Su 08:00-19:00"
-website: "https://www.petsmart.com/stores/us/mi/northville-store0688.html"
+street: Haggerty Road
+housenumber: "17677"
+phone: +1 248-347-4337
+opening_hours: Mo-Sa 07:00-21:00; Su 08:00-19:00
+website: https://www.petsmart.com/stores/us/mi/northville-store0688.html

@@ -4,8 +4,8 @@ latitude: 42.23048
 longitude: -84.3262
 postcode: "49254"
 city: Michigan Center
-street: "5th Street"
-housenumber: 331
-phone: "+1 517 764 5707"
-opening_hours: "02:00-24:00"
-website: "https://johnnysmarkets.com/store/mi-center/"
+street: 5th Street
+housenumber: "331"
+phone: +1 517 764 5707
+opening_hours: 02:00-24:00
+website: https://johnnysmarkets.com/store/mi-center/

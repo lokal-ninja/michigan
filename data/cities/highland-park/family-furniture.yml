@@ -1,11 +1,11 @@
 id: 58389216
-type: way
+type: node
 latitude: 42.40946
 longitude: -83.09906
 postcode: "48203"
 city: Highland Park
-street: "Woodward Avenue"
-housenumber: 14140
+street: Woodward Avenue
+housenumber: "14140"
 phone: ""
 opening_hours: ""
 website: ""

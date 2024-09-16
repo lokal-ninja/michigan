@@ -1,11 +1,11 @@
 id: 420215021
-type: way
+type: node
 latitude: 42.48661
 longitude: -83.26085
 postcode: "48076"
 city: Southfield
-street: "West 11 Mile Road"
-housenumber: 21911
+street: West 11 Mile Road
+housenumber: "21911"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/southfield-mi-pharmacies/21911-west-eleven-mile-rd-southfield-mi-48076/storeid=8034"
+website: https://www.cvs.com/store-locator/southfield-mi-pharmacies/21911-west-eleven-mile-rd-southfield-mi-48076/storeid=8034

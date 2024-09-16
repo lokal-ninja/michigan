@@ -1,11 +1,11 @@
 id: 675249997
-type: way
+type: node
 latitude: 42.24212
 longitude: -83.14627
 postcode: "48229"
 city: Ecorse
-street: "Southfield Road"
-housenumber: 40
-phone: "+1-313-388-4853"
+street: Southfield Road
+housenumber: "40"
+phone: +1-313-388-4853
 opening_hours: ""
 website: ""

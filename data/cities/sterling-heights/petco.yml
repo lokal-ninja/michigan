@@ -1,11 +1,11 @@
 id: 545780418
-type: way
+type: node
 latitude: 42.62606
 longitude: -82.99157
-postcode: "48313-1315"
+postcode: 48313-1315
 city: Sterling Heights
-street: "Lakeside CR"
-housenumber: 13701
-phone: "+1 586-532-8794"
-opening_hours: "Mo-Sa 09:00-20:00; Su 10:00-19:00"
-website: "https://stores.petco.com/mi/sterlingheights/pet-supplies-sterlingheights-mi-1944.html"
+street: Lakeside CR
+housenumber: "13701"
+phone: +1 586-532-8794
+opening_hours: Mo-Sa 09:00-20:00; Su 10:00-19:00
+website: https://stores.petco.com/mi/sterlingheights/pet-supplies-sterlingheights-mi-1944.html

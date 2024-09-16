@@ -1,11 +1,11 @@
 id: 830127729
-type: way
+type: node
 latitude: 47.38181
 longitude: -88.01973
 postcode: "49950"
 city: Lac La Belle
-street: "Superior Street"
-housenumber: 11627
-phone: "+1 906 289 4293"
-opening_hours: "Mo-Su 11:00-20:30"
-website: "https://www.laclabellelodge.com/"
+street: Superior Street
+housenumber: "11627"
+phone: +1 906 289 4293
+opening_hours: Mo-Su 11:00-20:30
+website: https://www.laclabellelodge.com/

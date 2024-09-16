@@ -1,11 +1,11 @@
 id: 810780411
-type: way
+type: node
 latitude: 42.20772
 longitude: -83.20035
 postcode: "48195"
 city: Southgate
-street: "Dix-Toledo Highway"
-housenumber: 13667
-phone: "+1-734-285-4800"
+street: Dix-Toledo Highway
+housenumber: "13667"
+phone: +1-734-285-4800
 opening_hours: ""
-website: "http://completehitchsouthgatemi.com/"
+website: http://completehitchsouthgatemi.com/

@@ -1,11 +1,11 @@
 id: 891682058
-type: way
+type: node
 latitude: 42.74101
 longitude: -84.50638
 postcode: "48912"
 city: Lansing
-street: "East Saginaw Street"
-housenumber: 3201
-phone: "+1-517-332-8480"
-opening_hours: "24/7"
-website: "https://www.speedway.com/locations/MI/Lansing/3201-East-Saginaw-Street"
+street: East Saginaw Street
+housenumber: "3201"
+phone: +1-517-332-8480
+opening_hours: 24/7
+website: https://www.speedway.com/locations/MI/Lansing/3201-East-Saginaw-Street

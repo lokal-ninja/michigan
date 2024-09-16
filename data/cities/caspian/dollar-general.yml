@@ -1,11 +1,11 @@
 id: 1078282373
-type: way
+type: node
 latitude: 46.06756
 longitude: -88.63307
 postcode: "49915"
 city: Caspian
-street: "West Railroad Streer"
-housenumber: 411
-phone: "+1-877-463-1553"
-opening_hours: "Mo-Su 08:00-22:00"
-website: "https://www.dollargeneral.com/store-directory/mi/caspian/23506"
+street: West Railroad Streer
+housenumber: "411"
+phone: +1-877-463-1553
+opening_hours: Mo-Su 08:00-22:00
+website: https://www.dollargeneral.com/store-directory/mi/caspian/23506

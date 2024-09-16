@@ -4,8 +4,8 @@ latitude: 42.19651
 longitude: -84.37348
 postcode: "49203"
 city: Jackson
-street: "East McDevitt Avenue"
-housenumber: 1302
-phone: "+1 517 788 8127"
-opening_hours: "02:00-24:00"
+street: East McDevitt Avenue
+housenumber: "1302"
+phone: +1 517 788 8127
+opening_hours: 02:00-24:00
 website: ""

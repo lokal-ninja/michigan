@@ -1,11 +1,11 @@
 id: 395133055
-type: way
+type: node
 latitude: 42.73339
 longitude: -84.53936
 postcode: "48912"
 city: Lansing
-street: "East Michigan Avenue"
-housenumber: 900
-phone: "+1-517-482-1533"
+street: East Michigan Avenue
+housenumber: "900"
+phone: +1-517-482-1533
 opening_hours: ""
-website: "http://gorslineruncimanlansing.com"
+website: http://gorslineruncimanlansing.com

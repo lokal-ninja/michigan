@@ -1,11 +1,11 @@
 id: 269743891
-type: way
+type: node
 latitude: 45.78787
 longitude: -87.08263
 postcode: "49829"
 city: Escanaba
-street: "North Lincoln Road"
-housenumber: 6669
+street: North Lincoln Road
+housenumber: "6669"
 phone: ""
 opening_hours: ""
 website: ""

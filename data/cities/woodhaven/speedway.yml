@@ -1,11 +1,11 @@
 id: 750888715
-type: way
+type: node
 latitude: 42.14149
 longitude: -83.22535
 postcode: "48183"
 city: Woodhaven
-street: "West Road"
-housenumber: 19900
+street: West Road
+housenumber: "19900"
 phone: ""
 opening_hours: ""
 website: ""

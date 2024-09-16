@@ -1,11 +1,11 @@
 id: 556934392
-type: way
+type: node
 latitude: 42.70937
 longitude: -83.31171
 postcode: "48359"
 city: Lake Orion
-street: "South Baldwin Road"
-housenumber: 4872
-phone: "+1 248-393-3733"
-opening_hours: "Mo-Sa 09:00-22:00; Su 09:00-21:00"
-website: "https://www.kohls.com/stores/mi/lakeorion-296.shtml"
+street: South Baldwin Road
+housenumber: "4872"
+phone: +1 248-393-3733
+opening_hours: Mo-Sa 09:00-22:00; Su 09:00-21:00
+website: https://www.kohls.com/stores/mi/lakeorion-296.shtml

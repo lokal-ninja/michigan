@@ -1,11 +1,11 @@
 id: 259982954
-type: way
+type: node
 latitude: 42.27202
 longitude: -85.64604
 postcode: ""
 city: Kalamazoo
-street: "Stadium Drive"
-housenumber: 4620
-phone: "+1 269 459 2306"
+street: Stadium Drive
+housenumber: "4620"
+phone: +1 269 459 2306
 opening_hours: ""
-website: "https://www.athome.com/"
+website: https://www.athome.com/

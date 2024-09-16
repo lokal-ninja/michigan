@@ -1,11 +1,11 @@
 id: 559494852
-type: way
+type: node
 latitude: 45.40358
 longitude: -84.61782
 postcode: "49749"
 city: Indian River
-street: "Barbara Avenue"
-housenumber: 6433
-phone: "+1-231-238-9342"
+street: Barbara Avenue
+housenumber: "6433"
+phone: +1-231-238-9342
 opening_hours: ""
 website: ""

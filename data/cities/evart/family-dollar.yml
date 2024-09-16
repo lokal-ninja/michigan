@@ -1,11 +1,11 @@
 id: 957848879
-type: way
+type: node
 latitude: 43.90008
 longitude: -85.26945
 postcode: "49631"
 city: Evart
-street: "West 7th Street"
-housenumber: 731
+street: West 7th Street
+housenumber: "731"
 phone: ""
 opening_hours: ""
 website: ""

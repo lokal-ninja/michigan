@@ -1,11 +1,11 @@
 id: 318379106
-type: way
+type: node
 latitude: 42.35568
 longitude: -83.31239
 postcode: "48239"
 city: Redford
-street: "Joy Road"
-housenumber: 27350
+street: Joy Road
+housenumber: "27350"
 phone: ""
 opening_hours: ""
 website: ""

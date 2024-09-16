@@ -1,11 +1,11 @@
 id: 838410680
-type: way
+type: node
 latitude: 45.35389
 longitude: -84.2343
 postcode: "49765"
 city: Onaway
-street: "Michigan Avenue"
-housenumber: 4016
+street: Michigan Avenue
+housenumber: "4016"
 phone: ""
 opening_hours: ""
 website: ""

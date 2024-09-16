@@ -4,8 +4,8 @@ latitude: 42.44759
 longitude: -83.03491
 postcode: "48234"
 city: Detroit
-street: "East 8 Mile Road"
-housenumber: 6650
-phone: "+1-313-826-1479"
-opening_hours: "Mo-Su 09:00-21:00"
-website: "https://thegreenmiledetroit.com"
+street: East 8 Mile Road
+housenumber: "6650"
+phone: +1-313-826-1479
+opening_hours: Mo-Su 09:00-21:00
+website: https://thegreenmiledetroit.com

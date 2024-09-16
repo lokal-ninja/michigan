@@ -1,11 +1,11 @@
 id: 745169451
-type: way
+type: node
 latitude: 42.33195
 longitude: -85.50785
 postcode: "49048"
 city: Kalamazoo
-street: "Gull Road"
-housenumber: 6285
-phone: "+1 269-381-0904"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
+street: Gull Road
+housenumber: "6285"
+phone: +1 269-381-0904
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
 website: ""

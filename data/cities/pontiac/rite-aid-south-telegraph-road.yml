@@ -1,11 +1,11 @@
 id: 902370746
-type: way
+type: node
 latitude: 42.63471
 longitude: -83.32484
 postcode: "48341"
 city: Pontiac
-street: "South Telegraph Road"
-housenumber: 3
+street: South Telegraph Road
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1200022341
-type: way
+type: node
 latitude: 42.07239
 longitude: -83.97216
 postcode: "49236"
 city: Clinton
-street: "West Michigan Avenue"
-housenumber: 116
+street: West Michigan Avenue
+housenumber: "116"
 phone: ""
 opening_hours: ""
 website: ""

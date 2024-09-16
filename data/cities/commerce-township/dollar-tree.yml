@@ -1,11 +1,11 @@
 id: 242170968
-type: way
+type: node
 latitude: 42.55878
 longitude: -83.44017
 postcode: "48390"
 city: Commerce Township
-street: "Haggerty Highway"
-housenumber: 2425
+street: Haggerty Highway
+housenumber: "2425"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-20:00"
-website: "https://www.dollartree.com/locations/mi/commerce-township/3586/"
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-20:00
+website: https://www.dollartree.com/locations/mi/commerce-township/3586/

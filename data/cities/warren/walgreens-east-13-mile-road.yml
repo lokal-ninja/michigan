@@ -1,11 +1,11 @@
 id: 914524222
-type: way
+type: node
 latitude: 42.51975
 longitude: -83.0669
 postcode: "48092"
 city: Warren
-street: "East 13 Mile Road"
-housenumber: 4010
+street: East 13 Mile Road
+housenumber: "4010"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-4010+e+13+mile+rd-warren-mi-48092/id=4932"
+website: https://www.walgreens.com/locator/walgreens-4010+e+13+mile+rd-warren-mi-48092/id=4932

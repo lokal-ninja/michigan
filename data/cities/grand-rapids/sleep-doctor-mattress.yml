@@ -1,11 +1,11 @@
 id: 268123154
-type: way
+type: node
 latitude: 42.91346
 longitude: -85.54171
 postcode: "49512"
 city: Grand Rapids
-street: "28th Street Southeast"
-housenumber: 5121
+street: 28th Street Southeast
+housenumber: "5121"
 phone: ""
 opening_hours: ""
 website: ""

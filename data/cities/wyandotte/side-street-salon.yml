@@ -1,11 +1,11 @@
 id: 947998314
-type: way
+type: node
 latitude: 42.20954
 longitude: -83.15323
 postcode: "48192"
 city: Wyandotte
-street: "Walnut Street"
-housenumber: 267
+street: Walnut Street
+housenumber: "267"
 phone: ""
 opening_hours: ""
 website: ""

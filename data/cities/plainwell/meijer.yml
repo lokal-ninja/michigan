@@ -1,11 +1,11 @@
 id: 266915696
-type: way
+type: node
 latitude: 42.45275
 longitude: -85.66104
 postcode: "49080"
 city: Plainwell
-street: "M-89"
-housenumber: 1195
-phone: "+1-269-685-3800"
-opening_hours: "24/7"
+street: M-89
+housenumber: "1195"
+phone: +1-269-685-3800
+opening_hours: 24/7
 website: ""

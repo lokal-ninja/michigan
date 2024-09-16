@@ -1,11 +1,11 @@
 id: 826228858
-type: way
+type: node
 latitude: 43.30661
 longitude: -84.81929
 postcode: "48889"
 city: Sumner
-street: "West Saint Charles Road"
-housenumber: 10673
-phone: "+1 517 833 2265"
+street: West Saint Charles Road
+housenumber: "10673"
+phone: +1 517 833 2265
 opening_hours: ""
 website: ""

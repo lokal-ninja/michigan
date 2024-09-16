@@ -1,11 +1,11 @@
 id: 314938521
-type: way
+type: node
 latitude: 42.49154
 longitude: -83.53233
 postcode: "48374"
 city: Novi
-street: "Wixom Road"
-housenumber: 27300
-phone: "+1 248-349-3057"
-opening_hours: "Mo 10:00-20:00; Sa 09:00-20:00; Su 10:00-18:00"
-website: "https://www.samsclub.com/club/novi-mi-sams-club/6657"
+street: Wixom Road
+housenumber: "27300"
+phone: +1 248-349-3057
+opening_hours: Mo 10:00-20:00; Sa 09:00-20:00; Su 10:00-18:00
+website: https://www.samsclub.com/club/novi-mi-sams-club/6657

@@ -4,8 +4,8 @@ latitude: 42.73325
 longitude: -84.54439
 postcode: "48912"
 city: Lansing
-street: "East Michigan Avenue"
-housenumber: 600
-phone: "+1-517-333-3000"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.capitalcitymarket.com/"
+street: East Michigan Avenue
+housenumber: "600"
+phone: +1-517-333-3000
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.capitalcitymarket.com/

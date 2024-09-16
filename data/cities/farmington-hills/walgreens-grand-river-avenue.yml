@@ -1,11 +1,11 @@
 id: 318519024
-type: way
+type: node
 latitude: 42.44294
 longitude: -83.32106
 postcode: "48336"
 city: Farmington Hills
-street: "Grand River Avenue"
-housenumber: 27750
+street: Grand River Avenue
+housenumber: "27750"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-27750+grand+river+ave-farmington+hills-mi-48336/id=6313"
+website: https://www.walgreens.com/locator/walgreens-27750+grand+river+ave-farmington+hills-mi-48336/id=6313

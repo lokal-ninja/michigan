@@ -1,11 +1,11 @@
 id: 681812174
-type: way
+type: node
 latitude: 42.48491
 longitude: -83.14629
 postcode: "48067"
 city: Royal Oak
-street: "South Washington Avenue"
-housenumber: 619
+street: South Washington Avenue
+housenumber: "619"
 phone: ""
 opening_hours: ""
 website: ""

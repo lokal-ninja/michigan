@@ -1,11 +1,11 @@
 id: 771767108
-type: way
+type: node
 latitude: 42.52386
 longitude: -82.97046
 postcode: "48088"
 city: Warren
-street: "East 13 Mile Road"
-housenumber: 15051
+street: East 13 Mile Road
+housenumber: "15051"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/warren-mi-pharmacies/15051-e-thirteen-mile-rd-warren-mi-48088/storeid=8146"
+website: https://www.cvs.com/store-locator/warren-mi-pharmacies/15051-e-thirteen-mile-rd-warren-mi-48088/storeid=8146

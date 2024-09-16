@@ -1,11 +1,11 @@
 id: 1307819988
-type: way
+type: node
 latitude: 42.2598
 longitude: -85.56715
 postcode: "49001"
 city: Kalamazoo
-street: "Portage Street"
-housenumber: 3130
-phone: "+1 269 382 6150"
-opening_hours: "Su 08:30-21:00, Mo-Sa 07:30-22:00"
-website: "https://locations.oreillyauto.com/mi/kalamazoo/autoparts-3856.html"
+street: Portage Street
+housenumber: "3130"
+phone: +1 269 382 6150
+opening_hours: Su 08:30-21:00, Mo-Sa 07:30-22:00
+website: https://locations.oreillyauto.com/mi/kalamazoo/autoparts-3856.html

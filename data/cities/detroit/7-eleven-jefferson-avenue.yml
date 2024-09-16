@@ -1,11 +1,11 @@
 id: 416897638
-type: way
+type: node
 latitude: 42.3385
 longitude: -83.02154
 postcode: "48207"
 city: Detroit
-street: "Jefferson Avenue"
-housenumber: 2660
-phone: "+1 313-567-0150"
+street: Jefferson Avenue
+housenumber: "2660"
+phone: +1 313-567-0150
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/mi/detroit/2660-jefferson-ave-36097"
+website: https://www.7-eleven.com/locations/mi/detroit/2660-jefferson-ave-36097

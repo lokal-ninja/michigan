@@ -1,11 +1,11 @@
 id: 909226240
-type: way
+type: node
 latitude: 42.75794
 longitude: -83.01908
 postcode: "48095"
 city: Washington
-street: "Van Dyke Road"
-housenumber: 63033
+street: Van Dyke Road
+housenumber: "63033"
 phone: ""
 opening_hours: ""
 website: ""

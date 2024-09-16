@@ -1,11 +1,11 @@
 id: 369314086
-type: way
+type: node
 latitude: 42.20703
 longitude: -83.48893
 postcode: "48111"
 city: Belleville
-street: "Main Street"
-housenumber: 255
-phone: "+1 734 699 9633"
+street: Main Street
+housenumber: "255"
+phone: +1 734 699 9633
 opening_hours: ""
-website: "https://businessfinder.mlive.com/1262460/Styling-Center-Belleville-MI"
+website: https://businessfinder.mlive.com/1262460/Styling-Center-Belleville-MI

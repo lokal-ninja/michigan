@@ -1,11 +1,11 @@
 id: 921794523
-type: way
+type: node
 latitude: 43.40775
 longitude: -86.31034
 postcode: "49461"
 city: Whitehall
-street: "West Holton-Whitehall Road"
-housenumber: 2755
-phone: "+1 231-893-5477"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.walmart.com/store/3458/whitehall-mi/whats-new"
+street: West Holton-Whitehall Road
+housenumber: "2755"
+phone: +1 231-893-5477
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.walmart.com/store/3458/whitehall-mi/whats-new

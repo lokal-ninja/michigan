@@ -4,8 +4,8 @@ latitude: 42.9121
 longitude: -85.61444
 postcode: "49508"
 city: Grand Rapids
-street: "28th Street Southeast"
-housenumber: 2120
-phone: "+1 855-955-2534"
-opening_hours: "Mo, We, Fr-Su 09:00-20:00, Tu, Th 08:30-20:00"
-website: "https://stores.aldi.us/mi/grand-rapids/2120-28th-street-s-e"
+street: 28th Street Southeast
+housenumber: "2120"
+phone: +1 855-955-2534
+opening_hours: Mo, We, Fr-Su 09:00-20:00, Tu, Th 08:30-20:00
+website: https://stores.aldi.us/mi/grand-rapids/2120-28th-street-s-e

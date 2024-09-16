@@ -1,11 +1,11 @@
 id: 548976270
-type: way
+type: node
 latitude: 42.40957
 longitude: -83.43356
 postcode: "48168"
 city: Northville
-street: "Haggerty Road"
-housenumber: 16855
+street: Haggerty Road
+housenumber: "16855"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/northville-mi-pharmacies/16855-haggerty-rd-northville-mi-48168/storeid=8163"
+website: https://www.cvs.com/store-locator/northville-mi-pharmacies/16855-haggerty-rd-northville-mi-48168/storeid=8163

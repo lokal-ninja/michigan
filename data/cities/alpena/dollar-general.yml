@@ -1,11 +1,11 @@
 id: 1023803542
-type: way
+type: node
 latitude: 45.04543
 longitude: -83.45131
 postcode: "49707"
 city: Alpena
-street: "US 23 South"
-housenumber: 2107
-phone: "+1-231-489-7400"
-opening_hours: "Mo-Su 08:00-21:00"
-website: "https://www.dollargeneral.com/store-directory/mi/alpena/16998"
+street: US 23 South
+housenumber: "2107"
+phone: +1-231-489-7400
+opening_hours: Mo-Su 08:00-21:00
+website: https://www.dollargeneral.com/store-directory/mi/alpena/16998

@@ -1,11 +1,11 @@
 id: 358372128
-type: way
+type: node
 latitude: 43.19372
 longitude: -86.26198
 postcode: "49441"
 city: Norton Shores
-street: "West Norton Avenue"
-housenumber: 700
-phone: "+1-231-739-9381"
+street: West Norton Avenue
+housenumber: "700"
+phone: +1-231-739-9381
 opening_hours: ""
 website: ""

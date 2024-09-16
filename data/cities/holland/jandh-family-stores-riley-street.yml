@@ -1,11 +1,11 @@
 id: 479423852
-type: way
+type: node
 latitude: 42.8271
 longitude: -86.09255
 postcode: "49424"
 city: Holland
-street: "Riley Street"
-housenumber: 12575
-phone: "+1 616 399 7560"
+street: Riley Street
+housenumber: "12575"
+phone: +1 616 399 7560
 opening_hours: ""
-website: "http://www.myjhfamilystores.com/locations/west-shore-mobil/"
+website: http://www.myjhfamilystores.com/locations/west-shore-mobil/

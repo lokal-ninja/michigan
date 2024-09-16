@@ -1,11 +1,11 @@
 id: 701186462
-type: way
+type: node
 latitude: 42.5553
 longitude: -85.89095
 postcode: "49010"
 city: Allegan
-street: "Lincoln Road"
-housenumber: 1875
+street: Lincoln Road
+housenumber: "1875"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 242294631
-type: way
+type: node
 latitude: 42.47665
 longitude: -83.43451
 postcode: "48335"
 city: Farmington Hills
-street: "Haggerty Road"
-housenumber: 25100
+street: Haggerty Road
+housenumber: "25100"
 phone: ""
 opening_hours: ""
-website: "https://www.suburbanhonda.com/"
+website: https://www.suburbanhonda.com/

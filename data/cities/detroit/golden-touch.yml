@@ -4,8 +4,8 @@ latitude: 42.4353
 longitude: -82.98352
 postcode: ""
 city: Detroit
-street: "East 7 Mile Road"
-housenumber: 13711
-phone: "+1-313-372-5326"
+street: East 7 Mile Road
+housenumber: "13711"
+phone: +1-313-372-5326
 opening_hours: ""
-website: "https://golden-touch.edan.io/"
+website: https://golden-touch.edan.io/

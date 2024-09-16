@@ -1,11 +1,11 @@
 id: 1046697447
-type: way
+type: node
 latitude: 43.43646
 longitude: -86.34577
 postcode: ""
 city: Montague Township
-street: "Water Street"
-housenumber: 9790
+street: Water Street
+housenumber: "9790"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 883370310
-type: way
+type: node
 latitude: 42.45455
 longitude: -83.1039
 postcode: "48030"
 city: Hazel Park
-street: "John R Road"
-housenumber: 21641
+street: John R Road
+housenumber: "21641"
 phone: ""
 opening_hours: ""
 website: ""

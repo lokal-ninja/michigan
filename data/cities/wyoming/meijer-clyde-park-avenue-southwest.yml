@@ -1,11 +1,11 @@
 id: 291795817
-type: way
+type: node
 latitude: 42.86459
 longitude: -85.68145
 postcode: "49509"
 city: Wyoming
-street: "Clyde Park Avenue Southwest"
-housenumber: 5500
-phone: "+1-616-530-8079"
-opening_hours: "24/7"
+street: Clyde Park Avenue Southwest
+housenumber: "5500"
+phone: +1-616-530-8079
+opening_hours: 24/7
 website: ""

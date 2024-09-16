@@ -1,11 +1,11 @@
 id: 976029273
-type: way
+type: node
 latitude: 46.09732
 longitude: -88.62706
 postcode: "49935"
 city: Iron River
-street: "Lalley Road"
-housenumber: 897
-phone: "+1-906-214-1970"
-opening_hours: "Mo-Sa 07:00-19:00, Su 08:00-18:00"
-website: "https://locations.oreillyauto.com/mi/ironriver/autoparts-5969.html"
+street: Lalley Road
+housenumber: "897"
+phone: +1-906-214-1970
+opening_hours: Mo-Sa 07:00-19:00, Su 08:00-18:00
+website: https://locations.oreillyauto.com/mi/ironriver/autoparts-5969.html

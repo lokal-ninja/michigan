@@ -1,11 +1,11 @@
 id: 304545641
-type: way
+type: node
 latitude: 42.40331
 longitude: -86.27304
 postcode: "49090"
 city: South Haven
-street: "Phoenix Street"
-housenumber: 523
+street: Phoenix Street
+housenumber: "523"
 phone: ""
 opening_hours: ""
 website: ""

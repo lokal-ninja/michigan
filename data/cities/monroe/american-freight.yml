@@ -1,11 +1,11 @@
 id: 365212371
-type: way
+type: node
 latitude: 41.93139
 longitude: -83.41017
 postcode: "48162"
 city: Monroe
-street: "North Telegraph Road"
-housenumber: 630
+street: North Telegraph Road
+housenumber: "630"
 phone: ""
 opening_hours: ""
 website: ""

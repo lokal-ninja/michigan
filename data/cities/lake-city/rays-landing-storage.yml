@@ -4,8 +4,8 @@ latitude: 44.30512
 longitude: -85.23488
 postcode: "49651"
 city: Lake City
-street: "South Green Road"
-housenumber: 2345
-phone: "+1 231 510 6196"
-opening_hours: "Mo-Fr 09:00-17:00; Sa 09:00-16:00"
-website: "http://www.rayslandingstorage.com/"
+street: South Green Road
+housenumber: "2345"
+phone: +1 231 510 6196
+opening_hours: Mo-Fr 09:00-17:00; Sa 09:00-16:00
+website: http://www.rayslandingstorage.com/

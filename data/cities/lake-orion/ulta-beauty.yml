@@ -1,11 +1,11 @@
 id: 895662904
-type: way
+type: node
 latitude: 42.71043
 longitude: -83.3103
 postcode: "48359"
 city: Lake Orion
-street: "South Baldwin Road"
-housenumber: 4830
-phone: "+1 248-393-2769"
-opening_hours: "Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00"
-website: "https://www.ulta.com/stores/orion-township-mi-257"
+street: South Baldwin Road
+housenumber: "4830"
+phone: +1 248-393-2769
+opening_hours: Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00
+website: https://www.ulta.com/stores/orion-township-mi-257

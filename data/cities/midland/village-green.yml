@@ -1,11 +1,11 @@
 id: 339201959
-type: way
+type: node
 latitude: 43.62216
 longitude: -84.22088
 postcode: "48640"
 city: Midland
-street: "South Saginaw Road"
-housenumber: 715
+street: South Saginaw Road
+housenumber: "715"
 phone: ""
 opening_hours: ""
 website: ""

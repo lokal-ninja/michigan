@@ -1,11 +1,11 @@
 id: 311851398
-type: way
+type: node
 latitude: 43.64492
 longitude: -84.24713
 postcode: "48640"
 city: Midland
-street: "Eastman Avenue"
-housenumber: 5205
-phone: "+1 989 835 7991"
-opening_hours: "Mo-Sa 09:00-22:00;Su 12:00-18:00"
-website: "https://eastmanpartystore.com/"
+street: Eastman Avenue
+housenumber: "5205"
+phone: +1 989 835 7991
+opening_hours: Mo-Sa 09:00-22:00;Su 12:00-18:00
+website: https://eastmanpartystore.com/

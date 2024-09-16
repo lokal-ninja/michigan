@@ -1,11 +1,11 @@
 id: 882118859
-type: way
+type: node
 latitude: 42.46423
 longitude: -83.12513
 postcode: "48220"
 city: Ferndale
-street: "Orchard Street"
-housenumber: 900
+street: Orchard Street
+housenumber: "900"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 282840576
-type: way
+type: node
 latitude: 42.33458
 longitude: -83.41052
 postcode: "48185"
 city: Westland
-street: "North Newburgh Road"
-housenumber: 6701
+street: North Newburgh Road
+housenumber: "6701"
 phone: ""
 opening_hours: ""
 website: ""

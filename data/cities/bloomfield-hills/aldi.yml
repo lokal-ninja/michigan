@@ -1,11 +1,11 @@
 id: 800474059
-type: way
+type: node
 latitude: 42.61158
 longitude: -83.30191
 postcode: "48302"
 city: Bloomfield Hills
-street: "South Telegraph Road"
-housenumber: 1967
-phone: "+1 855-955-2534"
-opening_hours: "Mo, We, Fr-Su 09:00-20:00, Tu, Th 08:30-20:00"
-website: "https://stores.aldi.us/mi/bloomfield-hills/1967-s-telegraph-rd"
+street: South Telegraph Road
+housenumber: "1967"
+phone: +1 855-955-2534
+opening_hours: Mo, We, Fr-Su 09:00-20:00, Tu, Th 08:30-20:00
+website: https://stores.aldi.us/mi/bloomfield-hills/1967-s-telegraph-rd

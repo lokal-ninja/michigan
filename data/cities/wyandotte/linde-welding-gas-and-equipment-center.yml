@@ -1,11 +1,11 @@
 id: 116771690
-type: way
+type: node
 latitude: 42.1991
 longitude: -83.17664
 postcode: "48192"
 city: Wyandotte
-street: "Eureka Road"
-housenumber: 2025
-phone: "+1 734-282-3830"
-opening_hours: "Mo-Fr 08:00-16:00"
-website: "https://stores.lindedirect.com/mi/wyandotte/industrial-supply-71160.html"
+street: Eureka Road
+housenumber: "2025"
+phone: +1 734-282-3830
+opening_hours: Mo-Fr 08:00-16:00
+website: https://stores.lindedirect.com/mi/wyandotte/industrial-supply-71160.html

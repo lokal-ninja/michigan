@@ -1,11 +1,11 @@
 id: 676929198
-type: way
+type: node
 latitude: 42.72006
 longitude: -84.41656
 postcode: "48864"
 city: Okemos
-street: "West Grand River Avenue"
-housenumber: 1842
-phone: "+1 517 349 2220"
+street: West Grand River Avenue
+housenumber: "1842"
+phone: +1 517 349 2220
 opening_hours: ""
-website: "https://www.acerentalsinc.com/"
+website: https://www.acerentalsinc.com/

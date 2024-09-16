@@ -1,11 +1,11 @@
 id: 1278920689
-type: way
+type: node
 latitude: 42.24106
 longitude: -83.74692
 postcode: ""
 city: Ann Arbor
-street: "Briarwood Circle"
-housenumber: 652
+street: Briarwood Circle
+housenumber: "652"
 phone: ""
 opening_hours: ""
-website: "https://www.apple.com/retail/briarwood"
+website: https://www.apple.com/retail/briarwood

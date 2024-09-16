@@ -1,11 +1,11 @@
 id: 394885506
-type: way
+type: node
 latitude: 41.95676
 longitude: -83.39485
 postcode: "48162"
 city: Monroe
-street: "North Telegraph Road"
-housenumber: 2492
-phone: "+1 734-241-6633"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
+street: North Telegraph Road
+housenumber: "2492"
+phone: +1 734-241-6633
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
 website: ""

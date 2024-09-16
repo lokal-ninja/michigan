@@ -4,8 +4,8 @@ latitude: 42.4293
 longitude: -83.27711
 postcode: "48219"
 city: Detroit
-street: "Telegraph Road"
-housenumber: 19100
-phone: "+1 313 603 2639"
-opening_hours: "24/7"
+street: Telegraph Road
+housenumber: "19100"
+phone: +1 313 603 2639
+opening_hours: 24/7
 website: ""

@@ -1,11 +1,11 @@
 id: 609546101
-type: way
+type: node
 latitude: 42.62392
 longitude: -83.97679
 postcode: "48843"
 city: Howell
-street: "West Highland Road"
-housenumber: 3100
+street: West Highland Road
+housenumber: "3100"
 phone: ""
 opening_hours: ""
 website: ""

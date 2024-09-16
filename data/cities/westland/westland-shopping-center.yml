@@ -1,11 +1,11 @@
 id: 282624237
-type: way
+type: node
 latitude: 42.34177
 longitude: -83.39105
 postcode: "48185"
 city: Westland
-street: "Warren Road"
-housenumber: 35000
-phone: "+1-734-421-0291"
-opening_hours: "Mo-Sa 11:00-20:00; Su 12:00-18:00"
-website: "https://www.westlandcenter.com/"
+street: Warren Road
+housenumber: "35000"
+phone: +1-734-421-0291
+opening_hours: Mo-Sa 11:00-20:00; Su 12:00-18:00
+website: https://www.westlandcenter.com/

@@ -4,8 +4,8 @@ latitude: 42.34674
 longitude: -83.03936
 postcode: ""
 city: Detroit
-street: "Market Street"
-housenumber: 2530
+street: Market Street
+housenumber: "2530"
 phone: ""
 opening_hours: ""
-website: "https://easternmarket.org/district/eastern-market-antiques"
+website: https://easternmarket.org/district/eastern-market-antiques

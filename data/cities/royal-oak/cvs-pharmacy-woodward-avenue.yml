@@ -1,11 +1,11 @@
 id: 107384686
-type: way
+type: node
 latitude: 42.51743
 longitude: -83.18474
 postcode: "48073"
 city: Royal Oak
-street: "Woodward Avenue"
-housenumber: 30900
+street: Woodward Avenue
+housenumber: "30900"
 phone: ""
-opening_hours: "24/7"
-website: "https://www.cvs.com/store-locator/royal-oak-mi-pharmacies/30900-woodward-royal-oak-mi-48073/storeid=1150"
+opening_hours: 24/7
+website: https://www.cvs.com/store-locator/royal-oak-mi-pharmacies/30900-woodward-royal-oak-mi-48073/storeid=1150

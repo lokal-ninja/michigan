@@ -1,11 +1,11 @@
 id: 784106698
-type: way
+type: node
 latitude: 42.32813
 longitude: -83.17601
 postcode: "48126"
 city: Dearborn
-street: "Schaefer Road"
-housenumber: 5468
-phone: "+1-313-357-6666"
+street: Schaefer Road
+housenumber: "5468"
+phone: +1-313-357-6666
 opening_hours: ""
-website: "https://www.healthcare6.com/supplier/dearborn-mi/americare-medical-supplies-inc-31631.html"
+website: https://www.healthcare6.com/supplier/dearborn-mi/americare-medical-supplies-inc-31631.html

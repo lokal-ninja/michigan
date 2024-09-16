@@ -1,11 +1,11 @@
 id: 473463049
-type: way
+type: node
 latitude: 42.43504
 longitude: -83.4844
 postcode: "48167"
 city: Northville
-street: "North Center Street"
-housenumber: 425
-phone: "+1 248-468-4485"
-opening_hours: "Mo-Su 06:00-22:00"
-website: "https://www.kroger.com/stores/grocery/mi/northville/main-center/018/00361"
+street: North Center Street
+housenumber: "425"
+phone: +1 248-468-4485
+opening_hours: Mo-Su 06:00-22:00
+website: https://www.kroger.com/stores/grocery/mi/northville/main-center/018/00361

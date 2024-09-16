@@ -1,11 +1,11 @@
 id: 97172336
-type: way
+type: node
 latitude: 42.24506
 longitude: -83.68253
 postcode: "48197"
 city: Ypsilanti
-street: "Carpenter Road"
-housenumber: 3200
-phone: "+1 734-971-7148"
-opening_hours: "Mo-Su 06:00-22:00"
-website: "https://www.kroger.com/stores/grocery/mi/ypsilanti/carpenter-packard/018/00689"
+street: Carpenter Road
+housenumber: "3200"
+phone: +1 734-971-7148
+opening_hours: Mo-Su 06:00-22:00
+website: https://www.kroger.com/stores/grocery/mi/ypsilanti/carpenter-packard/018/00689

@@ -1,11 +1,11 @@
 id: 1232816166
-type: way
+type: node
 latitude: 44.4227
 longitude: -84.1069
 postcode: "48654"
 city: Rose City
-street: "Beachwood Road"
-housenumber: 3039
-phone: "+1-989-685-9399"
-opening_hours: "Mo,Th 11:00-16:00; Fr-Sa 11:00-17:00; Su 12:00-16:00"
-website: "https://rosevalleywinery.net/"
+street: Beachwood Road
+housenumber: "3039"
+phone: +1-989-685-9399
+opening_hours: Mo,Th 11:00-16:00; Fr-Sa 11:00-17:00; Su 12:00-16:00
+website: https://rosevalleywinery.net/

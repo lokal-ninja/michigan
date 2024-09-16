@@ -1,11 +1,11 @@
 id: 527084328
-type: way
+type: node
 latitude: 43.13358
 longitude: -86.1541
 postcode: "49415"
 city: Fruitport
-street: "Airline Road"
-housenumber: 6530
-phone: "+1 231 865 3435"
-opening_hours: "07:00-21:00"
-website: "https://theorchardmarkets.com/"
+street: Airline Road
+housenumber: "6530"
+phone: +1 231 865 3435
+opening_hours: 07:00-21:00
+website: https://theorchardmarkets.com/

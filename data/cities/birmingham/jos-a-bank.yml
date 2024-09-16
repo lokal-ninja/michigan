@@ -1,11 +1,11 @@
 id: 439617877
-type: way
+type: node
 latitude: 42.5471
 longitude: -83.21352
 postcode: "48009"
 city: Birmingham
-street: "East Maple Road"
-housenumber: 275
+street: East Maple Road
+housenumber: "275"
 phone: ""
 opening_hours: ""
 website: ""

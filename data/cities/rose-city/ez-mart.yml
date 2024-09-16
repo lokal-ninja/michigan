@@ -1,11 +1,11 @@
 id: 845883776
-type: way
+type: node
 latitude: 44.41468
 longitude: -84.11581
 postcode: "48654"
 city: Rose City
-street: "South Bennett Street"
-housenumber: 619
-phone: "+1-989-685-3333"
+street: South Bennett Street
+housenumber: "619"
+phone: +1-989-685-3333
 opening_hours: ""
-website: "https://blarneycastleoil.com/"
+website: https://blarneycastleoil.com/

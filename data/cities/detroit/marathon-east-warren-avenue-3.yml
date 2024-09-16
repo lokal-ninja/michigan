@@ -1,11 +1,11 @@
 id: 383542092
-type: way
+type: node
 latitude: 42.36013
 longitude: -83.05516
 postcode: "48201"
 city: Detroit
-street: "East Warren Avenue"
-housenumber: 714
+street: East Warren Avenue
+housenumber: "714"
 phone: ""
 opening_hours: ""
 website: ""

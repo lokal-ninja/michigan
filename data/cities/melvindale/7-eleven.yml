@@ -1,11 +1,11 @@
 id: 485671808
-type: way
+type: node
 latitude: 42.2831
 longitude: -83.18617
 postcode: "48122"
 city: Melvindale
-street: "Allen Road"
-housenumber: 18210
-phone: "+1 313-382-2286"
+street: Allen Road
+housenumber: "18210"
+phone: +1 313-382-2286
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/mi/melvindale/18210-allen-rd-19262"
+website: https://www.7-eleven.com/locations/mi/melvindale/18210-allen-rd-19262

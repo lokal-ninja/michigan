@@ -1,11 +1,11 @@
 id: 769078808
-type: way
+type: node
 latitude: 43.41434
 longitude: -83.90205
 postcode: "48601"
 city: Saginaw
-street: "East Holland Avenue"
-housenumber: 3162
-phone: "+1 989 754 2409"
-opening_hours: "Mo-Sa 07:30-21:00; Su 09:00-08:00"
-website: "https://stores.advanceautoparts.com/mi/saginaw/3162-east-holland-ave"
+street: East Holland Avenue
+housenumber: "3162"
+phone: +1 989 754 2409
+opening_hours: Mo-Sa 07:30-21:00; Su 09:00-08:00
+website: https://stores.advanceautoparts.com/mi/saginaw/3162-east-holland-ave

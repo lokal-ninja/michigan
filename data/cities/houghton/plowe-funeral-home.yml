@@ -1,11 +1,11 @@
 id: 225599187
-type: way
+type: node
 latitude: 47.12077
 longitude: -88.57792
 postcode: "49931"
 city: Houghton
-street: "Memorial Road"
-housenumber: 401
+street: Memorial Road
+housenumber: "401"
 phone: ""
 opening_hours: ""
-website: "https://www.memorialchapel.net/"
+website: https://www.memorialchapel.net/

@@ -1,11 +1,11 @@
 id: 262404976
-type: way
+type: node
 latitude: 41.93493
 longitude: -83.39113
 postcode: "48162"
 city: Monroe
-street: "North Monroe Street"
-housenumber: 1285
+street: North Monroe Street
+housenumber: "1285"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-1285+n+monroe+st-monroe-mi-48162/id=2023"
+website: https://www.walgreens.com/locator/walgreens-1285+n+monroe+st-monroe-mi-48162/id=2023

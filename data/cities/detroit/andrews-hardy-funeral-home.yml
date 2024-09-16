@@ -1,11 +1,11 @@
 id: 609282866
-type: way
+type: node
 latitude: 42.42884
 longitude: -82.98228
 postcode: ""
 city: Detroit
-street: "Gratiot Avenue"
-housenumber: 13841
+street: Gratiot Avenue
+housenumber: "13841"
 phone: ""
 opening_hours: ""
-website: "https://www.andrewshardyfuneralhome.com/"
+website: https://www.andrewshardyfuneralhome.com/

@@ -1,11 +1,11 @@
 id: 1272338684
-type: way
+type: node
 latitude: 42.53766
 longitude: -82.95187
 postcode: "48026"
 city: Fraser
-street: "Utica Road"
-housenumber: 32814
-phone: "+1-586-293-3390"
+street: Utica Road
+housenumber: "32814"
+phone: +1-586-293-3390
 opening_hours: ""
-website: "https://www.faulmannwalsh.com/"
+website: https://www.faulmannwalsh.com/

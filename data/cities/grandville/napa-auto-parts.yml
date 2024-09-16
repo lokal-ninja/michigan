@@ -1,11 +1,11 @@
 id: 1004806779
-type: way
+type: node
 latitude: 42.90175
 longitude: -85.77485
 postcode: "49418"
 city: Grandville
-street: "Fairlanes Avenue Southwest"
-housenumber: 3480
+street: Fairlanes Avenue Southwest
+housenumber: "3480"
 phone: ""
 opening_hours: ""
 website: ""

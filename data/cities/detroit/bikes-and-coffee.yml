@@ -4,8 +4,8 @@ latitude: 42.35291
 longitude: -83.07978
 postcode: ""
 city: Detroit
-street: "Putnam Street"
-housenumber: 1521
-phone: "+1-313-288-0201"
-opening_hours: "Mo-Su 07:00-19:00"
-website: "https://www.bikes-coffee.com/"
+street: Putnam Street
+housenumber: "1521"
+phone: +1-313-288-0201
+opening_hours: Mo-Su 07:00-19:00
+website: https://www.bikes-coffee.com/

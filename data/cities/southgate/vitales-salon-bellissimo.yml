@@ -1,11 +1,11 @@
 id: 812648886
-type: way
+type: node
 latitude: 42.18508
 longitude: -83.19801
 postcode: "48195"
 city: Southgate
-street: "Pennsylvania Road"
-housenumber: 14400
+street: Pennsylvania Road
+housenumber: "14400"
 phone: ""
 opening_hours: ""
 website: ""

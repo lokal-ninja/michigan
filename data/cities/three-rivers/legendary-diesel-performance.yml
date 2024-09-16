@@ -1,11 +1,11 @@
 id: 381298934
-type: way
+type: node
 latitude: 41.95383
 longitude: -85.62262
 postcode: "49093"
 city: Three Rivers
-street: "East Hoffman Street"
-housenumber: 675
-phone: "+1-269-244-4364"
-opening_hours: "Mo-Fr 08:00-17:00; Sa-Su by appointment"
-website: "http://legendarydiesel.com"
+street: East Hoffman Street
+housenumber: "675"
+phone: +1-269-244-4364
+opening_hours: Mo-Fr 08:00-17:00; Sa-Su "by appointment"
+website: http://legendarydiesel.com

@@ -1,11 +1,11 @@
 id: 321927978
-type: way
+type: node
 latitude: 42.39772
 longitude: -83.41229
 postcode: "48154"
 city: Livonia
-street: "5 Mile Road"
-housenumber: 37340
+street: 5 Mile Road
+housenumber: "37340"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/livonia-mi-pharmacies/37340-five-mile-rd-livonia-mi-48154/storeid=8121"
+website: https://www.cvs.com/store-locator/livonia-mi-pharmacies/37340-five-mile-rd-livonia-mi-48154/storeid=8121

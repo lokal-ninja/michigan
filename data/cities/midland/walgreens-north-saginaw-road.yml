@@ -1,11 +1,11 @@
 id: 319056323
-type: way
+type: node
 latitude: 43.64091
 longitude: -84.24599
 postcode: "48640"
 city: Midland
-street: "North Saginaw Road"
-housenumber: 1615
+street: North Saginaw Road
+housenumber: "1615"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-1615+n+saginaw+rd-midland-mi-48640/id=9079"
+website: https://www.walgreens.com/locator/walgreens-1615+n+saginaw+rd-midland-mi-48640/id=9079

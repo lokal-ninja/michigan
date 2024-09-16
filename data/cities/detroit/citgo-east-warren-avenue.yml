@@ -4,8 +4,8 @@ latitude: 42.39656
 longitude: -82.95459
 postcode: "48224"
 city: Detroit
-street: "East Warren Avenue"
-housenumber: 14800
-phone: "+1 313 640 5506"
-opening_hours: "24/7"
+street: East Warren Avenue
+housenumber: "14800"
+phone: +1 313 640 5506
+opening_hours: 24/7
 website: ""

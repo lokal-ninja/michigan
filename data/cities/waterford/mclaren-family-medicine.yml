@@ -1,11 +1,11 @@
 id: 1299794672
-type: way
+type: node
 latitude: 42.64031
 longitude: -83.33732
 postcode: "48328"
 city: Waterford
-street: "Elizabeth Lake Road"
-housenumber: 2590
-phone: "+1-248-738-5500"
+street: Elizabeth Lake Road
+housenumber: "2590"
+phone: +1-248-738-5500
 opening_hours: ""
 website: ""

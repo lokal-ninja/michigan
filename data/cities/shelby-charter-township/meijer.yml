@@ -4,8 +4,8 @@ latitude: 42.62839
 longitude: -82.97769
 postcode: "48315"
 city: Shelby Charter Township
-street: "Hall Road"
-housenumber: 15031
+street: Hall Road
+housenumber: "15031"
 phone: ""
-opening_hours: "24/7"
-website: "https://www.meijer.com/shopping/store-locator/65.html"
+opening_hours: 24/7
+website: https://www.meijer.com/shopping/store-locator/65.html

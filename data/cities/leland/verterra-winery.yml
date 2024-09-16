@@ -1,11 +1,11 @@
 id: 338227240
-type: way
+type: node
 latitude: 45.02291
 longitude: -85.75954
 postcode: "49654"
 city: Leland
-street: "River Street"
-housenumber: 103
+street: River Street
+housenumber: "103"
 phone: ""
 opening_hours: ""
 website: ""

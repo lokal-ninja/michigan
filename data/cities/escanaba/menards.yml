@@ -1,11 +1,11 @@
 id: 224665992
-type: way
+type: node
 latitude: 45.74695
 longitude: -87.09409
 postcode: "49829"
 city: Escanaba
-street: "Ludington Street"
-housenumber: 3300
+street: Ludington Street
+housenumber: "3300"
 phone: ""
 opening_hours: ""
-website: "https://www.menards.com/store-details/store.html?store=3256"
+website: https://www.menards.com/store-details/store.html?store=3256

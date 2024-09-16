@@ -1,11 +1,11 @@
 id: 246356629
-type: way
+type: node
 latitude: 43.65732
 longitude: -84.24285
 postcode: "48642"
 city: Midland
-street: "Eastman Avenue"
-housenumber: 6800
-phone: "+1 989 832 9060"
-opening_hours: "Mo-Sa 10:00-21:00;Su 12:00-18:00"
-website: "https://www.shopmidlandmall.com/"
+street: Eastman Avenue
+housenumber: "6800"
+phone: +1 989 832 9060
+opening_hours: Mo-Sa 10:00-21:00;Su 12:00-18:00
+website: https://www.shopmidlandmall.com/

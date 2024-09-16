@@ -1,11 +1,11 @@
 id: 773015405
-type: way
+type: node
 latitude: 42.45934
 longitude: -84.08447
 postcode: "48137"
 city: Gregory
-street: "Main Street"
-housenumber: 130
+street: Main Street
+housenumber: "130"
 phone: ""
-opening_hours: "Mo-Sa 08:00-17:00"
+opening_hours: Mo-Sa 08:00-17:00
 website: ""

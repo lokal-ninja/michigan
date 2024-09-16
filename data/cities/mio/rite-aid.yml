@@ -1,11 +1,11 @@
 id: 874429293
-type: way
+type: node
 latitude: 44.65214
 longitude: -84.12961
 postcode: "48647"
 city: Mio
-street: "South Morenci Avenue"
-housenumber: 101
-phone: "+1-989-826-3737"
+street: South Morenci Avenue
+housenumber: "101"
+phone: +1-989-826-3737
 opening_hours: ""
-website: "https://www.riteaid.com"
+website: https://www.riteaid.com

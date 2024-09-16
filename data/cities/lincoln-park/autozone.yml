@@ -1,11 +1,11 @@
 id: 696948396
-type: way
+type: node
 latitude: 42.23236
 longitude: -83.19376
 postcode: "48146"
 city: Lincoln Park
-street: "Dix Highway"
-housenumber: 3605
+street: Dix Highway
+housenumber: "3605"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/mi/lincoln-park/3605-dix-hwy.html"
+website: https://www.autozone.com/locations/mi/lincoln-park/3605-dix-hwy.html

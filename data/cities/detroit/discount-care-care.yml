@@ -1,11 +1,11 @@
 id: 610253083
-type: way
+type: node
 latitude: 42.42544
 longitude: -82.98471
 postcode: "48205"
 city: Detroit
-street: "Gratiot Avenue"
-housenumber: 13441
+street: Gratiot Avenue
+housenumber: "13441"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1251675461
-type: way
+type: node
 latitude: 45.05407
 longitude: -83.44061
 postcode: "49707"
 city: Alpena
-street: "South State Avenue"
-housenumber: 603
-phone: "+1-989-356-6138"
-opening_hours: "Mo-Fr 09:30-18:30; Sa 10:30-14:00"
-website: "https://bahamabreezesalon.com/"
+street: South State Avenue
+housenumber: "603"
+phone: +1-989-356-6138
+opening_hours: Mo-Fr 09:30-18:30; Sa 10:30-14:00
+website: https://bahamabreezesalon.com/

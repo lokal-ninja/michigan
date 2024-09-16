@@ -1,11 +1,11 @@
 id: 813523570
-type: way
+type: node
 latitude: 42.26788
 longitude: -83.30971
 postcode: "48174"
 city: Romulus
-street: "Van Born Road"
-housenumber: 27415
+street: Van Born Road
+housenumber: "27415"
 phone: ""
 opening_hours: ""
 website: ""

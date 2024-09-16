@@ -1,11 +1,11 @@
 id: 696466580
-type: way
+type: node
 latitude: 42.50196
 longitude: -83.11938
 postcode: "48067"
 city: Royal Oak
-street: "East 12 Mile Road"
-housenumber: 2200
-phone: "+1 248-397-1530"
-opening_hours: "Mo-Su 06:00-22:00"
-website: "https://www.kroger.com/stores/grocery/mi/royal-oak/kroger-marketplace-royal-oak/018/00743"
+street: East 12 Mile Road
+housenumber: "2200"
+phone: +1 248-397-1530
+opening_hours: Mo-Su 06:00-22:00
+website: https://www.kroger.com/stores/grocery/mi/royal-oak/kroger-marketplace-royal-oak/018/00743

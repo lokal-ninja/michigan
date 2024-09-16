@@ -1,11 +1,11 @@
 id: 923168685
-type: way
+type: node
 latitude: 42.45829
 longitude: -83.2607
 postcode: "48033"
 city: Southfield
-street: "Lahser Road"
-housenumber: 23111
+street: Lahser Road
+housenumber: "23111"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-23111+lahser+rd-southfield-mi-48033/id=7208"
+website: https://www.walgreens.com/locator/walgreens-23111+lahser+rd-southfield-mi-48033/id=7208

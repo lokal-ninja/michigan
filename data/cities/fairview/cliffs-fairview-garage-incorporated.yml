@@ -1,11 +1,11 @@
 id: 343299694
-type: way
+type: node
 latitude: 44.72492
 longitude: -84.05097
 postcode: "48621"
 city: Fairview
-street: "East Miller Road"
-housenumber: 1988
-phone: "+1-989-848-2987"
+street: East Miller Road
+housenumber: "1988"
+phone: +1-989-848-2987
 opening_hours: ""
 website: ""

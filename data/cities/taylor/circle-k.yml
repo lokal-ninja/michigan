@@ -1,11 +1,11 @@
 id: 711389813
-type: way
+type: node
 latitude: 42.21279
 longitude: -83.26768
 postcode: "48180"
 city: Taylor
-street: "Northline Road"
-housenumber: 23890
+street: Northline Road
+housenumber: "23890"
 phone: ""
 opening_hours: ""
 website: ""

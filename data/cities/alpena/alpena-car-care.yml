@@ -1,11 +1,11 @@
 id: 1241403833
-type: way
+type: node
 latitude: 45.06212
 longitude: -83.45249
 postcode: "49707"
 city: Alpena
-street: "West Washington Avenue"
-housenumber: 901
-phone: "+1-989-354-2179"
+street: West Washington Avenue
+housenumber: "901"
+phone: +1-989-354-2179
 opening_hours: ""
-website: "https://www.alpenacarcare.com/"
+website: https://www.alpenacarcare.com/

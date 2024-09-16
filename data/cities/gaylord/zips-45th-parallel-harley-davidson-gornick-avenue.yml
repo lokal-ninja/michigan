@@ -1,11 +1,11 @@
 id: 1312269049
-type: way
+type: node
 latitude: 45.0166
 longitude: -84.68256
 postcode: "49735"
 city: Gaylord
-street: "Gornick Avenue"
-housenumber: 980
-phone: "+1-800-732-8000"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 10:00-16:00"
-website: "https://www.zips45thhd.com/Map-Hours-Zips"
+street: Gornick Avenue
+housenumber: "980"
+phone: +1-800-732-8000
+opening_hours: Mo-Fr 09:00-18:00; Sa 10:00-16:00
+website: https://www.zips45thhd.com/Map-Hours-Zips

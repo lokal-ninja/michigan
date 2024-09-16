@@ -1,11 +1,11 @@
 id: 146687808
-type: way
+type: node
 latitude: 42.20305
 longitude: -83.1507
 postcode: "48192"
 city: Wyandotte
-street: "Elm Street"
-housenumber: 131
+street: Elm Street
+housenumber: "131"
 phone: ""
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/mi/wyandotte/25557"
+website: https://www.dollargeneral.com/store-directory/mi/wyandotte/25557

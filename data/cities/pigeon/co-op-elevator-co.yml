@@ -1,11 +1,11 @@
 id: 957366220
-type: way
+type: node
 latitude: 43.82979
 longitude: -83.27427
 postcode: "48755"
 city: Pigeon
-street: "Michigan Avenue"
-housenumber: 7403
+street: Michigan Avenue
+housenumber: "7403"
 phone: ""
 opening_hours: ""
 website: ""

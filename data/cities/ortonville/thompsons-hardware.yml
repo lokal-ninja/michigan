@@ -1,11 +1,11 @@
 id: 432474555
-type: way
+type: node
 latitude: 42.8519
 longitude: -83.44525
 postcode: "48462"
 city: Ortonville
-street: "South Street"
-housenumber: 
+street: South Street
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

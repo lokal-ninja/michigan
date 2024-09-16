@@ -1,11 +1,11 @@
 id: 678285638
-type: way
+type: node
 latitude: 42.90225
 longitude: -85.54757
 postcode: "49512"
 city: Grand Rapids
-street: "Patterson Avenue Southeast"
-housenumber: 3402
-phone: "+1 616 949 6272"
-opening_hours: "Mo-Fr 07:00-19:00; Sa 08:00-17:00; Su 09:00-16:00"
-website: "https://www.napaonline.com/"
+street: Patterson Avenue Southeast
+housenumber: "3402"
+phone: +1 616 949 6272
+opening_hours: Mo-Fr 07:00-19:00; Sa 08:00-17:00; Su 09:00-16:00
+website: https://www.napaonline.com/

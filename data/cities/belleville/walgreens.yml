@@ -1,11 +1,11 @@
 id: 360557968
-type: way
+type: node
 latitude: 42.22783
 longitude: -83.48605
 postcode: "48111"
 city: Belleville
-street: "Belleville Road"
-housenumber: 10276
+street: Belleville Road
+housenumber: "10276"
 phone: ""
-opening_hours: "09:00-21:00"
-website: "https://www.walgreens.com/locator/walgreens-10276+belleville+rd-van+buren+twp-mi-48111/id=7275"
+opening_hours: 09:00-21:00
+website: https://www.walgreens.com/locator/walgreens-10276+belleville+rd-van+buren+twp-mi-48111/id=7275

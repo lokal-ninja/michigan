@@ -4,8 +4,8 @@ latitude: 42.89832
 longitude: -85.704
 postcode: "49509"
 city: Wyoming
-street: "36th Street Southwest"
-housenumber: 1550
+street: 36th Street Southwest
+housenumber: "1550"
 phone: ""
-opening_hours: "24/7"
-website: "https://www.walgreens.com/locator/walgreens-1550+36th+st+sw-wyoming-mi-49509/id=11249"
+opening_hours: 24/7
+website: https://www.walgreens.com/locator/walgreens-1550+36th+st+sw-wyoming-mi-49509/id=11249

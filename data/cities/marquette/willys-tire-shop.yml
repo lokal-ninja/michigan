@@ -1,11 +1,11 @@
 id: 521153759
-type: way
+type: node
 latitude: 46.55212
 longitude: -87.45764
 postcode: "49855"
 city: Marquette
-street: "Wright Street"
-housenumber: 3140
-phone: "+1 906 226 3511"
+street: Wright Street
+housenumber: "3140"
+phone: +1 906 226 3511
 opening_hours: ""
 website: ""

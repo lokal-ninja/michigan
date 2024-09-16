@@ -1,11 +1,11 @@
 id: 317186851
-type: way
+type: node
 latitude: 42.43106
 longitude: -83.34084
 postcode: "48152"
 city: Livonia
-street: "7 Mile Road"
-housenumber: 29574
-phone: "+1 248-957-0106"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/5844/livonia-mi/whats-new"
+street: 7 Mile Road
+housenumber: "29574"
+phone: +1 248-957-0106
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.walmart.com/store/5844/livonia-mi/whats-new

@@ -1,11 +1,11 @@
 id: 1128082065
-type: way
+type: node
 latitude: 42.41428
 longitude: -83.43506
 postcode: "48168"
 city: Northville Township
-street: "Haggerty Road"
-housenumber: 17631
+street: Haggerty Road
+housenumber: "17631"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 678137257
-type: way
+type: node
 latitude: 42.25327
 longitude: -83.21545
 postcode: "48101"
 city: Allen Park
-street: "Allen Road"
-housenumber: 7607
+street: Allen Road
+housenumber: "7607"
 phone: ""
 opening_hours: ""
 website: ""

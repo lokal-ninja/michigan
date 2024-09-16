@@ -1,11 +1,11 @@
 id: 488091879
-type: way
+type: node
 latitude: 42.09392
 longitude: -83.67607
 postcode: "48160"
 city: Milan
-street: "Dexter Street"
-housenumber: 1040
-phone: "+1-734-439-1130"
+street: Dexter Street
+housenumber: "1040"
+phone: +1-734-439-1130
 opening_hours: ""
 website: ""

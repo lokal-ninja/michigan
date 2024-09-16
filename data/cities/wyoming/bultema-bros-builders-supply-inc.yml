@@ -1,11 +1,11 @@
 id: 1011848151
-type: way
+type: node
 latitude: 42.93783
 longitude: -85.68949
 postcode: "49509"
 city: Wyoming
-street: "Godfrey Avenue Southwest"
-housenumber: 1430
+street: Godfrey Avenue Southwest
+housenumber: "1430"
 phone: ""
 opening_hours: ""
 website: ""

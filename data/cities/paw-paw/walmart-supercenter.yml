@@ -1,11 +1,11 @@
 id: 482332708
-type: way
+type: node
 latitude: 42.20671
 longitude: -85.87988
 postcode: "49079"
 city: Paw Paw
-street: "South Kalamazoo Street"
-housenumber: 1013
-phone: "+1 269-415-6001"
-opening_hours: "Mo-Su 06:00-01:00"
-website: "https://www.walmart.com/store/4439/paw-paw-mi/whats-new"
+street: South Kalamazoo Street
+housenumber: "1013"
+phone: +1 269-415-6001
+opening_hours: Mo-Su 06:00-01:00
+website: https://www.walmart.com/store/4439/paw-paw-mi/whats-new

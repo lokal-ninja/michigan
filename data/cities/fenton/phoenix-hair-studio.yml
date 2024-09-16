@@ -1,11 +1,11 @@
 id: 818595666
-type: way
+type: node
 latitude: 42.79323
 longitude: -83.70516
 postcode: "48430"
 city: Fenton
-street: "South Leroy Street"
-housenumber: 401
+street: South Leroy Street
+housenumber: "401"
 phone: ""
 opening_hours: ""
 website: ""

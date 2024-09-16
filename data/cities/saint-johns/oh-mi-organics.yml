@@ -1,11 +1,11 @@
 id: 977802137
-type: way
+type: node
 latitude: 43.00338
 longitude: -84.55942
 postcode: "48879"
 city: Saint Johns
-street: "West Higham Street"
-housenumber: 109
+street: West Higham Street
+housenumber: "109"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.ohmiorganics.com/"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.ohmiorganics.com/

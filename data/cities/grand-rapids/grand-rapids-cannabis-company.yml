@@ -1,11 +1,11 @@
 id: 1306265504
-type: way
+type: node
 latitude: 42.9751
 longitude: -85.60385
 postcode: "49505"
 city: Grand Rapids
-street: "Oak Industrial Drive Northeast"
-housenumber: 2701
-phone: "+1-616-920-6979"
-opening_hours: "Mo-Sa 09:00-21:00; Su 11:00-19:00"
-website: "https://grcannabisco.com/"
+street: Oak Industrial Drive Northeast
+housenumber: "2701"
+phone: +1-616-920-6979
+opening_hours: Mo-Sa 09:00-21:00; Su 11:00-19:00
+website: https://grcannabisco.com/

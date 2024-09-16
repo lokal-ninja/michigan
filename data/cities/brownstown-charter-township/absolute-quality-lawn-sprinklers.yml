@@ -1,11 +1,11 @@
 id: 689238445
-type: way
+type: node
 latitude: 42.17311
 longitude: -83.26734
 postcode: "48174"
 city: Brownstown Charter Township
-street: "Telegraph Road"
-housenumber: 18224
-phone: "+1-734-941-7474"
-opening_hours: "Mo-Fr 09:00-17:00"
-website: "https://www.absolutequalitylawnsprinklers.com/"
+street: Telegraph Road
+housenumber: "18224"
+phone: +1-734-941-7474
+opening_hours: Mo-Fr 09:00-17:00
+website: https://www.absolutequalitylawnsprinklers.com/

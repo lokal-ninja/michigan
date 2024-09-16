@@ -1,11 +1,11 @@
 id: 843171833
-type: way
+type: node
 latitude: 42.48133
 longitude: -83.15073
 postcode: ""
 city: Royal Oak
-street: "Woodward Avenue"
-housenumber: 25766
+street: Woodward Avenue
+housenumber: "25766"
 phone: ""
 opening_hours: ""
 website: ""

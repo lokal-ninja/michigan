@@ -1,11 +1,11 @@
 id: 107384612
-type: way
+type: node
 latitude: 42.5235
 longitude: -83.09838
 postcode: "48071"
 city: Madison Heights
-street: "East 13 Mile Road"
-housenumber: 1005
-phone: "+1-248-307-4900"
+street: East 13 Mile Road
+housenumber: "1005"
+phone: +1-248-307-4900
 opening_hours: ""
 website: ""

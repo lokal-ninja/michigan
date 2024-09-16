@@ -1,11 +1,11 @@
 id: 628780948
-type: way
+type: node
 latitude: 41.93307
 longitude: -84.96674
 postcode: "49036"
 city: Coldwater
-street: "East Chicago Street"
-housenumber: 800
-phone: "+1 517-278-2240"
-opening_hours: "Mo-Su 06:00-01:00"
-website: "https://www.walmart.com/store/1593/coldwater-mi/whats-new"
+street: East Chicago Street
+housenumber: "800"
+phone: +1 517-278-2240
+opening_hours: Mo-Su 06:00-01:00
+website: https://www.walmart.com/store/1593/coldwater-mi/whats-new

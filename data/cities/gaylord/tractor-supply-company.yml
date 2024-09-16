@@ -1,11 +1,11 @@
 id: 1203163623
-type: way
+type: node
 latitude: 45.01315
 longitude: -84.67859
 postcode: "49735"
 city: Gaylord
-street: "South Otsego Avenue South Old 27"
-housenumber: 1286
-phone: "+1 989-705-1256"
-opening_hours: "Mo 08:00-18:00; Tu-Sa 08:00-21:00; Su 09:00-19:00"
-website: "https://www.tractorsupply.com/tsc/store_Gaylord-MI-49735_636"
+street: South Otsego Avenue South Old 27
+housenumber: "1286"
+phone: +1 989-705-1256
+opening_hours: Mo 08:00-18:00; Tu-Sa 08:00-21:00; Su 09:00-19:00
+website: https://www.tractorsupply.com/tsc/store_Gaylord-MI-49735_636

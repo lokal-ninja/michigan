@@ -1,11 +1,11 @@
 id: 289957574
-type: way
+type: node
 latitude: 43.4904
 longitude: -83.97047
 postcode: "48604"
 city: Saginaw
-street: "Bay Road"
-housenumber: 5650
-phone: "+1-989-790-3990"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/5097/saginaw-mi/whats-new"
+street: Bay Road
+housenumber: "5650"
+phone: +1-989-790-3990
+opening_hours: 24/7
+website: https://www.walmart.com/store/5097/saginaw-mi/whats-new

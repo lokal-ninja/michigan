@@ -1,11 +1,11 @@
 id: 727202518
-type: way
+type: node
 latitude: 43.9459
 longitude: -86.04308
 postcode: "49402"
 city: Branch
-street: "East US Highway 10"
-housenumber: 9455
-phone: "+1 231 898 4626"
+street: East US Highway 10
+housenumber: "9455"
+phone: +1 231 898 4626
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 920184198
-type: way
+type: node
 latitude: 42.23573
 longitude: -83.59637
 postcode: "48198"
 city: Ypsilanti
-street: "Ecorse Road"
-housenumber: 818
-phone: "+1-734-482-7807"
-opening_hours: "Mo-Su 11:30-21:00"
+street: Ecorse Road
+housenumber: "818"
+phone: +1-734-482-7807
+opening_hours: Mo-Su 11:30-21:00
 website: ""

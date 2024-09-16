@@ -1,11 +1,11 @@
 id: 154891338
-type: way
+type: node
 latitude: 42.74047
 longitude: -84.50555
 postcode: "48912"
 city: Lansing
-street: "East Saginaw Street"
-housenumber: 3420
-phone: "+1 517 333 6627"
-opening_hours: "Su 12:00-18:00;Mo-Fr 11:00-20:00;Sa 10:00-19:00"
+street: East Saginaw Street
+housenumber: "3420"
+phone: +1 517 333 6627
+opening_hours: Su 12:00-18:00;Mo-Fr 11:00-20:00;Sa 10:00-19:00
 website: ""

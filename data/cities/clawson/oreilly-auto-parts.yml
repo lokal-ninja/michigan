@@ -1,11 +1,11 @@
 id: 916449614
-type: way
+type: node
 latitude: 42.53241
 longitude: -83.16055
 postcode: "48017"
 city: Clawson
-street: "West 14 Mile Road"
-housenumber: 1015
+street: West 14 Mile Road
+housenumber: "1015"
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/mi/clawson/autoparts-3433.html"
+website: https://locations.oreillyauto.com/mi/clawson/autoparts-3433.html

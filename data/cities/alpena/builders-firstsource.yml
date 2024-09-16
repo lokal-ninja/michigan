@@ -1,11 +1,11 @@
 id: 863159073
-type: way
+type: node
 latitude: 45.06063
 longitude: -83.48062
 postcode: "49707"
 city: Alpena
-street: "M-32 West"
-housenumber: 1441
-phone: "+1-989-499-1271"
-opening_hours: "Mo-Fr 07:00-17:00"
-website: "https://www.bldr.com/location/alpena-mi-yard/ALPEMIYD"
+street: M-32 West
+housenumber: "1441"
+phone: +1-989-499-1271
+opening_hours: Mo-Fr 07:00-17:00
+website: https://www.bldr.com/location/alpena-mi-yard/ALPEMIYD

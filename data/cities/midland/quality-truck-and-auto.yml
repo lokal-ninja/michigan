@@ -1,11 +1,11 @@
 id: 311451134
-type: way
+type: node
 latitude: 43.65823
 longitude: -84.23467
 postcode: "48642"
 city: Midland
-street: "Cinema Drive"
-housenumber: 6641
-phone: "+1 989 698 8900"
+street: Cinema Drive
+housenumber: "6641"
+phone: +1 989 698 8900
 opening_hours: ""
 website: ""

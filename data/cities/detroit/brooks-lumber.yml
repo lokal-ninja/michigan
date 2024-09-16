@@ -1,11 +1,11 @@
 id: 71849918
-type: way
+type: node
 latitude: 42.33286
 longitude: -83.06754
 postcode: "48216"
 city: Detroit
-street: "Trumbull Street"
-housenumber: 2200
-phone: "+1 313-962-6448"
-opening_hours: "Mo-Fr 08:00-17:00; Sa 08:00-15:00"
-website: "https://www.acehardware.com/store-details/01867"
+street: Trumbull Street
+housenumber: "2200"
+phone: +1 313-962-6448
+opening_hours: Mo-Fr 08:00-17:00; Sa 08:00-15:00
+website: https://www.acehardware.com/store-details/01867

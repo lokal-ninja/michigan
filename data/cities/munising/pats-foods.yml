@@ -1,11 +1,11 @@
 id: 225770309
-type: way
+type: node
 latitude: 46.40663
 longitude: -86.6483
 postcode: "49862"
 city: Munising
-street: "M-28"
-housenumber: 425
-phone: "+1 907 387 2147"
-opening_hours: "06:00-23:00"
-website: "https://www.patsfoodsiga.com/StoreLocator/Store/?L=5811&S="
+street: M-28
+housenumber: "425"
+phone: +1 907 387 2147
+opening_hours: 06:00-23:00
+website: https://www.patsfoodsiga.com/StoreLocator/Store/?L=5811&S=

@@ -1,11 +1,11 @@
 id: 702541168
-type: way
+type: node
 latitude: 42.63526
 longitude: -83.1507
 postcode: "48307"
 city: Rochester Hills
-street: "West Auburn Road"
-housenumber: 933
-phone: "+1-248-844-8454"
+street: West Auburn Road
+housenumber: "933"
+phone: +1-248-844-8454
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 432474557
-type: way
+type: node
 latitude: 42.85259
 longitude: -83.44501
 postcode: "48462"
 city: Ortonville
-street: "Mill Street"
-housenumber: 
+street: Mill Street
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

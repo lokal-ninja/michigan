@@ -1,11 +1,11 @@
 id: 609637449
-type: way
+type: node
 latitude: 42.04825
 longitude: -84.3578
 postcode: "49233"
 city: Cement City
-street: "US 12"
-housenumber: 18715
-phone: "+1 517 547 3276"
-opening_hours: "Mo-Th 05:00-22:00; Fr 05:00-24:00; Sa 07:00-24:00; Su 07:00-22:00"
-website: "https://psfoodmart.com/locations/cement-city-ps-food-mart-3025"
+street: US 12
+housenumber: "18715"
+phone: +1 517 547 3276
+opening_hours: Mo-Th 05:00-22:00; Fr 05:00-24:00; Sa 07:00-24:00; Su 07:00-22:00
+website: https://psfoodmart.com/locations/cement-city-ps-food-mart-3025

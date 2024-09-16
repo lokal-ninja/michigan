@@ -1,11 +1,11 @@
 id: 1004804726
-type: way
+type: node
 latitude: 42.90657
 longitude: -85.77118
 postcode: "49418"
 city: Grandville
-street: "Chicago Drive Southwest"
-housenumber: 4356
-phone: "+1-616-532-3226"
+street: Chicago Drive Southwest
+housenumber: "4356"
+phone: +1-616-532-3226
 opening_hours: ""
-website: "http://thehairportsalon.com"
+website: http://thehairportsalon.com

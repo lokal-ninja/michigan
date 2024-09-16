@@ -1,11 +1,11 @@
 id: 661782147
-type: way
+type: node
 latitude: 42.78086
 longitude: -86.07833
 postcode: "49423"
 city: Holland
-street: "South Waverly Road"
-housenumber: 440
-phone: "+1-616-396-6257"
+street: South Waverly Road
+housenumber: "440"
+phone: +1-616-396-6257
 opening_hours: ""
-website: "https://buismattress.net/"
+website: https://buismattress.net/

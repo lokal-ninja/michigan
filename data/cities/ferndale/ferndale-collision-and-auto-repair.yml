@@ -1,11 +1,11 @@
 id: 664424982
-type: way
+type: node
 latitude: 42.46144
 longitude: -83.13291
 postcode: "48220"
 city: Ferndale
-street: "Vester Street"
-housenumber: 180
+street: Vester Street
+housenumber: "180"
 phone: ""
 opening_hours: ""
 website: ""

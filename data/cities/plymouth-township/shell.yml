@@ -4,8 +4,8 @@ latitude: 42.39364
 longitude: -83.50941
 postcode: "48170"
 city: Plymouth Township
-street: "5 Mile Road"
-housenumber: 47373
-phone: "+1-734-459-1752"
-opening_hours: "24/7"
+street: 5 Mile Road
+housenumber: "47373"
+phone: +1-734-459-1752
+opening_hours: 24/7
 website: ""

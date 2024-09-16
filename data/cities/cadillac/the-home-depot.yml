@@ -1,11 +1,11 @@
 id: 263365403
-type: way
+type: node
 latitude: 44.28291
 longitude: -85.40856
 postcode: "49601"
 city: Cadillac
-street: "41 1/2 Road"
-housenumber: 3786
+street: 41 1/2 Road
+housenumber: "3786"
 phone: ""
 opening_hours: ""
 website: ""

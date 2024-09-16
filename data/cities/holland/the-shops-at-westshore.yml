@@ -1,11 +1,11 @@
 id: 262154238
-type: way
+type: node
 latitude: 42.81697
 longitude: -86.08862
 postcode: "49424"
 city: Holland
-street: "James Street"
-housenumber: 12331
-phone: "+1 616 393 0116"
+street: James Street
+housenumber: "12331"
+phone: +1 616 393 0116
 opening_hours: ""
-website: "https://theshopsatwestshore.com"
+website: https://theshopsatwestshore.com

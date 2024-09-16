@@ -1,11 +1,11 @@
 id: 1234077111
-type: way
+type: node
 latitude: 44.44569
 longitude: -84.12746
 postcode: "48654"
 city: Rose City
-street: "M-33"
-housenumber: 3845
-phone: "+1-989-685-3084"
-opening_hours: "Mo-Fr 08:00-17:00; PH off"
-website: "https://www.allensautoandrecreationalcare.com/"
+street: M-33
+housenumber: "3845"
+phone: +1-989-685-3084
+opening_hours: Mo-Fr 08:00-17:00; PH off
+website: https://www.allensautoandrecreationalcare.com/

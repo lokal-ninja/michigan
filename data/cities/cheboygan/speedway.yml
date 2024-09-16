@@ -1,11 +1,11 @@
 id: 837111600
-type: way
+type: node
 latitude: 45.64741
 longitude: -84.47573
 postcode: "49721"
 city: Cheboygan
-street: "Mackinaw Avenue"
-housenumber: 401
+street: Mackinaw Avenue
+housenumber: "401"
 phone: ""
 opening_hours: ""
-website: "https://www.speedway.com/locations/MI/Cheboygan/401-Mackinaw-Avenue"
+website: https://www.speedway.com/locations/MI/Cheboygan/401-Mackinaw-Avenue

@@ -1,11 +1,11 @@
 id: 877784994
-type: way
+type: node
 latitude: 42.3868
 longitude: -83.2302
 postcode: "48223"
 city: Detroit
-street: "Schoolcraft Street"
-housenumber: 19200
-phone: "+1-313-836-3046"
+street: Schoolcraft Street
+housenumber: "19200"
+phone: +1-313-836-3046
 opening_hours: ""
-website: "https://kasseys-auto-repair.edan.io/"
+website: https://kasseys-auto-repair.edan.io/

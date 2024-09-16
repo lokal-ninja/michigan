@@ -1,11 +1,11 @@
 id: 651074944
-type: way
+type: node
 latitude: 42.60533
 longitude: -83.29588
 postcode: "48302"
 city: Bloomfield Township
-street: "South Telegraph Road"
-housenumber: 2300
+street: South Telegraph Road
+housenumber: "2300"
 phone: ""
 opening_hours: ""
 website: ""

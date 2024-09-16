@@ -1,11 +1,11 @@
 id: 975140406
-type: way
+type: node
 latitude: 42.64646
 longitude: -85.33898
 postcode: "49058"
 city: Hastings
-street: "West M-43 Highway"
-housenumber: 2542
-phone: "+1-269-945-6252"
+street: West M-43 Highway
+housenumber: "2542"
+phone: +1-269-945-6252
 opening_hours: ""
-website: "https://goodwillcmh.org/"
+website: https://goodwillcmh.org/

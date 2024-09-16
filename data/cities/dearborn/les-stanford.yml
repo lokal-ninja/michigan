@@ -1,11 +1,11 @@
 id: 330162262
-type: way
+type: node
 latitude: 42.30733
 longitude: -83.24207
 postcode: "48124"
 city: Dearborn
-street: "Michigan Avenue"
-housenumber: 21730
+street: Michigan Avenue
+housenumber: "21730"
 phone: ""
 opening_hours: ""
-website: "https://www.lesstanfordchevrolet.com/"
+website: https://www.lesstanfordchevrolet.com/

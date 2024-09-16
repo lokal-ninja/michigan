@@ -1,11 +1,11 @@
 id: 965089858
-type: way
+type: node
 latitude: 41.87468
 longitude: -84.0337
 postcode: "49221"
 city: Adrian
-street: "US 223"
-housenumber: 1483
+street: US 223
+housenumber: "1483"
 phone: ""
 opening_hours: ""
 website: ""

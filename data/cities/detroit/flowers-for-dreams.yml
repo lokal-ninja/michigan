@@ -4,8 +4,8 @@ latitude: 42.34467
 longitude: -83.0376
 postcode: ""
 city: Detroit
-street: "Gratiot Avenue"
-housenumber: 1490
+street: Gratiot Avenue
+housenumber: "1490"
 phone: ""
 opening_hours: ""
-website: "https://flowersfordreams.com/"
+website: https://flowersfordreams.com/

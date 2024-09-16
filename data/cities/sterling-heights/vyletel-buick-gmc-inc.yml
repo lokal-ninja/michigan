@@ -1,11 +1,11 @@
 id: 979924144
-type: way
+type: node
 latitude: 42.59305
 longitude: -83.03183
 postcode: "48313"
 city: Sterling Heights
-street: "Van Dyke Avenue"
-housenumber: 40755
-phone: "+1-586-698-7530"
+street: Van Dyke Avenue
+housenumber: "40755"
+phone: +1-586-698-7530
 opening_hours: ""
-website: "https://www.vyletelbuickgmc.com/"
+website: https://www.vyletelbuickgmc.com/

@@ -1,11 +1,11 @@
 id: 325120148
-type: way
+type: node
 latitude: 42.35795
 longitude: -83.23532
 postcode: "48228"
 city: Detroit
-street: "Joy Road"
-housenumber: 19848
+street: Joy Road
+housenumber: "19848"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 42.75516
 longitude: -84.54847
 postcode: "48906"
 city: Lansing
-street: "Benjamin Drive"
-housenumber: 1941
-phone: "+1 517 374 6235"
-opening_hours: "Tu-Fr 09:00-18:00; Sa 10:00-15:00"
-website: "https://www.habitatcr.org/restore/"
+street: Benjamin Drive
+housenumber: "1941"
+phone: +1 517 374 6235
+opening_hours: Tu-Fr 09:00-18:00; Sa 10:00-15:00
+website: https://www.habitatcr.org/restore/

@@ -1,11 +1,11 @@
 id: 439832699
-type: way
+type: node
 latitude: 42.54758
 longitude: -83.21355
 postcode: "48009"
 city: Birmingham
-street: "Hamilton Row"
-housenumber: 283
+street: Hamilton Row
+housenumber: "283"
 phone: ""
 opening_hours: ""
 website: ""

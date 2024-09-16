@@ -1,11 +1,11 @@
 id: 1094632000
-type: way
+type: node
 latitude: 45.06222
 longitude: -83.43498
 postcode: "49707"
 city: Alpena
-street: "Lockwood Street"
-housenumber: 115
-phone: "+1-989-354-2166"
-opening_hours: "Mo-Fr 07:00-18:00; Sa 08:00-14:00"
-website: "https://www.carquest.com/stores/mi/alpena/2859"
+street: Lockwood Street
+housenumber: "115"
+phone: +1-989-354-2166
+opening_hours: Mo-Fr 07:00-18:00; Sa 08:00-14:00
+website: https://www.carquest.com/stores/mi/alpena/2859

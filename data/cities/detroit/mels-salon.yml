@@ -1,11 +1,11 @@
 id: 433598832
-type: way
+type: node
 latitude: 42.3736
 longitude: -83.07265
 postcode: "48202"
 city: Detroit
-street: "John R Street"
-housenumber: 7618
+street: John R Street
+housenumber: "7618"
 phone: ""
 opening_hours: ""
 website: ""

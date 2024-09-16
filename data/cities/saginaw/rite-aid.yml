@@ -1,11 +1,11 @@
 id: 1018776120
-type: way
+type: node
 latitude: 43.48061
 longitude: -83.94538
 postcode: "48604"
 city: Saginaw
-street: "Tittabawassee Road"
-housenumber: 1470
-phone: "+1-989-754-8477"
-opening_hours: "Mo-Su 08:00-22:00"
-website: "https://www.riteaid.com/locations/mi/saginaw/1470-tittabawassee-road.html"
+street: Tittabawassee Road
+housenumber: "1470"
+phone: +1-989-754-8477
+opening_hours: Mo-Su 08:00-22:00
+website: https://www.riteaid.com/locations/mi/saginaw/1470-tittabawassee-road.html

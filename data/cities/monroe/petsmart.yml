@@ -1,11 +1,11 @@
 id: 262398588
-type: way
+type: node
 latitude: 41.95664
 longitude: -83.3995
 postcode: "48162"
 city: Monroe
-street: "North Telegraph Road"
-housenumber: 2347
-phone: "+1 734-457-9122"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://www.petsmart.com/stores/us/mi/monroe-store1721.html"
+street: North Telegraph Road
+housenumber: "2347"
+phone: +1 734-457-9122
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://www.petsmart.com/stores/us/mi/monroe-store1721.html

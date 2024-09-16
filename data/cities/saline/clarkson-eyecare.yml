@@ -4,8 +4,8 @@ latitude: 42.1733
 longitude: -83.77109
 postcode: "48176"
 city: Saline
-street: "East Michigan Avenue"
-housenumber: 555
-phone: "+1-734-429-4885"
-opening_hours: "Mo-Tu,Fr 09:00-17:00; We-Th 09:00-18:00; Sa 09:00-13:00"
-website: "https://www.clarksoneyecare.com/locations/mi/saline/saline"
+street: East Michigan Avenue
+housenumber: "555"
+phone: +1-734-429-4885
+opening_hours: Mo-Tu,Fr 09:00-17:00; We-Th 09:00-18:00; Sa 09:00-13:00
+website: https://www.clarksoneyecare.com/locations/mi/saline/saline

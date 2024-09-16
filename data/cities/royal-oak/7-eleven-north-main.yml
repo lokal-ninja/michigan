@@ -1,11 +1,11 @@
 id: 356819172
-type: way
+type: node
 latitude: 42.51933
 longitude: -83.14606
-postcode: "48073-2601"
+postcode: 48073-2601
 city: Royal Oak
-street: "North Main"
-housenumber: 3305
-phone: "+1 248-435-2686"
+street: North Main
+housenumber: "3305"
+phone: +1 248-435-2686
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 262398586
-type: way
+type: node
 latitude: 41.95568
 longitude: -83.40059
 postcode: "48162"
 city: Monroe
-street: "North Telegraph Road"
-housenumber: 2323
-phone: "+1 734-457-2585"
-opening_hours: "Mo-Sa 09:00-21:00; Su 09:00-20:00"
-website: "https://www.kohls.com/stores/mi/monroe-186.shtml"
+street: North Telegraph Road
+housenumber: "2323"
+phone: +1 734-457-2585
+opening_hours: Mo-Sa 09:00-21:00; Su 09:00-20:00
+website: https://www.kohls.com/stores/mi/monroe-186.shtml

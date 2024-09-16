@@ -1,11 +1,11 @@
 id: 1206719011
-type: way
+type: node
 latitude: 43.95358
 longitude: -86.41811
 postcode: "49431"
 city: Ludington
-street: "West US 10"
-housenumber: 5539
+street: West US 10
+housenumber: "5539"
 phone: ""
 opening_hours: ""
 website: ""

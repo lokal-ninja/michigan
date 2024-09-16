@@ -1,11 +1,11 @@
 id: 1046697471
-type: way
+type: node
 latitude: 43.41074
 longitude: -86.35033
 postcode: "49461"
 city: Whitehall
-street: "Thompson Street"
-housenumber: 120
+street: Thompson Street
+housenumber: "120"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 773020573
-type: way
+type: node
 latitude: 42.45407
 longitude: -84.18879
 postcode: "49285"
 city: Stockbridge
-street: "West Main Street"
-housenumber: 640
-phone: "+1 517-851-4404"
-opening_hours: "Mo-Fr 08:00-19:00"
+street: West Main Street
+housenumber: "640"
+phone: +1 517-851-4404
+opening_hours: Mo-Fr 08:00-19:00
 website: ""

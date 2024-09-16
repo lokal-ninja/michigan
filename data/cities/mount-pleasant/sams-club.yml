@@ -1,11 +1,11 @@
 id: 413741605
-type: way
+type: node
 latitude: 43.57146
 longitude: -84.76021
 postcode: "48858"
 city: Mount Pleasant
-street: "Encore Boulevard"
-housenumber: 4850
-phone: "+1 989-772-0974"
-opening_hours: "Mo 10:00-20:00; Sa 09:00-20:00; Su 10:00-18:00"
-website: "https://www.samsclub.com/club/mt-pleasant-mi-sams-club/4982"
+street: Encore Boulevard
+housenumber: "4850"
+phone: +1 989-772-0974
+opening_hours: Mo 10:00-20:00; Sa 09:00-20:00; Su 10:00-18:00
+website: https://www.samsclub.com/club/mt-pleasant-mi-sams-club/4982

@@ -1,11 +1,11 @@
 id: 899638016
-type: way
+type: node
 latitude: 42.28939
 longitude: -83.7383
 postcode: "48105"
 city: Ann Arbor
-street: "Broadway Street"
-housenumber: 1026
-phone: "+1-734-662-5552"
+street: Broadway Street
+housenumber: "1026"
+phone: +1-734-662-5552
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 42.53209
 longitude: -83.16304
 postcode: "48017"
 city: Clawson
-street: "West 14 Mile Road"
-housenumber: 1203
+street: West 14 Mile Road
+housenumber: "1203"
 phone: "+12489512634"
-opening_hours: "Mo,Tu 14:00-21:00; We,Sa 08:00-21:00; Th-Su 10:00-21:00"
-website: "https://www.motorcityfloat.com"
+opening_hours: Mo,Tu 14:00-21:00; We,Sa 08:00-21:00; Th-Su 10:00-21:00
+website: https://www.motorcityfloat.com

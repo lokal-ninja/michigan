@@ -1,11 +1,11 @@
 id: 390649168
-type: way
+type: node
 latitude: 42.32604
 longitude: -83.40083
 postcode: "48185"
 city: Westland
-street: "Ford Road"
-housenumber: 36430
-phone: "+1 734-595-6638"
-opening_hours: "Mo-Su 06:00-22:00"
-website: "https://www.kroger.com/stores/grocery/mi/westland/westland/018/00691"
+street: Ford Road
+housenumber: "36430"
+phone: +1 734-595-6638
+opening_hours: Mo-Su 06:00-22:00
+website: https://www.kroger.com/stores/grocery/mi/westland/westland/018/00691

@@ -1,11 +1,11 @@
 id: 544241403
-type: way
+type: node
 latitude: 45.36665
 longitude: -84.97219
 postcode: "49770"
 city: Petoskey
-street: "Spring Street"
-housenumber: 910
-phone: "+1 231-373-5919"
-opening_hours: "Mo-Sa 08:00-20:00; Su 09:00-18:00"
-website: "https://www.harborfreight.com/storelocator/910-spring-st-ste-3b-petoskey-49770?number=3267"
+street: Spring Street
+housenumber: "910"
+phone: +1 231-373-5919
+opening_hours: Mo-Sa 08:00-20:00; Su 09:00-18:00
+website: https://www.harborfreight.com/storelocator/910-spring-st-ste-3b-petoskey-49770?number=3267

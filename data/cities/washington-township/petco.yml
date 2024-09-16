@@ -1,11 +1,11 @@
 id: 772100220
-type: way
+type: node
 latitude: 42.71211
 longitude: -83.0386
 postcode: "48316"
 city: Washington Township
-street: "26 Mile Road"
-housenumber: 7554
-phone: "+1 586-697-9039"
-opening_hours: "Mo-Sa 09:00-20:00; Su 10:00-19:00"
-website: "https://stores.petco.com/mi/utica/pet-supplies-utica-mi-3845.html"
+street: 26 Mile Road
+housenumber: "7554"
+phone: +1 586-697-9039
+opening_hours: Mo-Sa 09:00-20:00; Su 10:00-19:00
+website: https://stores.petco.com/mi/utica/pet-supplies-utica-mi-3845.html

@@ -4,8 +4,8 @@ latitude: 42.31767
 longitude: -83.09703
 postcode: ""
 city: Detroit
-street: "Lansing Street"
-housenumber: 1632
-phone: "+1 313-438-0413"
-opening_hours: "Mo-Th 10:00-23:00; Fr-Sa 11:00-24:00; Su 11:00-23:00"
+street: Lansing Street
+housenumber: "1632"
+phone: +1 313-438-0413
+opening_hours: Mo-Th 10:00-23:00; Fr-Sa 11:00-24:00; Su 11:00-23:00
 website: ""

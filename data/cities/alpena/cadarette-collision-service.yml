@@ -1,11 +1,11 @@
 id: 816358140
-type: way
+type: node
 latitude: 45.0209
 longitude: -83.46554
 postcode: "49707"
 city: Alpena
-street: "US 23 South"
-housenumber: 3456
-phone: "+1-989-356-4778"
-opening_hours: "Mo-Fr 08:00-17:00"
+street: US 23 South
+housenumber: "3456"
+phone: +1-989-356-4778
+opening_hours: Mo-Fr 08:00-17:00
 website: ""

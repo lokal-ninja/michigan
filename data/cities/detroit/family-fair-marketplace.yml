@@ -4,8 +4,8 @@ latitude: 42.34082
 longitude: -83.02323
 postcode: "48207"
 city: Detroit
-street: "Chene Street"
-housenumber: 700
-phone: "+1-313-259-5242"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
-website: "https://familyfairmarketplace.com/"
+street: Chene Street
+housenumber: "700"
+phone: +1-313-259-5242
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
+website: https://familyfairmarketplace.com/

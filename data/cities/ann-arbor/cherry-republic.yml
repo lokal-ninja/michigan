@@ -4,8 +4,8 @@ latitude: 42.27969
 longitude: -83.7484
 postcode: "48104"
 city: Ann Arbor
-street: "South Main Street"
-housenumber: 223
-phone: "+1 734 585 5231"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-20:00"
-website: "https://www.cherryrepublic.com/ann-arbor-cherry-republic"
+street: South Main Street
+housenumber: "223"
+phone: +1 734 585 5231
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-20:00
+website: https://www.cherryrepublic.com/ann-arbor-cherry-republic

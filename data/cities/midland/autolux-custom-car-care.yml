@@ -1,11 +1,11 @@
 id: 316680990
-type: way
+type: node
 latitude: 43.65534
 longitude: -84.2514
 postcode: "48640"
 city: Midland
-street: "West Wackerly Street"
-housenumber: 2004
-phone: "+1 989 837 0822"
+street: West Wackerly Street
+housenumber: "2004"
+phone: +1 989 837 0822
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 219531561
-type: way
+type: node
 latitude: 46.53538
 longitude: -89.1784
 postcode: "49912"
 city: Bruce Crossing
-street: "US 45"
-housenumber: 14043
-phone: "+1-906-827-3515"
-opening_hours: "Mo-Su 06:00-22:00"
-website: "https://settlerscoop.com/"
+street: US 45
+housenumber: "14043"
+phone: +1-906-827-3515
+opening_hours: Mo-Su 06:00-22:00
+website: https://settlerscoop.com/

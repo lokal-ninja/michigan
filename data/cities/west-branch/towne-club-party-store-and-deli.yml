@@ -1,11 +1,11 @@
 id: 1230866874
-type: way
+type: node
 latitude: 44.26982
 longitude: -84.21955
 postcode: "48661"
 city: West Branch
-street: "South M-76"
-housenumber: 2260
-phone: "+1-989-343-0855"
+street: South M-76
+housenumber: "2260"
+phone: +1-989-343-0855
 opening_hours: ""
 website: ""

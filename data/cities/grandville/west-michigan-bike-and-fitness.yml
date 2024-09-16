@@ -1,11 +1,11 @@
 id: 1004805525
-type: way
+type: node
 latitude: 42.90714
 longitude: -85.76985
 postcode: "49418"
 city: Grandville
-street: "Chicago Drive Southwest"
-housenumber: 4300
-phone: "+1-616-531-9911"
+street: Chicago Drive Southwest
+housenumber: "4300"
+phone: +1-616-531-9911
 opening_hours: ""
-website: "https://www.westmichiganbike.com"
+website: https://www.westmichiganbike.com

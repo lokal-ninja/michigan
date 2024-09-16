@@ -2,10 +2,10 @@ id: 2040297935
 type: node
 latitude: 42.25543
 longitude: -83.6939
-postcode: "48104-4204"
+postcode: 48104-4204
 city: Ann Arbor
-street: "Washtenaw Avenue"
-housenumber: 3352
-phone: "+1 734-971-4555"
-opening_hours: "Mo-Sa 08:00-19:00; Su 10:00-18:00"
+street: Washtenaw Avenue
+housenumber: "3352"
+phone: +1 734-971-4555
+opening_hours: Mo-Sa 08:00-19:00; Su 10:00-18:00
 website: ""

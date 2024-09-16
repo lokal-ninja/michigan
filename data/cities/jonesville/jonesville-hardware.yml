@@ -1,11 +1,11 @@
 id: 150535362
-type: way
+type: node
 latitude: 41.98345
 longitude: -84.66312
 postcode: "49250"
 city: Jonesville
-street: "E Chicago Street"
-housenumber: 217
-phone: "+1 517-849-9888"
+street: E Chicago Street
+housenumber: "217"
+phone: +1 517-849-9888
 opening_hours: ""
-website: "https://www.truevalue.com/jonesvilletruevalue"
+website: https://www.truevalue.com/jonesvilletruevalue

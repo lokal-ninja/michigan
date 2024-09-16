@@ -1,11 +1,11 @@
 id: 1230018207
-type: way
+type: node
 latitude: 44.27618
 longitude: -84.25298
 postcode: "48661"
 city: West Branch
-street: "West Houghton Avenue"
-housenumber: 3149
-phone: "+1-989-345-4410"
-opening_hours: "Mo-Fr 07:30-17:00"
-website: "https://www.villageautoservicecenter.com/"
+street: West Houghton Avenue
+housenumber: "3149"
+phone: +1-989-345-4410
+opening_hours: Mo-Fr 07:30-17:00
+website: https://www.villageautoservicecenter.com/

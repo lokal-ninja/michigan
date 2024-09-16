@@ -1,11 +1,11 @@
 id: 706970955
-type: way
+type: node
 latitude: 41.95255
 longitude: -83.4026
 postcode: "48162"
 city: Monroe
-street: "Telegraph Road"
-housenumber: 2145
+street: Telegraph Road
+housenumber: "2145"
 phone: ""
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-18:00; Su 10:00-18:00"
-website: "https://stores.staples.com/mi/monroe/2145-n-telegraph-road"
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-18:00; Su 10:00-18:00
+website: https://stores.staples.com/mi/monroe/2145-n-telegraph-road

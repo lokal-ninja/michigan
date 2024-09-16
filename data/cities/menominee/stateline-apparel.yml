@@ -1,11 +1,11 @@
 id: 842798381
-type: way
+type: node
 latitude: 45.14503
 longitude: -87.61158
 postcode: "49858"
 city: Menominee
-street: "US 41"
-housenumber: 920
-phone: "+1-906-863-3423"
+street: US 41
+housenumber: "920"
+phone: +1-906-863-3423
 opening_hours: ""
 website: ""

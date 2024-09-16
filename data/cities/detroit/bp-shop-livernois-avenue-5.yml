@@ -4,8 +4,8 @@ latitude: 42.43128
 longitude: -83.14098
 postcode: "48221"
 city: Detroit
-street: "Livernois Avenue"
-housenumber: 19030
-phone: "+1 313 345 9328"
-opening_hours: "24/7"
+street: Livernois Avenue
+housenumber: "19030"
+phone: +1 313 345 9328
+opening_hours: 24/7
 website: ""

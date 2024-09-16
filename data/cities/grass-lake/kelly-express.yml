@@ -1,11 +1,11 @@
 id: 895115120
-type: way
+type: node
 latitude: 42.25188
 longitude: -84.21121
 postcode: "49240"
 city: Grass Lake
-street: "East Michigan Avenue"
-housenumber: 224
-phone: "+1 517 522 8688"
+street: East Michigan Avenue
+housenumber: "224"
+phone: +1 517 522 8688
 opening_hours: ""
 website: ""

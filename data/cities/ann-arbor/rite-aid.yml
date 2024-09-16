@@ -1,11 +1,11 @@
 id: 277943382
-type: way
+type: node
 latitude: 42.24466
 longitude: -83.70064
 postcode: ""
 city: Ann Arbor
-street: "Packard Road"
-housenumber: 2980
+street: Packard Road
+housenumber: "2980"
 phone: ""
-opening_hours: "Mo-Su 08:00-22:00"
-website: "https://www.riteaid.com/locations/mi/ann-arbor/2980-packard-street.html"
+opening_hours: Mo-Su 08:00-22:00
+website: https://www.riteaid.com/locations/mi/ann-arbor/2980-packard-street.html

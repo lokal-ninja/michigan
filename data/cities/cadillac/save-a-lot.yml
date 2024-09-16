@@ -1,11 +1,11 @@
 id: 370059255
-type: way
+type: node
 latitude: 44.25707
 longitude: -85.40348
 postcode: "49601"
 city: Cadillac
-street: "North Mitchell Street"
-housenumber: 802
-phone: "+1-231-876-0517"
+street: North Mitchell Street
+housenumber: "802"
+phone: +1-231-876-0517
 opening_hours: ""
-website: "https://savealot.com/grocery-stores/cadillac-49601-23912/"
+website: https://savealot.com/grocery-stores/cadillac-49601-23912/

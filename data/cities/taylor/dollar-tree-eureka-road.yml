@@ -1,11 +1,11 @@
 id: 928730251
-type: way
+type: node
 latitude: 42.19621
 longitude: -83.29085
 postcode: "48180"
 city: Taylor
-street: "Eureka Road"
-housenumber: 26101
+street: Eureka Road
+housenumber: "26101"
 phone: ""
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-20:00"
-website: "https://www.dollartree.com/locations/mi/taylor/9880/"
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-20:00
+website: https://www.dollartree.com/locations/mi/taylor/9880/

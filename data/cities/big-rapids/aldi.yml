@@ -1,11 +1,11 @@
 id: 430658893
-type: way
+type: node
 latitude: 43.68712
 longitude: -85.51317
 postcode: "49307"
 city: Big Rapids
-street: "Perry Avenue"
-housenumber: 21481
-phone: "+1 855-955-2534"
-opening_hours: "Mo, We, Fr-Su 09:00-20:00, Tu, Th 08:30-20:00"
-website: "https://stores.aldi.us/mi/big-rapids/21481-perry"
+street: Perry Avenue
+housenumber: "21481"
+phone: +1 855-955-2534
+opening_hours: Mo, We, Fr-Su 09:00-20:00, Tu, Th 08:30-20:00
+website: https://stores.aldi.us/mi/big-rapids/21481-perry

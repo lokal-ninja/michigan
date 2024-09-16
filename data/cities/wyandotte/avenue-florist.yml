@@ -1,11 +1,11 @@
 id: 949058254
-type: way
+type: node
 latitude: 42.2141
 longitude: -83.16232
 postcode: "48192"
 city: Wyandotte
-street: "Ford Avenue"
-housenumber: 842
+street: Ford Avenue
+housenumber: "842"
 phone: ""
 opening_hours: ""
 website: ""

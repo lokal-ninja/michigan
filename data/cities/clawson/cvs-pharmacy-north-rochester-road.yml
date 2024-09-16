@@ -1,11 +1,11 @@
 id: 390416563
-type: way
+type: node
 latitude: 42.53487
 longitude: -83.13529
 postcode: "48017"
 city: Clawson
-street: "North Rochester Road"
-housenumber: 110
+street: North Rochester Road
+housenumber: "110"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/clawson-mi-pharmacies/110-n-rochester-rd-clawson-mi-48017/storeid=8110"
+website: https://www.cvs.com/store-locator/clawson-mi-pharmacies/110-n-rochester-rd-clawson-mi-48017/storeid=8110

@@ -1,11 +1,11 @@
 id: 782711006
-type: way
+type: node
 latitude: 42.60768
 longitude: -83.92907
 postcode: "48843"
 city: Howell
-street: "North Michigan Avenue"
-housenumber: 119
+street: North Michigan Avenue
+housenumber: "119"
 phone: ""
 opening_hours: ""
 website: ""

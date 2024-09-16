@@ -1,11 +1,11 @@
 id: 69145022
-type: way
+type: node
 latitude: 42.35228
 longitude: -83.07466
 postcode: ""
 city: Detroit
-street: "West Warren Avenue"
-housenumber: 1131
-phone: "+1 313 833 0815"
+street: West Warren Avenue
+housenumber: "1131"
+phone: +1 313 833 0815
 opening_hours: ""
-website: "http://universityfoodsmidtown.com"
+website: http://universityfoodsmidtown.com

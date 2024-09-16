@@ -1,11 +1,11 @@
 id: 1303559976
-type: way
+type: node
 latitude: 42.99711
 longitude: -83.69282
 postcode: "48507"
 city: Flint
-street: "Fenton Road"
-housenumber: 2521
+street: Fenton Road
+housenumber: "2521"
 phone: ""
 opening_hours: ""
 website: ""

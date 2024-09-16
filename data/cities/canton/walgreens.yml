@@ -1,11 +1,11 @@
 id: 545890653
-type: way
+type: node
 latitude: 42.32302
 longitude: -83.47772
 postcode: "48187"
 city: Canton
-street: "Ford Road"
-housenumber: 44300
+street: Ford Road
+housenumber: "44300"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-44300+ford+rd-canton-mi-48187/id=6550"
+website: https://www.walgreens.com/locator/walgreens-44300+ford+rd-canton-mi-48187/id=6550

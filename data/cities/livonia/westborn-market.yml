@@ -1,11 +1,11 @@
 id: 322160696
-type: way
+type: node
 latitude: 42.39579
 longitude: -83.33632
 postcode: "48154"
 city: Livonia
-street: "Middlebelt Road"
-housenumber: 14925
+street: Middlebelt Road
+housenumber: "14925"
 phone: ""
 opening_hours: ""
 website: ""

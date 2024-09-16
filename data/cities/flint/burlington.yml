@@ -4,8 +4,8 @@ latitude: 42.98068
 longitude: -83.75465
 postcode: "48507"
 city: Flint
-street: "Miller Road"
-housenumber: 4095
-phone: "+1 810-732-2148"
-opening_hours: "Mo-Th 09:00-23:00; Fr-Sa 09:00-24:00; Su 09:00-22:00"
-website: "https://stores.burlington.com/mi/flint/553"
+street: Miller Road
+housenumber: "4095"
+phone: +1 810-732-2148
+opening_hours: Mo-Th 09:00-23:00; Fr-Sa 09:00-24:00; Su 09:00-22:00
+website: https://stores.burlington.com/mi/flint/553

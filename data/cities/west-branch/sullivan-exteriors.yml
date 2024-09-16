@@ -1,11 +1,11 @@
 id: 1230384359
-type: way
+type: node
 latitude: 44.27643
 longitude: -84.19512
 postcode: "48661"
 city: West Branch
-street: "West M-55"
-housenumber: 1755
-phone: "+1-989-345-4007"
+street: West M-55
+housenumber: "1755"
+phone: +1-989-345-4007
 opening_hours: ""
-website: "https://sullivanexteriors.com/"
+website: https://sullivanexteriors.com/

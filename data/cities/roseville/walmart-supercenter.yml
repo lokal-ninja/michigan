@@ -1,11 +1,11 @@
 id: 911339544
-type: way
+type: node
 latitude: 42.50771
 longitude: -82.92642
 postcode: "48066"
 city: Roseville
-street: "Gratiot Avenue"
-housenumber: 28804
+street: Gratiot Avenue
+housenumber: "28804"
 phone: ""
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/2959/roseville-mi/whats-new"
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.walmart.com/store/2959/roseville-mi/whats-new

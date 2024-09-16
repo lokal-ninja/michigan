@@ -1,11 +1,11 @@
 id: 911339543
-type: way
+type: node
 latitude: 42.50801
 longitude: -82.92695
 postcode: "48066"
 city: Roseville
-street: "Gratiot Avenue"
-housenumber: 28776
+street: Gratiot Avenue
+housenumber: "28776"
 phone: ""
-opening_hours: "Mo-Sa 08:00-22:00; Su 08:00-21:00"
-website: "https://www.dollartree.com/locations/mi/roseville/174/"
+opening_hours: Mo-Sa 08:00-22:00; Su 08:00-21:00
+website: https://www.dollartree.com/locations/mi/roseville/174/

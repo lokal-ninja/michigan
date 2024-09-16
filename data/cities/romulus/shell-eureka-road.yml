@@ -1,11 +1,11 @@
 id: 928730252
-type: way
+type: node
 latitude: 42.19622
 longitude: -83.3073
 postcode: "48174"
 city: Romulus
-street: "Eureka Road"
-housenumber: 27460
+street: Eureka Road
+housenumber: "27460"
 phone: ""
 opening_hours: ""
 website: ""

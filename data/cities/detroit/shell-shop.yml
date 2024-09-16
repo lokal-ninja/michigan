@@ -1,11 +1,11 @@
 id: 526558445
-type: way
+type: node
 latitude: 42.35428
 longitude: -83.06336
 postcode: "48201"
 city: Detroit
-street: "Woodward Avenue"
-housenumber: 4661
-phone: "+1 313 832 4819"
+street: Woodward Avenue
+housenumber: "4661"
+phone: +1 313 832 4819
 opening_hours: ""
 website: ""

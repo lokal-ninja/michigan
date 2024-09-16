@@ -1,11 +1,11 @@
 id: 479423849
-type: way
+type: node
 latitude: 42.82716
 longitude: -86.09004
 postcode: "49424"
 city: Holland
-street: "West Shore Drive"
-housenumber: 3228
+street: West Shore Drive
+housenumber: "3228"
 phone: ""
 opening_hours: ""
 website: ""

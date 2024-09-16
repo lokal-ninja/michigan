@@ -1,11 +1,11 @@
 id: 784979921
-type: way
+type: node
 latitude: 42.34494
 longitude: -83.11678
 postcode: "48210"
 city: Detroit
-street: "West Warren Avenue"
-housenumber: 4710
+street: West Warren Avenue
+housenumber: "4710"
 phone: ""
 opening_hours: ""
 website: ""

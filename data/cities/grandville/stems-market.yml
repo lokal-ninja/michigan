@@ -1,11 +1,11 @@
 id: 1004808367
-type: way
+type: node
 latitude: 42.90628
 longitude: -85.77383
 postcode: "49418"
 city: Grandville
-street: "Chicago Drive Southwest"
-housenumber: 4445
-phone: "+1-616-534-8650"
+street: Chicago Drive Southwest
+housenumber: "4445"
+phone: +1-616-534-8650
 opening_hours: ""
-website: "https://www.stemsmarket.com"
+website: https://www.stemsmarket.com

@@ -4,8 +4,8 @@ latitude: 42.79008
 longitude: -86.10483
 postcode: "49423"
 city: Holland
-street: "East 8th Street"
-housenumber: 56
-phone: "+1-616-355-1433"
+street: East 8th Street
+housenumber: "56"
+phone: +1-616-355-1433
 opening_hours: ""
-website: "https://springsweet.com/"
+website: https://springsweet.com/

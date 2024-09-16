@@ -1,11 +1,11 @@
 id: 628347995
-type: way
+type: node
 latitude: 42.86789
 longitude: -85.67336
 postcode: "49548"
 city: Wyoming
-street: "54th Street Southwest"
-housenumber: 355
-phone: "+1 616-552-6224"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/3453/wyoming-mi/whats-new"
+street: 54th Street Southwest
+housenumber: "355"
+phone: +1 616-552-6224
+opening_hours: 24/7
+website: https://www.walmart.com/store/3453/wyoming-mi/whats-new

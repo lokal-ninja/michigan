@@ -1,11 +1,11 @@
 id: 146689007
-type: way
+type: node
 latitude: 42.25045
 longitude: -83.17605
 postcode: "48146"
 city: Lincoln Park
-street: "Fort Street"
-housenumber: 1765
+street: Fort Street
+housenumber: "1765"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-1765+fort+st-lincoln+park-mi-48146/id=4749"
+website: https://www.walgreens.com/locator/walgreens-1765+fort+st-lincoln+park-mi-48146/id=4749

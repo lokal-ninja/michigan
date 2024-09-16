@@ -1,11 +1,11 @@
 id: 772999469
-type: way
+type: node
 latitude: 42.53422
 longitude: -84.06863
 postcode: "48137"
 city: Gregory
-street: "Bull Run Road"
-housenumber: 4232
+street: Bull Run Road
+housenumber: "4232"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1078336381
-type: way
+type: node
 latitude: 42.53896
 longitude: -83.20731
 postcode: "48009"
 city: Birmingham
-street: "Woodward Avenue"
-housenumber: 33989
+street: Woodward Avenue
+housenumber: "33989"
 phone: ""
 opening_hours: ""
 website: ""

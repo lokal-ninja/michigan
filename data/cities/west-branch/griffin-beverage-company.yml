@@ -1,11 +1,11 @@
 id: 1230384326
-type: way
+type: node
 latitude: 44.27986
 longitude: -84.20556
 postcode: "48661"
 city: West Branch
-street: "Dam Road"
-housenumber: 1901
-phone: "+1-989-345-0540"
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://www.griffinbev.com/"
+street: Dam Road
+housenumber: "1901"
+phone: +1-989-345-0540
+opening_hours: Mo-Fr 08:00-17:00
+website: https://www.griffinbev.com/

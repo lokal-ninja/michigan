@@ -1,11 +1,11 @@
 id: 909397629
-type: way
+type: node
 latitude: 42.73494
 longitude: -82.78323
 postcode: "48048"
 city: New Haven
-street: "Gratiot Avenue"
-housenumber: 59010
+street: Gratiot Avenue
+housenumber: "59010"
 phone: ""
-opening_hours: "Mo-Su 08:00-22:00"
-website: "https://www.riteaid.com/locations/mi/new-haven/59010-gratiot-avenue.html"
+opening_hours: Mo-Su 08:00-22:00
+website: https://www.riteaid.com/locations/mi/new-haven/59010-gratiot-avenue.html

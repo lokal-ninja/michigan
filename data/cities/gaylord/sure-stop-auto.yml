@@ -1,11 +1,11 @@
 id: 1311894474
-type: way
+type: node
 latitude: 45.03006
 longitude: -84.67352
 postcode: "49735"
 city: Gaylord
-street: "North Center Avenue"
-housenumber: 222
-phone: "+1-989-732-7867"
-opening_hours: "Mo-Fr 08:00-17:30"
+street: North Center Avenue
+housenumber: "222"
+phone: +1-989-732-7867
+opening_hours: Mo-Fr 08:00-17:30
 website: ""

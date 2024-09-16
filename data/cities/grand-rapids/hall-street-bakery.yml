@@ -4,8 +4,8 @@ latitude: 42.94085
 longitude: -85.63927
 postcode: "49506"
 city: Grand Rapids
-street: "Hall Street Southeast"
-housenumber: 1200
-phone: "+1-616-214-7604"
+street: Hall Street Southeast
+housenumber: "1200"
+phone: +1-616-214-7604
 opening_hours: ""
-website: "https://hallstreetbakery.com"
+website: https://hallstreetbakery.com

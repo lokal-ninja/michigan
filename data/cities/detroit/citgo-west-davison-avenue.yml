@@ -4,8 +4,8 @@ latitude: 42.38595
 longitude: -83.14569
 postcode: "48238"
 city: Detroit
-street: "West Davison Avenue"
-housenumber: 7501
-phone: "+1 313 442 2313"
-opening_hours: "24/7"
+street: West Davison Avenue
+housenumber: "7501"
+phone: +1 313 442 2313
+opening_hours: 24/7
 website: ""

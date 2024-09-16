@@ -1,11 +1,11 @@
 id: 681265708
-type: way
+type: node
 latitude: 42.25655
 longitude: -83.25212
 postcode: "48180"
 city: Taylor
-street: "Ecorse Road"
-housenumber: 22124
-phone: "+1-313-295-6500"
+street: Ecorse Road
+housenumber: "22124"
+phone: +1-313-295-6500
 opening_hours: ""
 website: ""

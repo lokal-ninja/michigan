@@ -1,11 +1,11 @@
 id: 919397157
-type: way
+type: node
 latitude: 42.51381
 longitude: -83.61682
 postcode: "48165"
 city: New Hudson
-street: "Milford Road"
-housenumber: 30465
-phone: "+1 248 474 0900"
-opening_hours: "24/7"
+street: Milford Road
+housenumber: "30465"
+phone: +1 248 474 0900
+opening_hours: 24/7
 website: ""

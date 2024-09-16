@@ -1,11 +1,11 @@
 id: 1228061503
-type: way
+type: node
 latitude: 44.12666
 longitude: -84.12154
 postcode: "48610"
 city: Alger
-street: "Old M-76"
-housenumber: 1486
-phone: "+1-989-836-0811"
+street: Old M-76
+housenumber: "1486"
+phone: +1-989-836-0811
 opening_hours: ""
 website: ""

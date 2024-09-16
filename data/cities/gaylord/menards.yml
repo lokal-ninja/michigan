@@ -1,11 +1,11 @@
 id: 1311652395
-type: way
+type: node
 latitude: 45.02497
 longitude: -84.71955
 postcode: "49735"
 city: Gaylord
-street: "Snow Drift Drive"
-housenumber: 2300
-phone: "+1-989-217-7008"
-opening_hours: "Mo-Sa 06:00-21:00; Su 08:00-20:00"
-website: "https://www.menards.com/store-details/store.html?store=3376"
+street: Snow Drift Drive
+housenumber: "2300"
+phone: +1-989-217-7008
+opening_hours: Mo-Sa 06:00-21:00; Su 08:00-20:00
+website: https://www.menards.com/store-details/store.html?store=3376

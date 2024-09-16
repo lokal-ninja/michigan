@@ -1,11 +1,11 @@
 id: 1077670673
-type: way
+type: node
 latitude: 42.30889
 longitude: -83.42389
 postcode: "48184"
 city: Westland
-street: "South John Hix Road"
-housenumber: 126
-phone: "+1 734-326-5872"
+street: South John Hix Road
+housenumber: "126"
+phone: +1 734-326-5872
 opening_hours: ""
 website: ""

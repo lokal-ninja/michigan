@@ -1,11 +1,11 @@
 id: 266143206
-type: way
+type: node
 latitude: 42.75438
 longitude: -84.74532
 postcode: "48837"
 city: Grand Ledge
-street: "South Bridge Street"
-housenumber: 120
+street: South Bridge Street
+housenumber: "120"
 phone: ""
 opening_hours: ""
 website: ""

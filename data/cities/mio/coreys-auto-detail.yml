@@ -1,11 +1,11 @@
 id: 1210311416
-type: way
+type: node
 latitude: 44.64922
 longitude: -84.13028
 postcode: "48647"
 city: Mio
-street: "South Morenci Avenue"
-housenumber: 312
-phone: "+1-989-915-8894"
+street: South Morenci Avenue
+housenumber: "312"
+phone: +1-989-915-8894
 opening_hours: ""
 website: ""

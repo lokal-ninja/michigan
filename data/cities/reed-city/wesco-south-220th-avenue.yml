@@ -1,11 +1,11 @@
 id: 830092124
-type: way
+type: node
 latitude: 43.88646
 longitude: -85.52347
 postcode: "49677"
 city: Reed City
-street: "South 220th Avenue"
-housenumber: 4921
+street: South 220th Avenue
+housenumber: "4921"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 68992681
-type: way
+type: node
 latitude: 42.35799
 longitude: -83.06031
 postcode: "48201"
 city: Detroit
-street: "East Warren Avenue"
-housenumber: 350
+street: East Warren Avenue
+housenumber: "350"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/detroit-mi-pharmacies/350-e-warren-ave-detroit-mi-48201/storeid=8231"
+website: https://www.cvs.com/store-locator/detroit-mi-pharmacies/350-e-warren-ave-detroit-mi-48201/storeid=8231

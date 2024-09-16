@@ -1,11 +1,11 @@
 id: 102923966
-type: way
+type: node
 latitude: 45.06089
 longitude: -83.4723
 postcode: "49707"
 city: Alpena
-street: "M 32 West"
-housenumber: 1011
+street: M 32 West
+housenumber: "1011"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-1011+m+32+w-alpena-mi-49707/id=9148"
+website: https://www.walgreens.com/locator/walgreens-1011+m+32+w-alpena-mi-49707/id=9148

@@ -1,11 +1,11 @@
 id: 419359835
-type: way
+type: node
 latitude: 42.28625
 longitude: -83.81178
 postcode: "48103"
 city: Ann Arbor
-street: "Auto Mall Drive"
-housenumber: 501
+street: Auto Mall Drive
+housenumber: "501"
 phone: ""
 opening_hours: ""
 website: ""

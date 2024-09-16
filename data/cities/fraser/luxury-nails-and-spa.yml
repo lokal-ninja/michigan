@@ -1,11 +1,11 @@
 id: 1274183954
-type: way
+type: node
 latitude: 42.55274
 longitude: -82.96958
 postcode: "48026"
 city: Fraser
-street: "15 Mile Road"
-housenumber: 15240
-phone: "+1-586-200-5116"
-opening_hours: "Mo-Fr 09:30-19:00; Sa 09:30-18:00; Su 11:00-16:30"
+street: 15 Mile Road
+housenumber: "15240"
+phone: +1-586-200-5116
+opening_hours: Mo-Fr 09:30-19:00; Sa 09:30-18:00; Su 11:00-16:30
 website: ""

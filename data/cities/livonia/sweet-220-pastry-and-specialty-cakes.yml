@@ -1,11 +1,11 @@
 id: 532727979
-type: way
+type: node
 latitude: 42.3699
 longitude: -83.32704
 postcode: "48150"
 city: Livonia
-street: "Plymouth Road"
-housenumber: 28760
+street: Plymouth Road
+housenumber: "28760"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 951287111
-type: way
+type: node
 latitude: 43.12103
 longitude: -85.55919
 postcode: ""
 city: Rockford
-street: "Courtland Street Northeast"
-housenumber: 103
-phone: "+1 616 863 9119"
+street: Courtland Street Northeast
+housenumber: "103"
+phone: +1 616 863 9119
 opening_hours: ""
-website: "https://www.gliks.com"
+website: https://www.gliks.com

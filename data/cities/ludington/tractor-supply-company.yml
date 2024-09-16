@@ -1,11 +1,11 @@
 id: 665374989
-type: way
+type: node
 latitude: 43.95821
 longitude: -86.39387
 postcode: "49431"
 city: Ludington
-street: "West 10"
-housenumber: 4572
-phone: "+1 231-843-1932"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
+street: West 10
+housenumber: "4572"
+phone: +1 231-843-1932
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
 website: ""

@@ -1,11 +1,11 @@
 id: 845876922
-type: way
+type: node
 latitude: 44.18367
 longitude: -84.04088
 postcode: "48756"
 city: Prescott
-street: "Greenwood Road"
-housenumber: 2111
-phone: "+1 989-873-4240"
-opening_hours: "Mo-Su 09:00-18:00"
-website: "https://stores.truevalue.com/mi/prescott/18726/"
+street: Greenwood Road
+housenumber: "2111"
+phone: +1 989-873-4240
+opening_hours: Mo-Su 09:00-18:00
+website: https://stores.truevalue.com/mi/prescott/18726/

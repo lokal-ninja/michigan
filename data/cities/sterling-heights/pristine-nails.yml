@@ -1,11 +1,11 @@
 id: 617976797
-type: way
+type: node
 latitude: 42.55226
 longitude: -83.01138
 postcode: "48312"
 city: Sterling Heights
-street: "15 Mile Road"
-housenumber: 11437
-phone: "+1-586-434-5222"
+street: 15 Mile Road
+housenumber: "11437"
+phone: +1-586-434-5222
 opening_hours: ""
-website: "https://www.pristinenails.biz/"
+website: https://www.pristinenails.biz/

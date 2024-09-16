@@ -1,11 +1,11 @@
 id: 132058349
-type: way
+type: node
 latitude: 42.53961
 longitude: -82.9506
 postcode: "48026"
 city: Fraser
-street: "Garfield Road"
-housenumber: 33021
+street: Garfield Road
+housenumber: "33021"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/fraser-mi-pharmacies/33021-garfield-rd-fraser-mi-48026/storeid=8091"
+website: https://www.cvs.com/store-locator/fraser-mi-pharmacies/33021-garfield-rd-fraser-mi-48026/storeid=8091

@@ -1,11 +1,11 @@
 id: 832320678
-type: way
+type: node
 latitude: 42.45113
 longitude: -82.93943
 postcode: "48021"
 city: Eastpointe
-street: "East 8 Mile Road"
-housenumber: 17755
-phone: "+1-586-779-3801"
-opening_hours: "Mo-Sa 11:00-20:00; Su 11:00-18:00"
-website: "https://stores.footlocker.com/mi/harperwoods/17755-east-eight-mile-road-7517.html"
+street: East 8 Mile Road
+housenumber: "17755"
+phone: +1-586-779-3801
+opening_hours: Mo-Sa 11:00-20:00; Su 11:00-18:00
+website: https://stores.footlocker.com/mi/harperwoods/17755-east-eight-mile-road-7517.html

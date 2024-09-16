@@ -1,11 +1,11 @@
 id: 798425153
-type: way
+type: node
 latitude: 42.48604
 longitude: -83.02732
 postcode: "48015"
 city: Center Line
-street: "Van Dyke Avenue"
-housenumber: 26210
+street: Van Dyke Avenue
+housenumber: "26210"
 phone: ""
-opening_hours: "Mo-We 10:30-18:30; Fr-Sa 10:30-18:30; Su 12:00-15:00"
+opening_hours: Mo-We 10:30-18:30; Fr-Sa 10:30-18:30; Su 12:00-15:00
 website: ""

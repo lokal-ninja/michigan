@@ -1,11 +1,11 @@
 id: 1222844837
-type: way
+type: node
 latitude: 45.0177
 longitude: -83.92151
 postcode: "49746"
 city: Hillman
-street: "M-32"
-housenumber: 23310
-phone: "+1-989-742-2614"
+street: M-32
+housenumber: "23310"
+phone: +1-989-742-2614
 opening_hours: ""
 website: ""

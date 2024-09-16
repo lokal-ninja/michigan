@@ -1,11 +1,11 @@
 id: 632089436
-type: way
+type: node
 latitude: 42.33881
 longitude: -83.01982
 postcode: "48207"
 city: Detroit
-street: "Jefferson Avenue East"
-housenumber: 2760
+street: Jefferson Avenue East
+housenumber: "2760"
 phone: ""
 opening_hours: ""
 website: ""

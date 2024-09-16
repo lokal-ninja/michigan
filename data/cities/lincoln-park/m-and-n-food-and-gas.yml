@@ -4,8 +4,8 @@ latitude: 42.23331
 longitude: -83.18093
 postcode: "48146"
 city: Lincoln Park
-street: "Fort Street"
-housenumber: 3570
-phone: "+1 313 389 2137"
-opening_hours: "24/7"
+street: Fort Street
+housenumber: "3570"
+phone: +1 313 389 2137
+opening_hours: 24/7
 website: ""

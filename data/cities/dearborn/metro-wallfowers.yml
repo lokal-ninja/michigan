@@ -1,11 +1,11 @@
 id: 1056727469
-type: way
+type: node
 latitude: 42.27823
 longitude: -83.2178
 postcode: "48124"
 city: Dearborn
-street: "West Outer Drive"
-housenumber: 22971
-phone: "+1-313-799-4378"
+street: West Outer Drive
+housenumber: "22971"
+phone: +1-313-799-4378
 opening_hours: ""
 website: ""

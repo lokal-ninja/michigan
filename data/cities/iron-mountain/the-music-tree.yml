@@ -1,11 +1,11 @@
 id: 1093407313
-type: way
+type: node
 latitude: 45.81919
 longitude: -88.06695
 postcode: "49801"
 city: Iron Mountain
-street: "West Hughitt Street"
-housenumber: 101
+street: West Hughitt Street
+housenumber: "101"
 phone: ""
 opening_hours: ""
-website: "https://www.themusictree.biz/"
+website: https://www.themusictree.biz/

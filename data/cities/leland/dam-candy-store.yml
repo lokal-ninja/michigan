@@ -1,11 +1,11 @@
 id: 319489715
-type: way
+type: node
 latitude: 45.02327
 longitude: -85.76138
 postcode: "49654"
 city: Leland
-street: "River Street"
-housenumber: 197
-phone: "+1-231-256-7766"
-opening_hours: "10:30-21:00"
-website: "https://www.damcandystore.com/"
+street: River Street
+housenumber: "197"
+phone: +1-231-256-7766
+opening_hours: 10:30-21:00
+website: https://www.damcandystore.com/

@@ -1,11 +1,11 @@
 id: 965785326
-type: way
+type: node
 latitude: 45.02222
 longitude: -85.76104
 postcode: "49654"
 city: Leland
-street: "South Main Street"
-housenumber: 112
-phone: "+1-231-256-9545"
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "http://www.vansgarage.com/"
+street: South Main Street
+housenumber: "112"
+phone: +1-231-256-9545
+opening_hours: Mo-Fr 08:00-17:00
+website: http://www.vansgarage.com/

@@ -1,11 +1,11 @@
 id: 706961845
-type: way
+type: node
 latitude: 42.5251
 longitude: -83.04714
 postcode: "48092"
 city: Warren
-street: "Mound Road"
-housenumber: 31614
+street: Mound Road
+housenumber: "31614"
 phone: ""
 opening_hours: ""
 website: ""

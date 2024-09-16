@@ -1,11 +1,11 @@
 id: 958719165
-type: way
+type: node
 latitude: 43.17753
 longitude: -84.85131
-postcode: "48811-8564"
+postcode: 48811-8564
 city: Carson City
-street: "West Main Street"
-housenumber: 420
-phone: "+1-586-519-0980"
-opening_hours: "Mo-Su 08:00-21:00"
-website: "https://www.dollargeneral.com/store-directory/mi/carson-city/6181"
+street: West Main Street
+housenumber: "420"
+phone: +1-586-519-0980
+opening_hours: Mo-Su 08:00-21:00
+website: https://www.dollargeneral.com/store-directory/mi/carson-city/6181

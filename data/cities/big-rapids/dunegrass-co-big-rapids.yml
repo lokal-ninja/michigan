@@ -1,11 +1,11 @@
 id: 1295554552
-type: way
+type: node
 latitude: 43.70755
 longitude: -85.48429
 postcode: "49307"
 city: Big Rapids
-street: "North State Street"
-housenumber: 801
+street: North State Street
+housenumber: "801"
 phone: ""
 opening_hours: ""
 website: ""

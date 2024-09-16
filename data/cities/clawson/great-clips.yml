@@ -1,11 +1,11 @@
 id: 1227904737
-type: way
+type: node
 latitude: 42.53355
 longitude: -83.16457
 postcode: "48017"
 city: Clawson
-street: "West 14 Mile Road"
-housenumber: 1228
+street: West 14 Mile Road
+housenumber: "1228"
 phone: "+12482884247"
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-18:00; Su 10:00-16:00"
-website: "https://salons.greatclips.com/us/mi/clawson/1228-w-14-mile-rd"
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-18:00; Su 10:00-16:00
+website: https://salons.greatclips.com/us/mi/clawson/1228-w-14-mile-rd

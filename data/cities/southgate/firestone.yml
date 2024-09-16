@@ -1,11 +1,11 @@
 id: 680933154
-type: way
+type: node
 latitude: 42.1988
 longitude: -83.20359
 postcode: "48195"
 city: Southgate
-street: "Eureka Road"
-housenumber: 14777
+street: Eureka Road
+housenumber: "14777"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 680790110
-type: way
+type: node
 latitude: 43.09827
 longitude: -85.23314
 postcode: "48809"
 city: Belding
-street: "West Main Street"
-housenumber: 404
+street: West Main Street
+housenumber: "404"
 phone: ""
 opening_hours: ""
 website: ""

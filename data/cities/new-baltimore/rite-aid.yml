@@ -1,11 +1,11 @@
 id: 546629405
-type: way
+type: node
 latitude: 42.6758
 longitude: -82.74957
 postcode: "48047"
 city: New Baltimore
-street: "23 Mile Road"
-housenumber: 35350
+street: 23 Mile Road
+housenumber: "35350"
 phone: ""
 opening_hours: ""
 website: ""

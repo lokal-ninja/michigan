@@ -1,11 +1,11 @@
 id: 1208507829
-type: way
+type: node
 latitude: 45.06499
 longitude: -83.89978
 postcode: "49746"
 city: Hillman
-street: "East 1st Street"
-housenumber: 1331
-phone: "+1-989-742-3993"
+street: East 1st Street
+housenumber: "1331"
+phone: +1-989-742-3993
 opening_hours: ""
 website: ""

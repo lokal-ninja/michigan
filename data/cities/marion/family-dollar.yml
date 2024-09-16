@@ -1,11 +1,11 @@
 id: 1205651923
-type: way
+type: node
 latitude: 44.109
 longitude: -85.14717
 postcode: "49665"
 city: Marion
-street: "North Mill Street"
-housenumber: 720
+street: North Mill Street
+housenumber: "720"
 phone: ""
 opening_hours: ""
 website: ""

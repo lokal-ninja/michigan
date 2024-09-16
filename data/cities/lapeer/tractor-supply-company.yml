@@ -1,11 +1,11 @@
 id: 577392493
-type: way
+type: node
 latitude: 43.05252
 longitude: -83.29758
 postcode: "48446"
 city: Lapeer
-street: "East Imlay City Road"
-housenumber: 1203
-phone: "+1 810-664-1831"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
+street: East Imlay City Road
+housenumber: "1203"
+phone: +1 810-664-1831
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
 website: ""

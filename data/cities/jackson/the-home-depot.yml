@@ -1,11 +1,11 @@
 id: 224701110
-type: way
+type: node
 latitude: 42.26497
 longitude: -84.43048
 postcode: "49202"
 city: Jackson
-street: "North Wisner Road"
-housenumber: 1400
-phone: "+1 517-817-5401"
-opening_hours: "Mo-Sa 06:00-21:00; Su 08:00-20:00"
-website: "https://www.homedepot.com/l/jackson/mi/jackson/49202/2770"
+street: North Wisner Road
+housenumber: "1400"
+phone: +1 517-817-5401
+opening_hours: Mo-Sa 06:00-21:00; Su 08:00-20:00
+website: https://www.homedepot.com/l/jackson/mi/jackson/49202/2770

@@ -1,11 +1,11 @@
 id: 257159633
-type: way
+type: node
 latitude: 42.7627
 longitude: -84.51435
 postcode: "48912"
 city: Lansing
-street: "Preyde Boulevard"
-housenumber: 2801
-phone: "+1 517-702-1300"
-opening_hours: "Mo-Sa 07:00-23:00; Su 08:00-23:00"
-website: "https://stores.dickssportinggoods.com/mi/lansing/90/"
+street: Preyde Boulevard
+housenumber: "2801"
+phone: +1 517-702-1300
+opening_hours: Mo-Sa 07:00-23:00; Su 08:00-23:00
+website: https://stores.dickssportinggoods.com/mi/lansing/90/

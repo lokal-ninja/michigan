@@ -1,11 +1,11 @@
 id: 359645909
-type: way
+type: node
 latitude: 42.5151
 longitude: -83.11827
 postcode: "48071"
 city: Madison Heights
-street: "Stephenson Highway"
-housenumber: 30550
-phone: "+1 248-616-0048"
-opening_hours: "Mo-Fr 10:00-20:30; Sa 09:30-18:00; Su 10:00-18:00"
-website: "https://www.costco.com/warehouse-locations/madison-heights-mi-393.html"
+street: Stephenson Highway
+housenumber: "30550"
+phone: +1 248-616-0048
+opening_hours: Mo-Fr 10:00-20:30; Sa 09:30-18:00; Su 10:00-18:00
+website: https://www.costco.com/warehouse-locations/madison-heights-mi-393.html

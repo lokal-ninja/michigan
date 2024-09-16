@@ -1,11 +1,11 @@
 id: 1312073020
-type: way
+type: node
 latitude: 45.02306
 longitude: -84.67851
 postcode: "49735"
 city: Gaylord
-street: "South Otsego Avenue"
-housenumber: 520
-phone: "+1-989-732-6431"
-opening_hours: "Mo-Fr 07:30-18:00; Sa 08:00-17:00"
-website: "https://www.myautovaluestore.com/locations/520-s-otsego-avenue-gaylord-mi-49735-9483"
+street: South Otsego Avenue
+housenumber: "520"
+phone: +1-989-732-6431
+opening_hours: Mo-Fr 07:30-18:00; Sa 08:00-17:00
+website: https://www.myautovaluestore.com/locations/520-s-otsego-avenue-gaylord-mi-49735-9483

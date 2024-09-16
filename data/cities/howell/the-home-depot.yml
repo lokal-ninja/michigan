@@ -1,11 +1,11 @@
 id: 553873437
-type: way
+type: node
 latitude: 42.59161
 longitude: -83.88923
 postcode: "48843"
 city: Howell
-street: "East Grand River Avenue"
-housenumber: 3330
-phone: "+1 517-548-3742"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.homedepot.com/l/howell-mi/mi/howell/48843/2751"
+street: East Grand River Avenue
+housenumber: "3330"
+phone: +1 517-548-3742
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.homedepot.com/l/howell-mi/mi/howell/48843/2751

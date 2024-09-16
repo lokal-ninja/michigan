@@ -1,11 +1,11 @@
 id: 440056607
-type: way
+type: node
 latitude: 46.48061
 longitude: -90.03857
-postcode: "49911-1462"
+postcode: 49911-1462
 city: Bessemer
-street: "East Lead Street"
-housenumber: 1001
-phone: "+1 906-667-0201"
-opening_hours: "Mo-Fr 08:00-17:00; Sa 08:00-12:00"
+street: East Lead Street
+housenumber: "1001"
+phone: +1 906-667-0201
+opening_hours: Mo-Fr 08:00-17:00; Sa 08:00-12:00
 website: ""

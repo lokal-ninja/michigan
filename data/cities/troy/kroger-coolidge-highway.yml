@@ -1,11 +1,11 @@
 id: 51800922
-type: way
+type: node
 latitude: 42.54283
 longitude: -83.18941
 postcode: "48084"
 city: Troy
-street: "Coolidge Highway"
-housenumber: 1237
-phone: "+1 248-519-1321"
-opening_hours: "Mo-Su 06:00-22:00"
-website: "https://www.kroger.com/stores/grocery/mi/troy/coolidge/018/00448"
+street: Coolidge Highway
+housenumber: "1237"
+phone: +1 248-519-1321
+opening_hours: Mo-Su 06:00-22:00
+website: https://www.kroger.com/stores/grocery/mi/troy/coolidge/018/00448

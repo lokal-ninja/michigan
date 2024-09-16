@@ -1,11 +1,11 @@
 id: 442785471
-type: way
+type: node
 latitude: 42.19869
 longitude: -83.20233
 postcode: "48195"
 city: Southgate
-street: "Eureka Road"
-housenumber: 14615
+street: Eureka Road
+housenumber: "14615"
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/mi/southgate/autoparts-3328.html"
+website: https://locations.oreillyauto.com/mi/southgate/autoparts-3328.html

@@ -1,11 +1,11 @@
 id: 1272052155
-type: way
+type: node
 latitude: 42.5393
 longitude: -82.94909
 postcode: "48026"
 city: Fraser
-street: "East 14 Mile Road"
-housenumber: 16801
-phone: "+1-586-238-2859"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-17:00; Su 10:00-16:00"
-website: "https://www.valvoline.com/"
+street: East 14 Mile Road
+housenumber: "16801"
+phone: +1-586-238-2859
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-17:00; Su 10:00-16:00
+website: https://www.valvoline.com/

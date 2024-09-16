@@ -1,11 +1,11 @@
 id: 1190902150
-type: way
+type: node
 latitude: 44.22905
 longitude: -85.39531
 postcode: "49601"
 city: Cadillac
-street: "US 131 BUS."
-housenumber: 7591
+street: US 131 BUS.
+housenumber: "7591"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 903958520
-type: way
+type: node
 latitude: 41.91738
 longitude: -85.9151
 postcode: "49095"
 city: Vandalia
-street: "State Street"
-housenumber: 18043
+street: State Street
+housenumber: "18043"
 phone: ""
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/mi/vandalia/20800"
+website: https://www.dollargeneral.com/store-directory/mi/vandalia/20800

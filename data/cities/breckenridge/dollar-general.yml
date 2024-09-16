@@ -1,11 +1,11 @@
 id: 1238483443
-type: way
+type: node
 latitude: 43.40871
 longitude: -84.48358
 postcode: "48615"
 city: Breckenridge
-street: "West Saginaw Street"
-housenumber: 372
-phone: "989-423-0853"
-opening_hours: "Mo-Su 08:00-22:00"
-website: "https://www.dollargeneral.com/store-directory/mi/breckenridge/16663"
+street: West Saginaw Street
+housenumber: "372"
+phone: 989-423-0853
+opening_hours: Mo-Su 08:00-22:00
+website: https://www.dollargeneral.com/store-directory/mi/breckenridge/16663

@@ -1,11 +1,11 @@
 id: 725846536
-type: way
+type: node
 latitude: 44.76798
 longitude: -85.50246
 postcode: "49690"
 city: Williamsburg
-street: "US-31 North"
-housenumber: 5600
+street: US-31 North
+housenumber: "5600"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 918761840
-type: way
+type: node
 latitude: 42.08443
 longitude: -83.68287
 postcode: "48160"
 city: Milan
-street: "East Main Street"
-housenumber: 28
+street: East Main Street
+housenumber: "28"
 phone: ""
 opening_hours: ""
-website: "https://www.plumtreeyarnshop.com/"
+website: https://www.plumtreeyarnshop.com/

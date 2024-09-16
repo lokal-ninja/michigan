@@ -1,11 +1,11 @@
 id: 1147805722
-type: way
+type: node
 latitude: 42.92672
 longitude: -85.5998
 postcode: "49546"
 city: Grand Rapids
-street: "Burton Street Southeast"
-housenumber: 2800
+street: Burton Street Southeast
+housenumber: "2800"
 phone: ""
 opening_hours: ""
 website: ""

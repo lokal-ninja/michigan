@@ -1,11 +1,11 @@
 id: 1082297214
-type: way
+type: node
 latitude: 42.35872
 longitude: -82.9987
 postcode: "48214"
 city: Detroit
-street: "Kercheval Avenue"
-housenumber: 8066
+street: Kercheval Avenue
+housenumber: "8066"
 phone: ""
 opening_hours: ""
-website: "https://www.sisterpie.com"
+website: https://www.sisterpie.com

@@ -1,11 +1,11 @@
 id: 432917522
-type: way
+type: node
 latitude: 41.91575
 longitude: -83.39926
 postcode: "48161"
 city: Monroe
-street: "West 1st Street"
-housenumber: 21
+street: West 1st Street
+housenumber: "21"
 phone: ""
 opening_hours: ""
 website: ""

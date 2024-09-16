@@ -1,11 +1,11 @@
 id: 770071747
-type: way
+type: node
 latitude: 43.41815
 longitude: -84.08406
 postcode: "48609"
 city: Saginaw
-street: "Gratiot Road"
-housenumber: 8670
-phone: "+1 989-781-3611"
-opening_hours: "Mo-Sa 06:00-21:00; Su 08:00-20:00"
-website: "https://www.homedepot.com/l/thomas-township/mi/saginaw/48609/2779"
+street: Gratiot Road
+housenumber: "8670"
+phone: +1 989-781-3611
+opening_hours: Mo-Sa 06:00-21:00; Su 08:00-20:00
+website: https://www.homedepot.com/l/thomas-township/mi/saginaw/48609/2779

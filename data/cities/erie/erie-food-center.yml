@@ -1,11 +1,11 @@
 id: 209837327
-type: way
+type: node
 latitude: 41.79703
 longitude: -83.49585
 postcode: "48133"
 city: Erie
-street: "South Dixie Highway"
-housenumber: 9875
+street: South Dixie Highway
+housenumber: "9875"
 phone: ""
 opening_hours: ""
 website: ""

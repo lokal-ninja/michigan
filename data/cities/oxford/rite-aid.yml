@@ -1,11 +1,11 @@
 id: 581744161
-type: way
+type: node
 latitude: 42.81112
 longitude: -83.25161
 postcode: "48371"
 city: Oxford
-street: "South Lapeer Road"
-housenumber: 999
+street: South Lapeer Road
+housenumber: "999"
 phone: ""
-opening_hours: "Mo-Su 08:00-22:00"
-website: "https://www.riteaid.com/locations/mi/oxford/999-south-lapeer-road.html"
+opening_hours: Mo-Su 08:00-22:00
+website: https://www.riteaid.com/locations/mi/oxford/999-south-lapeer-road.html

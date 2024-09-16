@@ -1,11 +1,11 @@
 id: 1301804683
-type: way
+type: node
 latitude: 42.87396
 longitude: -85.07442
 postcode: "48875"
 city: Portland
-street: "South State Road"
-housenumber: 7811
+street: South State Road
+housenumber: "7811"
 phone: "+16165221460"
 opening_hours: ""
-website: "http://browndairyequip.com/"
+website: http://browndairyequip.com/

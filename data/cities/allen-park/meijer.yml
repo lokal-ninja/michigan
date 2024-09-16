@@ -1,11 +1,11 @@
 id: 198682496
-type: way
+type: node
 latitude: 42.27979
 longitude: -83.20416
 postcode: "48101"
 city: Allen Park
-street: "Fairlane Drive"
-housenumber: 3565
-phone: "+1-313-253-1100"
+street: Fairlane Drive
+housenumber: "3565"
+phone: +1-313-253-1100
 opening_hours: ""
 website: ""

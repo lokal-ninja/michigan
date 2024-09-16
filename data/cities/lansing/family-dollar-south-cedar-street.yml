@@ -1,11 +1,11 @@
 id: 525013564
-type: way
+type: node
 latitude: 42.70216
 longitude: -84.54781
 postcode: "48910"
 city: Lansing
-street: "South Cedar Street"
-housenumber: 2919
+street: South Cedar Street
+housenumber: "2919"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 610571593
-type: way
+type: node
 latitude: 42.60295
 longitude: -83.44751
 postcode: "48382"
 city: Commerce Township
-street: "Union Lake Road"
-housenumber: 2270
+street: Union Lake Road
+housenumber: "2270"
 phone: ""
 opening_hours: ""
 website: ""

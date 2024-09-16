@@ -1,11 +1,11 @@
 id: 409411190
-type: way
+type: node
 latitude: 42.44599
 longitude: -83.11834
 postcode: "48203"
 city: Detroit
-street: "West 8 Mile Road"
-housenumber: 1231
+street: West 8 Mile Road
+housenumber: "1231"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 837111610
-type: way
+type: node
 latitude: 45.64498
 longitude: -84.46977
 postcode: "49721"
 city: Cheboygan
-street: "East State Street"
-housenumber: 309
-phone: "+1-231-627-7941"
+street: East State Street
+housenumber: "309"
+phone: +1-231-627-7941
 opening_hours: ""
-website: "https://gpminvestments.com/"
+website: https://gpminvestments.com/

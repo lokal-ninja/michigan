@@ -1,11 +1,11 @@
 id: 1301124137
-type: way
+type: node
 latitude: 45.41017
 longitude: -84.61312
 postcode: "49749"
 city: Indian River
-street: "South Straits Highway"
-housenumber: 3596
-phone: "+1-231-238-9006"
+street: South Straits Highway
+housenumber: "3596"
+phone: +1-231-238-9006
 opening_hours: ""
 website: ""

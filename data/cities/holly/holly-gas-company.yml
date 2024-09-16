@@ -1,11 +1,11 @@
 id: 917648561
-type: way
+type: node
 latitude: 42.79254
 longitude: -83.62739
 postcode: "48442"
 city: Holly
-street: "North Saginaw Street"
-housenumber: 114
+street: North Saginaw Street
+housenumber: "114"
 phone: ""
 opening_hours: ""
 website: ""

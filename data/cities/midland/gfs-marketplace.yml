@@ -1,11 +1,11 @@
 id: 311445961
-type: way
+type: node
 latitude: 43.66167
 longitude: -84.24515
 postcode: "48642"
 city: Midland
-street: "Joe Mann Boulevard"
-housenumber: 1511
-phone: "+1 989 837 3098"
-opening_hours: "Mo-Sa 7:00-20:00;Su 12:00-17:00"
+street: Joe Mann Boulevard
+housenumber: "1511"
+phone: +1 989 837 3098
+opening_hours: Mo-Sa 7:00-20:00;Su 12:00-17:00
 website: ""

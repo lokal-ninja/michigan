@@ -1,11 +1,11 @@
 id: 453547698
-type: way
+type: node
 latitude: 42.37321
 longitude: -83.06472
 postcode: "48202"
 city: Detroit
-street: "East Grand Boulevard"
-housenumber: 2857
+street: East Grand Boulevard
+housenumber: "2857"
 phone: ""
 opening_hours: ""
 website: ""

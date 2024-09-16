@@ -1,11 +1,11 @@
 id: 824941413
-type: way
+type: node
 latitude: 45.02894
 longitude: -83.46391
 postcode: "49707"
 city: Alpena
-street: "US 23 South"
-housenumber: 3137
-phone: "+1-989-356-4141"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-16:00"
-website: "https://www.sportsunlimitedrv.com/"
+street: US 23 South
+housenumber: "3137"
+phone: +1-989-356-4141
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-16:00
+website: https://www.sportsunlimitedrv.com/

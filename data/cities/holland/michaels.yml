@@ -1,11 +1,11 @@
 id: 1025055467
-type: way
+type: node
 latitude: 42.83317
 longitude: -86.09484
 postcode: "49424"
 city: Holland
-street: "West Shore Drive"
-housenumber: 3571
-phone: "+1 616-399-9250"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://locations.michaels.com/mi/holland/4729/"
+street: West Shore Drive
+housenumber: "3571"
+phone: +1 616-399-9250
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://locations.michaels.com/mi/holland/4729/

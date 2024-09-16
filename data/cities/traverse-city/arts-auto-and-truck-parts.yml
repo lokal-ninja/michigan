@@ -1,11 +1,11 @@
 id: 317370031
-type: way
+type: node
 latitude: 44.74778
 longitude: -85.60691
 postcode: "49686"
 city: Traverse City
-street: "Woodmere Avenue"
-housenumber: 1109
+street: Woodmere Avenue
+housenumber: "1109"
 phone: ""
 opening_hours: ""
-website: "https://www.artsautoandtruckparts.com/"
+website: https://www.artsautoandtruckparts.com/

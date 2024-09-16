@@ -4,8 +4,8 @@ latitude: 42.9755
 longitude: -82.45539
 postcode: "48060"
 city: Port Huron
-street: "24th Street"
-housenumber: 659
-phone: "+1 810-982-1188"
-opening_hours: "Mo-Tu 10:00-21:00; We-Sa 09:00-21:00; Su 10:00-21:00"
-website: "https://local.biglots.com/mi/port-huron/659-24th-st"
+street: 24th Street
+housenumber: "659"
+phone: +1 810-982-1188
+opening_hours: Mo-Tu 10:00-21:00; We-Sa 09:00-21:00; Su 10:00-21:00
+website: https://local.biglots.com/mi/port-huron/659-24th-st

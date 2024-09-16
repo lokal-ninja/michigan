@@ -1,11 +1,11 @@
 id: 442759053
-type: way
+type: node
 latitude: 42.12726
 longitude: -83.20683
 postcode: "48183"
 city: Trenton
-street: "Van Horn Road"
-housenumber: 3234
+street: Van Horn Road
+housenumber: "3234"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/mi/trenton/3234-van-horn-rd.html"
+website: https://www.autozone.com/locations/mi/trenton/3234-van-horn-rd.html

@@ -1,11 +1,11 @@
 id: 1136533038
-type: way
+type: node
 latitude: 42.2457
 longitude: -83.20373
 postcode: "48101"
 city: Allen Park
-street: "Champaign Road"
-housenumber: 14650
+street: Champaign Road
+housenumber: "14650"
 phone: ""
 opening_hours: ""
 website: ""

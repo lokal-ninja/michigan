@@ -1,11 +1,11 @@
 id: 840364502
-type: way
+type: node
 latitude: 45.02663
 longitude: -84.69129
 postcode: "49735"
 city: Gaylord
-street: "West Main Street"
-housenumber: 1025
-phone: "+1 989-732-3317"
+street: West Main Street
+housenumber: "1025"
+phone: +1 989-732-3317
 opening_hours: ""
-website: "https://forwardconvenience.com/contact-locations/"
+website: https://forwardconvenience.com/contact-locations/

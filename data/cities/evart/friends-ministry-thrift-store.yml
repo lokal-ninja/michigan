@@ -1,11 +1,11 @@
 id: 957848807
-type: way
+type: node
 latitude: 43.90116
 longitude: -85.27157
 postcode: "49631"
 city: Evart
-street: "West 7th Street"
-housenumber: 807
-phone: "+1-231-515-1160"
-opening_hours: "Mo-Fr 10:00-17:00; Sa 09:45-14:00"
-website: "https://friendsministry.net/index.html"
+street: West 7th Street
+housenumber: "807"
+phone: +1-231-515-1160
+opening_hours: Mo-Fr 10:00-17:00; Sa 09:45-14:00
+website: https://friendsministry.net/index.html

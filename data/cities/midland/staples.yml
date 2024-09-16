@@ -1,11 +1,11 @@
 id: 311445960
-type: way
+type: node
 latitude: 43.66183
 longitude: -84.24515
 postcode: "48642"
 city: Midland
-street: "Joe Mann Boulevard"
-housenumber: 1517
-phone: "+1 989-837-7831"
-opening_hours: "Mo-Fr 9:00-19:00;Sa 10:00-19:00;Su 12:00-18:00"
-website: "http://storelocator.staples.com/stores/en_US/MI/Midland/0823"
+street: Joe Mann Boulevard
+housenumber: "1517"
+phone: +1 989-837-7831
+opening_hours: Mo-Fr 9:00-19:00;Sa 10:00-19:00;Su 12:00-18:00
+website: http://storelocator.staples.com/stores/en_US/MI/Midland/0823

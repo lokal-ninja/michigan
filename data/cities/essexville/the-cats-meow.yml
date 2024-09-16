@@ -1,11 +1,11 @@
 id: 728722789
-type: way
+type: node
 latitude: 43.59287
 longitude: -83.83663
 postcode: "48732"
 city: Essexville
-street: "West Center Road"
-housenumber: 1465
-phone: "+1-989-894-0712"
-opening_hours: "Mo-Fr 09:00-17:00, Sa 09:00-16:00"
-website: "https://www.doallinc.org/cats-meow"
+street: West Center Road
+housenumber: "1465"
+phone: +1-989-894-0712
+opening_hours: Mo-Fr 09:00-17:00, Sa 09:00-16:00
+website: https://www.doallinc.org/cats-meow

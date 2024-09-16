@@ -1,11 +1,11 @@
 id: 434311793
-type: way
+type: node
 latitude: 42.29315
 longitude: -83.12598
 postcode: "48209"
 city: Detroit
-street: "Dearborn Street"
-housenumber: 9126
+street: Dearborn Street
+housenumber: "9126"
 phone: ""
 opening_hours: ""
 website: ""

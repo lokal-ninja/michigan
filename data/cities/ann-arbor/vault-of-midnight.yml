@@ -4,8 +4,8 @@ latitude: 42.27982
 longitude: -83.7484
 postcode: "48104"
 city: Ann Arbor
-street: "South Main Street"
-housenumber: 219
-phone: "+1 734 998 1413"
+street: South Main Street
+housenumber: "219"
+phone: +1 734 998 1413
 opening_hours: ""
-website: "https://www.vaultofmidnight.com/"
+website: https://www.vaultofmidnight.com/

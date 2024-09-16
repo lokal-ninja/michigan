@@ -1,11 +1,11 @@
 id: 258146869
-type: way
+type: node
 latitude: 42.29871
 longitude: -85.68509
 postcode: "49009"
 city: Kalamazoo
-street: "West Main Street"
-housenumber: 6800
+street: West Main Street
+housenumber: "6800"
 phone: ""
 opening_hours: ""
-website: "https://www.menards.com/store-details/store.html?store=3150"
+website: https://www.menards.com/store-details/store.html?store=3150

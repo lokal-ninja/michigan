@@ -4,8 +4,8 @@ latitude: 42.31836
 longitude: -84.02074
 postcode: "48118"
 city: Chelsea
-street: "North Main Street"
-housenumber: 103
-phone: "+1 734-475-3040"
-opening_hours: "Mo-Fr 09:00-17:30; Sa 10:00-14:00"
-website: "http://www.maureensdesigns.com"
+street: North Main Street
+housenumber: "103"
+phone: +1 734-475-3040
+opening_hours: Mo-Fr 09:00-17:30; Sa 10:00-14:00
+website: http://www.maureensdesigns.com

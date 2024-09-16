@@ -1,11 +1,11 @@
 id: 314668225
-type: way
+type: node
 latitude: 42.32716
 longitude: -83.28172
 postcode: "48127"
 city: Dearborn Heights
-street: "Ford Road"
-housenumber: 24938
+street: Ford Road
+housenumber: "24938"
 phone: ""
 opening_hours: ""
 website: ""

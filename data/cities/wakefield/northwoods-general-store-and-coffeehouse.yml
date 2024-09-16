@@ -1,11 +1,11 @@
 id: 360439248
-type: way
+type: node
 latitude: 46.47621
 longitude: -89.93292
 postcode: "49968"
 city: Wakefield
-street: "US 2 East"
-housenumber: 1010
+street: US 2 East
+housenumber: "1010"
 phone: ""
 opening_hours: ""
-website: "https://northwoodsgeneralstore.com/"
+website: https://northwoodsgeneralstore.com/

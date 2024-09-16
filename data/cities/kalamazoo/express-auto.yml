@@ -1,11 +1,11 @@
 id: 259972795
-type: way
+type: node
 latitude: 42.27313
 longitude: -85.62599
 postcode: "49008"
 city: Kalamazoo
-street: "Stadium Drive"
-housenumber: 2828
-phone: "+1 269 488 0000"
+street: Stadium Drive
+housenumber: "2828"
+phone: +1 269 488 0000
 opening_hours: ""
-website: "http://expressauto.com/express-auto-kalamazoo-michigan/"
+website: http://expressauto.com/express-auto-kalamazoo-michigan/

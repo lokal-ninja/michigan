@@ -1,11 +1,11 @@
 id: 709305011
-type: way
+type: node
 latitude: 41.87406
 longitude: -84.03564
 postcode: "49221"
 city: Adrian
-street: "Us 223"
-housenumber: 1427
-phone: "+1 855-955-2534"
-opening_hours: "Mo, We, Fr-Su 09:00-20:00, Tu, Th 08:30-20:00"
-website: "https://stores.aldi.us/mi/adrian/1427-e-u-s-223"
+street: Us 223
+housenumber: "1427"
+phone: +1 855-955-2534
+opening_hours: Mo, We, Fr-Su 09:00-20:00, Tu, Th 08:30-20:00
+website: https://stores.aldi.us/mi/adrian/1427-e-u-s-223

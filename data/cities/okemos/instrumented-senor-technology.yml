@@ -1,11 +1,11 @@
 id: 693646731
-type: way
+type: node
 latitude: 42.71714
 longitude: -84.42754
 postcode: "48864"
 city: Okemos
-street: "Moore Street"
-housenumber: 4704
-phone: "+1 517 349 8487"
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://www.isthq.com"
+street: Moore Street
+housenumber: "4704"
+phone: +1 517 349 8487
+opening_hours: Mo-Fr 08:00-17:00
+website: https://www.isthq.com

@@ -1,11 +1,11 @@
 id: 917198335
-type: way
+type: node
 latitude: 44.65953
 longitude: -85.77176
 postcode: "49643"
 city: Interlochen
-street: "US-31"
-housenumber: 9680
+street: US-31
+housenumber: "9680"
 phone: ""
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/mi/interlochen/6711"
+website: https://www.dollargeneral.com/store-directory/mi/interlochen/6711

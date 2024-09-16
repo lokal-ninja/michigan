@@ -1,11 +1,11 @@
 id: 896763960
-type: way
+type: node
 latitude: 42.41953
 longitude: -83.05206
 postcode: "48212"
 city: Hamtramck
-street: "East Davison Street"
-housenumber: 5001
+street: East Davison Street
+housenumber: "5001"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 472723772
-type: way
+type: node
 latitude: 44.50067
 longitude: -84.5979
 postcode: "48653"
 city: Roscommon
-street: "North 5th Street"
-housenumber: 409
-phone: "+1-989-275-8426"
+street: North 5th Street
+housenumber: "409"
+phone: +1-989-275-8426
 opening_hours: ""
-website: "http://familyfare.spartanstores.com/content/roscommon"
+website: http://familyfare.spartanstores.com/content/roscommon

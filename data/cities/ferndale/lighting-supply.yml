@@ -1,11 +1,11 @@
 id: 738952464
-type: way
+type: node
 latitude: 42.45261
 longitude: -83.16798
 postcode: "48220"
 city: Ferndale
-street: "Northend Avenue"
-housenumber: 10651
-phone: "+1 800 609 5790"
-opening_hours: "Mo-Fr 07:30-16:00"
-website: "https://www.lightingsupply.com/"
+street: Northend Avenue
+housenumber: "10651"
+phone: +1 800 609 5790
+opening_hours: Mo-Fr 07:30-16:00
+website: https://www.lightingsupply.com/

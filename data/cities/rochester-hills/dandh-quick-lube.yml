@@ -1,11 +1,11 @@
 id: 575452492
-type: way
+type: node
 latitude: 42.6359
 longitude: -83.13103
 postcode: "48307"
 city: Rochester Hills
-street: "East Auburn Road"
-housenumber: 6
+street: East Auburn Road
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

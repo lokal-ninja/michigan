@@ -2,10 +2,10 @@ id: 5381968722
 type: node
 latitude: 42.71128
 longitude: -83.0305
-postcode: "48316-5023"
+postcode: 48316-5023
 city: Shelby Township
-street: "26 Mile Road"
-housenumber: 8500
-phone: "+1 586-677-5278"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://locations.michaels.com/mi/shelby-township/2704"
+street: 26 Mile Road
+housenumber: "8500"
+phone: +1 586-677-5278
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://locations.michaels.com/mi/shelby-township/2704

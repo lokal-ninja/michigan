@@ -1,11 +1,11 @@
 id: 752673964
-type: way
+type: node
 latitude: 45.40307
 longitude: -84.61287
 postcode: "49749"
 city: Indian River
-street: "M-68"
-housenumber: 6153
-phone: "+1-231-238-9081"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://blarneycastleoil.com/ez-mart-stores/"
+street: M-68
+housenumber: "6153"
+phone: +1-231-238-9081
+opening_hours: Mo-Su 06:00-23:00
+website: https://blarneycastleoil.com/ez-mart-stores/

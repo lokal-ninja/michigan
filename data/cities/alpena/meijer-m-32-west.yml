@@ -1,11 +1,11 @@
 id: 839397317
-type: way
+type: node
 latitude: 45.06093
 longitude: -83.47444
 postcode: "49707"
 city: Alpena
-street: "M 32 West"
-housenumber: 1241
+street: M 32 West
+housenumber: "1241"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

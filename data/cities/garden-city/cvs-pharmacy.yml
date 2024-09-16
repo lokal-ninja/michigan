@@ -1,11 +1,11 @@
 id: 314668222
-type: way
+type: node
 latitude: 42.3258
 longitude: -83.31244
 postcode: "48135"
 city: Garden City
-street: "Ford Road"
-housenumber: 27435
+street: Ford Road
+housenumber: "27435"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/garden-city-mi-pharmacies/27435-ford-rd-garden-city-mi-48135/storeid=8075"
+website: https://www.cvs.com/store-locator/garden-city-mi-pharmacies/27435-ford-rd-garden-city-mi-48135/storeid=8075

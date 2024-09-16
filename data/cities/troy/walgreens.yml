@@ -1,11 +1,11 @@
 id: 46085498
-type: way
+type: node
 latitude: 42.56455
 longitude: -83.10924
 postcode: "48083"
 city: Troy
-street: "East Big Beaver Road"
-housenumber: 1965
-phone: "+1-248-526-9775"
+street: East Big Beaver Road
+housenumber: "1965"
+phone: +1-248-526-9775
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-1965+e+big+beaver+rd-troy-mi-48083/id=4412"
+website: https://www.walgreens.com/locator/walgreens-1965+e+big+beaver+rd-troy-mi-48083/id=4412

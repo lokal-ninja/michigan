@@ -1,11 +1,11 @@
 id: 784106675
-type: way
+type: node
 latitude: 42.32903
 longitude: -83.17567
 postcode: "48126"
 city: Dearborn
-street: "Schaefer Road"
-housenumber: 5524
+street: Schaefer Road
+housenumber: "5524"
 phone: ""
 opening_hours: ""
-website: "https://stores.advanceautoparts.com/mi/dearborn/5524-schaefer-rd"
+website: https://stores.advanceautoparts.com/mi/dearborn/5524-schaefer-rd

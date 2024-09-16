@@ -1,11 +1,11 @@
 id: 266243530
-type: way
+type: node
 latitude: 42.41566
 longitude: -83.4164
 postcode: "48152"
 city: Livonia
-street: "6 Mile Rd"
-housenumber: 37700
-phone: "+1 734 462 1100"
-opening_hours: "Mo-Fr 11:00-20:00; Su 12:00-18:00"
+street: 6 Mile Rd
+housenumber: "37700"
+phone: +1 734 462 1100
+opening_hours: Mo-Fr 11:00-20:00; Su 12:00-18:00
 website: ""

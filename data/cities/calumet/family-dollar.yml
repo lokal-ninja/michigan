@@ -1,11 +1,11 @@
 id: 216496969
-type: way
+type: node
 latitude: 47.24778
 longitude: -88.45128
 postcode: "49913"
 city: Calumet
-street: "4th Street"
-housenumber: 340
+street: 4th Street
+housenumber: "340"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 917601728
-type: way
+type: node
 latitude: 42.65254
 longitude: -83.57509
 postcode: "48356"
 city: Highland
-street: "East Highland Road"
-housenumber: 2880
+street: East Highland Road
+housenumber: "2880"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 560169332
-type: way
+type: node
 latitude: 44.24635
 longitude: -85.39825
 postcode: "49601"
 city: Cadillac
-street: "South Mitchell Street"
-housenumber: 602
+street: South Mitchell Street
+housenumber: "602"
 phone: ""
 opening_hours: ""
 website: ""

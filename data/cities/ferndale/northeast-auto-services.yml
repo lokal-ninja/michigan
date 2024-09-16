@@ -1,11 +1,11 @@
 id: 882075809
-type: way
+type: node
 latitude: 42.46855
 longitude: -83.12318
 postcode: "48220"
 city: Ferndale
-street: "Hilton Road"
-housenumber: 2700
+street: Hilton Road
+housenumber: "2700"
 phone: ""
 opening_hours: ""
 website: ""

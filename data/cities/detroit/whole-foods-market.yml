@@ -1,11 +1,11 @@
 id: 318393942
-type: way
+type: node
 latitude: 42.34865
 longitude: -83.05693
 postcode: "48201"
 city: Detroit
-street: "Mack Avenue"
-housenumber: 115
-phone: "+1 313-576-5300"
-opening_hours: "Mo-Su 08:00-22:00"
-website: "https://www.wholefoodsmarket.com/stores/detroit"
+street: Mack Avenue
+housenumber: "115"
+phone: +1 313-576-5300
+opening_hours: Mo-Su 08:00-22:00
+website: https://www.wholefoodsmarket.com/stores/detroit

@@ -1,11 +1,11 @@
 id: 315559937
-type: way
+type: node
 latitude: 42.32898
 longitude: -83.30062
 postcode: "48127"
 city: Dearborn Heights
-street: "Ford Road"
-housenumber: 26400
-phone: "+1 313-827-3715"
-opening_hours: "Mo-Su 06:00-22:00"
-website: "https://www.kroger.com/stores/grocery/mi/dearborn-heights/dearborn-heights/018/00441"
+street: Ford Road
+housenumber: "26400"
+phone: +1 313-827-3715
+opening_hours: Mo-Su 06:00-22:00
+website: https://www.kroger.com/stores/grocery/mi/dearborn-heights/dearborn-heights/018/00441

@@ -1,11 +1,11 @@
 id: 678727248
-type: way
+type: node
 latitude: 43.02075
 longitude: -83.63416
 postcode: "48509"
 city: Burton
-street: "Center Road"
-housenumber: 1054
-phone: "+1 855-955-2534"
-opening_hours: "Mo, We, Fr-Su 09:00-20:00, Tu, Th 08:30-20:00"
-website: "https://stores.aldi.us/mi/burton/1054-center-road"
+street: Center Road
+housenumber: "1054"
+phone: +1 855-955-2534
+opening_hours: Mo, We, Fr-Su 09:00-20:00, Tu, Th 08:30-20:00
+website: https://stores.aldi.us/mi/burton/1054-center-road

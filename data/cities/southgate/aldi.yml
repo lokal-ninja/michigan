@@ -1,11 +1,11 @@
 id: 683025259
-type: way
+type: node
 latitude: 42.19805
 longitude: -83.22102
 postcode: "48195"
 city: Southgate
-street: "Eureka Road"
-housenumber: 17379
-phone: "+1 855-955-2534"
-opening_hours: "Mo, We, Fr-Su 09:00-20:00, Tu, Th 08:30-20:00"
-website: "https://stores.aldi.us/mi/southgate/17379-eureka-road"
+street: Eureka Road
+housenumber: "17379"
+phone: +1 855-955-2534
+opening_hours: Mo, We, Fr-Su 09:00-20:00, Tu, Th 08:30-20:00
+website: https://stores.aldi.us/mi/southgate/17379-eureka-road

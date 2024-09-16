@@ -1,11 +1,11 @@
 id: 343289698
-type: way
+type: node
 latitude: 46.53673
 longitude: -87.51113
 postcode: "49866"
 city: Negaunee
-street: "Highway 41 East"
-housenumber: 367
-phone: "+1 906-226-5240"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
+street: Highway 41 East
+housenumber: "367"
+phone: +1 906-226-5240
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
 website: ""

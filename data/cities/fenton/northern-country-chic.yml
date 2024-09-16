@@ -1,11 +1,11 @@
 id: 818595664
-type: way
+type: node
 latitude: 42.79312
 longitude: -83.70515
 postcode: "48430"
 city: Fenton
-street: "South Leroy Street"
-housenumber: 405
+street: South Leroy Street
+housenumber: "405"
 phone: ""
 opening_hours: ""
-website: "https://northerncountrychic.com/"
+website: https://northerncountrychic.com/

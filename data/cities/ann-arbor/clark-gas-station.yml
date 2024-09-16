@@ -1,11 +1,11 @@
 id: 488960355
-type: way
+type: node
 latitude: 42.27391
 longitude: -83.74866
 postcode: "48104"
 city: Ann Arbor
-street: "South Main Street"
-housenumber: 601
+street: South Main Street
+housenumber: "601"
 phone: ""
 opening_hours: ""
 website: ""

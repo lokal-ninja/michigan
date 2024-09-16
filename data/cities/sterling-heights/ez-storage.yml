@@ -1,11 +1,11 @@
 id: 431275327
-type: way
+type: node
 latitude: 42.53885
 longitude: -83.02871
 postcode: "48312"
 city: Sterling Heights
-street: "Van Dyke Avenue"
-housenumber: 33260
-phone: "+1-586-979-3900"
+street: Van Dyke Avenue
+housenumber: "33260"
+phone: +1-586-979-3900
 opening_hours: ""
-website: "https://www.ezmini.com/self-storage-sterling-heights-detroit-michigan.aspx"
+website: https://www.ezmini.com/self-storage-sterling-heights-detroit-michigan.aspx

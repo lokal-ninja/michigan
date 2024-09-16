@@ -1,11 +1,11 @@
 id: 457311502
-type: way
+type: node
 latitude: 42.38652
 longitude: -82.94816
 postcode: "48215"
 city: Detroit
-street: "Mack Avenue"
-housenumber: 14820
+street: Mack Avenue
+housenumber: "14820"
 phone: ""
 opening_hours: ""
 website: ""

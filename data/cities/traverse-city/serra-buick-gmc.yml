@@ -1,11 +1,11 @@
 id: 323098966
-type: way
+type: node
 latitude: 44.73852
 longitude: -85.59349
 postcode: "49686"
 city: Traverse City
-street: "South Garfield Avenue"
-housenumber: 1621
+street: South Garfield Avenue
+housenumber: "1621"
 phone: ""
 opening_hours: ""
 website: ""

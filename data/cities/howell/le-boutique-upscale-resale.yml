@@ -1,11 +1,11 @@
 id: 782416585
-type: way
+type: node
 latitude: 42.60671
 longitude: -83.92898
 postcode: "48843"
 city: Howell
-street: "East Grand River Avenue"
-housenumber: 115
+street: East Grand River Avenue
+housenumber: "115"
 phone: ""
 opening_hours: ""
 website: ""

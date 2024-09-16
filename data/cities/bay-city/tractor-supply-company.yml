@@ -1,11 +1,11 @@
 id: 365639297
-type: way
+type: node
 latitude: 43.62338
 longitude: -83.93627
 postcode: "48706"
 city: Bay City
-street: "East Wilder Road"
-housenumber: 2886
-phone: "+1 989-686-2195"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
+street: East Wilder Road
+housenumber: "2886"
+phone: +1 989-686-2195
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
 website: ""

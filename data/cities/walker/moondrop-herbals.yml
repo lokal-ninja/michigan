@@ -1,11 +1,11 @@
 id: 303251644
-type: way
+type: node
 latitude: 42.97141
 longitude: -85.77189
 postcode: "49534"
 city: Walker
-street: "Cummings Avenue Northwest"
-housenumber: 351
+street: Cummings Avenue Northwest
+housenumber: "351"
 phone: ""
 opening_hours: ""
 website: ""

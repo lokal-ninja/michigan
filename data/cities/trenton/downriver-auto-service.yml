@@ -1,11 +1,11 @@
 id: 765503206
-type: way
+type: node
 latitude: 42.14577
 longitude: -83.18745
 postcode: "48183"
 city: Trenton
-street: "Fort Street"
-housenumber: 2401
+street: Fort Street
+housenumber: "2401"
 phone: ""
 opening_hours: ""
 website: ""

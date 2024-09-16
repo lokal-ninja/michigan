@@ -1,11 +1,11 @@
 id: 544807008
-type: way
+type: node
 latitude: 45.06105
 longitude: -83.42948
 postcode: "49707"
 city: Alpena
-street: "North 1st Avenue"
-housenumber: 208
+street: North 1st Avenue
+housenumber: "208"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 582528095
-type: way
+type: node
 latitude: 42.70356
 longitude: -83.29607
 postcode: "48326"
 city: Auburn Hills
-street: "Baldwin Road"
-housenumber: 4000
-phone: "+1-248-454-5000"
-opening_hours: "Mo-Sa 10:00-21:00; Su 11:00-18:00"
-website: "https://greatlakescrossingoutlets.com/"
+street: Baldwin Road
+housenumber: "4000"
+phone: +1-248-454-5000
+opening_hours: Mo-Sa 10:00-21:00; Su 11:00-18:00
+website: https://greatlakescrossingoutlets.com/

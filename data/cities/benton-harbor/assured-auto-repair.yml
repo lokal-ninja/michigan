@@ -1,11 +1,11 @@
 id: 1314450741
-type: way
+type: node
 latitude: 42.08424
 longitude: -86.41985
 postcode: "49022"
 city: Benton Harbor
-street: "Pipestone Road"
-housenumber: 1870
-phone: "+1-269-934-5180"
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://www.assured-auto.com"
+street: Pipestone Road
+housenumber: "1870"
+phone: +1-269-934-5180
+opening_hours: Mo-Fr 08:00-17:00
+website: https://www.assured-auto.com

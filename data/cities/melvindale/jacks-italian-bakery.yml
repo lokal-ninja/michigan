@@ -1,11 +1,11 @@
 id: 900973153
-type: way
+type: node
 latitude: 42.279
 longitude: -83.19037
 postcode: "48122"
 city: Melvindale
-street: "Allen Road"
-housenumber: 18841
+street: Allen Road
+housenumber: "18841"
 phone: ""
 opening_hours: ""
 website: ""

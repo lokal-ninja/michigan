@@ -1,11 +1,11 @@
 id: 437105774
-type: way
+type: node
 latitude: 42.84108
 longitude: -85.53233
 postcode: "49316"
 city: Caledonia
-street: "Broadmoor Avenue Southeast"
-housenumber: 6773
+street: Broadmoor Avenue Southeast
+housenumber: "6773"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

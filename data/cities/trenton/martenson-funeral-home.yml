@@ -1,11 +1,11 @@
 id: 881792451
-type: way
+type: node
 latitude: 42.14161
 longitude: -83.20718
 postcode: "48183"
 city: Trenton
-street: "West Road"
-housenumber: 3200
+street: West Road
+housenumber: "3200"
 phone: ""
 opening_hours: ""
 website: ""

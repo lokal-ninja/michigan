@@ -4,8 +4,8 @@ latitude: 42.35683
 longitude: -83.11053
 postcode: "48204"
 city: Detroit
-street: "Grand River Avenue"
-housenumber: 7305
-phone: "+1 313 310 5440"
-opening_hours: "24/7"
+street: Grand River Avenue
+housenumber: "7305"
+phone: +1 313 310 5440
+opening_hours: 24/7
 website: ""

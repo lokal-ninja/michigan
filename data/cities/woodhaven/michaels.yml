@@ -1,11 +1,11 @@
 id: 152929465
-type: way
+type: node
 latitude: 42.13778
 longitude: -83.22975
 postcode: "48183"
 city: Woodhaven
-street: "Allen Road"
-housenumber: 23460
-phone: "+1 734-676-7285"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://locations.michaels.com/mi/woodhaven/1600"
+street: Allen Road
+housenumber: "23460"
+phone: +1 734-676-7285
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://locations.michaels.com/mi/woodhaven/1600

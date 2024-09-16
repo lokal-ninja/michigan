@@ -1,11 +1,11 @@
 id: 261741564
-type: way
+type: node
 latitude: 42.25832
 longitude: -85.18119
 postcode: "49014"
 city: Battle Creek
-street: "6 Mile Road"
-housenumber: 12737
-phone: "+1 269-979-5327"
-opening_hours: "Mo-Fr 10:00-20:00; Sa 09:00-20:00; Su 10:00-18:00"
-website: "https://www.samsclub.com/club/battle-creek-mi-sams-club/6429"
+street: 6 Mile Road
+housenumber: "12737"
+phone: +1 269-979-5327
+opening_hours: Mo-Fr 10:00-20:00; Sa 09:00-20:00; Su 10:00-18:00
+website: https://www.samsclub.com/club/battle-creek-mi-sams-club/6429

@@ -1,11 +1,11 @@
 id: 236349360
-type: way
+type: node
 latitude: 45.74483
 longitude: -87.0879
 postcode: "49829"
 city: Escanaba
-street: "Ludington Street"
-housenumber: 2625
-phone: "+1 877 774 3171"
+street: Ludington Street
+housenumber: "2625"
+phone: +1 877 774 3171
 opening_hours: ""
-website: "https://www.riversidefordescanaba.com/"
+website: https://www.riversidefordescanaba.com/

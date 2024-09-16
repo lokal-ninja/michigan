@@ -1,11 +1,11 @@
 id: 232906550
-type: way
+type: node
 latitude: 42.62169
 longitude: -83.16942
 postcode: "48098"
 city: Troy
-street: "West South Boulevard"
-housenumber: 1981
+street: West South Boulevard
+housenumber: "1981"
 phone: ""
 opening_hours: ""
 website: ""

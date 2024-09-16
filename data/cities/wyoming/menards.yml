@@ -1,11 +1,11 @@
 id: 291795806
-type: way
+type: node
 latitude: 42.8641
 longitude: -85.68766
 postcode: "49509"
 city: Wyoming
-street: "Clyde Park Avenue Southwest"
-housenumber: 5555
+street: Clyde Park Avenue Southwest
+housenumber: "5555"
 phone: ""
 opening_hours: ""
-website: "https://www.menards.com/store-details/store.html?store=3144"
+website: https://www.menards.com/store-details/store.html?store=3144

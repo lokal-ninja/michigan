@@ -1,11 +1,11 @@
 id: 607830161
-type: way
+type: node
 latitude: 43.0613
 longitude: -83.78616
 postcode: "48433"
 city: Flushing
-street: "West Pierson Road"
-housenumber: 5340
-phone: "+1 855-955-2534"
-opening_hours: "Mo, We, Fr-Su 09:00-20:00, Tu, Th 08:30-20:00"
-website: "https://stores.aldi.us/mi/flushing/5340-pierson-road"
+street: West Pierson Road
+housenumber: "5340"
+phone: +1 855-955-2534
+opening_hours: Mo, We, Fr-Su 09:00-20:00, Tu, Th 08:30-20:00
+website: https://stores.aldi.us/mi/flushing/5340-pierson-road

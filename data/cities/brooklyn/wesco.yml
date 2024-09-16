@@ -1,11 +1,11 @@
 id: 895393194
-type: way
+type: node
 latitude: 42.11282
 longitude: -84.24733
 postcode: "49230"
 city: Brooklyn
-street: "Brooklyn Road"
-housenumber: 10409
+street: Brooklyn Road
+housenumber: "10409"
 phone: ""
 opening_hours: ""
 website: ""

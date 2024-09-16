@@ -4,8 +4,9 @@ latitude: 45.64618
 longitude: -84.47354
 postcode: "49721"
 city: Cheboygan
-street: "West State Street"
-housenumber: 107
-phone: "+1-231-333-6043"
-opening_hours: "Mo 10:00-16:00; Tu 09:00-19:30; We 09:00-18:30; Th-Fr 09:00-17:00; Sa 09:00-14:00"
-website: "https://www.vagaro.com/lavishllc"
+street: West State Street
+housenumber: "107"
+phone: +1-231-333-6043
+opening_hours: Mo 10:00-16:00; Tu 09:00-19:30; We 09:00-18:30; Th-Fr 09:00-17:00;
+    Sa 09:00-14:00
+website: https://www.vagaro.com/lavishllc

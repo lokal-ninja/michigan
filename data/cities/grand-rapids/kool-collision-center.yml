@@ -1,11 +1,11 @@
 id: 550988938
-type: way
+type: node
 latitude: 43.03035
 longitude: -85.62568
 postcode: "49525"
 city: Grand Rapids
-street: "4 Mile Road Northeast"
-housenumber: 1735
-phone: "+1-866-544-0318"
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://www.koolchevy.com/Collision"
+street: 4 Mile Road Northeast
+housenumber: "1735"
+phone: +1-866-544-0318
+opening_hours: Mo-Fr 08:00-17:00
+website: https://www.koolchevy.com/Collision

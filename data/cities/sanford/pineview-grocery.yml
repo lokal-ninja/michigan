@@ -1,11 +1,11 @@
 id: 685723722
-type: way
+type: node
 latitude: 43.70606
 longitude: -84.39397
 postcode: "48657"
 city: Sanford
-street: "North West River Road"
-housenumber: 3277
-phone: "+1 989 687 5267"
+street: North West River Road
+housenumber: "3277"
+phone: +1 989 687 5267
 opening_hours: ""
 website: ""

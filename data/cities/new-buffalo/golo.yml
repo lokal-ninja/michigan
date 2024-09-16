@@ -1,11 +1,11 @@
 id: 350395282
-type: way
+type: node
 latitude: 41.79377
 longitude: -86.74529
 postcode: "49117"
 city: New Buffalo
-street: "West Buffalo Street"
-housenumber: 102
+street: West Buffalo Street
+housenumber: "102"
 phone: ""
 opening_hours: ""
 website: ""

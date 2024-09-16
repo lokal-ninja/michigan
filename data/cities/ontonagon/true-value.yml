@@ -1,11 +1,11 @@
 id: 360961121
-type: way
+type: node
 latitude: 46.87111
 longitude: -89.31518
 postcode: "49953"
 city: Ontonagon
-street: "Tin Street"
-housenumber: 200
+street: Tin Street
+housenumber: "200"
 phone: ""
 opening_hours: ""
-website: "http://ww3.truevalue.com/ontonagontruevalue/"
+website: http://ww3.truevalue.com/ontonagontruevalue/

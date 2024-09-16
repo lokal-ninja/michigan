@@ -1,11 +1,11 @@
 id: 560217400
-type: way
+type: node
 latitude: 42.62818
 longitude: -82.91491
 postcode: "48038"
 city: Clinton Township
-street: "Hall Road"
-housenumber: 20722
-phone: "+1 586 469 6244"
-opening_hours: "06:00-22:00"
-website: "https://www.simplyss.com/michigan/hall-road-clinton-township-self-storage/"
+street: Hall Road
+housenumber: "20722"
+phone: +1 586 469 6244
+opening_hours: 06:00-22:00
+website: https://www.simplyss.com/michigan/hall-road-clinton-township-self-storage/

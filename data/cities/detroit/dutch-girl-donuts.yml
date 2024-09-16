@@ -4,8 +4,8 @@ latitude: 42.43141
 longitude: -83.11417
 postcode: "48203"
 city: Detroit
-street: "Woodward Avenue"
-housenumber: 19000
+street: Woodward Avenue
+housenumber: "19000"
 phone: ""
-opening_hours: "Mo-Fr 00:00-24:00; Sa 00:00-20:00"
+opening_hours: Mo-Fr 00:00-24:00; Sa 00:00-20:00
 website: ""

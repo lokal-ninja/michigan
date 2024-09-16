@@ -1,11 +1,11 @@
 id: 961463681
-type: way
+type: node
 latitude: 44.7637
 longitude: -85.6228
 postcode: "49684"
 city: Traverse City
-street: "East Front Street"
-housenumber: 120
-phone: "+1-231-933-8465"
+street: East Front Street
+housenumber: "120"
+phone: +1-231-933-8465
 opening_hours: ""
-website: "https://gogreenisland.com/"
+website: https://gogreenisland.com/

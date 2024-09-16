@@ -1,11 +1,11 @@
 id: 171540346
-type: way
+type: node
 latitude: 42.26031
 longitude: -84.75579
 postcode: "49224"
 city: Albion
-street: "N Eaton St"
-housenumber: 1410
-phone: "+1-517-343-2070"
-opening_hours: "Mo-Su 08:00-18:00"
-website: "https://sunniesmi.com/"
+street: N Eaton St
+housenumber: "1410"
+phone: +1-517-343-2070
+opening_hours: Mo-Su 08:00-18:00
+website: https://sunniesmi.com/

@@ -1,11 +1,11 @@
 id: 330181551
-type: way
+type: node
 latitude: 42.40247
 longitude: -83.05321
 postcode: "48212"
 city: Hamtramck
-street: "Conant Street"
-housenumber: 11303
+street: Conant Street
+housenumber: "11303"
 phone: ""
 opening_hours: ""
 website: ""

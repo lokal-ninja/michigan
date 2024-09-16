@@ -4,8 +4,8 @@ latitude: 42.27614
 longitude: -83.78072
 postcode: "48103"
 city: Ann Arbor
-street: "South Maple Road"
-housenumber: 516
-phone: "+1-734-997-7800"
-opening_hours: "Mo-Fr 11:00-19:00; Sa 11:00-17:00; Su off"
-website: "https://www.caymansports.com/"
+street: South Maple Road
+housenumber: "516"
+phone: +1-734-997-7800
+opening_hours: Mo-Fr 11:00-19:00; Sa 11:00-17:00; Su off
+website: https://www.caymansports.com/

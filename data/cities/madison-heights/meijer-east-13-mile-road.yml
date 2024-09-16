@@ -1,11 +1,11 @@
 id: 107384662
-type: way
+type: node
 latitude: 42.52093
 longitude: -83.09512
 postcode: "48071"
 city: Madison Heights
-street: "East 13 Mile Road"
-housenumber: 1101
+street: East 13 Mile Road
+housenumber: "1101"
 phone: ""
 opening_hours: ""
 website: ""

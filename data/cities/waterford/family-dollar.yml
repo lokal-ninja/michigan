@@ -1,11 +1,11 @@
 id: 889335893
-type: way
+type: node
 latitude: 42.69071
 longitude: -83.37487
 postcode: "48329"
 city: Waterford
-street: "West Walton Boulevard"
-housenumber: 4398
+street: West Walton Boulevard
+housenumber: "4398"
 phone: ""
 opening_hours: ""
 website: ""

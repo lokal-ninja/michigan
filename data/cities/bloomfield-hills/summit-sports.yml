@@ -1,11 +1,11 @@
 id: 800131889
-type: way
+type: node
 latitude: 42.61528
 longitude: -83.31071
 postcode: "48302"
 city: Bloomfield Hills
-street: "South Telegraph Road"
-housenumber: 1751
+street: South Telegraph Road
+housenumber: "1751"
 phone: ""
 opening_hours: ""
 website: ""

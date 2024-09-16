@@ -1,11 +1,11 @@
 id: 585038087
-type: way
+type: node
 latitude: 42.15756
 longitude: -83.54252
 postcode: "48111"
 city: Belleville
-street: "Rawsonville Road"
-housenumber: 9090
+street: Rawsonville Road
+housenumber: "9090"
 phone: ""
 opening_hours: ""
 website: ""

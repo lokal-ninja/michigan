@@ -1,11 +1,11 @@
 id: 651807803
-type: way
+type: node
 latitude: 43.32577
 longitude: -83.74025
 postcode: ""
 city: Frankenmuth
-street: "Covered Bridge Lane"
-housenumber: 775
+street: Covered Bridge Lane
+housenumber: "775"
 phone: ""
 opening_hours: ""
-website: "https://coveredbridgefrankenmuth.com/"
+website: https://coveredbridgefrankenmuth.com/

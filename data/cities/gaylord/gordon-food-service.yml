@@ -1,11 +1,11 @@
 id: 545293146
-type: way
+type: node
 latitude: 45.02849
 longitude: -84.70196
 postcode: "49735"
 city: Gaylord
-street: "West Main Street"
-housenumber: 1466
-phone: "+1-989-731-0404"
-opening_hours: "Mo-Sa 07:00-20:00; Su 09:00-18:00"
-website: "https://gfsstore.com/locations/gaylord/"
+street: West Main Street
+housenumber: "1466"
+phone: +1-989-731-0404
+opening_hours: Mo-Sa 07:00-20:00; Su 09:00-18:00
+website: https://gfsstore.com/locations/gaylord/

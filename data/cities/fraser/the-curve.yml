@@ -1,11 +1,11 @@
 id: 1272338609
-type: way
+type: node
 latitude: 42.53925
 longitude: -82.95159
 postcode: "48026"
 city: Fraser
-street: "East 14 Mile Road"
-housenumber: 16649
-phone: "+1-586-298-6785"
-opening_hours: "Tu 10:00-17:00; We-Sa 10:00-21:00; Su 10:00-16:00"
+street: East 14 Mile Road
+housenumber: "16649"
+phone: +1-586-298-6785
+opening_hours: Tu 10:00-17:00; We-Sa 10:00-21:00; Su 10:00-16:00
 website: ""

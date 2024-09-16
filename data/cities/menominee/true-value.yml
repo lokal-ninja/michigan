@@ -1,11 +1,11 @@
 id: 846199867
-type: way
+type: node
 latitude: 45.11849
 longitude: -87.615
 postcode: "49858"
 city: Menominee
-street: "10th Street"
-housenumber: 2113
-phone: "+1-906-863-2628"
+street: 10th Street
+housenumber: "2113"
+phone: +1-906-863-2628
 opening_hours: ""
-website: "https://stores.truevalue.com/mi/menominee/10053/"
+website: https://stores.truevalue.com/mi/menominee/10053/

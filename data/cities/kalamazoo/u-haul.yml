@@ -1,11 +1,11 @@
 id: 1153912961
-type: way
+type: node
 latitude: 42.28185
 longitude: -85.57243
 postcode: "49001"
 city: Kalamazoo
-street: "Portage Street"
-housenumber: 1004
-phone: "+1 269 345 7141"
-opening_hours: "Su 09:00-17:00; Mo-Th 07:00-19:00; Fr 07:00-20:00; Sa 07:00-19:00"
+street: Portage Street
+housenumber: "1004"
+phone: +1 269 345 7141
+opening_hours: Su 09:00-17:00; Mo-Th 07:00-19:00; Fr 07:00-20:00; Sa 07:00-19:00
 website: ""

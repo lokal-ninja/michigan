@@ -1,11 +1,11 @@
 id: 1011152075
-type: way
+type: node
 latitude: 42.77599
 longitude: -84.40656
 postcode: "48840"
 city: Haslett
-street: "Lansing Road"
-housenumber: 7777
-phone: "+1 517 339 0830"
+street: Lansing Road
+housenumber: "7777"
+phone: +1 517 339 0830
 opening_hours: ""
-website: "https://www.ferrellgas.com/locations/detail/east-lansing-mi/256060"
+website: https://www.ferrellgas.com/locations/detail/east-lansing-mi/256060

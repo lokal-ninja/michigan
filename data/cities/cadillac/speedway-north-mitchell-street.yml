@@ -1,11 +1,11 @@
 id: 829986211
-type: way
+type: node
 latitude: 44.25603
 longitude: -85.40352
 postcode: "48601"
 city: Cadillac
-street: "North Mitchell Street"
-housenumber: 702
+street: North Mitchell Street
+housenumber: "702"
 phone: ""
 opening_hours: ""
-website: "https://www.speedway.com/locations/MI/Cadillac/702-North-Mitchell-Street"
+website: https://www.speedway.com/locations/MI/Cadillac/702-North-Mitchell-Street

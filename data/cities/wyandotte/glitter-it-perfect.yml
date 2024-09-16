@@ -1,11 +1,11 @@
 id: 683408975
-type: way
+type: node
 latitude: 42.20422
 longitude: -83.16516
 postcode: "48192"
 city: Wyandotte
-street: "Oak Street"
-housenumber: 1004
+street: Oak Street
+housenumber: "1004"
 phone: ""
 opening_hours: ""
 website: ""

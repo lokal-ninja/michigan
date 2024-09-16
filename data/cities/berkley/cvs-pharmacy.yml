@@ -1,11 +1,11 @@
 id: 227990506
-type: way
+type: node
 latitude: 42.48942
 longitude: -83.18394
 postcode: "48072"
 city: Berkley
-street: "Coolidge Highway"
-housenumber: 1715
+street: Coolidge Highway
+housenumber: "1715"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/berkley-mi-pharmacies/1715-coolidge-hwy-berkley-mi-48072/storeid=8074"
+website: https://www.cvs.com/store-locator/berkley-mi-pharmacies/1715-coolidge-hwy-berkley-mi-48072/storeid=8074

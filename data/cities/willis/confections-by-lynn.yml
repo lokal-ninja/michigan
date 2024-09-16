@@ -1,11 +1,11 @@
 id: 601833649
-type: way
+type: node
 latitude: 42.15865
 longitude: -83.55932
 postcode: "48191"
 city: Willis
-street: "Willis Road"
-housenumber: 10101
+street: Willis Road
+housenumber: "10101"
 phone: ""
 opening_hours: ""
 website: ""

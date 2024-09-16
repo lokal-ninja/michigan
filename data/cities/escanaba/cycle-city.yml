@@ -1,11 +1,11 @@
 id: 269744011
-type: way
+type: node
 latitude: 45.79069
 longitude: -87.08204
 postcode: "49829"
 city: Escanaba
-street: "County 426 M.5 Road"
-housenumber: 6751
-phone: "+1-906-786-5834"
+street: County 426 M.5 Road
+housenumber: "6751"
+phone: +1-906-786-5834
 opening_hours: ""
-website: "http://www.cyclecityinc.com/"
+website: http://www.cyclecityinc.com/

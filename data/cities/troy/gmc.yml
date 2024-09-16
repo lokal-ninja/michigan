@@ -1,11 +1,11 @@
 id: 951192420
-type: way
+type: node
 latitude: 42.54858
 longitude: -83.17406
 postcode: "48084"
 city: Troy
-street: "West Maple Road"
-housenumber: 1850
+street: West Maple Road
+housenumber: "1850"
 phone: ""
-opening_hours: "Mo,Th 09:00-20:00; Tu,We,Fr 09:00-18:00; Sa 10:00-16:00; Su off"
+opening_hours: Mo,Th 09:00-20:00; Tu,We,Fr 09:00-18:00; Sa 10:00-16:00; Su off
 website: ""

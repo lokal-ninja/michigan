@@ -4,8 +4,8 @@ latitude: 42.82548
 longitude: -83.26487
 postcode: "48371"
 city: Oxford
-street: "North Washington Street"
-housenumber: 18
+street: North Washington Street
+housenumber: "18"
 phone: "+12485724558"
-opening_hours: "Tu,Th 10:00-19:00; We,Fr 10:00-15:00; Sa 09:00-17:00"
-website: "https://oxfordbikeshoppe.com/"
+opening_hours: Tu,Th 10:00-19:00; We,Fr 10:00-15:00; Sa 09:00-17:00
+website: https://oxfordbikeshoppe.com/

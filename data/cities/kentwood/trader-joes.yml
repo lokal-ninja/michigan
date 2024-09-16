@@ -1,11 +1,11 @@
 id: 369773601
-type: way
+type: node
 latitude: 42.91218
 longitude: -85.57683
 postcode: "49512"
 city: Kentwood
-street: "28th Street Southeast"
-housenumber: 3684
-phone: "+1 616-977-1819"
-opening_hours: "Mo-Su 08:00-21:00"
-website: "https://locations.traderjoes.com/mi/kentwood/707/"
+street: 28th Street Southeast
+housenumber: "3684"
+phone: +1 616-977-1819
+opening_hours: Mo-Su 08:00-21:00
+website: https://locations.traderjoes.com/mi/kentwood/707/

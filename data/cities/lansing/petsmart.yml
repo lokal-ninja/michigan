@@ -4,8 +4,8 @@ latitude: 42.73669
 longitude: -84.67331
 postcode: "48917"
 city: Lansing
-street: "Marketplace Boulevard"
-housenumber: 305
-phone: "+1 517-622-1542"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://www.petsmart.com/stores/us/mi/lansing-store0725.html"
+street: Marketplace Boulevard
+housenumber: "305"
+phone: +1 517-622-1542
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://www.petsmart.com/stores/us/mi/lansing-store0725.html

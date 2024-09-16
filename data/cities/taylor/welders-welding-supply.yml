@@ -1,11 +1,11 @@
 id: 819667440
-type: way
+type: node
 latitude: 42.26947
 longitude: -83.23925
 postcode: "48180"
 city: Taylor
-street: "Van Born Road"
-housenumber: 20643
-phone: "+1-313-565-7611"
+street: Van Born Road
+housenumber: "20643"
+phone: +1-313-565-7611
 opening_hours: ""
-website: "https://welders-welding-supply-co.business.site/"
+website: https://welders-welding-supply-co.business.site/

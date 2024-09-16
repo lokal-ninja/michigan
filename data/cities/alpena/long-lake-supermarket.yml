@@ -1,11 +1,11 @@
 id: 1197475513
-type: way
+type: node
 latitude: 45.18486
 longitude: -83.46848
 postcode: "49707"
 city: Alpena
-street: "West Long Lake Road"
-housenumber: 9538
-phone: "+1-989-595-0141"
+street: West Long Lake Road
+housenumber: "9538"
+phone: +1-989-595-0141
 opening_hours: ""
 website: ""

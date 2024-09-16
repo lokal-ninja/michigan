@@ -1,11 +1,11 @@
 id: 678866853
-type: way
+type: node
 latitude: 42.12742
 longitude: -83.18615
 postcode: "48183"
 city: Trenton
-street: "West Jefferson Avenue"
-housenumber: 4350
+street: West Jefferson Avenue
+housenumber: "4350"
 phone: ""
 opening_hours: ""
 website: ""

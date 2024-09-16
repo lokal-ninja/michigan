@@ -1,11 +1,11 @@
 id: 1230018231
-type: way
+type: node
 latitude: 44.27602
 longitude: -84.25749
 postcode: "48661"
 city: West Branch
-street: "M-76"
-housenumber: 3249
-phone: "+1-989-240-5780"
+street: M-76
+housenumber: "3249"
+phone: +1-989-240-5780
 opening_hours: ""
-website: "https://www.longviewsp.com/"
+website: https://www.longviewsp.com/

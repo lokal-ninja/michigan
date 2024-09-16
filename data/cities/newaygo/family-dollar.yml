@@ -1,11 +1,11 @@
 id: 1095940669
-type: way
+type: node
 latitude: 43.40568
 longitude: -85.79422
 postcode: "49337"
 city: Newaygo
-street: "82nd Street"
-housenumber: 269
+street: 82nd Street
+housenumber: "269"
 phone: ""
 opening_hours: ""
 website: ""

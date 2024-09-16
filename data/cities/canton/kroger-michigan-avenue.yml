@@ -1,11 +1,11 @@
 id: 930638537
-type: way
+type: node
 latitude: 42.2738
 longitude: -83.48859
 postcode: "48188"
 city: Canton
-street: "Michigan Avenue"
-housenumber: 45540
-phone: "+1 734-397-2368"
-opening_hours: "Mo-Su 06:00-22:00"
-website: "https://www.kroger.com/stores/grocery/mi/canton/michigan-canton/018/00703"
+street: Michigan Avenue
+housenumber: "45540"
+phone: +1 734-397-2368
+opening_hours: Mo-Su 06:00-22:00
+website: https://www.kroger.com/stores/grocery/mi/canton/michigan-canton/018/00703

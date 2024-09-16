@@ -1,11 +1,11 @@
 id: 203310762
-type: way
+type: node
 latitude: 42.78134
 longitude: -86.08342
 postcode: "49423"
 city: Holland
-street: "East 16th Street"
-housenumber: 572
-phone: "+1 616-396-0120"
-opening_hours: "Mo-Sa 06:00-21:00; Su 08:00-20:00"
-website: "https://www.menards.com/store-details/store.html?store=3520"
+street: East 16th Street
+housenumber: "572"
+phone: +1 616-396-0120
+opening_hours: Mo-Sa 06:00-21:00; Su 08:00-20:00
+website: https://www.menards.com/store-details/store.html?store=3520

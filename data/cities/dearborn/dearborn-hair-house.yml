@@ -1,11 +1,11 @@
 id: 1057464481
-type: way
+type: node
 latitude: 42.32206
 longitude: -83.19488
 postcode: ""
 city: Dearborn
-street: "Greenfield Road"
-housenumber: 4898
+street: Greenfield Road
+housenumber: "4898"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 429407047
-type: way
+type: node
 latitude: 42.54381
 longitude: -83.44135
 postcode: "48390"
 city: Commerce Township
-street: "East West Maple Road"
-housenumber: 3105
+street: East West Maple Road
+housenumber: "3105"
 phone: ""
-opening_hours: "Mo-Th 05:00-24:00; Fr 05:00-02:00; Sa 06:00-02:00; Su 06:00-23:00"
-website: "https://www.exxon.com/en/find-station/walledlake-mi-xpresswashmart-200318006"
+opening_hours: Mo-Th 05:00-24:00; Fr 05:00-02:00; Sa 06:00-02:00; Su 06:00-23:00
+website: https://www.exxon.com/en/find-station/walledlake-mi-xpresswashmart-200318006

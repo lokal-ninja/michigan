@@ -1,11 +1,11 @@
 id: 260004191
-type: way
+type: node
 latitude: 42.7429
 longitude: -84.64479
 postcode: "48917"
 city: Lansing
-street: "West Saginaw Highway"
-housenumber: 6430
-phone: "+1 517-886-1060"
-opening_hours: "06:00-24:00"
-website: "https://www.kroger.com/stores/grocery/mi/lansing/delta/018/00888"
+street: West Saginaw Highway
+housenumber: "6430"
+phone: +1 517-886-1060
+opening_hours: 06:00-24:00
+website: https://www.kroger.com/stores/grocery/mi/lansing/delta/018/00888

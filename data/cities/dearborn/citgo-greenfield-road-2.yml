@@ -4,8 +4,8 @@ latitude: 42.3506
 longitude: -83.19586
 postcode: "48126"
 city: Dearborn
-street: "Greenfield Road"
-housenumber: 7954
-phone: "+1 313 624 8888"
-opening_hours: "24/7"
+street: Greenfield Road
+housenumber: "7954"
+phone: +1 313 624 8888
+opening_hours: 24/7
 website: ""

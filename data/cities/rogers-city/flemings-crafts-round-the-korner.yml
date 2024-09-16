@@ -1,11 +1,11 @@
 id: 1173737258
-type: way
+type: node
 latitude: 45.42151
 longitude: -83.81851
 postcode: "49779"
 city: Rogers City
-street: "North 3rd Street"
-housenumber: 301
-phone: "+1-989-306-5887"
+street: North 3rd Street
+housenumber: "301"
+phone: +1-989-306-5887
 opening_hours: ""
-website: "https://www.facebook.com/FlemingsCraftsRoundTheKorner"
+website: https://www.facebook.com/FlemingsCraftsRoundTheKorner

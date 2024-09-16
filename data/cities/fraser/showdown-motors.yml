@@ -1,11 +1,11 @@
 id: 1026821505
-type: way
+type: node
 latitude: 42.53867
 longitude: -82.95248
 postcode: "48026"
 city: Fraser
-street: "Utica Road"
-housenumber: 32950
-phone: "+1-586-791-0778"
-opening_hours: "Mo-Fr 10:00-17:00; Sa 10:00-15:00 || by appointment"
-website: "https://www.showdownauto.com/"
+street: Utica Road
+housenumber: "32950"
+phone: +1-586-791-0778
+opening_hours: Mo-Fr 10:00-17:00; Sa 10:00-15:00 || "by appointment"
+website: https://www.showdownauto.com/

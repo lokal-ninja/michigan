@@ -1,11 +1,11 @@
 id: 1223003832
-type: way
+type: node
 latitude: 43.50379
 longitude: -83.37988
 postcode: "48723"
 city: Caro
-street: "East Caro Road"
-housenumber: 1253
+street: East Caro Road
+housenumber: "1253"
 phone: "+19896732224"
 opening_hours: ""
-website: "https://savealot.com/grocery-stores/caro-48723-24924/"
+website: https://savealot.com/grocery-stores/caro-48723-24924/

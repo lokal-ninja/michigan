@@ -1,11 +1,11 @@
 id: 1206681611
-type: way
+type: node
 latitude: 43.98993
 longitude: -86.45921
 postcode: "49431"
 city: Ludington
-street: "North Lakeshore Drive"
-housenumber: 1860
-phone: "+1 231 425 3732"
+street: North Lakeshore Drive
+housenumber: "1860"
+phone: +1 231 425 3732
 opening_hours: ""
 website: ""

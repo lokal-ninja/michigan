@@ -1,11 +1,11 @@
 id: 261268340
-type: way
+type: node
 latitude: 42.295
 longitude: -85.68028
 postcode: "49009"
 city: Kalamazoo
-street: "West Main Street"
-housenumber: 6619
+street: West Main Street
+housenumber: "6619"
 phone: ""
 opening_hours: ""
-website: "https://www.megabev.com/"
+website: https://www.megabev.com/

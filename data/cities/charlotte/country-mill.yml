@@ -1,11 +1,11 @@
 id: 994836084
-type: way
+type: node
 latitude: 42.63562
 longitude: -84.79735
 postcode: "48813"
 city: Charlotte
-street: "Otto Road"
-housenumber: 4648
-phone: "+1 517-543-1019"
-opening_hours: "Tu-Sa 09:00-18:00; Su 11:00-18:00"
-website: "http://www.countrymill.com/"
+street: Otto Road
+housenumber: "4648"
+phone: +1 517-543-1019
+opening_hours: Tu-Sa 09:00-18:00; Su 11:00-18:00
+website: http://www.countrymill.com/

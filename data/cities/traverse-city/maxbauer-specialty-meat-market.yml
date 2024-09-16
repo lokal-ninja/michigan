@@ -1,11 +1,11 @@
 id: 262723980
-type: way
+type: node
 latitude: 44.76023
 longitude: -85.62365
 postcode: "49684"
 city: Traverse City
-street: "South Union Street"
-housenumber: 407
+street: South Union Street
+housenumber: "407"
 phone: ""
 opening_hours: ""
-website: "https://www.maxbauers.com/"
+website: https://www.maxbauers.com/

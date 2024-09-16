@@ -1,11 +1,11 @@
 id: 342875182
-type: way
+type: node
 latitude: 44.24831
 longitude: -84.231
 postcode: "48661"
 city: West Branch
-street: "Cook Road"
-housenumber: 2990
-phone: "+1-989-345-2594"
-opening_hours: "Mo-Th 10:00-21:00; Fr-Sa 10:00-19:00; Su 11:00-18:00"
-website: "https://westbranchoutlet.com/"
+street: Cook Road
+housenumber: "2990"
+phone: +1-989-345-2594
+opening_hours: Mo-Th 10:00-21:00; Fr-Sa 10:00-19:00; Su 11:00-18:00
+website: https://westbranchoutlet.com/

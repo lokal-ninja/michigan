@@ -1,11 +1,11 @@
 id: 259487905
-type: way
+type: node
 latitude: 42.21514
 longitude: -85.58485
 postcode: "49002"
 city: Portage
-street: "South Westnedge Avenue"
-housenumber: 7021
-phone: "+1 269-327-0534"
-opening_hours: "Mo 10:00-20:00; Sa 09:00-20:00; Su 10:00-18:00"
-website: "https://www.samsclub.com/club/portage-mi-sams-club/6661"
+street: South Westnedge Avenue
+housenumber: "7021"
+phone: +1 269-327-0534
+opening_hours: Mo 10:00-20:00; Sa 09:00-20:00; Su 10:00-18:00
+website: https://www.samsclub.com/club/portage-mi-sams-club/6661

@@ -1,11 +1,11 @@
 id: 455366692
-type: way
+type: node
 latitude: 45.40461
 longitude: -83.82027
 postcode: "49779"
 city: Rogers City
-street: "South Bradley Highway"
-housenumber: 676
-phone: "+1-989-734-8890"
+street: South Bradley Highway
+housenumber: "676"
+phone: +1-989-734-8890
 opening_hours: ""
-website: "https://www.hentkowskifuneral.com/"
+website: https://www.hentkowskifuneral.com/

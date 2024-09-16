@@ -1,11 +1,11 @@
 id: 829996321
-type: way
+type: node
 latitude: 44.22339
 longitude: -85.80547
 postcode: "49689"
 city: Wellston
-street: "M 55"
-housenumber: 11252
+street: M 55
+housenumber: "11252"
 phone: ""
 opening_hours: ""
 website: ""

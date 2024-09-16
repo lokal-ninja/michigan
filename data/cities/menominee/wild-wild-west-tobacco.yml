@@ -1,11 +1,11 @@
 id: 846199866
-type: way
+type: node
 latitude: 45.11723
 longitude: -87.61451
 postcode: "49858"
 city: Menominee
-street: "10th Street"
-housenumber: 2009
-phone: "+1-906-424-4484"
+street: 10th Street
+housenumber: "2009"
+phone: +1-906-424-4484
 opening_hours: ""
 website: ""

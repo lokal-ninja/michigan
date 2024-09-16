@@ -1,11 +1,11 @@
 id: 256789816
-type: way
+type: node
 latitude: 45.74653
 longitude: -87.07139
 postcode: "49829"
 city: Escanaba
-street: "Stephenson Avenue"
-housenumber: 120
+street: Stephenson Avenue
+housenumber: "120"
 phone: ""
 opening_hours: ""
 website: ""

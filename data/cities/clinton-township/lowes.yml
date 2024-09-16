@@ -1,11 +1,11 @@
 id: 545780397
-type: way
+type: node
 latitude: 42.62505
 longitude: -82.97013
 postcode: "48038"
 city: Clinton Township
-street: "Hall Road"
-housenumber: 15350
-phone: "+1 586-416-2534"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.lowes.com/store/mi-clinton-township/1008"
+street: Hall Road
+housenumber: "15350"
+phone: +1 586-416-2534
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.lowes.com/store/mi-clinton-township/1008

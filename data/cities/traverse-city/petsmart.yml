@@ -1,11 +1,11 @@
 id: 117108848
-type: way
+type: node
 latitude: 44.72561
 longitude: -85.63274
 postcode: "49684"
 city: Traverse City
-street: "Crossing Circle"
-housenumber: 2544
-phone: "+1 231-947-4714"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://www.petsmart.com/stores/us/mi/traverse-city-store0727.html"
+street: Crossing Circle
+housenumber: "2544"
+phone: +1 231-947-4714
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://www.petsmart.com/stores/us/mi/traverse-city-store0727.html

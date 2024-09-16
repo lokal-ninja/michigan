@@ -1,11 +1,11 @@
 id: 970407828
-type: way
+type: node
 latitude: 42.8747
 longitude: -85.66541
 postcode: "49548"
 city: Grand Rapids
-street: "Division Avenue South"
-housenumber: 4907
+street: Division Avenue South
+housenumber: "4907"
 phone: ""
 opening_hours: ""
 website: ""

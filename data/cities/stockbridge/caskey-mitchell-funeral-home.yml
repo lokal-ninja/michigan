@@ -1,11 +1,11 @@
 id: 538529438
-type: way
+type: node
 latitude: 42.45173
 longitude: -84.17559
 postcode: "49285"
 city: Stockbridge
-street: "East Main Street"
-housenumber: 424
+street: East Main Street
+housenumber: "424"
 phone: ""
 opening_hours: ""
 website: ""

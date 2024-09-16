@@ -1,11 +1,11 @@
 id: 509344893
-type: way
+type: node
 latitude: 42.29295
 longitude: -83.2502
 postcode: "48124"
 city: Dearborn
-street: "Monroe Street"
-housenumber: 2740
-phone: "+1 313 562 0365"
+street: Monroe Street
+housenumber: "2740"
+phone: +1 313 562 0365
 opening_hours: ""
 website: ""

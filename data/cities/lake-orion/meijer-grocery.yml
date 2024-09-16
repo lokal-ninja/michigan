@@ -1,11 +1,11 @@
 id: 1137354418
-type: way
+type: node
 latitude: 42.76449
 longitude: -83.2389
 postcode: "48360"
 city: Lake Orion
-street: "South Lapeer Road"
-housenumber: 1107
-phone: "+1-248-287-7940"
+street: South Lapeer Road
+housenumber: "1107"
+phone: +1-248-287-7940
 opening_hours: ""
 website: ""

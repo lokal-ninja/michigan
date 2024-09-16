@@ -4,8 +4,8 @@ latitude: 42.28254
 longitude: -83.74872
 postcode: "48104"
 city: Ann Arbor
-street: "North Main Street"
-housenumber: 201
+street: North Main Street
+housenumber: "201"
 phone: ""
 opening_hours: ""
-website: "https://www.mainwine.com/"
+website: https://www.mainwine.com/

@@ -1,11 +1,11 @@
 id: 1105271090
-type: way
+type: node
 latitude: 42.9729
 longitude: -85.91626
 postcode: "49401"
 city: Allendale
-street: "Lake Michigan Drive"
-housenumber: 5269
-phone: "+1-616-384-2133"
+street: Lake Michigan Drive
+housenumber: "5269"
+phone: +1-616-384-2133
 opening_hours: ""
-website: "https://www.goodwillwm.org/"
+website: https://www.goodwillwm.org/

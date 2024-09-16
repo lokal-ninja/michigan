@@ -1,11 +1,11 @@
 id: 685459247
-type: way
+type: node
 latitude: 42.19957
 longitude: -83.25549
 postcode: "48180"
 city: Taylor
-street: "Eureka Road"
-housenumber: 23000
+street: Eureka Road
+housenumber: "23000"
 phone: ""
 opening_hours: ""
-website: "https://local.lenscrafters.com/mi/taylor/23000-eureka-rd.html"
+website: https://local.lenscrafters.com/mi/taylor/23000-eureka-rd.html

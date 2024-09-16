@@ -1,11 +1,11 @@
 id: 932571228
-type: way
+type: node
 latitude: 43.41899
 longitude: -85.80091
 postcode: "49337"
 city: Newaygo
-street: "State Road"
-housenumber: 70
+street: State Road
+housenumber: "70"
 phone: ""
 opening_hours: ""
 website: ""

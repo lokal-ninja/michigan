@@ -4,8 +4,8 @@ latitude: 42.35802
 longitude: -83.47877
 postcode: "48170"
 city: Plymouth
-street: "West Ann Arbor Road"
-housenumber: 1545
-phone: "+1 734 459 3388"
-opening_hours: "24/7"
+street: West Ann Arbor Road
+housenumber: "1545"
+phone: +1 734 459 3388
+opening_hours: 24/7
 website: ""

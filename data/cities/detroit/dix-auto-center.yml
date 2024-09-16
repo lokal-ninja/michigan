@@ -1,11 +1,11 @@
 id: 440630493
-type: way
+type: node
 latitude: 42.31682
 longitude: -83.13169
 postcode: "48209"
 city: Detroit
-street: "Dix Street"
-housenumber: 8001
+street: Dix Street
+housenumber: "8001"
 phone: ""
 opening_hours: ""
 website: ""

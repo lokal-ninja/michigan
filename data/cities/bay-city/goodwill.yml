@@ -1,11 +1,11 @@
 id: 705560168
-type: way
+type: node
 latitude: 43.62206
 longitude: -83.91206
 postcode: "48706"
 city: Bay City
-street: "North Euclid Avenue"
-housenumber: 4011
-phone: "+1-989-671-1140"
-opening_hours: "Mo-Sa 09:00-20:00; Su 11:00-18:00"
-website: "https://www.goodwillmidmichigan.org/"
+street: North Euclid Avenue
+housenumber: "4011"
+phone: +1-989-671-1140
+opening_hours: Mo-Sa 09:00-20:00; Su 11:00-18:00
+website: https://www.goodwillmidmichigan.org/

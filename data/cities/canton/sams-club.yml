@@ -1,11 +1,11 @@
 id: 307643098
-type: way
+type: node
 latitude: 42.32596
 longitude: -83.4335
 postcode: "48187"
 city: Canton
-street: "Ford Road"
-housenumber: 39800
-phone: "+1 734-981-4460"
-opening_hours: "Mo-Fr 10:00-20:00; Sa 09:00-20:00; Su 10:00-18:00"
-website: "https://www.samsclub.com/club/canton-mi-sams-club/6666"
+street: Ford Road
+housenumber: "39800"
+phone: +1 734-981-4460
+opening_hours: Mo-Fr 10:00-20:00; Sa 09:00-20:00; Su 10:00-18:00
+website: https://www.samsclub.com/club/canton-mi-sams-club/6666

@@ -1,11 +1,11 @@
 id: 485257226
-type: way
+type: node
 latitude: 43.52471
 longitude: -84.12345
 postcode: "48623"
 city: Freeland
-street: "South Main Street"
-housenumber: 100
+street: South Main Street
+housenumber: "100"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

@@ -4,8 +4,8 @@ latitude: 42.33087
 longitude: -83.10966
 postcode: "48210"
 city: Detroit
-street: "Michigan Avenue"
-housenumber: 5407
-phone: "+1-313-502-8198"
-opening_hours: "Mo-Fr 11:00-19:00; Sa 11:00-15:00"
-website: "https://detroitmopedworks.com"
+street: Michigan Avenue
+housenumber: "5407"
+phone: +1-313-502-8198
+opening_hours: Mo-Fr 11:00-19:00; Sa 11:00-15:00
+website: https://detroitmopedworks.com

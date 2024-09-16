@@ -1,11 +1,11 @@
 id: 150559307
-type: way
+type: node
 latitude: 41.83105
 longitude: -84.74749
 postcode: "49274"
 city: Reading
-street: "South Main Street"
-housenumber: 749
+street: South Main Street
+housenumber: "749"
 phone: ""
 opening_hours: ""
-website: "https://www.richardsrvsales.com/"
+website: https://www.richardsrvsales.com/

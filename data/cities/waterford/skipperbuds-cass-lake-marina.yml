@@ -1,11 +1,11 @@
 id: 797700935
-type: way
+type: node
 latitude: 42.62405
 longitude: -83.36428
 postcode: "48328"
 city: Waterford
-street: "Cass Elizabeth Road"
-housenumber: 3981
-phone: "+1 248 683 0200"
+street: Cass Elizabeth Road
+housenumber: "3981"
+phone: +1 248 683 0200
 opening_hours: ""
-website: "https://www.skipperbuds.com/casslakemarina/"
+website: https://www.skipperbuds.com/casslakemarina/

@@ -1,11 +1,11 @@
 id: 575452508
-type: way
+type: node
 latitude: 42.63731
 longitude: -83.11302
 postcode: "48307"
 city: Rochester Hills
-street: "East Auburn Road"
-housenumber: 981
+street: East Auburn Road
+housenumber: "981"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/rochester-hills-mi-pharmacies/981-e-auburn-rd-rochester-hills-mi-48307/storeid=8036"
+website: https://www.cvs.com/store-locator/rochester-hills-mi-pharmacies/981-e-auburn-rd-rochester-hills-mi-48307/storeid=8036

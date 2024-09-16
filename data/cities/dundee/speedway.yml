@@ -1,11 +1,11 @@
 id: 626291322
-type: way
+type: node
 latitude: 41.95868
 longitude: -83.67114
 postcode: "48131"
 city: Dundee
-street: "Tecumseh Street"
-housenumber: 635
+street: Tecumseh Street
+housenumber: "635"
 phone: ""
 opening_hours: ""
 website: ""

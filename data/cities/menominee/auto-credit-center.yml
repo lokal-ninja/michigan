@@ -1,11 +1,11 @@
 id: 842798407
-type: way
+type: node
 latitude: 45.13067
 longitude: -87.61311
 postcode: "49858"
 city: Menominee
-street: "10th Street"
-housenumber: 3501
-phone: "+1-906-863-8288"
+street: 10th Street
+housenumber: "3501"
+phone: +1-906-863-8288
 opening_hours: ""
-website: "https://mmautocredit.com/"
+website: https://mmautocredit.com/

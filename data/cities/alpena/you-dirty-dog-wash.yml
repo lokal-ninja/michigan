@@ -1,11 +1,11 @@
 id: 1238113356
-type: way
+type: node
 latitude: 45.04791
 longitude: -83.44786
 postcode: "49707"
 city: Alpena
-street: "South State Avenue"
-housenumber: 1301
-phone: "+1-989-356-4324"
+street: South State Avenue
+housenumber: "1301"
+phone: +1-989-356-4324
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 904363941
-type: way
+type: node
 latitude: 45.84946
 longitude: -84.61778
 postcode: "49757"
 city: Mackinac Island
-street: "Main Street"
-housenumber: 7295
+street: Main Street
+housenumber: "7295"
 phone: ""
 opening_hours: ""
 website: ""

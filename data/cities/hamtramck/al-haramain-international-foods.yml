@@ -1,11 +1,11 @@
 id: 330180913
-type: way
+type: node
 latitude: 42.40107
 longitude: -83.05559
 postcode: "48212"
 city: Hamtramck
-street: "Caniff Street"
-housenumber: 3306
+street: Caniff Street
+housenumber: "3306"
 phone: ""
-opening_hours: "07:00-24:00"
+opening_hours: 07:00-24:00
 website: ""

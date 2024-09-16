@@ -1,11 +1,11 @@
 id: 544022667
-type: way
+type: node
 latitude: 42.46622
 longitude: -83.47362
 postcode: "48375"
 city: Novi
-street: "Novi Road"
-housenumber: 24150
+street: Novi Road
+housenumber: "24150"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-24100+novi+rd-novi-mi-48375/id=4454"
+website: https://www.walgreens.com/locator/walgreens-24100+novi+rd-novi-mi-48375/id=4454

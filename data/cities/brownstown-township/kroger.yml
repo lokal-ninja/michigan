@@ -1,11 +1,11 @@
 id: 605107659
-type: way
+type: node
 latitude: 42.09378
 longitude: -83.23527
 postcode: "48183"
 city: Brownstown Township
-street: "Gibraltar Road"
-housenumber: 20645
-phone: "+1 734-675-0451"
-opening_hours: "Mo-Su 06:00-22:00"
-website: "https://www.kroger.com/stores/grocery/mi/brownstown-township/gibraltar/018/00708"
+street: Gibraltar Road
+housenumber: "20645"
+phone: +1 734-675-0451
+opening_hours: Mo-Su 06:00-22:00
+website: https://www.kroger.com/stores/grocery/mi/brownstown-township/gibraltar/018/00708

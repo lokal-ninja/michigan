@@ -1,11 +1,11 @@
 id: 978591588
-type: way
+type: node
 latitude: 42.20196
 longitude: -85.60203
 postcode: "49024"
 city: Portage
-street: "West Centre Avenue"
-housenumber: 1116
-phone: "+1 269 323 9333"
-opening_hours: "Mo-Fr 08:00-16:00"
+street: West Centre Avenue
+housenumber: "1116"
+phone: +1 269 323 9333
+opening_hours: Mo-Fr 08:00-16:00
 website: ""

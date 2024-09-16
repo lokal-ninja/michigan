@@ -1,11 +1,11 @@
 id: 261168247
-type: way
+type: node
 latitude: 42.87712
 longitude: -85.75938
 postcode: "49418"
 city: Wyoming
-street: "Wilson Avenue Southwest"
-housenumber: 4830
-phone: "+1 616-531-2545"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://locations.michaels.com/mi/grandville/2060"
+street: Wilson Avenue Southwest
+housenumber: "4830"
+phone: +1 616-531-2545
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://locations.michaels.com/mi/grandville/2060

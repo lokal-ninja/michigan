@@ -1,11 +1,11 @@
 id: 916521797
-type: way
+type: node
 latitude: 42.78226
 longitude: -83.53298
 postcode: "48442"
 city: Holly
-street: "East Holly Road"
-housenumber: 8435
-phone: "+1 248 634 0837"
-opening_hours: "24/7"
+street: East Holly Road
+housenumber: "8435"
+phone: +1 248 634 0837
+opening_hours: 24/7
 website: ""

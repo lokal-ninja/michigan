@@ -1,11 +1,11 @@
 id: 573325867
-type: way
+type: node
 latitude: 42.30719
 longitude: -84.02052
 postcode: "48118"
 city: Chelsea
-street: "South Main Street"
-housenumber: 935
+street: South Main Street
+housenumber: "935"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/chelsea-mi-pharmacies/935-s-main-st-chelsea-mi-48118/storeid=8089"
+website: https://www.cvs.com/store-locator/chelsea-mi-pharmacies/935-s-main-st-chelsea-mi-48118/storeid=8089

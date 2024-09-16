@@ -4,8 +4,8 @@ latitude: 42.31407
 longitude: -84.01997
 postcode: "48118"
 city: Chelsea
-street: "South Main Street"
-housenumber: 501
-phone: "+1 517 797 3016"
-opening_hours: "Mo-Fr 05:00-22:00; Sa 06:00-22:00; Su 07:00-22:00"
-website: "http://www.perkypantry.com/"
+street: South Main Street
+housenumber: "501"
+phone: +1 517 797 3016
+opening_hours: Mo-Fr 05:00-22:00; Sa 06:00-22:00; Su 07:00-22:00
+website: http://www.perkypantry.com/

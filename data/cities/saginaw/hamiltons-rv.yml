@@ -1,11 +1,11 @@
 id: 1020356492
-type: way
+type: node
 latitude: 43.48056
 longitude: -83.94782
 postcode: "48604"
 city: Saginaw
-street: "Tittabawassee Road"
-housenumber: 1580
-phone: "+1-989-752-6262"
-opening_hours: "Mo-Fr 09:00-17:30; Sa 09:00-17:00"
-website: "https://hamiltonsrv.com"
+street: Tittabawassee Road
+housenumber: "1580"
+phone: +1-989-752-6262
+opening_hours: Mo-Fr 09:00-17:30; Sa 09:00-17:00
+website: https://hamiltonsrv.com

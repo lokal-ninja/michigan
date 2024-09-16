@@ -1,11 +1,11 @@
 id: 434721515
-type: way
+type: node
 latitude: 42.30373
 longitude: -83.25527
 postcode: "48124"
 city: Dearborn
-street: "Michigan Avenue"
-housenumber: 22688
+street: Michigan Avenue
+housenumber: "22688"
 phone: ""
 opening_hours: ""
-website: "https://www.kgstores.com/kg/store/get/903?address=dearborn"
+website: https://www.kgstores.com/kg/store/get/903?address=dearborn

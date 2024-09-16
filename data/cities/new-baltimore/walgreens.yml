@@ -1,11 +1,11 @@
 id: 546629355
-type: way
+type: node
 latitude: 42.6819
 longitude: -82.73727
 postcode: "48047"
 city: New Baltimore
-street: "Washington Street"
-housenumber: 51200
+street: Washington Street
+housenumber: "51200"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-51200+washington+st-new+baltimore-mi-48047/id=5227"
+website: https://www.walgreens.com/locator/walgreens-51200+washington+st-new+baltimore-mi-48047/id=5227

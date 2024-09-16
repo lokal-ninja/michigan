@@ -1,11 +1,11 @@
 id: 443094067
-type: way
+type: node
 latitude: 42.29637
 longitude: -83.27102
 postcode: "48124"
 city: Dearborn
-street: "S Telegraph Road"
-housenumber: 2027
+street: S Telegraph Road
+housenumber: "2027"
 phone: ""
 opening_hours: ""
 website: ""

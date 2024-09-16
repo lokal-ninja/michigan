@@ -1,11 +1,11 @@
 id: 414487508
-type: way
+type: node
 latitude: 43.20712
 longitude: -86.20311
 postcode: "49444"
 city: Muskegon
-street: "East Sherman Boulevard"
-housenumber: 1650
-phone: "+1 231-737-0091"
-opening_hours: "Mo-We 10:00-21:00; Th-Sa 09:00-21:00; Su 10:00-21:00"
-website: "https://local.biglots.com/mi/muskegon/1650-e-sherman-blvd"
+street: East Sherman Boulevard
+housenumber: "1650"
+phone: +1 231-737-0091
+opening_hours: Mo-We 10:00-21:00; Th-Sa 09:00-21:00; Su 10:00-21:00
+website: https://local.biglots.com/mi/muskegon/1650-e-sherman-blvd

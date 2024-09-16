@@ -1,11 +1,11 @@
 id: 581759436
-type: way
+type: node
 latitude: 42.78037
 longitude: -83.23904
 postcode: "48362"
 city: Lake Orion
-street: "South Broadway Street"
-housenumber: 295
+street: South Broadway Street
+housenumber: "295"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/lake-orion-mi-pharmacies/295-s-broadway-lake-orion-mi-48362/storeid=8129"
+website: https://www.cvs.com/store-locator/lake-orion-mi-pharmacies/295-s-broadway-lake-orion-mi-48362/storeid=8129

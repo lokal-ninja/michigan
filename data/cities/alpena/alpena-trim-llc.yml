@@ -1,11 +1,11 @@
 id: 1235554586
-type: way
+type: node
 latitude: 45.10795
 longitude: -83.45129
 postcode: "49707"
 city: Alpena
-street: "US 23 North"
-housenumber: 4147
-phone: "+1-989-354-3566"
+street: US 23 North
+housenumber: "4147"
+phone: +1-989-354-3566
 opening_hours: ""
 website: ""

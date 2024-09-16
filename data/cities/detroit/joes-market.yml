@@ -1,11 +1,11 @@
 id: 378078271
-type: way
+type: node
 latitude: 42.31365
 longitude: -83.09918
 postcode: "48209"
 city: Detroit
-street: "Junction Street"
-housenumber: 1251
+street: Junction Street
+housenumber: "1251"
 phone: ""
 opening_hours: ""
 website: ""

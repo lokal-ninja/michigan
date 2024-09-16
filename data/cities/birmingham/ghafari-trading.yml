@@ -4,8 +4,8 @@ latitude: 42.5539
 longitude: -83.21936
 postcode: "48009"
 city: Birmingham
-street: "Woodward Avenue"
-housenumber: 36101
-phone: "+1 248 647 0020"
-opening_hours: "24/7"
+street: Woodward Avenue
+housenumber: "36101"
+phone: +1 248 647 0020
+opening_hours: 24/7
 website: ""

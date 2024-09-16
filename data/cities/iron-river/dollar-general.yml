@@ -1,11 +1,11 @@
 id: 976054804
-type: way
+type: node
 latitude: 46.09186
 longitude: -88.64867
 postcode: "49935"
 city: Iron River
-street: "West Adams Street"
-housenumber: 1501
-phone: "+1-906-661-3510"
+street: West Adams Street
+housenumber: "1501"
+phone: +1-906-661-3510
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/mi/iron-river/13494"
+website: https://www.dollargeneral.com/store-directory/mi/iron-river/13494

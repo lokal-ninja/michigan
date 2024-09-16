@@ -2,10 +2,10 @@ id: 11149243574
 type: node
 latitude: 45.95933
 longitude: -86.24798
-postcode: "49854-1217"
+postcode: 49854-1217
 city: Manistique
-street: "River Street"
-housenumber: 145
-phone: "+1 906-341-5612"
-opening_hours: "Mo-Fr 08:00-17:30; Sa 08:00-16:00; Su 09:00-14:00"
+street: River Street
+housenumber: "145"
+phone: +1 906-341-5612
+opening_hours: Mo-Fr 08:00-17:30; Sa 08:00-16:00; Su 09:00-14:00
 website: ""

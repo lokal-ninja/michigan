@@ -1,11 +1,11 @@
 id: 841789041
-type: way
+type: node
 latitude: 44.8543
 longitude: -85.85602
 postcode: "49664"
 city: Maple City
-street: "South Maple City Road"
-housenumber: 8634
-phone: "+1 231 228 6262"
+street: South Maple City Road
+housenumber: "8634"
+phone: +1 231 228 6262
 opening_hours: ""
 website: ""

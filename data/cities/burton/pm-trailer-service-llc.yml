@@ -1,11 +1,11 @@
 id: 755306640
-type: way
+type: node
 latitude: 42.97224
 longitude: -83.64153
 postcode: "48529"
 city: Burton
-street: "Flint Asphalt Drive"
-housenumber: 4101
-phone: "+1-810-744-2852"
+street: Flint Asphalt Drive
+housenumber: "4101"
+phone: +1-810-744-2852
 opening_hours: ""
-website: "http://pmtrailerservicellc.com"
+website: http://pmtrailerservicellc.com

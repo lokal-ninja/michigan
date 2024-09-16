@@ -1,11 +1,11 @@
 id: 611852900
-type: way
+type: node
 latitude: 43.05086
 longitude: -83.51757
 postcode: "48423"
 city: Davison Township
-street: "North State Road"
-housenumber: 3058
-phone: "+1-810-653-5249"
+street: North State Road
+housenumber: "3058"
+phone: +1-810-653-5249
 opening_hours: ""
 website: ""

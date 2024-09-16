@@ -1,11 +1,11 @@
 id: 492610549
-type: way
+type: node
 latitude: 44.77142
 longitude: -85.47772
 postcode: "49690"
 city: Williamsburg
-street: "M-72"
-housenumber: 4900
-phone: "+1-231-534-9800"
+street: M-72
+housenumber: "4900"
+phone: +1-231-534-9800
 opening_hours: ""
 website: ""

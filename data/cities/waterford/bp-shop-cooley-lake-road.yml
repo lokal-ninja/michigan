@@ -1,11 +1,11 @@
 id: 802601347
-type: way
+type: node
 latitude: 42.61604
 longitude: -83.42303
 postcode: "48327"
 city: Waterford
-street: "Cooley Lake Road"
-housenumber: 7000
+street: Cooley Lake Road
+housenumber: "7000"
 phone: ""
 opening_hours: ""
 website: ""

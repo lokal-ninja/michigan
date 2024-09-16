@@ -1,11 +1,11 @@
 id: 1229719536
-type: way
+type: node
 latitude: 44.27749
 longitude: -84.24038
 postcode: "48661"
 city: West Branch
-street: "North 4th Street"
-housenumber: 135
-phone: "+1-989-345-7210"
+street: North 4th Street
+housenumber: "135"
+phone: +1-989-345-7210
 opening_hours: ""
-website: "https://selleys-cleaners.edan.io/"
+website: https://selleys-cleaners.edan.io/

@@ -1,11 +1,11 @@
 id: 318379097
-type: way
+type: node
 latitude: 42.42718
 longitude: -83.31689
 postcode: "48152"
 city: Livonia
-street: "7 Mile Road"
-housenumber: 27435
-phone: "+1 248-777-7241"
+street: 7 Mile Road
+housenumber: "27435"
+phone: +1 248-777-7241
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/mi/livonia/27435-7-mile-rd-25867"
+website: https://www.7-eleven.com/locations/mi/livonia/27435-7-mile-rd-25867

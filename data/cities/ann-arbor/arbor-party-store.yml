@@ -4,8 +4,8 @@ latitude: 42.29066
 longitude: -83.73721
 postcode: "48105"
 city: Ann Arbor
-street: "Broadway Street"
-housenumber: 1135
-phone: "+1-734-302-1780"
+street: Broadway Street
+housenumber: "1135"
+phone: +1-734-302-1780
 opening_hours: ""
-website: "https://allannarbor.com/info/arbor-party-store/"
+website: https://allannarbor.com/info/arbor-party-store/

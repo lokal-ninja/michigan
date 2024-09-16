@@ -1,11 +1,11 @@
 id: 443918367
-type: way
+type: node
 latitude: 42.7922
 longitude: -86.0822
 postcode: "49423"
 city: Holland
-street: "East 8th Street"
-housenumber: 571
+street: East 8th Street
+housenumber: "571"
 phone: ""
 opening_hours: ""
 website: ""

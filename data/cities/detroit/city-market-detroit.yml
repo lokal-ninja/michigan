@@ -4,8 +4,8 @@ latitude: 42.33159
 longitude: -83.04204
 postcode: "48226"
 city: Detroit
-street: "Brush Street"
-housenumber: 575
-phone: "+1-313-222-0000"
-opening_hours: "Mo-Sa 07:00-02:00; Su 07:00-24:00"
-website: "https://citymarketdetroit.com/"
+street: Brush Street
+housenumber: "575"
+phone: +1-313-222-0000
+opening_hours: Mo-Sa 07:00-02:00; Su 07:00-24:00
+website: https://citymarketdetroit.com/

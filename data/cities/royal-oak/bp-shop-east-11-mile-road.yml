@@ -1,11 +1,11 @@
 id: 922937957
-type: way
+type: node
 latitude: 42.49089
 longitude: -83.11721
 postcode: "48067"
 city: Royal Oak
-street: "East 11 Mile Road"
-housenumber: 2419
-phone: "+1 248 586 9343"
-opening_hours: "24/7"
+street: East 11 Mile Road
+housenumber: "2419"
+phone: +1 248 586 9343
+opening_hours: 24/7
 website: ""

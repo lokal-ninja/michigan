@@ -1,11 +1,11 @@
 id: 191674332
-type: way
+type: node
 latitude: 42.27181
 longitude: -84.45027
 postcode: "49202"
 city: Jackson
-street: "Airport Road"
-housenumber: 2777
-phone: "+1-517-787-7000"
-opening_hours: "24/7"
-website: "https://www.meijer.com/atstores/main.jsp?storeNumber=30"
+street: Airport Road
+housenumber: "2777"
+phone: +1-517-787-7000
+opening_hours: 24/7
+website: https://www.meijer.com/atstores/main.jsp?storeNumber=30

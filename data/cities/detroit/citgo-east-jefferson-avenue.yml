@@ -4,8 +4,8 @@ latitude: 42.36046
 longitude: -82.9833
 postcode: "48214"
 city: Detroit
-street: "East Jefferson Avenue"
-housenumber: 9645
-phone: "+1 248 549 3737"
-opening_hours: "24/7"
+street: East Jefferson Avenue
+housenumber: "9645"
+phone: +1 248 549 3737
+opening_hours: 24/7
 website: ""

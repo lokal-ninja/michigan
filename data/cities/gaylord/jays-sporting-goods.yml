@@ -1,11 +1,11 @@
 id: 1203118982
-type: way
+type: node
 latitude: 45.01458
 longitude: -84.67588
 postcode: "49735"
 city: Gaylord
-street: "South Otsego Avenue"
-housenumber: 1151
-phone: "+1-989-705-1339"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-18:00; Su 11:00-16:00"
-website: "https://www.jayssportinggoods.com/"
+street: South Otsego Avenue
+housenumber: "1151"
+phone: +1-989-705-1339
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-18:00; Su 11:00-16:00
+website: https://www.jayssportinggoods.com/

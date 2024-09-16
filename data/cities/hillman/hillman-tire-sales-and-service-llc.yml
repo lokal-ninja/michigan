@@ -1,11 +1,11 @@
 id: 490585337
-type: way
+type: node
 latitude: 45.05977
 longitude: -83.89465
 postcode: "49746"
 city: Hillman
-street: "Veterans Memorial Highway"
-housenumber: 24320
-phone: "+1-989-742-3002"
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://hillman-tire-sales-service.business.site/"
+street: Veterans Memorial Highway
+housenumber: "24320"
+phone: +1-989-742-3002
+opening_hours: Mo-Fr 08:00-17:00
+website: https://hillman-tire-sales-service.business.site/

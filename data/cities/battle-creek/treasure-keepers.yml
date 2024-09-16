@@ -1,11 +1,11 @@
 id: 1274761011
-type: way
+type: node
 latitude: 42.30862
 longitude: -85.11414
 postcode: "49014"
 city: Battle Creek
-street: "East Michigan Avenue"
-housenumber: 1368
+street: East Michigan Avenue
+housenumber: "1368"
 phone: ""
 opening_hours: ""
 website: ""

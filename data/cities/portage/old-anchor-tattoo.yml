@@ -1,11 +1,11 @@
 id: 677288562
-type: way
+type: node
 latitude: 42.20633
 longitude: -85.59003
 postcode: "49024"
 city: Portage
-street: "South Westnedge Avenue"
-housenumber: 7616
+street: South Westnedge Avenue
+housenumber: "7616"
 phone: ""
-opening_hours: "Mo-Th 12:00-18:00; Fr-Sa 12:00-21:00"
+opening_hours: Mo-Th 12:00-18:00; Fr-Sa 12:00-21:00
 website: ""

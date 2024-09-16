@@ -1,11 +1,11 @@
 id: 633292608
-type: way
+type: node
 latitude: 42.35861
 longitude: -83.1795
 postcode: "48228"
 city: Detroit
-street: "Schaefer Highway"
-housenumber: 8801
+street: Schaefer Highway
+housenumber: "8801"
 phone: ""
 opening_hours: ""
 website: ""

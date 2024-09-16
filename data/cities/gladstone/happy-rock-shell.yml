@@ -1,11 +1,11 @@
 id: 297166878
-type: way
+type: node
 latitude: 45.83559
 longitude: -87.0391
 postcode: "49837"
 city: Gladstone
-street: "Lake Shore Drive"
-housenumber: 2100
+street: Lake Shore Drive
+housenumber: "2100"
 phone: ""
 opening_hours: ""
 website: ""

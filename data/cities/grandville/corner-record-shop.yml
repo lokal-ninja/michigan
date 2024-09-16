@@ -1,11 +1,11 @@
 id: 590297138
-type: way
+type: node
 latitude: 42.9124
 longitude: -85.75276
 postcode: "49418"
 city: Grandville
-street: "Chicago Drive Southwest"
-housenumber: 3562
+street: Chicago Drive Southwest
+housenumber: "3562"
 phone: ""
 opening_hours: ""
 website: ""

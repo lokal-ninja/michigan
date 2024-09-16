@@ -1,11 +1,11 @@
 id: 919270861
-type: way
+type: node
 latitude: 42.48989
 longitude: -83.10452
 postcode: "48071"
 city: Madison Heights
-street: "John R Road"
-housenumber: 26800
+street: John R Road
+housenumber: "26800"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-26800+john+r+rd-madison+heights-mi-48071/id=4691"
+website: https://www.walgreens.com/locator/walgreens-26800+john+r+rd-madison+heights-mi-48071/id=4691

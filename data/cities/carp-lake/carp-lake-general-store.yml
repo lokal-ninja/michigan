@@ -1,11 +1,11 @@
 id: 724421514
-type: way
+type: node
 latitude: 45.69454
 longitude: -84.78143
 postcode: "49718"
 city: Carp Lake
-street: "East Gill Road"
-housenumber: 6420
-phone: "+1-231-537-4929"
-opening_hours: "Mo-Su 08:00-20:00"
+street: East Gill Road
+housenumber: "6420"
+phone: +1-231-537-4929
+opening_hours: Mo-Su 08:00-20:00
 website: ""

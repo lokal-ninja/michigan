@@ -1,11 +1,11 @@
 id: 590307165
-type: way
+type: node
 latitude: 47.10543
 longitude: -88.59083
 postcode: "49931"
 city: Houghton
-street: "Memorial Road"
-housenumber: 1705
-phone: "+1-906-379-0164"
+street: Memorial Road
+housenumber: "1705"
+phone: +1-906-379-0164
 opening_hours: ""
 website: ""

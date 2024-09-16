@@ -1,11 +1,11 @@
 id: 1303111772
-type: way
+type: node
 latitude: 45.37753
 longitude: -84.63139
 postcode: "49749"
 city: Indian River
-street: "South Straits Highway"
-housenumber: 5846
-phone: "+1-800-968-2299"
+street: South Straits Highway
+housenumber: "5846"
+phone: +1-800-968-2299
 opening_hours: ""
-website: "https://michiganlakeproducts.com/"
+website: https://michiganlakeproducts.com/

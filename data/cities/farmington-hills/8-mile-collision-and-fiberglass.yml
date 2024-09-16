@@ -1,11 +1,11 @@
 id: 516177962
-type: way
+type: node
 latitude: 42.44102
 longitude: -83.3679
 postcode: "48336"
 city: Farmington Hills
-street: "8 Mile Road"
-housenumber: 32440
-phone: "+1-248-888-0538"
+street: 8 Mile Road
+housenumber: "32440"
+phone: +1-248-888-0538
 opening_hours: ""
-website: "http://www.8milecollision.com/"
+website: http://www.8milecollision.com/

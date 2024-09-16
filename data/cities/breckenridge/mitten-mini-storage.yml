@@ -1,11 +1,11 @@
 id: 1158461675
-type: way
+type: node
 latitude: 43.41033
 longitude: -84.47756
 postcode: "48615"
 city: Breckenridge
-street: "Eastman Street"
-housenumber: 303
-phone: "517-214-1710"
-opening_hours: "24/7"
+street: Eastman Street
+housenumber: "303"
+phone: 517-214-1710
+opening_hours: 24/7
 website: ""

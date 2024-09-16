@@ -1,11 +1,11 @@
 id: 1226566980
-type: way
+type: node
 latitude: 45.6461
 longitude: -84.50339
 postcode: "49721"
 city: Cheboygan
-street: "West Court Street"
-housenumber: 879
-phone: "+1-231-627-7953"
+street: West Court Street
+housenumber: "879"
+phone: +1-231-627-7953
 opening_hours: ""
-website: "https://www.klingsautorecyclingllc.com/"
+website: https://www.klingsautorecyclingllc.com/

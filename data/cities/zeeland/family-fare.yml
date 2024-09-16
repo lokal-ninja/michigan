@@ -1,11 +1,11 @@
 id: 301807025
-type: way
+type: node
 latitude: 42.82732
 longitude: -86.01686
 postcode: "49464"
 city: Zeeland
-street: "Riley Street"
-housenumber: 9475
+street: Riley Street
+housenumber: "9475"
 phone: ""
 opening_hours: ""
 website: ""

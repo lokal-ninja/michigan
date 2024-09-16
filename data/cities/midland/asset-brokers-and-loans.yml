@@ -1,11 +1,11 @@
 id: 314951753
-type: way
+type: node
 latitude: 43.6156
 longitude: -84.21591
 postcode: "48640"
 city: Midland
-street: "South Saginaw Road"
-housenumber: 1602
-phone: "+1 989 631 9080"
-opening_hours: "Mo-Fr 09:30-17:30;Sa 10:00-16:00"
+street: South Saginaw Road
+housenumber: "1602"
+phone: +1 989 631 9080
+opening_hours: Mo-Fr 09:30-17:30;Sa 10:00-16:00
 website: ""

@@ -1,11 +1,11 @@
 id: 475506175
-type: way
+type: node
 latitude: 42.5167
 longitude: -83.61097
 postcode: "48165"
 city: New Hudson
-street: "Lyon Center East Drive"
-housenumber: 30600
+street: Lyon Center East Drive
+housenumber: "30600"
 phone: ""
 opening_hours: ""
 website: ""

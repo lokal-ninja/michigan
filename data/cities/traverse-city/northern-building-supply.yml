@@ -1,11 +1,11 @@
 id: 319400442
-type: way
+type: node
 latitude: 44.73298
 longitude: -85.6097
 postcode: "49686"
 city: Traverse City
-street: "South Airport Road West"
-housenumber: 1701
+street: South Airport Road West
+housenumber: "1701"
 phone: ""
 opening_hours: ""
-website: "https://northernbuildingsupply.com/"
+website: https://northernbuildingsupply.com/

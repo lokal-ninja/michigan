@@ -1,11 +1,11 @@
 id: 1004804724
-type: way
+type: node
 latitude: 42.90647
 longitude: -85.77189
 postcode: "49418"
 city: Grandville
-street: "Chicago Drive Southwest"
-housenumber: 4390
-phone: "+1-616-647-5342"
+street: Chicago Drive Southwest
+housenumber: "4390"
+phone: +1-616-647-5342
 opening_hours: ""
-website: "http://regeneratethrift.com"
+website: http://regeneratethrift.com

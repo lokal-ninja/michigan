@@ -1,11 +1,11 @@
 id: 672674065
-type: way
+type: node
 latitude: 42.2459
 longitude: -83.6195
 postcode: "48197"
 city: Ypsilanti
-street: "West Cross Street"
-housenumber: 500
-phone: "+1-734-480-2535"
-opening_hours: "10:00-02:00"
+street: West Cross Street
+housenumber: "500"
+phone: +1-734-480-2535
+opening_hours: 10:00-02:00
 website: ""

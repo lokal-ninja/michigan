@@ -4,8 +4,8 @@ latitude: 43.03358
 longitude: -82.45827
 postcode: "48059"
 city: Fort Gratiot
-street: "24th Avenue"
-housenumber: 4303
+street: 24th Avenue
+housenumber: "4303"
 phone: ""
-opening_hours: "Mo-Fr 09:00-20:00; Sa 10:00-19:00; Su 10:00-18:00"
-website: "https://stores.staples.com/mi/fort-gratiot/4303-24th-avenue"
+opening_hours: Mo-Fr 09:00-20:00; Sa 10:00-19:00; Su 10:00-18:00
+website: https://stores.staples.com/mi/fort-gratiot/4303-24th-avenue

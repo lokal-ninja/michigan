@@ -2,10 +2,10 @@ id: 2903073724
 type: node
 latitude: 42.59252
 longitude: -83.6044
-postcode: "48381-1516"
+postcode: 48381-1516
 city: Milford
-street: "Highland Avenue"
-housenumber: 530
-phone: "+1 248-685-0915"
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-19:00; Su 09:00-18:00"
+street: Highland Avenue
+housenumber: "530"
+phone: +1 248-685-0915
+opening_hours: Mo-Fr 08:00-20:00; Sa 08:00-19:00; Su 09:00-18:00
 website: ""

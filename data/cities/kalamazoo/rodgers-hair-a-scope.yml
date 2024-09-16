@@ -1,11 +1,11 @@
 id: 760576858
-type: way
+type: node
 latitude: 42.25636
 longitude: -85.58998
 postcode: "49008"
 city: Kalamazoo
-street: "South Westnedge Avenue"
-housenumber: 3516
-phone: "+1 (269)-381-8311"
-opening_hours: "Mo-Fr 09:00-18:00"
+street: South Westnedge Avenue
+housenumber: "3516"
+phone: +1 (269)-381-8311
+opening_hours: Mo-Fr 09:00-18:00
 website: ""

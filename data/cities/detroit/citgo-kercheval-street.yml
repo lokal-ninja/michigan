@@ -4,8 +4,8 @@ latitude: 42.37915
 longitude: -82.94766
 postcode: "48215"
 city: Detroit
-street: "Kercheval Street"
-housenumber: 14401
-phone: "+1 313 363 2908"
-opening_hours: "24/7"
+street: Kercheval Street
+housenumber: "14401"
+phone: +1 313 363 2908
+opening_hours: 24/7
 website: ""

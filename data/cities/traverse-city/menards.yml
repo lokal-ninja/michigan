@@ -1,11 +1,11 @@
 id: 324533123
-type: way
+type: node
 latitude: 44.67005
 longitude: -85.65795
 postcode: "49684"
 city: Traverse City
-street: "US 31 South"
-housenumber: 4155
+street: US 31 South
+housenumber: "4155"
 phone: ""
 opening_hours: ""
-website: "https://www.menards.com/store-details/store.html?store=3197"
+website: https://www.menards.com/store-details/store.html?store=3197

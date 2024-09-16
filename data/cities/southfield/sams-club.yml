@@ -1,11 +1,11 @@
 id: 261559136
-type: way
+type: node
 latitude: 42.44439
 longitude: -83.26309
 postcode: "48033"
 city: Southfield
-street: "West 8 Mile Road"
-housenumber: 22500
-phone: "+1 248-354-1108"
-opening_hours: "Mo 10:00-20:00; Sa 09:00-20:00; Su 10:00-18:00"
-website: "https://www.samsclub.com/club/southfield-mi-sams-club/6454"
+street: West 8 Mile Road
+housenumber: "22500"
+phone: +1 248-354-1108
+opening_hours: Mo 10:00-20:00; Sa 09:00-20:00; Su 10:00-18:00
+website: https://www.samsclub.com/club/southfield-mi-sams-club/6454

@@ -1,11 +1,11 @@
 id: 839651864
-type: way
+type: node
 latitude: 45.00886
 longitude: -84.14667
 postcode: "49709"
 city: Atlanta
-street: "M 33 North"
-housenumber: 11630
+street: M 33 North
+housenumber: "11630"
 phone: ""
 opening_hours: ""
 website: ""

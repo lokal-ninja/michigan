@@ -1,11 +1,11 @@
 id: 548984307
-type: way
+type: node
 latitude: 42.42294
 longitude: -83.43388
 postcode: "48168"
 city: Northville
-street: "Traditions Drive"
-housenumber: 18771
-phone: "+1 248-349-4909"
-opening_hours: "Mo-Su 08:00-21:00"
-website: "https://locations.traderjoes.com/mi/northville/667/"
+street: Traditions Drive
+housenumber: "18771"
+phone: +1 248-349-4909
+opening_hours: Mo-Su 08:00-21:00
+website: https://locations.traderjoes.com/mi/northville/667/

@@ -1,11 +1,11 @@
 id: 110681116
-type: way
+type: node
 latitude: 42.32912
 longitude: -83.05205
 postcode: "48226"
 city: Detroit
-street: "Fort Street West"
-housenumber: 460
-phone: "+1 734 231 6019"
-opening_hours: "Mo-Fr 06:00-18:00; Sa 06:00-14:00"
+street: Fort Street West
+housenumber: "460"
+phone: +1 734 231 6019
+opening_hours: Mo-Fr 06:00-18:00; Sa 06:00-14:00
 website: ""

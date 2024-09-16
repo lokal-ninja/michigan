@@ -1,11 +1,11 @@
 id: 244821994
-type: way
+type: node
 latitude: 42.29003
 longitude: -83.44587
 postcode: "48188"
 city: Canton
-street: "S Haggerty Rd"
-housenumber: 2435
-phone: "+1 800 521 6104;+1 734 397 4569;"
+street: S Haggerty Rd
+housenumber: "2435"
+phone: +1 800 521 6104;+1 734 397 4569;
 opening_hours: ""
-website: "https://www.npdlink.com/"
+website: https://www.npdlink.com/

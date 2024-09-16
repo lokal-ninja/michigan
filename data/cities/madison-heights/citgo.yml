@@ -4,8 +4,8 @@ latitude: 42.49115
 longitude: -83.08567
 postcode: "48071"
 city: Madison Heights
-street: "East 11 Mile Road"
-housenumber: 1849
-phone: "+1 248 548 8085"
-opening_hours: "24/7"
+street: East 11 Mile Road
+housenumber: "1849"
+phone: +1 248 548 8085
+opening_hours: 24/7
 website: ""

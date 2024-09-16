@@ -1,11 +1,11 @@
 id: 432923816
-type: way
+type: node
 latitude: 41.91655
 longitude: -83.39982
 postcode: "48161"
 city: Monroe
-street: "West Front Street"
-housenumber: 113
+street: West Front Street
+housenumber: "113"
 phone: ""
 opening_hours: ""
-website: "https://victoriadayspamonroe.com/"
+website: https://victoriadayspamonroe.com/

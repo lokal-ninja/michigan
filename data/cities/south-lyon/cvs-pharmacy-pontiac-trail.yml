@@ -1,11 +1,11 @@
 id: 429052225
-type: way
+type: node
 latitude: 42.44686
 longitude: -83.65125
 postcode: "48178"
 city: South Lyon
-street: "Pontiac Trail"
-housenumber: 22421
+street: Pontiac Trail
+housenumber: "22421"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/south-lyon-mi-pharmacies/22421-pontiac-trail-south-lyon-mi-48178/storeid=8066"
+website: https://www.cvs.com/store-locator/south-lyon-mi-pharmacies/22421-pontiac-trail-south-lyon-mi-48178/storeid=8066

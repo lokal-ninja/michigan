@@ -1,11 +1,11 @@
 id: 538127600
-type: way
+type: node
 latitude: 46.5484
 longitude: -87.43114
 postcode: "49855"
 city: Marquette
-street: "U.S. 41 West"
-housenumber: 2080
-phone: "+1 906 228 5330"
-opening_hours: "Mo-Fr 10:00-17:00; Sa 10:00-15:00; Su,Mo,PH off"
-website: "https://baldeaglehd.com"
+street: U.S. 41 West
+housenumber: "2080"
+phone: +1 906 228 5330
+opening_hours: Mo-Fr 10:00-17:00; Sa 10:00-15:00; Su,Mo,PH off
+website: https://baldeaglehd.com

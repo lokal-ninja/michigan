@@ -1,11 +1,11 @@
 id: 895265376
-type: way
+type: node
 latitude: 42.63837
 longitude: -83.35171
 postcode: "48328"
 city: Waterford
-street: "West Huron Street"
-housenumber: 3273
+street: West Huron Street
+housenumber: "3273"
 phone: ""
-opening_hours: "Mo-Su 08:00-22:00"
-website: "https://www.riteaid.com/locations/mi/waterford/3273-west-huron-street.html"
+opening_hours: Mo-Su 08:00-22:00
+website: https://www.riteaid.com/locations/mi/waterford/3273-west-huron-street.html

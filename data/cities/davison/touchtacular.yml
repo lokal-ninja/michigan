@@ -1,11 +1,11 @@
 id: 611319767
-type: way
+type: node
 latitude: 43.03116
 longitude: -83.51663
 postcode: "48423"
 city: Davison
-street: "North Main Street"
-housenumber: 208
+street: North Main Street
+housenumber: "208"
 phone: ""
 opening_hours: ""
 website: ""

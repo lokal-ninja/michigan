@@ -1,11 +1,11 @@
 id: 930700127
-type: way
+type: node
 latitude: 42.64916
 longitude: -85.28668
 postcode: "49058"
 city: Hastings
-street: "East State Street"
-housenumber: 129
+street: East State Street
+housenumber: "129"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1288469248
-type: way
+type: node
 latitude: 43.95652
 longitude: -86.32297
 postcode: "49454"
 city: Scottville
-street: "US-10"
-housenumber: 1742
+street: US-10
+housenumber: "1742"
 phone: "+12316134111"
 opening_hours: ""
 website: ""

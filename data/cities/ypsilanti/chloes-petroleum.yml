@@ -1,11 +1,11 @@
 id: 385495577
-type: way
+type: node
 latitude: 42.24166
 longitude: -83.60183
 postcode: "48197"
 city: Ypsilanti
-street: "East Michigan Avenue"
-housenumber: 501
+street: East Michigan Avenue
+housenumber: "501"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

@@ -1,11 +1,11 @@
 id: 617428608
-type: way
+type: node
 latitude: 42.55128
 longitude: -83.00924
 postcode: "48312"
 city: Sterling Heights
-street: "15 Mile Road"
-housenumber: 11650
-phone: "+1 586-983-2605"
+street: 15 Mile Road
+housenumber: "11650"
+phone: +1 586-983-2605
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/mi/sterling-heights/11650-e-15-mile-rd-13428"
+website: https://www.7-eleven.com/locations/mi/sterling-heights/11650-e-15-mile-rd-13428

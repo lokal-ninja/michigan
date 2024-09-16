@@ -1,11 +1,11 @@
 id: 982102294
-type: way
+type: node
 latitude: 41.90412
 longitude: -84.06375
 postcode: "49221"
 city: Adrian
-street: "West Maumee Street"
-housenumber: 1410
+street: West Maumee Street
+housenumber: "1410"
 phone: ""
 opening_hours: ""
 website: ""

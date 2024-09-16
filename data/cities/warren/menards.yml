@@ -1,11 +1,11 @@
 id: 880701512
-type: way
+type: node
 latitude: 42.53385
 longitude: -83.0332
 postcode: "48093"
 city: Warren
-street: "Van Dyke Avenue"
-housenumber: 32501
-phone: "+1 586-795-0028"
+street: Van Dyke Avenue
+housenumber: "32501"
+phone: +1 586-795-0028
 opening_hours: ""
-website: "https://www.menards.com/main/storedetails.html?store=3319"
+website: https://www.menards.com/main/storedetails.html?store=3319

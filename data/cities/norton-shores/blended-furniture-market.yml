@@ -1,11 +1,11 @@
 id: 358410787
-type: way
+type: node
 latitude: 43.18782
 longitude: -86.2622
 postcode: "49441"
 city: Norton Shores
-street: "Seminole Road"
-housenumber: 730
+street: Seminole Road
+housenumber: "730"
 phone: ""
 opening_hours: ""
 website: ""

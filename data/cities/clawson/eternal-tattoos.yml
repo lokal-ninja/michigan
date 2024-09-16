@@ -1,11 +1,11 @@
 id: 928878022
-type: way
+type: node
 latitude: 42.53334
 longitude: -83.15974
 postcode: "48017"
 city: Clawson
-street: "West 14 Mile Road"
-housenumber: 1004
-phone: "+1-248-288-3345"
+street: West 14 Mile Road
+housenumber: "1004"
+phone: +1-248-288-3345
 opening_hours: ""
-website: "https://www.eternaltattoos.com/"
+website: https://www.eternaltattoos.com/

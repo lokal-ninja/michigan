@@ -1,11 +1,11 @@
 id: 973601825
-type: way
+type: node
 latitude: 43.8105
 longitude: -83.00194
-postcode: "48413-9188"
+postcode: 48413-9188
 city: Bad Axe
-street: "North Van Dyke Road"
-housenumber: 735
-phone: "+1 989-269-9131"
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-17:00"
+street: North Van Dyke Road
+housenumber: "735"
+phone: +1 989-269-9131
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-17:00
 website: ""

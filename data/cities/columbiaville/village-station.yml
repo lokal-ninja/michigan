@@ -1,11 +1,11 @@
 id: 868358041
-type: way
+type: node
 latitude: 43.15651
 longitude: -83.4113
 postcode: "48421"
 city: Columbiaville
-street: "Water Street"
-housenumber: 4680
-phone: "+1 810 793 1065"
+street: Water Street
+housenumber: "4680"
+phone: +1 810 793 1065
 opening_hours: ""
 website: ""

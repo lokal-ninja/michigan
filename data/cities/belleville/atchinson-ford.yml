@@ -1,11 +1,11 @@
 id: 360763349
-type: way
+type: node
 latitude: 42.23101
 longitude: -83.48686
 postcode: "48111"
 city: Belleville
-street: "Belleville Road"
-housenumber: 9800
+street: Belleville Road
+housenumber: "9800"
 phone: ""
 opening_hours: ""
 website: ""

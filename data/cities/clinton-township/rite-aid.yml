@@ -1,11 +1,11 @@
 id: 574197082
-type: way
+type: node
 latitude: 42.55584
 longitude: -82.89836
 postcode: "48035"
 city: Clinton Township
-street: "South Gratiot Avenue"
-housenumber: 35250
+street: South Gratiot Avenue
+housenumber: "35250"
 phone: ""
 opening_hours: ""
 website: ""

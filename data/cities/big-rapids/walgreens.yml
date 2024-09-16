@@ -1,11 +1,11 @@
 id: 448712551
-type: way
+type: node
 latitude: 43.68686
 longitude: -85.48424
 postcode: "49307"
 city: Big Rapids
-street: "South State Street"
-housenumber: 1010
+street: South State Street
+housenumber: "1010"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-1010+s+state+st-big+rapids-mi-49307/id=7416"
+website: https://www.walgreens.com/locator/walgreens-1010+s+state+st-big+rapids-mi-49307/id=7416

@@ -1,11 +1,11 @@
 id: 874825902
-type: way
+type: node
 latitude: 42.55289
 longitude: -82.99031
 postcode: "48312"
 city: Sterling Heights
-street: "15 Mile Road"
-housenumber: 13475
+street: 15 Mile Road
+housenumber: "13475"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/sterling-heights-mi-pharmacies/13475-fifteen-mile-rd-sterling-heights-mi-48312/storeid=8080"
+website: https://www.cvs.com/store-locator/sterling-heights-mi-pharmacies/13475-fifteen-mile-rd-sterling-heights-mi-48312/storeid=8080

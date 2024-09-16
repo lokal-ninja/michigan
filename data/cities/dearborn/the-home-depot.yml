@@ -1,11 +1,11 @@
 id: 317025656
-type: way
+type: node
 latitude: 42.33243
 longitude: -83.21267
 postcode: "48126"
 city: Dearborn
-street: "Mercury Drive"
-housenumber: 5951
-phone: "+1 313-593-4644"
-opening_hours: "Mo-Sa 06:00-21:00; Su 08:00-20:00"
-website: "https://www.homedepot.com/l/Dearborn/MI/Dearborn/48126/2757"
+street: Mercury Drive
+housenumber: "5951"
+phone: +1 313-593-4644
+opening_hours: Mo-Sa 06:00-21:00; Su 08:00-20:00
+website: https://www.homedepot.com/l/Dearborn/MI/Dearborn/48126/2757

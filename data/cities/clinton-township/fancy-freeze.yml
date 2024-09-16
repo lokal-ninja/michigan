@@ -1,11 +1,11 @@
 id: 1277956942
-type: way
+type: node
 latitude: 42.56337
 longitude: -82.95044
 postcode: "48035"
 city: Clinton Township
-street: "Penrod Drive"
-housenumber: 16853
-phone: "+1-248-762-4868"
+street: Penrod Drive
+housenumber: "16853"
+phone: +1-248-762-4868
 opening_hours: ""
-website: "https://www.fancy-freeze.com/"
+website: https://www.fancy-freeze.com/

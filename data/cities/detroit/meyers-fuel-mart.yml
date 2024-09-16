@@ -4,8 +4,8 @@ latitude: 42.44502
 longitude: -83.1719
 postcode: "48235"
 city: Detroit
-street: "West 8 Mile Road"
-housenumber: 12711
-phone: "+1 313 247 1992"
-opening_hours: "24/7"
+street: West 8 Mile Road
+housenumber: "12711"
+phone: +1 313 247 1992
+opening_hours: 24/7
 website: ""

@@ -1,11 +1,11 @@
 id: 822779986
-type: way
+type: node
 latitude: 42.45356
 longitude: -83.02639
 postcode: "48091"
 city: Warren
-street: "Van Dyke Avenue"
-housenumber: 
+street: Van Dyke Avenue
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 42.39643
 longitude: -83.10268
 postcode: "48203"
 city: Highland Park
-street: "Hamilton Avenue"
-housenumber: 12803
-phone: "+1 313 865 1609"
-opening_hours: "24/7"
+street: Hamilton Avenue
+housenumber: "12803"
+phone: +1 313 865 1609
+opening_hours: 24/7
 website: ""

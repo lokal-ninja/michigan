@@ -1,11 +1,11 @@
 id: 338563855
-type: way
+type: node
 latitude: 44.72381
 longitude: -85.84395
 postcode: "49650"
 city: Lake Ann
-street: "Maple Street"
-housenumber: 19619
+street: Maple Street
+housenumber: "19619"
 phone: ""
 opening_hours: ""
 website: ""

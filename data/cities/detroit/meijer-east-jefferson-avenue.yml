@@ -1,11 +1,11 @@
 id: 1137670608
-type: way
+type: node
 latitude: 42.33463
 longitude: -83.03248
 postcode: "48207"
 city: Detroit
-street: "East Jefferson Avenue"
-housenumber: 1475
+street: East Jefferson Avenue
+housenumber: "1475"
 phone: ""
 opening_hours: ""
 website: ""

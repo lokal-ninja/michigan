@@ -1,11 +1,11 @@
 id: 683978470
-type: way
+type: node
 latitude: 42.99439
 longitude: -83.63128
 postcode: "48519"
 city: Burton
-street: "South Center Road"
-housenumber: 2333
-phone: "+1-810-744-4000"
+street: South Center Road
+housenumber: "2333"
+phone: +1-810-744-4000
 opening_hours: ""
 website: ""

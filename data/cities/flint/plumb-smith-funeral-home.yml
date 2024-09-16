@@ -1,11 +1,11 @@
 id: 755638223
-type: way
+type: node
 latitude: 43.02254
 longitude: -83.73258
 postcode: "48504"
 city: Flint
-street: "North Ballenger Highway"
-housenumber: 1208
-phone: "+1 810 238 7657"
+street: North Ballenger Highway
+housenumber: "1208"
+phone: +1 810 238 7657
 opening_hours: ""
-website: "https://www.plumbsmithfh.com/"
+website: https://www.plumbsmithfh.com/

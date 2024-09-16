@@ -1,11 +1,11 @@
 id: 410383823
-type: way
+type: node
 latitude: 42.2674
 longitude: -83.32923
 postcode: "48174"
 city: Romulus
-street: "Middlebelt Road"
-housenumber: 5820
-phone: "+1 313 585 6368"
-opening_hours: "24/7"
+street: Middlebelt Road
+housenumber: "5820"
+phone: +1 313 585 6368
+opening_hours: 24/7
 website: ""

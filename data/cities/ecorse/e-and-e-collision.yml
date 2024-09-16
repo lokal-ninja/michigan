@@ -1,11 +1,11 @@
 id: 1218069074
-type: way
+type: node
 latitude: 42.24716
 longitude: -83.14558
 postcode: "48229"
 city: Ecorse
-street: "High Street"
-housenumber: 4244
+street: High Street
+housenumber: "4244"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 42.36866
 longitude: -83.37273
 postcode: "48150"
 city: Livonia
-street: "Plymouth Road"
-housenumber: 33400
-phone: "+1 734 522 2530"
-opening_hours: "06:00-23:00"
+street: Plymouth Road
+housenumber: "33400"
+phone: +1 734 522 2530
+opening_hours: 06:00-23:00
 website: ""

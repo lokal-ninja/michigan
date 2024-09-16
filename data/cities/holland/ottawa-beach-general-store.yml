@@ -1,11 +1,11 @@
 id: 699711221
-type: way
+type: node
 latitude: 42.77571
 longitude: -86.20077
 postcode: "49424"
 city: Holland
-street: "Ottawa Beach Road"
-housenumber: 2256
-phone: "+1-616-399-1939"
+street: Ottawa Beach Road
+housenumber: "2256"
+phone: +1-616-399-1939
 opening_hours: ""
 website: ""

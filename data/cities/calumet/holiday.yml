@@ -1,11 +1,11 @@
 id: 225058090
-type: way
+type: node
 latitude: 47.22855
 longitude: -88.45505
 postcode: "49913"
 city: Calumet
-street: "US 41"
-housenumber: 56021
+street: US 41
+housenumber: "56021"
 phone: ""
 opening_hours: ""
 website: ""

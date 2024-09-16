@@ -1,11 +1,11 @@
 id: 610057698
-type: way
+type: node
 latitude: 43.03499
 longitude: -83.51664
 postcode: "48423"
 city: Davison
-street: "North State Road"
-housenumber: 602
+street: North State Road
+housenumber: "602"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/mi/davison/602-n-state-rd.html"
+website: https://www.autozone.com/locations/mi/davison/602-n-state-rd.html

@@ -1,11 +1,11 @@
 id: 1234359169
-type: way
+type: node
 latitude: 44.426
 longitude: -84.11689
 postcode: "48654"
 city: Rose City
-street: "North Williams Street"
-housenumber: 429
+street: North Williams Street
+housenumber: "429"
 phone: ""
-opening_hours: "Jun-Sep Fr 13:00-17:00; Sa 10:00-15:00"
+opening_hours: Jun-Sep Fr 13:00-17:00; Sa 10:00-15:00
 website: ""

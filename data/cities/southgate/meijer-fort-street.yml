@@ -1,11 +1,11 @@
 id: 152582762
-type: way
+type: node
 latitude: 42.18879
 longitude: -83.18562
 postcode: "48195"
 city: Southgate
-street: "Fort Street"
-housenumber: 16450
+street: Fort Street
+housenumber: "16450"
 phone: ""
 opening_hours: ""
 website: ""

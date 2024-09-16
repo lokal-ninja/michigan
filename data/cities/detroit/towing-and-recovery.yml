@@ -4,8 +4,8 @@ latitude: 42.35269
 longitude: -83.11985
 postcode: "48204"
 city: Detroit
-street: "Tireman Street"
-housenumber: 5025
-phone: "+1 313-742-8230"
-opening_hours: "24/7"
+street: Tireman Street
+housenumber: "5025"
+phone: +1 313-742-8230
+opening_hours: 24/7
 website: ""

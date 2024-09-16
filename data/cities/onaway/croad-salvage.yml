@@ -1,11 +1,11 @@
 id: 1305081725
-type: way
+type: node
 latitude: 45.34938
 longitude: -84.23451
 postcode: "49765"
 city: Onaway
-street: "M-33"
-housenumber: 4330
-phone: "+1-989-733-8221"
+street: M-33
+housenumber: "4330"
+phone: +1-989-733-8221
 opening_hours: ""
 website: ""

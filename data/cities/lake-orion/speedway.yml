@@ -1,11 +1,11 @@
 id: 1122309466
-type: way
+type: node
 latitude: 42.76702
 longitude: -83.24073
 postcode: "48360"
 city: Lake Orion
-street: "South Lapeer Road"
-housenumber: 1030
+street: South Lapeer Road
+housenumber: "1030"
 phone: ""
 opening_hours: ""
 website: ""

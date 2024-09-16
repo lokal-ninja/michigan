@@ -1,11 +1,11 @@
 id: 889131683
-type: way
+type: node
 latitude: 42.44761
 longitude: -83.10525
 postcode: "48030"
 city: Hazel Park
-street: "West 8 Mile Road"
-housenumber: 156
+street: West 8 Mile Road
+housenumber: "156"
 phone: ""
 opening_hours: ""
 website: ""

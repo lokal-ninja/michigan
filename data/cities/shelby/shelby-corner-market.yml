@@ -1,11 +1,11 @@
 id: 439434245
-type: way
+type: node
 latitude: 43.60967
 longitude: -86.38433
 postcode: "49455"
 city: Shelby
-street: "West Shelby Road"
-housenumber: 4252
+street: West Shelby Road
+housenumber: "4252"
 phone: ""
 opening_hours: ""
 website: ""

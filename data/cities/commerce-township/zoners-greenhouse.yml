@@ -1,11 +1,11 @@
 id: 423055821
-type: way
+type: node
 latitude: 42.59631
 longitude: -83.52249
 postcode: "48382"
 city: Commerce Township
-street: "East Commerce Road"
-housenumber: 2355
+street: East Commerce Road
+housenumber: "2355"
 phone: ""
 opening_hours: ""
 website: ""

@@ -2,10 +2,10 @@ id: 3607522073
 type: node
 latitude: 42.52805
 longitude: -83.10803
-postcode: "48071-1322"
+postcode: 48071-1322
 city: Madison Heights
-street: "John R Road"
-housenumber: 32001
-phone: "+1 248-585-9000"
-opening_hours: "08:00-22:00"
-website: "https://www.target.com/sl/madison-heights/282"
+street: John R Road
+housenumber: "32001"
+phone: +1 248-585-9000
+opening_hours: 08:00-22:00
+website: https://www.target.com/sl/madison-heights/282

@@ -1,11 +1,11 @@
 id: 168151050
-type: way
+type: node
 latitude: 42.31551
 longitude: -83.22232
 postcode: "48126"
 city: Dearborn
-street: "Michigan Avenue"
-housenumber: 18900
+street: Michigan Avenue
+housenumber: "18900"
 phone: ""
 opening_hours: ""
-website: "https://www.shopfairlane.com/"
+website: https://www.shopfairlane.com/

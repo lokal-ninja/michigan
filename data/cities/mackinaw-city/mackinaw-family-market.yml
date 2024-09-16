@@ -1,11 +1,11 @@
 id: 763521638
-type: way
+type: node
 latitude: 45.7809
 longitude: -84.73256
 postcode: "49701"
 city: Mackinaw City
-street: "West Central Avenue"
-housenumber: 101
+street: West Central Avenue
+housenumber: "101"
 phone: ""
 opening_hours: ""
 website: ""

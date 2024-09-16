@@ -1,11 +1,11 @@
 id: 561031902
-type: way
+type: node
 latitude: 43.05398
 longitude: -85.47051
 postcode: "49317"
 city: Cannonsburg
-street: "Cannonsburg Road Northeast"
-housenumber: 8000
+street: Cannonsburg Road Northeast
+housenumber: "8000"
 phone: ""
 opening_hours: ""
-website: "https://www.cannonsburgvillage.com/"
+website: https://www.cannonsburgvillage.com/

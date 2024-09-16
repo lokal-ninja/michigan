@@ -1,11 +1,11 @@
 id: 955062163
-type: way
+type: node
 latitude: 43.1046
 longitude: -84.69244
 postcode: "48853"
 city: Maple Rapids
-street: "South Maple Avenue"
-housenumber: 104
-phone: "+1-989-682-4158"
-opening_hours: "Mo-Sa 08:00-19:00"
-website: "https://www.deweystradingpost.biz/"
+street: South Maple Avenue
+housenumber: "104"
+phone: +1-989-682-4158
+opening_hours: Mo-Sa 08:00-19:00
+website: https://www.deweystradingpost.biz/

@@ -1,11 +1,11 @@
 id: 264448442
-type: way
+type: node
 latitude: 41.71992
 longitude: -84.21898
 postcode: "49256"
 city: Morenci
-street: "West Main Street"
-housenumber: 248
+street: West Main Street
+housenumber: "248"
 phone: ""
 opening_hours: ""
 website: ""

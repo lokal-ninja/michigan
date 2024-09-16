@@ -1,11 +1,11 @@
 id: 1315118399
-type: way
+type: node
 latitude: 45.02138
 longitude: -84.67787
 postcode: "49735"
 city: Gaylord
-street: "South Otsego Avenue"
-housenumber: 602
-phone: "+1-989-732-3558"
-opening_hours: "Mo-Fr 07:30-18:00; Sa 08:00-14:00"
-website: "https://www.napaonline.com/en/MI/Gaylord/store/25995?cid=pl_DAC_jobber_WilberAutomotiveSupply_25995"
+street: South Otsego Avenue
+housenumber: "602"
+phone: +1-989-732-3558
+opening_hours: Mo-Fr 07:30-18:00; Sa 08:00-14:00
+website: https://www.napaonline.com/en/MI/Gaylord/store/25995?cid=pl_DAC_jobber_WilberAutomotiveSupply_25995

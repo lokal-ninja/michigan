@@ -1,11 +1,11 @@
 id: 1112310780
-type: way
+type: node
 latitude: 42.28527
 longitude: -83.75116
 postcode: "48103"
 city: Ann Arbor
-street: "Felch Street"
-housenumber: 227
-phone: "+1-734-663-8585"
-opening_hours: "Mo-Fr 08:00-16:30"
+street: Felch Street
+housenumber: "227"
+phone: +1-734-663-8585
+opening_hours: Mo-Fr 08:00-16:30
 website: ""

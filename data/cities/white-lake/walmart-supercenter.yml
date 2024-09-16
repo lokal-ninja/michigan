@@ -1,11 +1,11 @@
 id: 628925364
-type: way
+type: node
 latitude: 42.66091
 longitude: -83.46681
 postcode: "48386"
 city: White Lake
-street: "Highland Road"
-housenumber: 9190
-phone: "+1 248-698-9601"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/2700/white-lake-mi/whats-new"
+street: Highland Road
+housenumber: "9190"
+phone: +1 248-698-9601
+opening_hours: 24/7
+website: https://www.walmart.com/store/2700/white-lake-mi/whats-new

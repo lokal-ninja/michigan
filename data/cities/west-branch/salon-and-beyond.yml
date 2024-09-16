@@ -1,11 +1,11 @@
 id: 1229957499
-type: way
+type: node
 latitude: 44.26642
 longitude: -84.24559
 postcode: "48661"
 city: West Branch
-street: "Hansen Road"
-housenumber: 2970
-phone: "+1-989-345-3500"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-14:00"
+street: Hansen Road
+housenumber: "2970"
+phone: +1-989-345-3500
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-14:00
 website: ""

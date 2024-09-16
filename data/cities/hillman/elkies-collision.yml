@@ -1,11 +1,11 @@
 id: 1209129669
-type: way
+type: node
 latitude: 45.0539
 longitude: -83.9002
 postcode: "49746"
 city: Hillman
-street: "State Street"
-housenumber: 14621
-phone: "+1-989-742-4412"
+street: State Street
+housenumber: "14621"
+phone: +1-989-742-4412
 opening_hours: ""
 website: ""

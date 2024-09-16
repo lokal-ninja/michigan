@@ -4,8 +4,8 @@ latitude: 42.97032
 longitude: -85.63923
 postcode: "49503"
 city: Grand Rapids
-street: "Michigan Street Northeast"
-housenumber: 1205
-phone: "+1 616 454 5826"
-opening_hours: "24/7"
+street: Michigan Street Northeast
+housenumber: "1205"
+phone: +1 616 454 5826
+opening_hours: 24/7
 website: ""

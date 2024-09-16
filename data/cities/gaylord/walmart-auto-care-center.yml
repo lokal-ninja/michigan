@@ -1,11 +1,11 @@
 id: 1314422790
-type: way
+type: node
 latitude: 45.02246
 longitude: -84.68899
 postcode: "49735"
 city: Gaylord
-street: "Edelweiss Village Parkway"
-housenumber: 950
-phone: "+1-989-732-5280"
-opening_hours: "Mo-Su 07:00-19:00"
-website: "https://www.walmart.com/store/1542-gaylord-mi/auto-care-center/"
+street: Edelweiss Village Parkway
+housenumber: "950"
+phone: +1-989-732-5280
+opening_hours: Mo-Su 07:00-19:00
+website: https://www.walmart.com/store/1542-gaylord-mi/auto-care-center/

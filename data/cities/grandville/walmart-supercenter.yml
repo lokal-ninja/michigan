@@ -1,11 +1,11 @@
 id: 627813346
-type: way
+type: node
 latitude: 42.88189
 longitude: -85.78164
 postcode: "49418"
 city: Grandville
-street: "Kenowa Avenue Southwest"
-housenumber: 4542
-phone: "+1 616-667-9724"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/2567/grandville-mi/whats-new"
+street: Kenowa Avenue Southwest
+housenumber: "4542"
+phone: +1 616-667-9724
+opening_hours: 24/7
+website: https://www.walmart.com/store/2567/grandville-mi/whats-new

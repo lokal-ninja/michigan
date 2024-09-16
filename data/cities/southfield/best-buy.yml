@@ -1,11 +1,11 @@
 id: 321754980
-type: way
+type: node
 latitude: 42.49584
 longitude: -83.28272
 postcode: "48034"
 city: Southfield
-street: "Telegraph Road"
-housenumber: 28400
-phone: "+1 248-213-1868"
-opening_hours: "Mo-Su 11:00-19:00"
-website: "https://stores.bestbuy.com/mi/southfield/28400-telegraph-rd-404.html"
+street: Telegraph Road
+housenumber: "28400"
+phone: +1 248-213-1868
+opening_hours: Mo-Su 11:00-19:00
+website: https://stores.bestbuy.com/mi/southfield/28400-telegraph-rd-404.html

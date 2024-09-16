@@ -1,11 +1,11 @@
 id: 837111613
-type: way
+type: node
 latitude: 45.62823
 longitude: -84.47806
 postcode: "49721"
 city: Cheboygan
-street: "South Main Street"
-housenumber: 1031
-phone: "+1-231-627-9541"
-opening_hours: "24/7"
-website: "https://www.holidaystationstores.com/Locations/Detail?storeNumber=173"
+street: South Main Street
+housenumber: "1031"
+phone: +1-231-627-9541
+opening_hours: 24/7
+website: https://www.holidaystationstores.com/Locations/Detail?storeNumber=173

@@ -1,11 +1,11 @@
 id: 1271762722
-type: way
+type: node
 latitude: 42.53696
 longitude: -82.95246
 postcode: "48026"
 city: Fraser
-street: "Utica Road"
-housenumber: 32725
-phone: "+1-586-294-1370"
-opening_hours: "Mo-Fr 08:00-18:00"
-website: "https://www.fraserautomotiverepair.com/"
+street: Utica Road
+housenumber: "32725"
+phone: +1-586-294-1370
+opening_hours: Mo-Fr 08:00-18:00
+website: https://www.fraserautomotiverepair.com/

@@ -1,11 +1,11 @@
 id: 240207683
-type: way
+type: node
 latitude: 45.85474
 longitude: -87.04897
 postcode: "49837"
 city: Gladstone
-street: "M 35"
-housenumber: 6287
+street: M 35
+housenumber: "6287"
 phone: ""
 opening_hours: ""
 website: ""

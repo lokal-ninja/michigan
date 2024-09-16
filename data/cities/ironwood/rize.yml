@@ -1,11 +1,11 @@
 id: 360267405
-type: way
+type: node
 latitude: 46.46233
 longitude: -90.16353
 postcode: "49938"
 city: Ironwood
-street: "East Cloverland Drive"
-housenumber: 411
+street: East Cloverland Drive
+housenumber: "411"
 phone: ""
 opening_hours: ""
-website: "https://thefirestation.com/locations/ironwood/"
+website: https://thefirestation.com/locations/ironwood/

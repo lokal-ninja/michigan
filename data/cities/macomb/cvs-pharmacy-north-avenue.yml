@@ -1,11 +1,11 @@
 id: 912216111
-type: way
+type: node
 latitude: 42.67279
 longitude: -82.87658
 postcode: "48042"
 city: Macomb
-street: "North Avenue"
-housenumber: 50980
+street: North Avenue
+housenumber: "50980"
 phone: ""
 opening_hours: ""
 website: ""

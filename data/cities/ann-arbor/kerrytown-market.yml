@@ -1,11 +1,11 @@
 id: 193502051
-type: way
+type: node
 latitude: 42.28457
 longitude: -83.74653
 postcode: "48104"
 city: Ann Arbor
-street: "North 4th Avenue"
-housenumber: 407
+street: North 4th Avenue
+housenumber: "407"
 phone: ""
 opening_hours: ""
-website: "https://kerrytown.com/"
+website: https://kerrytown.com/

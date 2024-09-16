@@ -1,11 +1,11 @@
 id: 836841776
-type: way
+type: node
 latitude: 42.71254
 longitude: -83.03625
 postcode: "48316"
 city: Shelby Township
-street: "Van Dyke Avenue"
-housenumber: 56805
+street: Van Dyke Avenue
+housenumber: "56805"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-56805+van+dyke+ave-shelby+township-mi-48316/id=11395"
+website: https://www.walgreens.com/locator/walgreens-56805+van+dyke+ave-shelby+township-mi-48316/id=11395

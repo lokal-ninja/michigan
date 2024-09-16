@@ -1,11 +1,11 @@
 id: 946180121
-type: way
+type: node
 latitude: 42.56303
 longitude: -83.14499
 postcode: "48083"
 city: Troy
-street: "East Big Beaver Road"
-housenumber: 151
-phone: "+1 248 781 8811"
-opening_hours: "Mo-Su 11:00-21:00"
-website: "https://chwinery.com/locations/michigan/troy-mi"
+street: East Big Beaver Road
+housenumber: "151"
+phone: +1 248 781 8811
+opening_hours: Mo-Su 11:00-21:00
+website: https://chwinery.com/locations/michigan/troy-mi

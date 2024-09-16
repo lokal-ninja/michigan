@@ -1,11 +1,11 @@
 id: 917648569
-type: way
+type: node
 latitude: 42.80674
 longitude: -83.62866
 postcode: "48442"
 city: Holly
-street: "North Holly Road"
-housenumber: 15242
+street: North Holly Road
+housenumber: "15242"
 phone: ""
 opening_hours: ""
 website: ""

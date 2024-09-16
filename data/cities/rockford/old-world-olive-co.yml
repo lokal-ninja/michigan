@@ -1,11 +1,11 @@
 id: 948731409
-type: way
+type: node
 latitude: 43.12068
 longitude: -85.55937
 postcode: "49341"
 city: Rockford
-street: "North Main Street Northeast"
-housenumber: 28
+street: North Main Street Northeast
+housenumber: "28"
 phone: ""
 opening_hours: ""
-website: "https://theoldworldoliveco.com/"
+website: https://theoldworldoliveco.com/

@@ -1,11 +1,11 @@
 id: 429299882
-type: way
+type: node
 latitude: 45.41259
 longitude: -83.82528
-postcode: "49779-2123"
+postcode: 49779-2123
 city: Rogers City
-street: "South Bradley Highway"
-housenumber: 100
-phone: "+1-989-734-4182"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.shopfamilyfare.com/content/rogers-city"
+street: South Bradley Highway
+housenumber: "100"
+phone: +1-989-734-4182
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.shopfamilyfare.com/content/rogers-city

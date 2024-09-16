@@ -1,11 +1,11 @@
 id: 315148038
-type: way
+type: node
 latitude: 42.32561
 longitude: -83.32507
-postcode: "48135-2845"
+postcode: 48135-2845
 city: Garden City
-street: "Ford Road"
-housenumber: 28715
-phone: "+1 734-425-6080"
-opening_hours: "Mo-Sa 08:00-19:00; Su 10:00-16:00"
+street: Ford Road
+housenumber: "28715"
+phone: +1 734-425-6080
+opening_hours: Mo-Sa 08:00-19:00; Su 10:00-16:00
 website: ""

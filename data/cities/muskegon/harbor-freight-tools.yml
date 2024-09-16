@@ -1,11 +1,11 @@
 id: 414487511
-type: way
+type: node
 latitude: 43.20693
 longitude: -86.20279
 postcode: "49444"
 city: Muskegon
-street: "East Sherman Boulevard"
-housenumber: 1700
-phone: "+1 231-733-9107"
-opening_hours: "Mo-Sa 08:00-20:00; Su 09:00-18:00"
-website: "https://www.harborfreight.com/storelocator/1700-e-sherman-blvd-muskegon-49444?number=437"
+street: East Sherman Boulevard
+housenumber: "1700"
+phone: +1 231-733-9107
+opening_hours: Mo-Sa 08:00-20:00; Su 09:00-18:00
+website: https://www.harborfreight.com/storelocator/1700-e-sherman-blvd-muskegon-49444?number=437

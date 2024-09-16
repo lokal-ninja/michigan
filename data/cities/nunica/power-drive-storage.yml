@@ -1,11 +1,11 @@
 id: 1009004097
-type: way
+type: node
 latitude: 43.07544
 longitude: -86.10051
 postcode: "49448"
 city: Nunica
-street: "Cleveland Street"
-housenumber: 12525
+street: Cleveland Street
+housenumber: "12525"
 phone: ""
 opening_hours: ""
-website: "https://powerdrivestorage.com/"
+website: https://powerdrivestorage.com/

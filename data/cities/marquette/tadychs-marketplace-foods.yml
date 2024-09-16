@@ -1,11 +1,11 @@
 id: 159114364
-type: way
+type: node
 latitude: 46.54271
 longitude: -87.42442
 postcode: "49855"
 city: Marquette
-street: "Odovero Drive"
-housenumber: 1401
-phone: "+1 906 226 3500"
-opening_hours: "06:00-23:00"
-website: "https://www.shoptadychs.com/stores/marquette"
+street: Odovero Drive
+housenumber: "1401"
+phone: +1 906 226 3500
+opening_hours: 06:00-23:00
+website: https://www.shoptadychs.com/stores/marquette

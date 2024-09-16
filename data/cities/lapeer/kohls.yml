@@ -1,11 +1,11 @@
 id: 577392484
-type: way
+type: node
 latitude: 43.04492
 longitude: -83.32755
 postcode: "48446"
 city: Lapeer
-street: "Demille Road"
-housenumber: 1880
-phone: "+1 810-245-3866"
-opening_hours: "Mo-Sa 09:00-21:00; Su 09:00-20:00"
-website: "https://www.kohls.com/stores/mi/lapeer-1040.shtml"
+street: Demille Road
+housenumber: "1880"
+phone: +1 810-245-3866
+opening_hours: Mo-Sa 09:00-21:00; Su 09:00-20:00
+website: https://www.kohls.com/stores/mi/lapeer-1040.shtml

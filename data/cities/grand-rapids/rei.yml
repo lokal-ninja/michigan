@@ -1,11 +1,11 @@
 id: 260324968
-type: way
+type: node
 latitude: 42.91327
 longitude: -85.58926
 postcode: "49512"
 city: Grand Rapids
-street: "28th Street Southeast"
-housenumber: 3149
-phone: "+1-616-940-1526"
+street: 28th Street Southeast
+housenumber: "3149"
+phone: +1-616-940-1526
 opening_hours: ""
-website: "https://www.rei.com/stores/grand-rapids"
+website: https://www.rei.com/stores/grand-rapids

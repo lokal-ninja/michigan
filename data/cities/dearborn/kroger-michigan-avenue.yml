@@ -1,11 +1,11 @@
 id: 227888265
-type: way
+type: node
 latitude: 42.31571
 longitude: -83.19291
 postcode: "48126"
 city: Dearborn
-street: "Michigan Avenue"
-housenumber: 15255
-phone: "+1 313-827-4022"
-opening_hours: "Mo-Su 06:00-22:00"
-website: "https://www.kroger.com/stores/grocery/mi/dearborn/eastborn/018/00443"
+street: Michigan Avenue
+housenumber: "15255"
+phone: +1 313-827-4022
+opening_hours: Mo-Su 06:00-22:00
+website: https://www.kroger.com/stores/grocery/mi/dearborn/eastborn/018/00443

@@ -1,11 +1,11 @@
 id: 954774941
-type: way
+type: node
 latitude: 43.81816
 longitude: -83.26947
 postcode: "48755"
 city: Pigeon
-street: "South Main Street"
-housenumber: 425
+street: South Main Street
+housenumber: "425"
 phone: ""
 opening_hours: ""
 website: ""

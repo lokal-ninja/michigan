@@ -1,11 +1,11 @@
 id: 879026348
-type: way
+type: node
 latitude: 44.65641
 longitude: -84.12942
 postcode: "48647"
 city: Mio
-street: "East 4th Street"
-housenumber: 105
-phone: "+1-989-412-7225"
+street: East 4th Street
+housenumber: "105"
+phone: +1-989-412-7225
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/mi/mio/16700"
+website: https://www.dollargeneral.com/store-directory/mi/mio/16700

@@ -1,11 +1,11 @@
 id: 1210655970
-type: way
+type: node
 latitude: 44.69277
 longitude: -84.12954
 postcode: "48647"
 city: Mio
-street: "Mount Tom Road"
-housenumber: 398
-phone: "+1-989-826-1000"
-opening_hours: "Mo-Sa 07:00-16:00"
-website: "https://justplainbusiness.com/north-star-storage-barns"
+street: Mount Tom Road
+housenumber: "398"
+phone: +1-989-826-1000
+opening_hours: Mo-Sa 07:00-16:00
+website: https://justplainbusiness.com/north-star-storage-barns

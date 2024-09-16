@@ -4,8 +4,8 @@ latitude: 42.31536
 longitude: -83.11682
 postcode: "48209"
 city: Detroit
-street: "Waterman Street"
-housenumber: 2257
-phone: "+1 313 297 3700"
-opening_hours: "24/7"
+street: Waterman Street
+housenumber: "2257"
+phone: +1 313 297 3700
+opening_hours: 24/7
 website: ""

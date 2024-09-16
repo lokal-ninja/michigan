@@ -1,11 +1,11 @@
 id: 674187284
-type: way
+type: node
 latitude: 42.25826
 longitude: -83.21002
 postcode: "48101"
 city: Allen Park
-street: "Allen Road"
-housenumber: 6670
-phone: "+1-313-381-2515"
+street: Allen Road
+housenumber: "6670"
+phone: +1-313-381-2515
 opening_hours: ""
-website: "https://www.metropolitanfurniture.net/"
+website: https://www.metropolitanfurniture.net/

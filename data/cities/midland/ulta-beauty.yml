@@ -1,11 +1,11 @@
 id: 311435662
-type: way
+type: node
 latitude: 43.65773
 longitude: -84.23864
 postcode: "48642"
 city: Midland
-street: "Joe Mann Boulevard"
-housenumber: 913
-phone: "+1 989-832-2210"
-opening_hours: "Mo-Sa 10:00-21:00;Su 11:00-18:00"
-website: "https://www.ulta.com/stores/midland-mi-734"
+street: Joe Mann Boulevard
+housenumber: "913"
+phone: +1 989-832-2210
+opening_hours: Mo-Sa 10:00-21:00;Su 11:00-18:00
+website: https://www.ulta.com/stores/midland-mi-734

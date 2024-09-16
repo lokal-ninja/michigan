@@ -1,11 +1,11 @@
 id: 884351101
-type: way
+type: node
 latitude: 41.93001
 longitude: -85.65686
 postcode: "49093"
 city: Three Rivers
-street: "Warner Drive"
-housenumber: 1001
+street: Warner Drive
+housenumber: "1001"
 phone: ""
 opening_hours: ""
-website: "https://www.menards.com/store-details/store.html?store=3301"
+website: https://www.menards.com/store-details/store.html?store=3301

@@ -4,8 +4,8 @@ latitude: 42.3129
 longitude: -83.27141
 postcode: "48128"
 city: Dearborn
-street: "North Telegraph Road"
-housenumber: 100
-phone: "+1 313 274 1771"
-opening_hours: "05:30-11:59"
+street: North Telegraph Road
+housenumber: "100"
+phone: +1 313 274 1771
+opening_hours: 05:30-11:59
 website: ""

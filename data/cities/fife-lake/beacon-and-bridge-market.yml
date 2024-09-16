@@ -1,11 +1,11 @@
 id: 698333539
-type: way
+type: node
 latitude: 44.57671
 longitude: -85.36315
 postcode: "49633"
 city: Fife Lake
-street: "US 131"
-housenumber: 7501
+street: US 131
+housenumber: "7501"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1185533955
-type: way
+type: node
 latitude: 45.78176
 longitude: -84.72866
 postcode: "49701"
 city: Mackinaw City
-street: "East Central Avenue"
-housenumber: 219
+street: East Central Avenue
+housenumber: "219"
 phone: ""
 opening_hours: ""
 website: ""

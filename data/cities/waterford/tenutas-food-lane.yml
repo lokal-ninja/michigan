@@ -1,11 +1,11 @@
 id: 889335892
-type: way
+type: node
 latitude: 42.69053
 longitude: -83.37317
 postcode: "48329"
 city: Waterford
-street: "Sashabaw Road"
-housenumber: 3515
+street: Sashabaw Road
+housenumber: "3515"
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00; Su 09:00-18:00"
+opening_hours: Mo-Sa 09:00-20:00; Su 09:00-18:00
 website: ""

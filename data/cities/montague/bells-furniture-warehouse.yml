@@ -1,11 +1,11 @@
 id: 1046697455
-type: way
+type: node
 latitude: 43.42876
 longitude: -86.34803
 postcode: "49437"
 city: Montague
-street: "Water Street"
-housenumber: 9343
+street: Water Street
+housenumber: "9343"
 phone: ""
 opening_hours: ""
 website: ""

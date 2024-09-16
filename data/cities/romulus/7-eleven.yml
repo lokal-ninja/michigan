@@ -1,11 +1,11 @@
 id: 548387436
-type: way
+type: node
 latitude: 42.20938
 longitude: -83.32589
 postcode: "48174"
 city: Romulus
-street: "Northline Road"
-housenumber: 29351
-phone: "+1 734 955 1143"
-opening_hours: "24/7"
+street: Northline Road
+housenumber: "29351"
+phone: +1 734 955 1143
+opening_hours: 24/7
 website: ""

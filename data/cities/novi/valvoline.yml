@@ -1,11 +1,11 @@
 id: 544047639
-type: way
+type: node
 latitude: 42.46949
 longitude: -83.47418
 postcode: "48375"
 city: Novi
-street: "Novi Road"
-housenumber: 24400
-phone: "+1-248-348-3451"
+street: Novi Road
+housenumber: "24400"
+phone: +1-248-348-3451
 opening_hours: ""
-website: "https://store.vioc.com/mi/novi/oil-change-030084.html"
+website: https://store.vioc.com/mi/novi/oil-change-030084.html

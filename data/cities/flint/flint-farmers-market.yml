@@ -1,11 +1,11 @@
 id: 311955236
-type: way
+type: node
 latitude: 43.01751
 longitude: -83.68693
 postcode: "48502"
 city: Flint
-street: "East First Street"
-housenumber: 300
+street: East First Street
+housenumber: "300"
 phone: ""
 opening_hours: ""
 website: ""

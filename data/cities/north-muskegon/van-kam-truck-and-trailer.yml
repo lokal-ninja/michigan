@@ -1,11 +1,11 @@
 id: 964341684
-type: way
+type: node
 latitude: 43.27613
 longitude: -86.2608
 postcode: "49445"
 city: North Muskegon
-street: "Whitehall Road"
-housenumber: 1316
+street: Whitehall Road
+housenumber: "1316"
 phone: ""
-opening_hours: "Mo-Sa 08:00-17:30"
-website: "https://vankams.com"
+opening_hours: Mo-Sa 08:00-17:30
+website: https://vankams.com

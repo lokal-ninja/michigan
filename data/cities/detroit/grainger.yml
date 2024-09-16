@@ -1,11 +1,11 @@
 id: 71187453
-type: way
+type: node
 latitude: 42.32642
 longitude: -83.05882
 postcode: "48216"
 city: Detroit
-street: "West Lafayette Boulevard"
-housenumber: 1201
+street: West Lafayette Boulevard
+housenumber: "1201"
 phone: ""
-opening_hours: "Mo-Fr 07:30-16:00"
-website: "https://www.grainger.com/branch/Detroit-Branch-239"
+opening_hours: Mo-Fr 07:30-16:00
+website: https://www.grainger.com/branch/Detroit-Branch-239

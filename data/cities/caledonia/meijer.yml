@@ -1,11 +1,11 @@
 id: 354844629
-type: way
+type: node
 latitude: 42.84675
 longitude: -85.62066
 postcode: "49316"
 city: Caledonia
-street: "Marketplace Drive Southeast"
-housenumber: 1801
-phone: "+1-616-656-6100"
+street: Marketplace Drive Southeast
+housenumber: "1801"
+phone: +1-616-656-6100
 opening_hours: ""
 website: ""

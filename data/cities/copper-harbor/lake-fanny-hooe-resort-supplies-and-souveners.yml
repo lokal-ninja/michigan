@@ -1,11 +1,11 @@
 id: 1159231573
-type: way
+type: node
 latitude: 47.46584
 longitude: -87.88712
 postcode: "49918"
 city: Copper Harbor
-street: "2nd Street"
-housenumber: 505
-phone: "833-326-6946"
+street: 2nd Street
+housenumber: "505"
+phone: 833-326-6946
 opening_hours: ""
-website: "https://www.fannyhooe.com/"
+website: https://www.fannyhooe.com/

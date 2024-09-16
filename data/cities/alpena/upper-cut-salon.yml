@@ -1,11 +1,11 @@
 id: 1241219389
-type: way
+type: node
 latitude: 45.05928
 longitude: -83.45304
 postcode: "49707"
 city: Alpena
-street: "North June Street"
-housenumber: 573
-phone: "+1-989-356-3455"
+street: North June Street
+housenumber: "573"
+phone: +1-989-356-3455
 opening_hours: ""
-website: "https://upper-cut-mi.hub.biz/"
+website: https://upper-cut-mi.hub.biz/

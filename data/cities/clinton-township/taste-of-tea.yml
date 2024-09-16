@@ -4,8 +4,8 @@ latitude: 42.62576
 longitude: -82.94587
 postcode: "48038"
 city: Clinton Township
-street: "Hall Road"
-housenumber: 17420
-phone: "+1-586-914-9471"
-opening_hours: "Mo-Sa 11:00-19:00; Su 12:00-18:00"
-website: "http://tasteoftea.com"
+street: Hall Road
+housenumber: "17420"
+phone: +1-586-914-9471
+opening_hours: Mo-Sa 11:00-19:00; Su 12:00-18:00
+website: http://tasteoftea.com

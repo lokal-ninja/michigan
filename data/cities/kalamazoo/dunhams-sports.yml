@@ -1,11 +1,11 @@
 id: 259265539
-type: way
+type: node
 latitude: 42.29759
 longitude: -85.65757
 postcode: "49009"
 city: Kalamazoo
-street: "West Main Street"
-housenumber: 5474
-phone: "+1-269-381-4523"
+street: West Main Street
+housenumber: "5474"
+phone: +1-269-381-4523
 opening_hours: ""
-website: "https://www.dunhamssports.com/"
+website: https://www.dunhamssports.com/

@@ -1,11 +1,11 @@
 id: 546667306
-type: way
+type: node
 latitude: 42.59844
 longitude: -82.87515
-postcode: "48043-5640"
+postcode: 48043-5640
 city: Mount Clemens
-street: "Market Street"
-housenumber: 12
+street: Market Street
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

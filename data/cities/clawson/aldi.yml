@@ -1,11 +1,11 @@
 id: 358851392
-type: way
+type: node
 latitude: 42.53223
 longitude: -83.16147
 postcode: "48017"
 city: Clawson
-street: "West 14 Mile Road"
-housenumber: 1035
-phone: "+1 855-955-2534"
-opening_hours: "09:00-20:00"
-website: "https://stores.aldi.us/mi/clawson/1035-w-14-mile-rd"
+street: West 14 Mile Road
+housenumber: "1035"
+phone: +1 855-955-2534
+opening_hours: 09:00-20:00
+website: https://stores.aldi.us/mi/clawson/1035-w-14-mile-rd

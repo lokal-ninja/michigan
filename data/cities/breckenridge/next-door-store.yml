@@ -1,11 +1,11 @@
 id: 860278229
-type: way
+type: node
 latitude: 43.40813
 longitude: -84.47522
 postcode: "48615"
 city: Breckenridge
-street: "East Saginaw Street"
-housenumber: 325
-phone: "989-842-3059"
+street: East Saginaw Street
+housenumber: "325"
+phone: 989-842-3059
 opening_hours: ""
 website: ""

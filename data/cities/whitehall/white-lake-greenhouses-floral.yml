@@ -1,11 +1,11 @@
 id: 1046725167
-type: way
+type: node
 latitude: 43.40909
 longitude: -86.33773
 postcode: "49461"
 city: Whitehall
-street: "East Colby Street"
-housenumber: 703
+street: East Colby Street
+housenumber: "703"
 phone: ""
 opening_hours: ""
 website: ""

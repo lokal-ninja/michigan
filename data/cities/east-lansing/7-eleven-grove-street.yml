@@ -1,11 +1,11 @@
 id: 295564297
-type: way
+type: node
 latitude: 42.7362
 longitude: -84.48257
 postcode: "48823"
 city: East Lansing
-street: "Grove Street"
-housenumber: 311
-phone: "+1 517-515-5350"
-opening_hours: "24/7"
-website: "https://www.7-eleven.com/locations/mi/east-lansing/311-grove-st-36896"
+street: Grove Street
+housenumber: "311"
+phone: +1 517-515-5350
+opening_hours: 24/7
+website: https://www.7-eleven.com/locations/mi/east-lansing/311-grove-st-36896

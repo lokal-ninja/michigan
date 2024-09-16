@@ -4,8 +4,8 @@ latitude: 42.20197
 longitude: -83.15098
 postcode: "48192"
 city: Wyandotte
-street: "Maple Street"
-housenumber: 145
-phone: "+1-734-258-8211"
-opening_hours: "Mo-Sa 10:00-19:00; Su 10:00-17:00"
+street: Maple Street
+housenumber: "145"
+phone: +1-734-258-8211
+opening_hours: Mo-Sa 10:00-19:00; Su 10:00-17:00
 website: ""

@@ -1,11 +1,11 @@
 id: 360961704
-type: way
+type: node
 latitude: 46.87356
 longitude: -89.31912
 postcode: "49953"
 city: Ontonagon
-street: "River Street"
-housenumber: 633
+street: River Street
+housenumber: "633"
 phone: ""
 opening_hours: ""
 website: ""

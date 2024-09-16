@@ -1,11 +1,11 @@
 id: 742001288
-type: way
+type: node
 latitude: 42.28628
 longitude: -83.80824
 postcode: "48103"
 city: Ann Arbor
-street: "Jackson Road"
-housenumber: 3900
+street: Jackson Road
+housenumber: "3900"
 phone: ""
 opening_hours: ""
 website: ""

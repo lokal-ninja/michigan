@@ -1,11 +1,11 @@
 id: 445125583
-type: way
+type: node
 latitude: 42.26927
 longitude: -83.16069
 postcode: "48217"
 city: Detroit
-street: "Fort Street South"
-housenumber: 2731
+street: Fort Street South
+housenumber: "2731"
 phone: ""
 opening_hours: ""
 website: ""

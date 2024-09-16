@@ -1,11 +1,11 @@
 id: 372146992
-type: way
+type: node
 latitude: 42.33791
 longitude: -83.0704
 postcode: "48216"
 city: Detroit
-street: "Trumbull Street"
-housenumber: 2846
+street: Trumbull Street
+housenumber: "2846"
 phone: ""
 opening_hours: ""
 website: ""

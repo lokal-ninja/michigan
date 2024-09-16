@@ -1,11 +1,11 @@
 id: 906631201
-type: way
+type: node
 latitude: 41.90398
 longitude: -84.06699
 postcode: "49221"
 city: Adrian
-street: "West Maumee Street"
-housenumber: 1535
-phone: "+1 517 265 4190"
+street: West Maumee Street
+housenumber: "1535"
+phone: +1 517 265 4190
 opening_hours: ""
-website: "https://country-markets.com/"
+website: https://country-markets.com/

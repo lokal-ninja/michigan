@@ -1,11 +1,11 @@
 id: 130725998
-type: way
+type: node
 latitude: 47.11445
 longitude: -88.59054
 postcode: "49931"
 city: Houghton
-street: "West Sharon Avenue"
-housenumber: 1000
+street: West Sharon Avenue
+housenumber: "1000"
 phone: ""
-opening_hours: "24/7"
-website: "https://www.shoptadychs.com/stores/houghton"
+opening_hours: 24/7
+website: https://www.shoptadychs.com/stores/houghton

@@ -1,11 +1,11 @@
 id: 727113907
-type: way
+type: node
 latitude: 42.65597
 longitude: -86.20398
 postcode: ""
 city: Saugatuck
-street: "Butler Street"
-housenumber: 201
+street: Butler Street
+housenumber: "201"
 phone: ""
 opening_hours: ""
 website: ""

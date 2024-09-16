@@ -4,8 +4,8 @@ latitude: 42.76024
 longitude: -84.52266
 postcode: "48912"
 city: Lansing
-street: "Lake Lansing Road"
-housenumber: 2000
-phone: "+1-517-372-7445"
-opening_hours: "24/7"
-website: "https://www.speedway.com/locations/MI/Lansing/2000-Lake-Lansing-Road"
+street: Lake Lansing Road
+housenumber: "2000"
+phone: +1-517-372-7445
+opening_hours: 24/7
+website: https://www.speedway.com/locations/MI/Lansing/2000-Lake-Lansing-Road

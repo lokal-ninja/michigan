@@ -1,11 +1,11 @@
 id: 496752467
-type: way
+type: node
 latitude: 45.07201
 longitude: -83.44433
 postcode: "49707"
 city: Alpena
-street: "West Chisholm Street"
-housenumber: 1035
-phone: "+1-989-356-2928"
-opening_hours: "24/7"
-website: "https://blarneycastleoil.com/ez-mart-locations/"
+street: West Chisholm Street
+housenumber: "1035"
+phone: +1-989-356-2928
+opening_hours: 24/7
+website: https://blarneycastleoil.com/ez-mart-locations/

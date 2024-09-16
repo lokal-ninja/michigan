@@ -4,8 +4,8 @@ latitude: 42.27771
 longitude: -83.74919
 postcode: "48104"
 city: Ann Arbor
-street: "South Main Street"
-housenumber: 402
-phone: "+1 734 800 4157"
-opening_hours: "24/7"
+street: South Main Street
+housenumber: "402"
+phone: +1 734 800 4157
+opening_hours: 24/7
 website: ""

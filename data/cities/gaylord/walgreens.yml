@@ -1,11 +1,11 @@
 id: 402541699
-type: way
+type: node
 latitude: 45.02818
 longitude: -84.695
 postcode: "49735"
 city: Gaylord
-street: "West Main Street"
-housenumber: 1290
-phone: "+1-989-732-0578"
-opening_hours: "Mo-Su 09:00-21:00"
-website: "https://www.walgreens.com/locator/walgreens-1290+w+main+st-gaylord-mi-49735/id=10404"
+street: West Main Street
+housenumber: "1290"
+phone: +1-989-732-0578
+opening_hours: Mo-Su 09:00-21:00
+website: https://www.walgreens.com/locator/walgreens-1290+w+main+st-gaylord-mi-49735/id=10404

@@ -1,11 +1,11 @@
 id: 648457653
-type: way
+type: node
 latitude: 44.97496
 longitude: -85.2104
 postcode: "49615"
 city: Bellaire
-street: "South Bridge Street"
-housenumber: 106
+street: South Bridge Street
+housenumber: "106"
 phone: ""
 opening_hours: ""
 website: ""

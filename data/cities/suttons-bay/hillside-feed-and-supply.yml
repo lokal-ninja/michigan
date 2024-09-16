@@ -1,11 +1,11 @@
 id: 430585146
-type: way
+type: node
 latitude: 44.93515
 longitude: -85.65461
 postcode: "49682"
 city: Suttons Bay
-street: "South Center Highway"
-housenumber: 3040
+street: South Center Highway
+housenumber: "3040"
 phone: ""
 opening_hours: ""
-website: "http://www.hillsidefeedandsupply.com/"
+website: http://www.hillsidefeedandsupply.com/

@@ -1,11 +1,11 @@
 id: 377545707
-type: way
+type: node
 latitude: 42.54382
 longitude: -82.90496
 postcode: "48035"
 city: Clinton Township
-street: "South Gratiot Avenue"
-housenumber: 33650
-phone: "+1 855-955-2534"
-opening_hours: "Mo, We, Fr-Su 09:00-20:00, Tu, Th 08:30-20:00"
-website: "https://stores.aldi.us/mi/clinton-township/33650-gratiot-avenue"
+street: South Gratiot Avenue
+housenumber: "33650"
+phone: +1 855-955-2534
+opening_hours: Mo, We, Fr-Su 09:00-20:00, Tu, Th 08:30-20:00
+website: https://stores.aldi.us/mi/clinton-township/33650-gratiot-avenue

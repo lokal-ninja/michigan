@@ -1,11 +1,11 @@
 id: 1191858238
-type: way
+type: node
 latitude: 45.30477
 longitude: -83.69787
 postcode: "49776"
 city: Posen
-street: "M-65"
-housenumber: 8075
-phone: "+1-989-766-9909"
+street: M-65
+housenumber: "8075"
+phone: +1-989-766-9909
 opening_hours: ""
 website: ""

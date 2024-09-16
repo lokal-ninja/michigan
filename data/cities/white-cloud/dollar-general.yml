@@ -1,11 +1,11 @@
 id: 688910179
-type: way
+type: node
 latitude: 43.55883
 longitude: -85.7726
 postcode: "49349"
 city: White Cloud
-street: "North Charles Street"
-housenumber: 263
+street: North Charles Street
+housenumber: "263"
 phone: ""
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/mi/white-cloud/9974"
+website: https://www.dollargeneral.com/store-directory/mi/white-cloud/9974

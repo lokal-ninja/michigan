@@ -1,11 +1,11 @@
 id: 148394342
-type: way
+type: node
 latitude: 42.14195
 longitude: -83.18805
 postcode: "48183"
 city: Trenton
-street: "West Road"
-housenumber: 1700
+street: West Road
+housenumber: "1700"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-1700+west+rd-trenton-mi-48183/id=5169"
+website: https://www.walgreens.com/locator/walgreens-1700+west+rd-trenton-mi-48183/id=5169

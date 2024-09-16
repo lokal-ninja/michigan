@@ -4,8 +4,8 @@ latitude: 42.67112
 longitude: -85.65545
 postcode: "49348"
 city: Wayland
-street: "Reno Drive"
-housenumber: 415
-phone: "+1-269-792-2801"
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-18:00; Su 09:00-15:00"
-website: "https://wayland.doitbest.com/"
+street: Reno Drive
+housenumber: "415"
+phone: +1-269-792-2801
+opening_hours: Mo-Fr 08:00-20:00; Sa 08:00-18:00; Su 09:00-15:00
+website: https://wayland.doitbest.com/

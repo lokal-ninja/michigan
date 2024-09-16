@@ -1,11 +1,11 @@
 id: 919826635
-type: way
+type: node
 latitude: 42.47425
 longitude: -83.20102
 postcode: "48237"
 city: Oak Park
-street: "Greenfield Road"
-housenumber: 25000
+street: Greenfield Road
+housenumber: "25000"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 882176137
-type: way
+type: node
 latitude: 42.86222
 longitude: -85.72387
 postcode: "49519"
 city: Wyoming
-street: "Byron Center Avenue Southwest"
-housenumber: 5603
+street: Byron Center Avenue Southwest
+housenumber: "5603"
 phone: ""
 opening_hours: ""
 website: ""

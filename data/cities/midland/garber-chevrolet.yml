@@ -1,11 +1,11 @@
 id: 311848787
-type: way
+type: node
 latitude: 43.64239
 longitude: -84.24723
 postcode: "48640"
 city: Midland
-street: "North Saginaw Road"
-housenumber: 1700
-phone: "+1 989 488 4143"
+street: North Saginaw Road
+housenumber: "1700"
+phone: +1 989 488 4143
 opening_hours: ""
-website: "http://www.garbermidlandchevy.com/"
+website: http://www.garbermidlandchevy.com/

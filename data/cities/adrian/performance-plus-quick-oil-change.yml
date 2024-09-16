@@ -1,11 +1,11 @@
 id: 990216762
-type: way
+type: node
 latitude: 41.87771
 longitude: -84.04363
 postcode: "49221"
 city: Adrian
-street: "South Main Street"
-housenumber: 1394
+street: South Main Street
+housenumber: "1394"
 phone: ""
 opening_hours: ""
 website: ""

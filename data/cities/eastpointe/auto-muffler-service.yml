@@ -1,11 +1,11 @@
 id: 1043791327
-type: way
+type: node
 latitude: 42.45545
 longitude: -82.96365
 postcode: ""
 city: Eastpointe
-street: "North Gratiot Avenue"
-housenumber: 21400
+street: North Gratiot Avenue
+housenumber: "21400"
 phone: ""
 opening_hours: ""
 website: ""

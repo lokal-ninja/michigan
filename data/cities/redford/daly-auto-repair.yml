@@ -4,8 +4,8 @@ latitude: 42.4415
 longitude: -83.32155
 postcode: "48240"
 city: Redford
-street: "8 Mile Road"
-housenumber: 25775
-phone: "+1-313-694-3258"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-16:00"
-website: "https://dalyautorepair.com"
+street: 8 Mile Road
+housenumber: "25775"
+phone: +1-313-694-3258
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-16:00
+website: https://dalyautorepair.com

@@ -1,11 +1,11 @@
 id: 895306867
-type: way
+type: node
 latitude: 42.65919
 longitude: -83.40479
 postcode: "48327"
 city: Waterford
-street: "Highland Road"
-housenumber: 5983
+street: Highland Road
+housenumber: "5983"
 phone: ""
-opening_hours: "Mo-Su 08:00-22:00"
-website: "https://www.riteaid.com/locations/mi/waterford/5983-highland-road.html"
+opening_hours: Mo-Su 08:00-22:00
+website: https://www.riteaid.com/locations/mi/waterford/5983-highland-road.html

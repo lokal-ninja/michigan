@@ -4,8 +4,8 @@ latitude: 42.29438
 longitude: -85.65143
 postcode: "49009"
 city: Kalamazoo
-street: "West Main Street"
-housenumber: 5159
-phone: "+1 269-345-1344"
-opening_hours: "Mo-Sa 09:00-21:00; Su 09:00-20:00"
-website: "https://www.kohls.com/stores/mi/kalamazoo-611.shtml"
+street: West Main Street
+housenumber: "5159"
+phone: +1 269-345-1344
+opening_hours: Mo-Sa 09:00-21:00; Su 09:00-20:00
+website: https://www.kohls.com/stores/mi/kalamazoo-611.shtml

@@ -1,11 +1,11 @@
 id: 638027186
-type: way
+type: node
 latitude: 42.59924
 longitude: -83.90938
 postcode: "48843"
 city: Howell
-street: "East Grand River Avenue"
-housenumber: 2260
-phone: "+1 855-955-2534"
-opening_hours: "Mo, We, Fr-Su 09:00-20:00, Tu, Th 08:30-20:00"
-website: "https://stores.aldi.us/mi/howell/2260-e-grand-river-ave"
+street: East Grand River Avenue
+housenumber: "2260"
+phone: +1 855-955-2534
+opening_hours: Mo, We, Fr-Su 09:00-20:00, Tu, Th 08:30-20:00
+website: https://stores.aldi.us/mi/howell/2260-e-grand-river-ave

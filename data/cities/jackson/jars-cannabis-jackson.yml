@@ -1,11 +1,11 @@
 id: 515526297
-type: way
+type: node
 latitude: 42.26227
 longitude: -84.42451
 postcode: "49202"
 city: Jackson
-street: "West Argyle Street"
-housenumber: 810
+street: West Argyle Street
+housenumber: "810"
 phone: ""
 opening_hours: ""
-website: "https://jarscannabis.com/"
+website: https://jarscannabis.com/

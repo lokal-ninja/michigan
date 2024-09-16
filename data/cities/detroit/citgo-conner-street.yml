@@ -4,8 +4,8 @@ latitude: 42.38403
 longitude: -82.96732
 postcode: "48215"
 city: Detroit
-street: "Conner Street"
-housenumber: 3800
-phone: "+1 313 331 1211"
-opening_hours: "24/7"
+street: Conner Street
+housenumber: "3800"
+phone: +1 313 331 1211
+opening_hours: 24/7
 website: ""

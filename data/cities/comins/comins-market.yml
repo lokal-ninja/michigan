@@ -1,11 +1,11 @@
 id: 842525723
-type: way
+type: node
 latitude: 44.80344
 longitude: -84.05144
 postcode: "48619"
 city: Comins
-street: "North Abbe Road"
-housenumber: 4203
-phone: "+1-989-848-5900"
+street: North Abbe Road
+housenumber: "4203"
+phone: +1-989-848-5900
 opening_hours: ""
-website: "https://comins-market.edan.io"
+website: https://comins-market.edan.io

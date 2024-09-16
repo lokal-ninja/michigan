@@ -1,11 +1,11 @@
 id: 673091829
-type: way
+type: node
 latitude: 42.34405
 longitude: -83.16173
 postcode: "48126"
 city: Dearborn
-street: "West Warren Avenue"
-housenumber: 10335
+street: West Warren Avenue
+housenumber: "10335"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/dearborn-mi-pharmacies/10335-west-warren-dearborn-mi-48126/storeid=8027"
+website: https://www.cvs.com/store-locator/dearborn-mi-pharmacies/10335-west-warren-dearborn-mi-48126/storeid=8027

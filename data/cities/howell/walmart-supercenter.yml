@@ -1,11 +1,11 @@
 id: 534838693
-type: way
+type: node
 latitude: 42.58476
 longitude: -83.87869
 postcode: "48843"
 city: Howell
-street: "East Grand River Avenue"
-housenumber: 3850
-phone: "+1 517-548-9500"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/1754/howell-mi/whats-new"
+street: East Grand River Avenue
+housenumber: "3850"
+phone: +1 517-548-9500
+opening_hours: 24/7
+website: https://www.walmart.com/store/1754/howell-mi/whats-new

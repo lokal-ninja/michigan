@@ -1,11 +1,11 @@
 id: 914524305
-type: way
+type: node
 latitude: 42.46323
 longitude: -82.9852
 postcode: "48089"
 city: Warren
-street: "East 9 Mile Road"
-housenumber: 13608
+street: East 9 Mile Road
+housenumber: "13608"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/warren-mi-pharmacies/13608-e-9-mile-rd-warren-mi-48089/storeid=8039"
+website: https://www.cvs.com/store-locator/warren-mi-pharmacies/13608-e-9-mile-rd-warren-mi-48089/storeid=8039

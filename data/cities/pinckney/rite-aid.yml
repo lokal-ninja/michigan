@@ -1,11 +1,11 @@
 id: 747089279
-type: way
+type: node
 latitude: 42.4567
 longitude: -83.93572
 postcode: "48169"
 city: Pinckney
-street: "South Dexter Street"
-housenumber: 75
+street: South Dexter Street
+housenumber: "75"
 phone: ""
 opening_hours: ""
 website: ""

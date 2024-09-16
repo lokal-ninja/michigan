@@ -1,11 +1,11 @@
 id: 895651035
-type: way
+type: node
 latitude: 42.27367
 longitude: -83.13489
 postcode: "48218"
 city: River Rouge
-street: "West Jefferson Avenue"
-housenumber: 10550
+street: West Jefferson Avenue
+housenumber: "10550"
 phone: ""
 opening_hours: ""
 website: ""

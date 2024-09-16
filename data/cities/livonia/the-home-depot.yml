@@ -1,11 +1,11 @@
 id: 219943670
-type: way
+type: node
 latitude: 42.38195
 longitude: -83.32821
 postcode: "48150"
 city: Livonia
-street: "Middlebelt Road"
-housenumber: 13500
-phone: "+1 734-458-4956"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.homedepot.com/l/Livonia/MI/Livonia/48150/2742"
+street: Middlebelt Road
+housenumber: "13500"
+phone: +1 734-458-4956
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.homedepot.com/l/Livonia/MI/Livonia/48150/2742

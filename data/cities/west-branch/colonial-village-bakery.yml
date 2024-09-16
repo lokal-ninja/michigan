@@ -1,11 +1,11 @@
 id: 862907368
-type: way
+type: node
 latitude: 44.27668
 longitude: -84.23946
 postcode: "48661"
 city: West Branch
-street: "West Houghton Avenue"
-housenumber: 325
-phone: "+1-989-345-5640"
-opening_hours: "Tu-Sa 05:30-14:00"
+street: West Houghton Avenue
+housenumber: "325"
+phone: +1-989-345-5640
+opening_hours: Tu-Sa 05:30-14:00
 website: ""

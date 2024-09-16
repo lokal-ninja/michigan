@@ -1,11 +1,11 @@
 id: 890845003
-type: way
+type: node
 latitude: 44.66655
 longitude: -86.02562
 postcode: "49640"
 city: Honor
-street: "Main Street"
-housenumber: 10625
+street: Main Street
+housenumber: "10625"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1064621831
-type: way
+type: node
 latitude: 42.41452
 longitude: -83.14093
 postcode: "48221"
 city: Detroit
-street: "Livernois Avenue"
-housenumber: 16657
-phone: "+1-313-770-4243"
+street: Livernois Avenue
+housenumber: "16657"
+phone: +1-313-770-4243
 opening_hours: ""
 website: ""

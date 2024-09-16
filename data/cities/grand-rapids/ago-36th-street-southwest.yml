@@ -4,8 +4,8 @@ latitude: 42.89836
 longitude: -85.66981
 postcode: "49548"
 city: Grand Rapids
-street: "36th Street Southwest"
-housenumber: 150
+street: 36th Street Southwest
+housenumber: "150"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

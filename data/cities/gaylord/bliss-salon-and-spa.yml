@@ -1,11 +1,11 @@
 id: 1204158188
-type: way
+type: node
 latitude: 45.02791
 longitude: -84.68072
 postcode: "49735"
 city: Gaylord
-street: "West Main Street"
-housenumber: 522
-phone: "+1-989-448-2559"
-opening_hours: "Mo 09:00-19:00; Tu-Th 08:30-20:00; Fr 09:00-19:00; Sa 09:00-16:00"
-website: "https://www.mibliss.com/"
+street: West Main Street
+housenumber: "522"
+phone: +1-989-448-2559
+opening_hours: Mo 09:00-19:00; Tu-Th 08:30-20:00; Fr 09:00-19:00; Sa 09:00-16:00
+website: https://www.mibliss.com/

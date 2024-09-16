@@ -4,8 +4,8 @@ latitude: 42.95527
 longitude: -85.67295
 postcode: "49503"
 city: Grand Rapids
-street: "Century Avenue Southwest"
-housenumber: 445
-phone: "+1-616-233-4000"
+street: Century Avenue Southwest
+housenumber: "445"
+phone: +1-616-233-4000
 opening_hours: ""
-website: "http://centurystreetantiques.com"
+website: http://centurystreetantiques.com

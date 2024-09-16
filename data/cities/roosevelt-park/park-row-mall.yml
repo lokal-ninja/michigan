@@ -1,11 +1,11 @@
 id: 358400009
-type: way
+type: node
 latitude: 43.19115
 longitude: -86.2673
 postcode: ""
 city: Roosevelt Park
-street: "West Norton Avenue"
-housenumber: 950
+street: West Norton Avenue
+housenumber: "950"
 phone: ""
 opening_hours: ""
 website: ""

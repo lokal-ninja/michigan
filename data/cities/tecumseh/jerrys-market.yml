@@ -1,11 +1,11 @@
 id: 862223865
-type: way
+type: node
 latitude: 42.01304
 longitude: -83.94168
 postcode: "49286"
 city: Tecumseh
-street: "Herrick Park Drive"
-housenumber: 107
+street: Herrick Park Drive
+housenumber: "107"
 phone: ""
 opening_hours: ""
 website: ""

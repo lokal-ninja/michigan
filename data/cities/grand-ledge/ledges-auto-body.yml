@@ -1,11 +1,11 @@
 id: 259977345
-type: way
+type: node
 latitude: 42.74021
 longitude: -84.72042
 postcode: "48837"
 city: Grand Ledge
-street: "East Saginaw Highway"
-housenumber: 5992
-phone: "+1-517-627-6600"
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://www.ledgesautobody.com/"
+street: East Saginaw Highway
+housenumber: "5992"
+phone: +1-517-627-6600
+opening_hours: Mo-Fr 08:00-17:00
+website: https://www.ledgesautobody.com/

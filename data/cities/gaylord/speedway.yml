@@ -1,11 +1,11 @@
 id: 840364483
-type: way
+type: node
 latitude: 45.02786
 longitude: -84.68353
 postcode: "49735"
 city: Gaylord
-street: "West Main Street"
-housenumber: 730
-phone: ""
-opening_hours: ""
-website: "https://www.speedway.com/locations/MI/Gaylord/730-West-Main-Street"
+street: West Main Street
+housenumber: "730"
+phone: +1-989-732-3246
+opening_hours: 24/7
+website: https://www.speedway.com/locations/MI/Gaylord/730-West-Main-Street

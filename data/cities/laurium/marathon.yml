@@ -1,11 +1,11 @@
 id: 225058104
-type: way
+type: node
 latitude: 47.23534
 longitude: -88.44481
 postcode: "49913"
 city: Laurium
-street: "Hecla Street"
-housenumber: 401
+street: Hecla Street
+housenumber: "401"
 phone: ""
 opening_hours: ""
 website: ""

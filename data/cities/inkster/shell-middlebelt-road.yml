@@ -1,11 +1,11 @@
 id: 931571092
-type: way
+type: node
 latitude: 42.30453
 longitude: -83.33063
 postcode: "48141"
 city: Inkster
-street: "Middlebelt Road"
-housenumber: 942
+street: Middlebelt Road
+housenumber: "942"
 phone: ""
 opening_hours: ""
 website: ""

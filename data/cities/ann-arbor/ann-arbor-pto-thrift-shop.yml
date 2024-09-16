@@ -4,8 +4,8 @@ latitude: 42.25375
 longitude: -83.7349
 postcode: "48104"
 city: Ann Arbor
-street: "South Industrial Highway"
-housenumber: 2280
-phone: "+1-734-996-9155"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 09:00-18:00; Su 11:00-17:00"
-website: "https://www.a2ptothriftshop.org/"
+street: South Industrial Highway
+housenumber: "2280"
+phone: +1-734-996-9155
+opening_hours: Mo-Fr 10:00-19:00; Sa 09:00-18:00; Su 11:00-17:00
+website: https://www.a2ptothriftshop.org/

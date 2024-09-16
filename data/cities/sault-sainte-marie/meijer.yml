@@ -1,11 +1,11 @@
 id: 685124391
-type: way
+type: node
 latitude: 46.46609
 longitude: -84.38876
 postcode: "49783"
 city: Sault Sainte Marie
-street: "West 3 Mile Road"
-housenumber: 1138
-phone: "+1-906-253-2809"
+street: West 3 Mile Road
+housenumber: "1138"
+phone: +1-906-253-2809
 opening_hours: ""
-website: "https://www.meijer.com/"
+website: https://www.meijer.com/

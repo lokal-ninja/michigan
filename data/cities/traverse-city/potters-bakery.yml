@@ -1,11 +1,11 @@
 id: 311031701
-type: way
+type: node
 latitude: 44.75877
 longitude: -85.60007
 postcode: "49686"
 city: Traverse City
-street: "East Eighth Street"
-housenumber: 908
-phone: "+1 231-947-5125"
-opening_hours: "Mo-Fr 5:30-17:30; Sa 6:00-16:00; Su 7:00+"
-website: "https://www.pottersbakery.com/"
+street: East Eighth Street
+housenumber: "908"
+phone: +1 231-947-5125
+opening_hours: Mo-Fr 5:30-17:30; Sa 6:00-16:00; Su 7:00+
+website: https://www.pottersbakery.com/

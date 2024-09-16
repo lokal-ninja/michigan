@@ -1,11 +1,11 @@
 id: 321052195
-type: way
+type: node
 latitude: 42.50325
 longitude: -83.6552
 postcode: "48178"
 city: South Lyon
-street: "Silver Lake Road"
-housenumber: 61019
+street: Silver Lake Road
+housenumber: "61019"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/south-lyon-mi-pharmacies/61019-silver-lake-rd-south-lyon-mi-48178/storeid=8304"
+website: https://www.cvs.com/store-locator/south-lyon-mi-pharmacies/61019-silver-lake-rd-south-lyon-mi-48178/storeid=8304

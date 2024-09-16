@@ -1,11 +1,11 @@
 id: 1029076038
-type: way
+type: node
 latitude: 42.56844
 longitude: -83.1097
 postcode: "48083"
 city: Troy
-street: "John R Rd"
-housenumber: 3301
+street: John R Rd
+housenumber: "3301"
 phone: ""
 opening_hours: ""
 website: ""

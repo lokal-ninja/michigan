@@ -1,11 +1,11 @@
 id: 948217571
-type: way
+type: node
 latitude: 42.19233
 longitude: -83.15536
 postcode: "48192"
 city: Wyandotte
-street: "Biddle Avenue"
-housenumber: 4016
+street: Biddle Avenue
+housenumber: "4016"
 phone: ""
 opening_hours: ""
 website: ""

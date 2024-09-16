@@ -1,11 +1,11 @@
 id: 261296724
-type: way
+type: node
 latitude: 42.27794
 longitude: -85.64511
 postcode: "49009"
 city: Kalamazoo
-street: "West Michigan Avenue"
-housenumber: 4510
-phone: "+1 269 345 7814"
+street: West Michigan Avenue
+housenumber: "4510"
+phone: +1 269 345 7814
 opening_hours: ""
-website: "https://kalamazoospiritshoppe.com/"
+website: https://kalamazoospiritshoppe.com/

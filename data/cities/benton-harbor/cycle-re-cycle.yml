@@ -4,8 +4,8 @@ latitude: 42.11335
 longitude: -86.46434
 postcode: "49022"
 city: Benton Harbor
-street: "12th Street"
-housenumber: 300
+street: 12th Street
+housenumber: "300"
 phone: ""
 opening_hours: ""
-website: "https://www.cycle-re-cycle-swm.org/"
+website: https://www.cycle-re-cycle-swm.org/

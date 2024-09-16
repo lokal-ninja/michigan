@@ -4,8 +4,8 @@ latitude: 46.55087
 longitude: -87.47316
 postcode: "49855"
 city: Marquette
-street: "US 41"
-housenumber: 3570
-phone: "+1 906-225-0166"
-opening_hours: "Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00"
-website: "https://www.ulta.com/stores/marquette-mi-705"
+street: US 41
+housenumber: "3570"
+phone: +1 906-225-0166
+opening_hours: Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00
+website: https://www.ulta.com/stores/marquette-mi-705

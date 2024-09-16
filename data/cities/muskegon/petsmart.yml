@@ -1,11 +1,11 @@
 id: 414487512
-type: way
+type: node
 latitude: 43.20717
 longitude: -86.20235
 postcode: "49444"
 city: Muskegon
-street: "East Sherman Boulevard"
-housenumber: 1720
-phone: "+1 231-737-1165"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://www.petsmart.com/stores/us/mi/muskegon-store0718.html"
+street: East Sherman Boulevard
+housenumber: "1720"
+phone: +1 231-737-1165
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://www.petsmart.com/stores/us/mi/muskegon-store0718.html

@@ -1,11 +1,11 @@
 id: 1073459551
-type: way
+type: node
 latitude: 45.41572
 longitude: -83.80822
 postcode: "49779"
 city: Rogers City
-street: "South 1st Street"
-housenumber: 495
-phone: "+1-989-734-3248"
+street: South 1st Street
+housenumber: "495"
+phone: +1-989-734-3248
 opening_hours: ""
 website: ""

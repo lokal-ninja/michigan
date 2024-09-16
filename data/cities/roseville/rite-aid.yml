@@ -1,11 +1,11 @@
 id: 911339505
-type: way
+type: node
 latitude: 42.4864
 longitude: -82.94255
 postcode: "48066"
 city: Roseville
-street: "Gratiot Avenue"
-housenumber: 25996
+street: Gratiot Avenue
+housenumber: "25996"
 phone: ""
-opening_hours: "Mo-Fr 08:00-22:00; Sa-Su 09:00-21:00"
-website: "https://www.riteaid.com/locations/mi/roseville/25996-gratiot-avenue.html"
+opening_hours: Mo-Fr 08:00-22:00; Sa-Su 09:00-21:00
+website: https://www.riteaid.com/locations/mi/roseville/25996-gratiot-avenue.html

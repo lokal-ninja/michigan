@@ -1,11 +1,11 @@
 id: 893697191
-type: way
+type: node
 latitude: 42.31203
 longitude: -84.09578
 postcode: "48118"
 city: Chelsea
-street: "Cavanaugh Lake Road"
-housenumber: 163
+street: Cavanaugh Lake Road
+housenumber: "163"
 phone: ""
 opening_hours: ""
 website: ""

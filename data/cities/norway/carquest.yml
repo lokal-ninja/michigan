@@ -4,8 +4,8 @@ latitude: 45.79245
 longitude: -87.92206
 postcode: "49870"
 city: Norway
-street: "Sundance Drive"
-housenumber: 101
-phone: "+1 906 563 8220"
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-18:00; Su 10:00-16:00"
-website: "https://www.carquest.com/stores/mi/norway/5812"
+street: Sundance Drive
+housenumber: "101"
+phone: +1 906 563 8220
+opening_hours: Mo-Fr 08:00-20:00; Sa 08:00-18:00; Su 10:00-16:00
+website: https://www.carquest.com/stores/mi/norway/5812

@@ -1,11 +1,11 @@
 id: 1246422685
-type: way
+type: node
 latitude: 45.06005
 longitude: -83.48402
 postcode: "49707"
 city: Alpena
-street: "Kline Road"
-housenumber: 1313
-phone: "+1-989-354-4329"
+street: Kline Road
+housenumber: "1313"
+phone: +1-989-354-4329
 opening_hours: ""
-website: "https://alpenabeverage.com/"
+website: https://alpenabeverage.com/

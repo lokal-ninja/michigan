@@ -1,11 +1,11 @@
 id: 1187939475
-type: way
+type: node
 latitude: 42.45131
 longitude: -85.66761
 postcode: "49080"
 city: Plainwell
-street: "M-89"
-housenumber: 1271
-phone: "+1-269-685-6666"
-opening_hours: "Su 10:00-17:00, We-Sa 10:00-20:00"
-website: "https://www.southwicks.com/"
+street: M-89
+housenumber: "1271"
+phone: +1-269-685-6666
+opening_hours: Su 10:00-17:00, We-Sa 10:00-20:00
+website: https://www.southwicks.com/

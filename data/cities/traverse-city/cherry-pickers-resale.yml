@@ -1,11 +1,11 @@
 id: 351234197
-type: way
+type: node
 latitude: 44.67415
 longitude: -85.65582
 postcode: "49684"
 city: Traverse City
-street: "US 31 South"
-housenumber: 891
+street: US 31 South
+housenumber: "891"
 phone: ""
 opening_hours: ""
 website: ""

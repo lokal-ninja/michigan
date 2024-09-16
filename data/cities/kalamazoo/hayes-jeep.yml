@@ -1,11 +1,11 @@
 id: 261630329
-type: way
+type: node
 latitude: 42.27128
 longitude: -85.63629
 postcode: "49008"
 city: Kalamazoo
-street: "Stadium Drive"
-housenumber: 3178
-phone: "+1 269 488 2080"
+street: Stadium Drive
+housenumber: "3178"
+phone: +1 269 488 2080
 opening_hours: ""
-website: "https://www.hayescars.com/jeep.php"
+website: https://www.hayescars.com/jeep.php

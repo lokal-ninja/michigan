@@ -1,11 +1,11 @@
 id: 928878024
-type: way
+type: node
 latitude: 42.53377
 longitude: -83.16032
 postcode: "48017"
 city: Clawson
-street: "West 14 Mile Road"
-housenumber: 1060
-phone: "+1-248-541-0010"
+street: West 14 Mile Road
+housenumber: "1060"
+phone: +1-248-541-0010
 opening_hours: ""
-website: "http://www.habermanfabrics.com"
+website: http://www.habermanfabrics.com

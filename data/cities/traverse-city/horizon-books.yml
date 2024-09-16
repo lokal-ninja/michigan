@@ -1,11 +1,11 @@
 id: 121676409
-type: way
+type: node
 latitude: 44.76447
 longitude: -85.61888
 postcode: "49684"
 city: Traverse City
-street: "East Front Street"
-housenumber: 243
+street: East Front Street
+housenumber: "243"
 phone: ""
 opening_hours: ""
-website: "https://www.horizonbooks.com/"
+website: https://www.horizonbooks.com/

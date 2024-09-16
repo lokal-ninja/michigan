@@ -1,11 +1,11 @@
 id: 924866092
-type: way
+type: node
 latitude: 42.63531
 longitude: -83.33494
 postcode: "48328"
 city: Waterford
-street: "West Huron Street"
-housenumber: 1156
+street: West Huron Street
+housenumber: "1156"
 phone: ""
 opening_hours: ""
 website: ""

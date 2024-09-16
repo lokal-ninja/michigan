@@ -1,11 +1,11 @@
 id: 358851389
-type: way
+type: node
 latitude: 42.53276
 longitude: -83.16534
 postcode: "48017"
 city: Clawson
-street: "West 14 Mile Road"
-housenumber: 1359
+street: West 14 Mile Road
+housenumber: "1359"
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-18:00; Su 11:00-16:00"
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-18:00; Su 11:00-16:00
 website: ""

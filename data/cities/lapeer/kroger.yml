@@ -1,11 +1,11 @@
 id: 579035809
-type: way
+type: node
 latitude: 43.04471
 longitude: -83.32341
 postcode: "48446"
 city: Lapeer
-street: "South Main Street"
-housenumber: 540
-phone: "+1 810-664-9234"
-opening_hours: "Mo-Su 06:00-22:00"
-website: "https://www.kroger.com/stores/grocery/mi/lapeer/lapeer/018/00600"
+street: South Main Street
+housenumber: "540"
+phone: +1 810-664-9234
+opening_hours: Mo-Su 06:00-22:00
+website: https://www.kroger.com/stores/grocery/mi/lapeer/lapeer/018/00600

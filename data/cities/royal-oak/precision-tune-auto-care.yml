@@ -1,11 +1,11 @@
 id: 360209359
-type: way
+type: node
 latitude: 42.49524
 longitude: -83.14427
 postcode: "48067"
 city: Royal Oak
-street: "North Main Street"
-housenumber: 702
+street: North Main Street
+housenumber: "702"
 phone: ""
 opening_hours: ""
 website: ""

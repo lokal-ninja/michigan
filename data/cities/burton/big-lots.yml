@@ -1,11 +1,11 @@
 id: 678727218
-type: way
+type: node
 latitude: 43.02044
 longitude: -83.62652
 postcode: "48509"
 city: Burton
-street: "East Court Street"
-housenumber: 4157
-phone: "+1 810-742-8037"
-opening_hours: "Mo-We 10:00-21:00; Th-Sa 09:00-21:00; Su 10:00-21:00"
-website: "https://local.biglots.com/mi/burton/4157-e-court-street"
+street: East Court Street
+housenumber: "4157"
+phone: +1 810-742-8037
+opening_hours: Mo-We 10:00-21:00; Th-Sa 09:00-21:00; Su 10:00-21:00
+website: https://local.biglots.com/mi/burton/4157-e-court-street

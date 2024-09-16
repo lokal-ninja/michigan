@@ -1,11 +1,11 @@
 id: 671595056
-type: way
+type: node
 latitude: 43.1212
 longitude: -85.56007
 postcode: "49341"
 city: Rockford
-street: "Courtland Street Northeast"
-housenumber: 63
-phone: "+1 616 866 8783"
+street: Courtland Street Northeast
+housenumber: "63"
+phone: +1 616 866 8783
 opening_hours: ""
-website: "https://www.auntcandystoycompany.com/"
+website: https://www.auntcandystoycompany.com/

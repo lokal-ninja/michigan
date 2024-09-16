@@ -1,11 +1,11 @@
 id: 387440604
-type: way
+type: node
 latitude: 42.25484
 longitude: -83.69864
 postcode: "48104"
 city: Ann Arbor
-street: "Platt Road"
-housenumber: 2231
-phone: "+1-734-677-1210"
-opening_hours: "Mo-Fr 08:00-16:00"
-website: "http://www.selectautoa2.com/"
+street: Platt Road
+housenumber: "2231"
+phone: +1-734-677-1210
+opening_hours: Mo-Fr 08:00-16:00
+website: http://www.selectautoa2.com/

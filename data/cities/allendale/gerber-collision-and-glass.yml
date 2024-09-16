@@ -1,11 +1,11 @@
 id: 1105322963
-type: way
+type: node
 latitude: 42.97324
 longitude: -85.91547
 postcode: "49401"
 city: Allendale
-street: "Lake Michigan Drive"
-housenumber: 5245
-phone: "+1-616-895-6285"
+street: Lake Michigan Drive
+housenumber: "5245"
+phone: +1-616-895-6285
 opening_hours: ""
-website: "https://www.gerbercollision.com/locations/allendale-mi"
+website: https://www.gerbercollision.com/locations/allendale-mi

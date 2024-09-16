@@ -1,11 +1,11 @@
 id: 631143361
-type: way
+type: node
 latitude: 42.3465
 longitude: -83.03923
 postcode: "48207"
 city: Detroit
-street: "Market Street"
-housenumber: 2506
-phone: "+1-313-259-4700"
-opening_hours: "Su 10:00-16:00; Mo-Th 06:00-15:00; Fr 06:00-16:00; Sa 06:00-17:00"
+street: Market Street
+housenumber: "2506"
+phone: +1-313-259-4700
+opening_hours: Su 10:00-16:00; Mo-Th 06:00-15:00; Fr 06:00-16:00; Sa 06:00-17:00
 website: ""

@@ -1,11 +1,11 @@
 id: 762945853
-type: way
+type: node
 latitude: 43.68884
 longitude: -85.48951
 postcode: "49307"
 city: Big Rapids
-street: "Perry Avenue"
-housenumber: 408
-phone: "+1 231-598-6464"
-opening_hours: "Mo-Sa 08:00-20:00; Su 09:00-18:00"
-website: "https://www.harborfreight.com/storelocator/408-perry-avenue-big-rapids-49307?number=3037"
+street: Perry Avenue
+housenumber: "408"
+phone: +1 231-598-6464
+opening_hours: Mo-Sa 08:00-20:00; Su 09:00-18:00
+website: https://www.harborfreight.com/storelocator/408-perry-avenue-big-rapids-49307?number=3037

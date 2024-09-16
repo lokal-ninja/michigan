@@ -1,11 +1,11 @@
 id: 83897403
-type: way
+type: node
 latitude: 42.56193
 longitude: -83.08615
 postcode: "48310"
 city: Sterling Height
-street: "Metropolitan Parkway"
-housenumber: 2000
-phone: "+1 586-446-4100"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.lowes.com/store/mi-sterling-height/1779"
+street: Metropolitan Parkway
+housenumber: "2000"
+phone: +1 586-446-4100
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.lowes.com/store/mi-sterling-height/1779

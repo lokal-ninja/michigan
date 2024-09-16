@@ -1,11 +1,11 @@
 id: 199332935
-type: way
+type: node
 latitude: 42.27962
 longitude: -83.21231
 postcode: "48101"
 city: Allen Park
-street: "West Outer Drive"
-housenumber: 23111
-phone: "+1 313-633-2961"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "http://stores.lowes.com/lowes/cgi/site?site=1859"
+street: West Outer Drive
+housenumber: "23111"
+phone: +1 313-633-2961
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: http://stores.lowes.com/lowes/cgi/site?site=1859

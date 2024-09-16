@@ -1,11 +1,11 @@
 id: 440684354
-type: way
+type: node
 latitude: 45.95534
 longitude: -86.24671
 postcode: "49854"
 city: Manistique
-street: "South Cedar Street"
-housenumber: 244
-phone: "(906) 341-3411"
+street: South Cedar Street
+housenumber: "244"
+phone: (906) 341-3411
 opening_hours: ""
 website: ""

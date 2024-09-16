@@ -1,11 +1,11 @@
 id: 192986057
-type: way
+type: node
 latitude: 42.25856
 longitude: -83.6884
 postcode: "48104"
 city: Ann Arbor
-street: "Washtenaw Avenue"
-housenumber: 3615
-phone: "+1 734-274-5390"
-opening_hours: "Mo-Su 06:00-22:00"
-website: "https://www.kroger.com/stores/grocery/mi/ann-arbor/washtenaw/018/00365"
+street: Washtenaw Avenue
+housenumber: "3615"
+phone: +1 734-274-5390
+opening_hours: Mo-Su 06:00-22:00
+website: https://www.kroger.com/stores/grocery/mi/ann-arbor/washtenaw/018/00365

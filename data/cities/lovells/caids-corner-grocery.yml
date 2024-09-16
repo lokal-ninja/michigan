@@ -1,11 +1,11 @@
 id: 256833582
-type: way
+type: node
 latitude: 44.8065
 longitude: -84.48037
 postcode: "49738"
 city: Lovells
-street: "East County Road 612"
-housenumber: 6510
+street: East County Road 612
+housenumber: "6510"
 phone: ""
 opening_hours: ""
 website: ""

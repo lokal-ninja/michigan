@@ -1,11 +1,11 @@
 id: 1119252075
-type: way
+type: node
 latitude: 42.23294
 longitude: -83.19519
 postcode: "48146"
 city: Lincoln Park
-street: "Dix Highway"
-housenumber: 3562
+street: Dix Highway
+housenumber: "3562"
 phone: ""
 opening_hours: ""
 website: ""

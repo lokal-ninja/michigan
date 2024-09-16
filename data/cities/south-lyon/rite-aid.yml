@@ -1,11 +1,11 @@
 id: 922960490
-type: way
+type: node
 latitude: 42.47572
 longitude: -83.65132
 postcode: "48178"
 city: South Lyon
-street: "Pontiac Trail"
-housenumber: 25610
+street: Pontiac Trail
+housenumber: "25610"
 phone: ""
 opening_hours: ""
 website: ""

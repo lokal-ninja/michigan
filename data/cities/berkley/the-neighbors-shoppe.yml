@@ -1,11 +1,11 @@
 id: 203026525
-type: way
+type: node
 latitude: 42.50295
 longitude: -83.18767
 postcode: "48072"
 city: Berkley
-street: "12 Mile Road"
-housenumber: 2833
-phone: "+1-248-546-8960"
+street: 12 Mile Road
+housenumber: "2833"
+phone: +1-248-546-8960
 opening_hours: ""
-website: "https://www.neighborsshoppe.com/"
+website: https://www.neighborsshoppe.com/

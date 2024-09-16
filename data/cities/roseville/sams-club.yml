@@ -1,11 +1,11 @@
 id: 318881051
-type: way
+type: node
 latitude: 42.52998
 longitude: -82.91349
 postcode: "48066"
 city: Roseville
-street: "Gratiot Avenue"
-housenumber: 31720
-phone: "+1 586-415-9987"
-opening_hours: "Mo 10:00-20:00; Sa 09:00-20:00; Su 10:00-18:00"
-website: "https://www.samsclub.com/club/roseville-mi-sams-club/6662"
+street: Gratiot Avenue
+housenumber: "31720"
+phone: +1 586-415-9987
+opening_hours: Mo 10:00-20:00; Sa 09:00-20:00; Su 10:00-18:00
+website: https://www.samsclub.com/club/roseville-mi-sams-club/6662

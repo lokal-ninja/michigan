@@ -4,8 +4,8 @@ latitude: 42.33097
 longitude: -83.14014
 postcode: "48210"
 city: Detroit
-street: "Michigan Avenue"
-housenumber: 7931
-phone: "+1 313 789 7677"
-opening_hours: "24/7"
+street: Michigan Avenue
+housenumber: "7931"
+phone: +1 313 789 7677
+opening_hours: 24/7
 website: ""

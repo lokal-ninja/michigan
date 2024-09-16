@@ -1,11 +1,11 @@
 id: 374521250
-type: way
+type: node
 latitude: 44.27676
 longitude: -84.24374
 postcode: "48661"
 city: West Branch
-street: "West Houghton Avenue"
-housenumber: 623
-phone: "+1-989-345-0996"
-opening_hours: "Mo-Fr 07:30-18:00; Sa 07:30-17:30"
-website: "https://www.myautovaluestore.com/locations/623-w-houghton-west-branch-mi-48661-337"
+street: West Houghton Avenue
+housenumber: "623"
+phone: +1-989-345-0996
+opening_hours: Mo-Fr 07:30-18:00; Sa 07:30-17:30
+website: https://www.myautovaluestore.com/locations/623-w-houghton-west-branch-mi-48661-337

@@ -1,11 +1,11 @@
 id: 753062080
-type: way
+type: node
 latitude: 42.24169
 longitude: -83.25527
 postcode: "48180"
 city: Taylor
-street: "Wick Road"
-housenumber: 22422
+street: Wick Road
+housenumber: "22422"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1051718462
-type: way
+type: node
 latitude: 42.31957
 longitude: -83.18377
 postcode: ""
 city: Dearborn
-street: "Michigan Avenue"
-housenumber: 14505
-phone: "+1-313-380-1405"
+street: Michigan Avenue
+housenumber: "14505"
+phone: +1-313-380-1405
 opening_hours: ""
-website: "https://www.lafontainebuickgmcdearborn.com/"
+website: https://www.lafontainebuickgmcdearborn.com/

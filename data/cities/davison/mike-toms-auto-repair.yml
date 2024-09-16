@@ -1,11 +1,11 @@
 id: 611869196
-type: way
+type: node
 latitude: 43.03437
 longitude: -83.51985
 postcode: "48423"
 city: Davison
-street: "West Flint Street"
-housenumber: 203
+street: West Flint Street
+housenumber: "203"
 phone: ""
 opening_hours: ""
 website: ""

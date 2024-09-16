@@ -1,11 +1,11 @@
 id: 557191335
-type: way
+type: node
 latitude: 42.743
 longitude: -84.54923
 postcode: "48906"
 city: Lansing
-street: "East Oakland Avenue"
-housenumber: 300
-phone: "+1-517-487-2066"
-opening_hours: "Mo-Fr 08:00-17:00; Sa-Su 09:00-13:00"
-website: "https://www.olearypaint.com/"
+street: East Oakland Avenue
+housenumber: "300"
+phone: +1-517-487-2066
+opening_hours: Mo-Fr 08:00-17:00; Sa-Su 09:00-13:00
+website: https://www.olearypaint.com/

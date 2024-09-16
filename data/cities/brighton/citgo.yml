@@ -1,11 +1,11 @@
 id: 891761136
-type: way
+type: node
 latitude: 42.52312
 longitude: -83.7702
 postcode: "48114"
 city: Brighton
-street: "East Grand River Avenue"
-housenumber: 1050
+street: East Grand River Avenue
+housenumber: "1050"
 phone: ""
 opening_hours: ""
 website: ""

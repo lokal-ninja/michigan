@@ -1,11 +1,11 @@
 id: 446133921
-type: way
+type: node
 latitude: 42.27237
 longitude: -84.95896
 postcode: "49068"
 city: Marshall
-street: "North Jefferson Street"
-housenumber: 105
+street: North Jefferson Street
+housenumber: "105"
 phone: ""
-opening_hours: "Mo-Fr 11:00-19:00; Su 11:00-15:00"
+opening_hours: Mo-Fr 11:00-19:00; Su 11:00-15:00
 website: ""

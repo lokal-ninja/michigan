@@ -1,11 +1,11 @@
 id: 198530006
-type: way
+type: node
 latitude: 42.2824
 longitude: -83.20885
 postcode: "48101"
 city: Allen Park
-street: "Fairlane Drive"
-housenumber: 3320
+street: Fairlane Drive
+housenumber: "3320"
 phone: ""
 opening_hours: ""
 website: ""

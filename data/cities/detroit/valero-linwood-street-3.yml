@@ -4,8 +4,8 @@ latitude: 42.38873
 longitude: -83.1196
 postcode: "48238"
 city: Detroit
-street: "Linwood Street"
-housenumber: 12619
-phone: "+1 313 868 7000"
-opening_hours: "24/7"
+street: Linwood Street
+housenumber: "12619"
+phone: +1 313 868 7000
+opening_hours: 24/7
 website: ""

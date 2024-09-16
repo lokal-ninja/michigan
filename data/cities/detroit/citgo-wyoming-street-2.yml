@@ -4,8 +4,8 @@ latitude: 42.37315
 longitude: -83.15895
 postcode: "48204"
 city: Detroit
-street: "Wyoming Street"
-housenumber: 11511
-phone: "+1 313 468 9297"
-opening_hours: "24/7"
+street: Wyoming Street
+housenumber: "11511"
+phone: +1 313 468 9297
+opening_hours: 24/7
 website: ""

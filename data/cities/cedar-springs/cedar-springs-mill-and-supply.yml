@@ -1,11 +1,11 @@
 id: 912580024
-type: way
+type: node
 latitude: 43.22098
 longitude: -85.5546
 postcode: "49319"
 city: Cedar Springs
-street: "West Beech Street Northeast"
-housenumber: 112
-phone: "+1-616-696-9740"
+street: West Beech Street Northeast
+housenumber: "112"
+phone: +1-616-696-9740
 opening_hours: ""
 website: ""

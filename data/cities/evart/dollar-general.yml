@@ -1,11 +1,11 @@
 id: 957848880
-type: way
+type: node
 latitude: 43.90005
 longitude: -85.27167
 postcode: "49631"
 city: Evart
-street: "West 7th Street"
-housenumber: 801
+street: West 7th Street
+housenumber: "801"
 phone: ""
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/mi/evart/6929"
+website: https://www.dollargeneral.com/store-directory/mi/evart/6929

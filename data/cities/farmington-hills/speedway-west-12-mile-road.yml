@@ -1,11 +1,11 @@
 id: 261631416
-type: way
+type: node
 latitude: 42.49724
 longitude: -83.41785
 postcode: "48331"
 city: Farmington Hills
-street: "West 12 Mile Road"
-housenumber: 37471
+street: West 12 Mile Road
+housenumber: "37471"
 phone: ""
 opening_hours: ""
-website: "https://www.speedway.com/StoreDetails?store=8744"
+website: https://www.speedway.com/StoreDetails?store=8744

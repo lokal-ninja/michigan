@@ -1,11 +1,11 @@
 id: 329397128
-type: way
+type: node
 latitude: 42.25877
 longitude: -83.72871
 postcode: "48104"
 city: Ann Arbor
-street: "Packard Street"
-housenumber: 1904
+street: Packard Street
+housenumber: "1904"
 phone: ""
 opening_hours: ""
 website: ""

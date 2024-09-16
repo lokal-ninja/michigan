@@ -1,11 +1,11 @@
 id: 1022761353
-type: way
+type: node
 latitude: 42.27387
 longitude: -83.26984
 postcode: ""
 city: Dearborn Heights
-street: "Telegraph Road"
-housenumber: 5105
-phone: "+1 313 292 2660"
+street: Telegraph Road
+housenumber: "5105"
+phone: +1 313 292 2660
 opening_hours: ""
-website: "https://sandysmakeitsew.com/"
+website: https://sandysmakeitsew.com/

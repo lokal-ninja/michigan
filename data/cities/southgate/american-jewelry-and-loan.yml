@@ -1,11 +1,11 @@
 id: 680930660
-type: way
+type: node
 latitude: 42.19957
 longitude: -83.198
 postcode: "48195"
 city: Southgate
-street: "Eureka Road"
-housenumber: 14336
-phone: "+1-734-225-6811"
-opening_hours: "Mo-Sa 09:30-18:00"
-website: "https://pawndetroit.com/southgate/"
+street: Eureka Road
+housenumber: "14336"
+phone: +1-734-225-6811
+opening_hours: Mo-Sa 09:30-18:00
+website: https://pawndetroit.com/southgate/

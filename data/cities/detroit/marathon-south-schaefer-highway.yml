@@ -1,11 +1,11 @@
 id: 948414158
-type: way
+type: node
 latitude: 42.28785
 longitude: -83.16512
 postcode: "48217"
 city: Detroit
-street: "South Schaefer Highway"
-housenumber: 377
+street: South Schaefer Highway
+housenumber: "377"
 phone: ""
 opening_hours: ""
 website: ""

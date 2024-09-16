@@ -1,11 +1,11 @@
 id: 247530784
-type: way
+type: node
 latitude: 44.76384
 longitude: -85.61389
 postcode: "49686"
 city: Traverse City
-street: "East Front Street"
-housenumber: 440
+street: East Front Street
+housenumber: "440"
 phone: ""
 opening_hours: ""
 website: ""

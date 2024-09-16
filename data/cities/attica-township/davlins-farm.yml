@@ -1,11 +1,11 @@
 id: 631316963
-type: way
+type: node
 latitude: 43.0615
 longitude: -83.21902
 postcode: "48412"
 city: Attica Township
-street: "Bowers Road"
-housenumber: 3199
+street: Bowers Road
+housenumber: "3199"
 phone: ""
-opening_hours: "Sep-Apr closed; 09:00-19:00"
+opening_hours: Sep-Apr closed; 09:00-19:00
 website: ""

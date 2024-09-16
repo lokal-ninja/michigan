@@ -1,11 +1,11 @@
 id: 1230018180
-type: way
+type: node
 latitude: 44.27615
 longitude: -84.25589
 postcode: "48661"
 city: West Branch
-street: "West M-76"
-housenumber: 3219
-phone: "+1-989-345-5055"
+street: West M-76
+housenumber: "3219"
+phone: +1-989-345-5055
 opening_hours: ""
-website: "https://pointerhillstore.com/password"
+website: https://pointerhillstore.com/password

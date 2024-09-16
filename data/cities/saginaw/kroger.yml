@@ -4,8 +4,8 @@ latitude: 43.43774
 longitude: -84.00912
 postcode: "48603"
 city: Saginaw
-street: "State Street"
-housenumber: 4672
-phone: "+1 989-921-6221"
-opening_hours: "Mo-Su 06:00-22:00"
-website: "https://www.kroger.com/stores/grocery/mi/saginaw/saginaw-twp/018/00738"
+street: State Street
+housenumber: "4672"
+phone: +1 989-921-6221
+opening_hours: Mo-Su 06:00-22:00
+website: https://www.kroger.com/stores/grocery/mi/saginaw/saginaw-twp/018/00738

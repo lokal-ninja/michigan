@@ -1,11 +1,11 @@
 id: 919605150
-type: way
+type: node
 latitude: 42.65088
 longitude: -85.28605
 postcode: "49058"
 city: Hastings
-street: "North Michigan Avenue"
-housenumber: 305
+street: North Michigan Avenue
+housenumber: "305"
 phone: ""
 opening_hours: ""
 website: ""

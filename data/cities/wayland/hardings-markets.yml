@@ -4,8 +4,8 @@ latitude: 42.67204
 longitude: -85.65733
 postcode: "49348"
 city: Wayland
-street: "Reno Drive"
-housenumber: 300
-phone: "+1-269-792-2769"
-opening_hours: "07:00-22:00"
-website: "https://www.hardings.com/"
+street: Reno Drive
+housenumber: "300"
+phone: +1-269-792-2769
+opening_hours: 07:00-22:00
+website: https://www.hardings.com/

@@ -1,11 +1,11 @@
 id: 377811329
-type: way
+type: node
 latitude: 42.3178
 longitude: -83.10214
 postcode: "48209"
 city: Detroit
-street: "West Vernor Highway"
-housenumber: 5616
+street: West Vernor Highway
+housenumber: "5616"
 phone: ""
 opening_hours: ""
 website: ""

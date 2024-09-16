@@ -1,11 +1,11 @@
 id: 1128102194
-type: way
+type: node
 latitude: 42.18015
 longitude: -83.18864
 postcode: "48193"
 city: Riverview
-street: "Fort Street"
-housenumber: 17543
+street: Fort Street
+housenumber: "17543"
 phone: ""
 opening_hours: ""
 website: ""

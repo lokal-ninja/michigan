@@ -1,11 +1,11 @@
 id: 609543860
-type: way
+type: node
 latitude: 42.56957
 longitude: -83.81841
 postcode: "48114"
 city: Brighton
-street: "West Grand River Avenue"
-housenumber: 6838
-phone: "+1-810-220-4841"
+street: West Grand River Avenue
+housenumber: "6838"
+phone: +1-810-220-4841
 opening_hours: ""
-website: "https://www.sherwin-williams.com/store-locator/paint-store/brighton/mi/701224"
+website: https://www.sherwin-williams.com/store-locator/paint-store/brighton/mi/701224

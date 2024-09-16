@@ -1,11 +1,11 @@
 id: 914028343
-type: way
+type: node
 latitude: 42.6096
 longitude: -82.99288
 postcode: "48313"
 city: Sterling Heights
-street: "19 Mile Road"
-housenumber: 13500
+street: 19 Mile Road
+housenumber: "13500"
 phone: ""
-opening_hours: "Mo-Su 08:00-22:00"
-website: "https://www.riteaid.com/locations/mi/sterling-heights/13500-19-mile-road.html"
+opening_hours: Mo-Su 08:00-22:00
+website: https://www.riteaid.com/locations/mi/sterling-heights/13500-19-mile-road.html

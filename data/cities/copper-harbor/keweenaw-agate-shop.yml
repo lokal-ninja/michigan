@@ -1,11 +1,11 @@
 id: 1159230247
-type: way
+type: node
 latitude: 47.46852
 longitude: -87.89092
 postcode: "49918"
 city: Copper Harbor
-street: "Gratiot Street"
-housenumber: 439
-phone: "517-404-9263"
+street: Gratiot Street
+housenumber: "439"
+phone: 517-404-9263
 opening_hours: ""
-website: "https://www.keweenawagateshop.com/"
+website: https://www.keweenawagateshop.com/
