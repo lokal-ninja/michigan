@@ -1,6 +1,6 @@
 ---
 title: Dorr
 url: /dorr/
-latitude: 42.726
-longitude: -85.705
+latitude: 42.725
+longitude: -85.725
 ---
