@@ -1,6 +1,6 @@
 ---
 title: Durand
 url: /durand/
-latitude: 42.913
-longitude: -83.984
+latitude: 42.925
+longitude: -83.989
 ---
