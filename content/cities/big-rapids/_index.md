@@ -1,6 +1,6 @@
 ---
 title: Big Rapids
 url: /big-rapids/
-latitude: 43.7
-longitude: -85.474
+latitude: 43.628
+longitude: -85.485
 ---
