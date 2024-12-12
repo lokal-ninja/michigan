@@ -1,5 +1,0 @@
----
-title: "Tsai Grocery"
-url: /ann-arbor/tsai-grocery/
-shop: supermarket
----
