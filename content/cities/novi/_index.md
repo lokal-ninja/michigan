@@ -1,6 +1,6 @@
 ---
 title: Novi
 url: /novi/
-latitude: 42.441
-longitude: -83.437
+latitude: 42.485
+longitude: -83.495
 ---
