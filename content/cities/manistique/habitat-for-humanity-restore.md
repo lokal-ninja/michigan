@@ -1,5 +1,5 @@
 ---
-title: "Habitat For Humanity ReStore"
+title: "Habitat for Humanity ReStore"
 url: /manistique/habitat-for-humanity-restore/
 shop: charity
 ---
