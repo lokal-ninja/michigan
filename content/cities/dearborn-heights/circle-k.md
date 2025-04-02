@@ -1,5 +1,0 @@
----
-title: "Circle K"
-url: /dearborn-heights/circle-k/
-shop: convenience
----
