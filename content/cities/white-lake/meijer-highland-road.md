@@ -1,5 +1,5 @@
 ---
 title: "Meijer"
 url: /white-lake/meijer-highland-road/
-shop: supermarket
+shop: convenience
 ---
