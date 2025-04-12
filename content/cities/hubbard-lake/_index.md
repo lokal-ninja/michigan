@@ -1,6 +1,6 @@
 ---
 title: Hubbard Lake
 url: /hubbard-lake/
-latitude: 44.859
-longitude: -83.59
+latitude: 44.832
+longitude: -83.606
 ---
