@@ -1,5 +1,5 @@
 ---
-title: "Barrels And Vines"
+title: "Barrels & Vines"
 url: /royal-oak/barrels-and-vines/
-shop: convenience
+shop: alcohol
 ---
