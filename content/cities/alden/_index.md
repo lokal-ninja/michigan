@@ -1,6 +1,6 @@
 ---
 title: Alden
 url: /alden/
-latitude: 44.881
-longitude: -85.274
+latitude: 44.874
+longitude: -85.252
 ---
