@@ -1,5 +1,5 @@
 ---
 title: "Bad Annie’s"
 url: /lansing/bad-annies/
-shop: boutique
+shop: clothes
 ---
