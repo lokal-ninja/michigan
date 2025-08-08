@@ -1,6 +1,6 @@
 ---
 title: Springport
 url: /springport/
-latitude: 42.442
-longitude: -84.779
+latitude: 42.379
+longitude: -84.692
 ---
