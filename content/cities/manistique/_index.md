@@ -1,6 +1,6 @@
 ---
 title: Manistique
 url: /manistique/
-latitude: 46.109
-longitude: -86.261
+latitude: 45.906
+longitude: -86.328
 ---
