@@ -1,6 +1,6 @@
 ---
 title: Drummond Island
 url: /drummond-island/
-latitude: 45.999
-longitude: -83.747
+latitude: 46.009
+longitude: -83.739
 ---
