@@ -1,6 +1,6 @@
 ---
 title: Harrison Township
 url: /harrison-township/
-latitude: 42.604
-longitude: -82.794
+latitude: 42.555
+longitude: -82.854
 ---
