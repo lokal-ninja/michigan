@@ -1,6 +1,6 @@
 ---
 title: Hart
 url: /hart/
-latitude: 43.688
-longitude: -86.385
+latitude: 43.69
+longitude: -86.384
 ---

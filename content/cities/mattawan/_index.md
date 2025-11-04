@@ -1,6 +1,6 @@
 ---
 title: Mattawan
 url: /mattawan/
-latitude: 42.237
-longitude: -85.787
+latitude: 42.233
+longitude: -85.785
 ---
