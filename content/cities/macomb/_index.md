@@ -1,6 +1,6 @@
 ---
 title: Macomb
 url: /macomb/
-latitude: 42.656
-longitude: -82.974
+latitude: 42.631
+longitude: -82.859
 ---
