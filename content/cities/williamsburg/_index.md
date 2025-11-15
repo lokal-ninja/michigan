@@ -1,6 +1,6 @@
 ---
 title: Williamsburg
 url: /williamsburg/
-latitude: 44.77
-longitude: -85.392
+latitude: 44.773
+longitude: -85.5
 ---
