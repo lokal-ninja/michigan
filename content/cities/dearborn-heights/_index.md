@@ -1,6 +1,6 @@
 ---
 title: Dearborn Heights
 url: /dearborn-heights/
-latitude: 42.356
-longitude: -83.276
+latitude: 42.27
+longitude: -83.258
 ---
