@@ -1,6 +1,6 @@
 ---
 title: Mio
 url: /mio/
-latitude: 44.675
-longitude: -84.131
+latitude: 44.65
+longitude: -84.13
 ---
