@@ -1,6 +1,6 @@
 ---
 title: Lewiston
 url: /lewiston/
-latitude: 44.885
-longitude: -84.295
+latitude: 44.684
+longitude: -84.292
 ---
