@@ -1,6 +1,6 @@
 ---
 title: Brown City
 url: /brown-city/
-latitude: 43.211
+latitude: 43.21
 longitude: -83.078
 ---

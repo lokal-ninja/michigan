@@ -1,6 +1,6 @@
 ---
 title: Sterling
 url: /sterling/
-latitude: 44.038
-longitude: -84.028
+latitude: 44.142
+longitude: -84.008
 ---
