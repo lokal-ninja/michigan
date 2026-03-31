@@ -1,6 +1,6 @@
 ---
 title: Trenton
 url: /trenton/
-latitude: 42.128
-longitude: -83.206
+latitude: 42.141
+longitude: -83.188
 ---

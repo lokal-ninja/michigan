@@ -1,6 +1,6 @@
 ---
 title: Davison
 url: /davison/
-latitude: 43.035
-longitude: -83.523
+latitude: 43.018
+longitude: -83.551
 ---
