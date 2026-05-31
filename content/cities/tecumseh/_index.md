@@ -1,6 +1,6 @@
 ---
 title: Tecumseh
 url: /tecumseh/
-latitude: 41.971
-longitude: -83.965
+latitude: 42.011
+longitude: -83.944
 ---
