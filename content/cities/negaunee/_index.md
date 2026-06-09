@@ -1,6 +1,6 @@
 ---
 title: Negaunee
 url: /negaunee/
-latitude: 46.5
-longitude: -87.608
+latitude: 46.533
+longitude: -87.54
 ---
