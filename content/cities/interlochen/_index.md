@@ -1,6 +1,6 @@
 ---
 title: Interlochen
 url: /interlochen/
-latitude: 44.658
-longitude: -85.774
+latitude: 44.652
+longitude: -85.769
 ---

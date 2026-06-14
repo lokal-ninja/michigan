@@ -1,5 +1,5 @@
 ---
-title: "Chatters Pit Stop & Propane"
+title: "Chatter's Pit Stop & Propane"
 url: /atlanta/chatters-pit-stop-and-propane/
 shop: convenience
 ---

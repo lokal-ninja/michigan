@@ -1,6 +1,6 @@
 ---
 title: Yale
 url: /yale/
-latitude: 43.128
-longitude: -82.798
+latitude: 43.19
+longitude: -82.744
 ---
