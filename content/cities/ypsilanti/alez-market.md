@@ -1,5 +1,5 @@
 ---
-title: "Alez Market"
+title: "ALEZ Market"
 url: /ypsilanti/alez-market/
 shop: supermarket
 ---
