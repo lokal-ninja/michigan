@@ -1,6 +1,6 @@
 ---
 title: Ontonagon
 url: /ontonagon/
-latitude: 46.869
-longitude: -89.315
+latitude: 46.863
+longitude: -89.298
 ---
