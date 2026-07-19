@@ -1,6 +1,6 @@
 ---
 title: Laurium
 url: /laurium/
-latitude: 47.235
-longitude: -88.445
+latitude: 47.236
+longitude: -88.444
 ---

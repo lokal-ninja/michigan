@@ -1,6 +1,6 @@
 ---
 title: Barryton
 url: /barryton/
-latitude: 43.756
+latitude: 43.75
 longitude: -85.148
 ---
