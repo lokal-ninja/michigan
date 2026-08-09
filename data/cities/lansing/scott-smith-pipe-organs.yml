@@ -7,5 +7,5 @@ city: Lansing
 street: Lake Lansing Road
 housenumber: "1494"
 phone: +1 517 485 5421
-opening_hours: “By Appointment”
+opening_hours: '"By Appointment"'
 website: ""

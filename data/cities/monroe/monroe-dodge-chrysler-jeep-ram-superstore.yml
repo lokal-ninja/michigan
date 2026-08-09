@@ -7,6 +7,5 @@ city: Monroe
 street: South Dixie Highway
 housenumber: "15160"
 phone: +1 888 698 9905
-opening_hours: Mo 08:30-21:00; Tu-We 08:30-18:00; Th 08:30-21:00; Fr 08:30-18:00;
-    Sa 9:00-16:00
+opening_hours: Mo,Th 07:30-20:00; Tu,We,Fr 07:30-18:00; Sa 08:00-15:00; Su closed
 website: https://www.monroesuperstore.com/
