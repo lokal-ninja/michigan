@@ -7,5 +7,6 @@ city: Southgate
 street: Eureka Road
 housenumber: "15204"
 phone: +1-734-282-9500
-opening_hours: Mo 09:30-18:00; Tu-We 09:30-20:00; Th-Fr 09:30-18:00; Sa 08:00-17:00
+opening_hours: Mo 09:00-18:00; Tu 10:00-19:00; We 11:00-17:00; Th 09:00-18:00; Fr
+    10:00-16:00
 website: https://rxoptical.com/locations/southgate/
