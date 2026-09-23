@@ -7,5 +7,5 @@ city: Owosso
 street: Aiken Street
 housenumber: "722"
 phone: +1-989-627-1018
-opening_hours: by appointment only
+opening_hours: '"by appointment"'
 website: http://skinmaven.net
