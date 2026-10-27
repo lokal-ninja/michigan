@@ -1,6 +1,6 @@
 ---
 title: Stevensville
 url: /stevensville/
-latitude: 42.044
-longitude: -86.513
+latitude: 42.039
+longitude: -86.523
 ---

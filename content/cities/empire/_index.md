@@ -1,6 +1,6 @@
 ---
 title: Empire
 url: /empire/
-latitude: 44.819
-longitude: -86.055
+latitude: 44.811
+longitude: -86.06
 ---
