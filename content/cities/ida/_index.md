@@ -1,6 +1,6 @@
 ---
 title: Ida
 url: /ida/
-latitude: 41.904
-longitude: -83.573
+latitude: 41.91
+longitude: -83.574
 ---
